@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Some sounds sent downloading</title>
+    <link>https://disco.auxy.co/t/some-sounds-sent-downloading/16273</link>
+    <description>Some sounds from the new sound pack arnt downloading even when I’m
+Connected to WiFi</description>
+    
+    <lastBuildDate>Sun, 21 Jul 2019 15:33:10 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/some-sounds-sent-downloading/16273.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Some sounds sent downloading</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Reboot device, try again. Failing that send email to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a></p>
+          <p><a href="https://disco.auxy.co/t/some-sounds-sent-downloading/16273/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-sounds-sent-downloading/16273/2</link>
+        <pubDate>Sun, 21 Jul 2019 15:33:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16273-2</guid>
+        <source url="https://disco.auxy.co/t/some-sounds-sent-downloading/16273.rss">Some sounds sent downloading</source>
+      </item>
+      <item>
+        <title>Some sounds sent downloading</title>
+        <dc:creator><![CDATA[HELIXX]]></dc:creator>
+        <description><![CDATA[
+            <p>Some sounds from the new sound pack arnt downloading even when I’m<br>
+Connected to WiFi</p>
+          <p><a href="https://disco.auxy.co/t/some-sounds-sent-downloading/16273/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-sounds-sent-downloading/16273/1</link>
+        <pubDate>Sun, 21 Jul 2019 15:04:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16273-1</guid>
+        <source url="https://disco.auxy.co/t/some-sounds-sent-downloading/16273.rss">Some sounds sent downloading</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mute instrument?</title>
+    <link>https://disco.auxy.co/t/mute-instrument/6465</link>
+    <description>Is there any way to mute an instrument for the whole song ? 
+I know you can just turn them off in scenes, but I’m looking for something that would just mute/unmute for the whole project. 
+I’ve just been deleting and then copy/paste when I want it back again. 
+Is there a better way?</description>
+    
+    <lastBuildDate>Tue, 30 Jul 2019 01:55:59 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/mute-instrument/6465.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[aUstin_Haga]]></dc:creator>
+        <description><![CDATA[
+            <p>I know this is an old topic, a little unrelated, and it might already be common knowledge to some, but;<br>
+I just discovered that you can mute delay and reverb of an instrument and release when they overlap into the next scene where it’s not being used.<br>
+Volume and similar automations only work when it’s playing a loop. So, when you need to mute all aspects of an instrument from one scene to the next, you can use any (or create a throwaway) loop and have an automation with volume at 0.<br>
+(I never tried to do it with a loop enabled before, because that seemed pointless at the time <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:">)<br>
+Don’t know how many people were having trouble with that but it was a massive discovery for me lol</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/36</link>
+        <pubDate>Tue, 30 Jul 2019 01:55:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-36</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay cool. So we’re both saying the same thing then.</p>
+<p>There’s currently no quick way to mute a specific instrument for the entire song if it has volume automations set.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/35</link>
+        <pubDate>Wed, 24 Jan 2018 08:26:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-35</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>No, you’re right. It’s the obvious and perfect solution.</p>
+<p>But, I’m assuming that the OP was using volume automations, making that solution ineffective or hard work (due to needing to disable and later reassemble that automation pattern sequence).</p>
+<p>&nbsp;<br>
+<a class="mention" href="https://disco.auxy.co/u/zeph">@Zeph</a></p>
+<p>But, as mentioned, there are common scenarios why volume automation is the right and only solution to amplitude control.</p>
+<p>e.g…</p>
+<p>Want to simply fade something in/out without effecting the character of the sound (the shape of the waveform)? LPF/HPF automation isn’t going to work.</p>
+<p>Want to have an instrument higher/lower in the mix during a part of the track - without effecting the character of the sound? You’re going to need to use the volume automation feature.</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>The whole point of this tip is so that when you are trying to lower the volume of a specific instrument, the automation does not interfere and then turn the volume back up.</p>
+</blockquote>
+<p>Sounds like a situation where creating a new volume automation pattern to combine the volume automations would be the solution.</p>
+<p>Here’s a v rough example of what I mean…</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc.png" title="image.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc_2_289x500.png" alt="image" width="289" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc_2_289x500.png, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4efb5b8334b36bf684a13d3b4ffb72e3cb5d21fc_2_10x10.png"></a></div><p></p>
+<p>Using volume automation to create a fade out, A4 and B4 is the same sound, just at different amplitudes, because you’re not altering any LPF/HPF settings or automations that may be in effect.</p>
+<p>Using LPF/HPF to create a fade out, A4 and B4 are characteristically different sounds – ‘quieter’, but also different waveforms.<br>
+Here, you’re progressively moving the sound further away from its original waveform – which may be undesirable.</p>
+<p>-</p>
+<p>Basically, the OP is after a non-destructive (or least destructive) way to temporarily mute and then unmute instruments.</p>
+<p>The instrument level mute/solo controls, mentioned earlier in this thread, are the ideal solution.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/34</link>
+        <pubDate>Wed, 24 Jan 2018 08:20:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-34</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>Per my previous reply:</p>
+<aside class="quote" data-post="26" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/zeph/40/2917_1.png" class="avatar"> Zeph:</div>
+<blockquote>
+<p>The whole point of this tip is so that when you are trying to lower the volume of a specific instrument, the automation does not interfere and then turn the volume back up.</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/33</link>
+        <pubDate>Wed, 24 Jan 2018 03:51:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-33</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s the whole point of my tip, to avoid volume automations <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=5" title=":joy:" class="emoji" alt=":joy:"></p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/32</link>
+        <pubDate>Wed, 24 Jan 2018 03:49:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-32</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="24" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/akabillposters/40/667_1.png" class="avatar"> akabillposters:</div>
+<blockquote>
+<p>I don’t think that’s an ideal solution…</p>
+<p>If, as the OP says, they have several automations associated with a loop, they’d have to deactivate them all to allow the master volume for that instrument to take effect.</p>
+</blockquote>
+</aside>
+<p>Am I missing something here?</p>
+<p>If the master volume for an instrument is turned to zero, then that instrument won’t be heard and there’s no need to enable / disable any of the automations for that instrument.  I mentioned above that that’s the easiest way to do it, unless you specifically have <strong>volume</strong> automations set.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/31</link>
+        <pubDate>Wed, 24 Jan 2018 01:51:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-31</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="19" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/zeph/40/2917_1.png" class="avatar"> Zeph:</div>
+<blockquote>
+<p>volume automation usually messes up your mixing</p>
+</blockquote>
+</aside>
+<p>I’d be interested to know what you mean here.</p>
+<p>I utilise volume automation regularly and, as far as I’m aware, it’s never messed up my mixing (though maybe I’m not best placed to judge). <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/30</link>
+        <pubDate>Wed, 24 Jan 2018 01:16:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-30</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not sure you’ve understood the scenario I described. You seem to be talking about static, steady sounds, that occupy a more consistent set of frequencies, while I’m actually talking about sounds that move around with modulation. i.e. LPF modulation is already beingused as part of the sound design.</p>
+<p>e.g.<br>
+<a href="https://soundcloud.com/akasnd/passing-the-red-giant#t=0:50" class="onebox" target="_blank">https://soundcloud.com/akasnd/passing-the-red-giant#t=0:50</a><br>
+<a href="https://soundcloud.com/akasnd/the-10-year-slump#t=3:55" class="onebox" target="_blank">https://soundcloud.com/akasnd/the-10-year-slump#t=3:55</a></p>
+<p>If a sound has both low end, plus some mid-low warmth and just enough res to make it sizzle (e.g. fat Moog basses), using LPF and HPF to control amplitude will impact the shape of the waveform on the way down, ‘fading out’ frequencies from the ends first, moving inwards.</p>
+<p>Same issue with band pass filtering. It necessarily effects the shape of the waveform, not just amplitude.</p>
+<p>That why I say amplitude is the right tool for the job when you simply want to increase or reduce volume <em>evenly</em> - i.e. without impacting the shape of the waveform.</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>I am not sure resonance is being used correctly because in audio engineering it is used to refer to the boosted frequencies inside the filter cutoff (meaning the resonance can change but cannot be eliminated).</p>
+</blockquote>
+<p>It’s possible.<br>
+Fwiw, I’m referring to the ‘sizzle’ that you get on those fat Moog basses I mentioned. On analogue synths, such as the Moog range, you’ll often see a res control.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/29</link>
+        <pubDate>Wed, 24 Jan 2018 01:12:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-29</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>If I had formatted it like he does, it would take up a lot more space than it should.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/28</link>
+        <pubDate>Tue, 23 Jan 2018 22:31:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-28</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/akabillposters">@akabillposters</a> I think he got a silver star on this one xD</p>
+<p>I don’t have any opinion on the whole LDf/HPF vs volume modulation, although I haven’t tried it using a mix of the filters. Maybe I’ll try it out ;3</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/27</link>
+        <pubDate>Tue, 23 Jan 2018 22:30:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-27</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>Firstly, I want to clarify the fact that this tip is not mine, I just agree with it. I have heard it from many professional sources, the most recent one I remember is Alex Rome, a popular youtuber who makes EDM, something you do not, so it possibly won’t apply to you. This tip is directed towards beginners who are learning to mix. The whole point of this tip is so that when you are trying to lower the volume of a specific instrument, the automation does not interfere and then turn the volume back up. The reason this tip is relevant to Auxy is because we currently do not have a way to mute instruments globally, other than annoying and painstaking methods that have no place when you are trying to continue your creative output.</p>
+<p>Secondly, I want to disagree with your counter argument, if you want to preserve resonance, use a high pass. If you want to lower amplitude, a low pass and a high pass does the job well enough (band pass), while still making it more interesting than solely an amplitude reduction.</p>
+<aside class="quote" data-post="24" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/akabillposters/40/667_1.png" class="avatar"> akabillposters:</div>
+<blockquote>
+<p>If I want an instrument’s resonance to come through, but want to modulate it’s loudness in the mix, using LPF is not the ‘interesting’ solution. It’s not a solution at all.</p>
+</blockquote>
+</aside>
+<p>I did not just suggest LPF, I also suggested HPF. And yes, it is a solution because it DOES modulate loudness as well, while also introducing previously hidden tonality. HPF on the other hand, preserves the resonance quite well and modulates the loudness, so it answers your argument anyway. Filters by nature, reduce overall gain, if not, they wouldn’t have “makeup” built into them. Filters can be used to accentuate character as well believe it or not. As for color, that’s correct. But the pros far outweigh the cons.</p>
+<p>P.S: I am not sure resonance is being used correctly because in audio engineering it is used to refer to the boosted frequencies inside the filter cutoff (meaning the resonance can change but cannot be eliminated).</p>
+<p>P.S.S: This is all relative though, everyone has different opinions and tastes.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/26</link>
+        <pubDate>Tue, 23 Jan 2018 22:28:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-26</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, exactly!<br>
+You explained it so much better than I can.<br>
+I have just been doing like you say and make a copy and then paste back in, it works OK, it’s just not convenient.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/25</link>
+        <pubDate>Tue, 23 Jan 2018 21:47:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-25</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t think that’s an ideal solution…</p>
+<p>If, as the OP says, they have several automations associated with a loop, they’d have to deactivate them all to allow the master volume for that instrument to take effect.</p>
+<p>If they then want to ‘unmute’, they’d have to remember the exact combination of which automation was enabled at which point of a track.</p>
+<p>That’s a lot of hard work.</p>
+<p>&nbsp;<br>
+One thing I’d potentially consider, is duplicating the project, deleting the instrument in the new version, making the edits in the new version, then pasting the ‘muted’ instrument from the old to the new version.</p>
+<p>Not graceful, but low risk.</p>
+<p>&nbsp;</p>
+<aside class="quote" data-post="19" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/zeph/40/2917_1.png" class="avatar"> Zeph:</div>
+<blockquote>
+<p>Pro tip: dont use volume automation for anything. Not only is lowpass/highpass more interesting, but volume automation usually messes up your mixing as well, as you may have figured out.</p>
+</blockquote>
+</aside>
+<p>Not a Pro tip at all. Not even a good generalisation.</p>
+<p>It’s fine if you have one-dimensional automation (not meant as a pejorative).</p>
+<p>However, your ‘tip’ sacrifices resonance, colour and character, when all the OP wanted was to reduce amplitude.</p>
+<p>If I want an instrument’s resonance to come through, but want to modulate it’s loudness in the mix, using LPF is not the ‘interesting’ solution. It’s not a solution at all.</p>
+<p>Similarly, I might want LPF modulation still occurring beneath volume automation.<br>
+(I do that a lot, because I like it when the instrument volume rises in and out, there’s always a different LPF feel in effect.)</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/24</link>
+        <pubDate>Tue, 23 Jan 2018 19:29:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-24</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, great tip! It does sound better.<br>
+I learned that on an Auxy tips video, I don’t remember who’s video it was, unfortunately.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/23</link>
+        <pubDate>Tue, 23 Jan 2018 17:46:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-23</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Ehhhhhh ducker might not be fast enough. I think it depends on how fast you want that gate. I guess I’m more in the “not using the ducker” camp, unless for effect. As a not ducker</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/22</link>
+        <pubDate>Tue, 23 Jan 2018 10:13:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-22</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>Not as useful. You want gating, use ducker and ghost kicks. Flows better and you can customize it easier.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/21</link>
+        <pubDate>Tue, 23 Jan 2018 02:36:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-21</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="19" data-topic="6465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/zeph/40/2917_1.png" class="avatar"> Zeph:</div>
+<blockquote>
+<p>dont use volume automation for anything.</p>
+</blockquote>
+</aside>
+<p>But gating tho…</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/20</link>
+        <pubDate>Tue, 23 Jan 2018 02:34:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-20</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>Pro tip: dont use volume automation for anything. Not only is lowpass/highpass more interesting, but volume automation usually messes up your mixing as well, as you may have figured out.<br>
+Once you do that, you can turn down the volume if you don’t want to hear it for the whole track.</p>
+<p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> Maybe consider adding macro controls for soloing and muting? You once told me you don’t like people finding work arounds.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/19</link>
+        <pubDate>Tue, 23 Jan 2018 02:28:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-19</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you! <img src="https://emoji.discourse-cdn.com/apple/slightly_smiling_face.png?v=5" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/18</link>
+        <pubDate>Tue, 23 Jan 2018 02:23:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-18</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know, maybe I’m doing something wrong, but I usually use several automation “loops” per instrument, each scene may have a different automation loop. So I would have to set the automation loop in every scene to be the one with the volume turned down.<br>
+It’s far easier to just delete and then copy the entire instrument back (I save it in a new project first).<br>
+I just wanted to see if maybe there was a “mute” but I couldn’t find it.<br>
+I’m still learning how to use Auxy.<br>
+Thanks for your help everyone! <img src="https://emoji.discourse-cdn.com/apple/slightly_smiling_face.png?v=5" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/17</link>
+        <pubDate>Tue, 23 Jan 2018 02:21:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-17</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Three people have suggested turning the volume down.</p>
+<p>It doesn’t matter if you use “several different automations per instrument” because you mentioned that you don’t want to hear that instrument at all. So, if you tap the instrument name and turn the volume knob down to zero once, you won’t hear that instrument for any of the track, which is what you want.</p>
+<p>As I mentioned above, the only time that won’t work is if you happen to have an automation that turns the volume back up again.</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/16</link>
+        <pubDate>Tue, 23 Jan 2018 02:03:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-16</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>Just turn the volume down</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/15</link>
+        <pubDate>Tue, 23 Jan 2018 01:49:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-15</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>They are called loops</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/14</link>
+        <pubDate>Tue, 23 Jan 2018 01:49:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-14</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>Turn the volume down</p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/13</link>
+        <pubDate>Tue, 23 Jan 2018 01:48:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-13</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+      <item>
+        <title>Mute instrument?</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>On a somewhat related note, what are these sections called? I can’t call it a “bar” because you can have 1-8 bars in each one…</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/9809c3b5c6168ec94930091981efc08184800dd1.jpeg" title="E8D4B16C-E99E-4EC7-857B-45E1C2504804.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/9/9809c3b5c6168ec94930091981efc08184800dd1_2_281x499.jpeg" alt="image" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/9/9809c3b5c6168ec94930091981efc08184800dd1_2_281x499.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/9/9809c3b5c6168ec94930091981efc08184800dd1_2_421x748.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/9/9809c3b5c6168ec94930091981efc08184800dd1_2_562x998.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/9/9809c3b5c6168ec94930091981efc08184800dd1_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/mute-instrument/6465/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mute-instrument/6465/12</link>
+        <pubDate>Mon, 22 Jan 2018 18:49:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6465-12</guid>
+        <source url="https://disco.auxy.co/t/mute-instrument/6465.rss">Mute instrument?</source>
+      </item>
+  </channel>
+</rss>

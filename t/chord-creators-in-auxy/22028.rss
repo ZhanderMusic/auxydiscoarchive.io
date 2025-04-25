@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Chord Creators In Auxy</title>
+    <link>https://disco.auxy.co/t/chord-creators-in-auxy/22028</link>
+    <description>There should be chord creators in Auxy. Like, you turn on a setting, start placing notes and the app automatically creates chords based on the key of the project.</description>
+    
+    <lastBuildDate>Sun, 10 Jul 2022 10:46:22 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/chord-creators-in-auxy/22028.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Chord Creators In Auxy</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>There should be chord creators in Auxy. Like, you turn on a setting, start placing notes and the app automatically creates chords based on the key of the project.</p>
+          <p><a href="https://disco.auxy.co/t/chord-creators-in-auxy/22028/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/chord-creators-in-auxy/22028/1</link>
+        <pubDate>Sun, 10 Jul 2022 10:46:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22028-1</guid>
+        <source url="https://disco.auxy.co/t/chord-creators-in-auxy/22028.rss">Chord Creators In Auxy</source>
+      </item>
+  </channel>
+</rss>

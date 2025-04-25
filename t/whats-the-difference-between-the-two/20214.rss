@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s The Difference Between The Two?</title>
+    <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214</link>
+    <description>So there&#39;s two options I usually use after composing. During the export phase, if I&#39;m satisfied, I choose &#39;Export audio&#39;. When I want more, I choose &#39;Export Uncompressed WAV&#39;. The only thing I heard/read  ( which I&#39;m unsure of, because my time is limited and usually invested in school, so I can&#39;t do much research  ) was that &#39;Export audio&#39; has a system that automatically compresses the audio, and maybe that&#39;s the reason why it sounds differently than when I was composing it, when I release them on SoundCloud. This time, I&#39;m composing the ITJ Remix and it really sounds unstable when I used &#39;Export Uncompressed WAV&#39;. I obviously can&#39;t overcome such a problem if I don&#39;t know the root in the first place. So, here&#39;s the question, what difference do the two options make? Does it affect the quality of the sound? Let me know your thoughts and ideas. Thanks 😄</description>
+    
+    <lastBuildDate>Wed, 21 Oct 2020 08:05:43 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[KirkLurkPU]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks very much. So it’s for sure that subtle details in your composition will degrade if you use mp3 or m4a. Thanks for the info expert peeps, I’m gonna share this info my friends. :))</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/7</link>
+        <pubDate>Wed, 21 Oct 2020 08:05:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-7</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="KirkLurkPU" data-post="5" data-topic="20214">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/kirklurkpu/40/16200_2.png" class="avatar"> KirkLurkPU:</div>
+<blockquote>
+<p>I still can’t comprehend exactly what ‘lossy’ means in terms of audio quality.</p>
+</blockquote>
+</aside>
+<p>Lossy refers to the loss in quality that comes with bouncing to a .m4a. You can think of it a bit like image resolutions.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141.jpeg" data-download-href="/uploads/short-url/nQq0giOfMpF4YvUWqT43EkKpbJn.jpeg?dl=1" title="image"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141_2_249x250.jpeg" alt="image" data-base62-sha1="nQq0giOfMpF4YvUWqT43EkKpbJn" width="249" height="250" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141_2_249x250.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141_2_373x375.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141_2_498x500.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/7/a71eee03ddec6359270c8a7b3b7b60aa6bba2141_2_10x10.png"></a></div><br>
+<strong>WAV</strong><p></p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/3/6/3639e35df617cd4e2384c78cf242af74e22f680c.jpeg" alt="image" data-base62-sha1="7JHO6IrhNto43tzBiJ5YIWHqwsA" width="250" height="239"><br>
+<strong>M4A</strong></p>
+<p>Both originate from the same source, but one trades an irrevocable loss of information for a smaller total size.</p>
+<p>So to circle back to your original question, yes… there’s a concrete difference between exporting a lossless .wav (or exporting to SoundCloud directly which will upload in .wav format) and exporting an .m4a. Unless you’re uploading a clip or a preview where the file size is more important then getting every ounce of original track quality, exporting compressed audio doesn’t really have any advantages over the alternative.</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/6</link>
+        <pubDate>Sat, 17 Oct 2020 05:29:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-6</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[KirkLurkPU]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the insight. Although I have a good grasp of English, I still can’t comprehend exactly what ‘lossy’ means in terms of audio quality. As I’ve said earlier, I still can’t publish my composition yet because I’d still like to put more FX before release. I see, so ‘Export Audio’ is compressed for the sake of delivering it with ease. Uncompressed WAV is literally when you’re going to publish the genuine thing. Don’t worry, I already knew the types of audio files, I just want to know how it affects anything or none at all. Thanks <img src="https://emoji.discourse-cdn.com/apple/eye.png?v=9" title=":eye:" class="emoji" alt=":eye:"><img src="https://emoji.discourse-cdn.com/apple/lips.png?v=9" title=":lips:" class="emoji" alt=":lips:"><img src="https://emoji.discourse-cdn.com/apple/eye.png?v=9" title=":eye:" class="emoji" alt=":eye:"><img src="https://emoji.discourse-cdn.com/apple/+1/2.png?v=9" title=":+1:t2:" class="emoji" alt=":+1:t2:"></p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/5</link>
+        <pubDate>Sat, 17 Oct 2020 05:01:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-5</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>The difference is that <strong>Export Uncompressed WAV</strong> and <strong>Upload to SoundCloud</strong> use a lossless audio format (WAV) and <strong>Export Audio</strong> uses a lossy format (M4A).</p>
+<hr>
+<h3>Lossless</h3>
+<p>If you’re working on releasing your song publicly, you’ll want to bounce it in an uncompressed audio format, that way your original master export is at the highest uncompromised quality possible. Additionally, CD-quality audio should use uncompressed audio files at 44.1kHz and 16-bit depth. The simple way to think of this is: if you need to share your music in a way that doesn’t jeopardize the quality of your music in any way, use an uncompressed audio format. So both WAV and AIFF will be your best friends here.</p>
+<p><strong>PROS:</strong>  Studio audio quality without compromise.<br>
+<strong>CONS:</strong>  Large file size that can be troublesome when trying to share digitally or via email.</p>
+<h3>Lossy</h3>
+<p>On the other hand, if your intent is to make sharing your music easy and fast, choose a compressed audio format that will provide you with small file size. Yes, it will mean you’ll have to trade perfect quality away, but if you know that the person you’re sending your song to is going to be listening on headphones on a bus or their car audio system, then you know that extreme audio quality won’t matter. At that point, convenience will always win. Additionally, since email providers limit attachment sizes and smartphones have limited storage space, any audio format that can offer smaller file sizes is going to be a winner. For all of those instances, choose a compressed audio format like MP3 or M4A.</p>
+<p><strong>PROS:</strong>  Small file size, perfect for sending via email, direct messages, or storing on mobile devices.<br>
+<strong>CONS:</strong>  To achieve smaller files, audio quality is compromised. The smaller the file, the worse the audio quality will be.</p>
+<p><small>source: <a href="https://www.izotope.com/en/learn/whats-the-difference-between-file-formats.html">What’s the Real Difference Between .WAV, .AIFF, .MP3, and .M4A?</a></small></p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/4</link>
+        <pubDate>Sat, 17 Oct 2020 03:54:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-4</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[KirkLurkPU]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you so much for taking your time to write this, it’s appreciated. So it already has the best compressor, huh? I used EUW ( shortened Export Uncompressed WAV ) because I want to add more FX like ‘Whoo!’ that isn’t part of Auxy. I feel like the EUW sounded like that because my instruments are fighting for the frequency, given the reason that almost three of them used Distortion ( I’m making dubstep as of now ) and it sounded like my speaker has nasal issues <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:">. I also want the rawest file because I want to master it myself, so I’m still in the mixing phase. It’s true that sound will differ from one device to another. I’ve been using Beats for composing, but everytime I hear it with my iPad speakers, it blows up <img src="https://emoji.discourse-cdn.com/apple/sob.png?v=9" title=":sob:" class="emoji" alt=":sob:">. Now that I think about it, DAW couldn’t have tampered with the volumes itself. I’ll look into it myself. Thanks again for your wonderful insight, I appreciate your comment :)).</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/3</link>
+        <pubDate>Sat, 17 Oct 2020 00:41:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-3</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[INDIR3CT]]></dc:creator>
+        <description><![CDATA[
+            <p>“Export Audio” turns your file into an m4a file, but it still is condensed. M4A files are encoded with ACC which puts it at one of the clearest compressed files out there.</p>
+<p>“Export Uncompressed WAV” is just what it sounds like, an uncompressed file which provides the same quality as the original recording.</p>
+<p>If the .wav file sounds unstable, that might be a problem with mastering? Remember each way you listen to the project will sound different, every speaker, headphone and earbud will all be different. So I’d look into that… because your .wav file <em>should</em> be the most rawest form of audio that sounds closest to what the project actually sounds like together. Sorry for a kind of long explanation but I hope this helps a bit!</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/2</link>
+        <pubDate>Fri, 16 Oct 2020 15:53:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-2</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+      <item>
+        <title>What&#39;s The Difference Between The Two?</title>
+        <dc:creator><![CDATA[KirkLurkPU]]></dc:creator>
+        <description><![CDATA[
+            <p>So there’s two options I usually use after composing. During the export phase, if I’m satisfied, I choose ‘Export audio’. When I want more, I choose ‘Export Uncompressed WAV’. The only thing I heard/read  ( which I’m unsure of, because my time is limited and usually invested in school, so I can’t do much research  ) was that ‘Export audio’ has a system that automatically compresses the audio, and maybe that’s the reason why it sounds differently than when I was composing it, when I release them on SoundCloud. This time, I’m composing the ITJ Remix and it really sounds unstable when I used ‘Export Uncompressed WAV’. I obviously can’t overcome such a problem if I don’t know the root in the first place. So, here’s the question, what difference do the two options make? Does it affect the quality of the sound? Let me know your thoughts and ideas. Thanks <img src="https://emoji.discourse-cdn.com/apple/smile.png?v=9" title=":smile:" class="emoji" alt=":smile:"></p>
+          <p><a href="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-difference-between-the-two/20214/1</link>
+        <pubDate>Fri, 16 Oct 2020 15:35:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20214-1</guid>
+        <source url="https://disco.auxy.co/t/whats-the-difference-between-the-two/20214.rss">What&#39;s The Difference Between The Two?</source>
+      </item>
+  </channel>
+</rss>

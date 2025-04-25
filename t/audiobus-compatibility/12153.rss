@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Audiobus compatibility?</title>
+    <link>https://disco.auxy.co/t/audiobus-compatibility/12153</link>
+    <description>So, I was wondering around the App Store when I found audio bus, it’s $10 and I want to know if it works with Auxy. Anybody know?</description>
+    
+    <lastBuildDate>Thu, 20 Sep 2018 12:36:25 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/audiobus-compatibility/12153.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s cool to hear</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/19</link>
+        <pubDate>Thu, 20 Sep 2018 12:36:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-19</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah it’s definitely a cool team up. I can see why people (especially Cubasis users) are stoked. I was kinda meh cause GarageBand was already doing this (just not with a Sea Board overlay - fun fact, one of the older model keyboards where I work was called a seaboard).</p>
+<p>Gadget also finally got Files support which is pretty awesome, the previous way in which Files were handled was sooo janky. This should help quite a bit. I’m so burned out I haven’t been doing anything at all lol.</p>
+<p>Everyone is expecting a GarageBand update with the iPad announcement that is likely coming next month. We’ll see soon enough!</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/18</link>
+        <pubDate>Thu, 20 Sep 2018 08:42:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-18</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="13" data-topic="12153">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>AUv3 possibly requires midi and audio channel support. I’m extrapolating in this a bit - an AUv3 host has to be able to render audio from the audio unit and it also needs a means to sequencing the app (which is think would be midi out). Regardless of how this works under the hood a firm requirement is that the AUv3 host needs to be able to show the control panel for the AUv3 plugin. I have NO IDEA how the current UI of Auxy would handle this.</p>
+</blockquote>
+</aside>
+<p>I’m really liking how Roli has handled integration of Noise (which is pretty similar to Auxy) into other apps.</p>
+<p><a href="https://www.youtube.com/embed/99ZScC4wHpg?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/99ZScC4wHpg</a></p>
+
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/17</link>
+        <pubDate>Thu, 20 Sep 2018 03:21:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-17</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea, that’s why I think they could easily implement it over to Mac or Port It, Another Thing is I’m pretty sure there is a Tweak For Electra Jailbroken Device owners as myself, and I believe the tweak can Screen share your screen on your Mac or Pc, and can control it. I’m not too sure, but something I’ve been wanting to look into is Spinning off Auxy and Developing my own personal path, I wouldn’t release this, but when I get out of school it might be a like a side project. Auxy Hmu <img src="https://emoji.discourse-cdn.com/apple/ok_hand.png?v=6" title=":ok_hand:" class="emoji" alt=":ok_hand:">! <img src="https://emoji.discourse-cdn.com/apple/rofl.png?v=6" title=":rofl:" class="emoji" alt=":rofl:"> anyway, yea I’m just throwing Ideas that could maybe never be added, but I still wait.</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/16</link>
+        <pubDate>Wed, 19 Sep 2018 19:11:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-16</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>The ‘it’s only two people’ defence might wear a little less thin if we were getting a stream of development updates. But we aren’t.</p>
+<p>A single good dev can achieve major things in ~8 months (roughly the time since the last major update).<br>
+(5.1 was a welcome update (~5 months ago), but it was mostly a UX update, rather than a true feature update. Still, as said, a very welcome update - even though it introduced some particularly problematic bugs that are still unfixed to this day.)</p>
+<p>I’m very much hoping the next release will pleasantly surprise us all with how much they’ve managed to achieve in the past ~8 months.</p>
+<p>&nbsp;<br>
+(Don’t hold your breath for an Android version or a Mac version. It’s not part of the plan, afaik. Android’s sound provision reportedly isn’t robust enough for music production and the main principles behind Auxy is to explore, develop and leverage mobile as a viable platform for music production.</p>
+<p>The Android thing I’m not so bothered about, but a Mac version would be very handy, even with the exact same UI as the iPad version, just on desktop. iOS emulators don’t seem to be a practical option yet.)</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/15</link>
+        <pubDate>Wed, 19 Sep 2018 16:53:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-15</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>Well to keep their Profit They could Sell Versions of it as like a 1 Time Payment- and also release this on Android. And yes, with the current state of Auxy, they probably won’t have Audio in/out with 3rd party. MIDI would be a nice feature to have for now at least, or releasing a version of it on Mac. But it’s just 2 guys and a Dream, so we will find out eventually!</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/14</link>
+        <pubDate>Wed, 19 Sep 2018 14:09:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-14</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah. I’m not a developer, but from what I’ve read from other developers over the years there’s issues.</p>
+<p>AB support would require audio recording which isn’t possible in Auxy right now. AB allows apps to route audio from one to another using an API that is freely available, but the mechanism to record audio would need to be there already.</p>
+<p>AUv3 possibly requires midi and audio channel support. I’m extrapolating in this a bit - an AUv3 host has to be able to render audio from the audio unit and it also needs a means to sequencing the app (which is think would be midi out). Regardless of how this works under the hood a firm requirement is that the AUv3 host needs to be able to show the control panel for the AUv3 plugin. I have NO IDEA how the current UI of Auxy would handle this.</p>
+<p>That said I think if it did happen, for sure, more people would jump on board. It certainly wouldn’t hurt the bottom line, can’t see how it would eat into the sub</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/13</link>
+        <pubDate>Wed, 19 Sep 2018 08:35:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-13</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Lol yikes <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=6" title=":joy:" class="emoji" alt=":joy:"></p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/12</link>
+        <pubDate>Wed, 19 Sep 2018 08:29:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-12</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="XLXK" data-post="9" data-topic="12153">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/xlxk/40/14512_2.png" class="avatar"> XLXK:</div>
+<blockquote>
+<p>I could definitely see Auxy Adaptating AudioBuses Capability’s In the near future seeing how powerful the new phones are getting</p>
+</blockquote>
+</aside>
+<p>The lack of AB support was never a ‘power’ issue. Lenberg fundamentally rejects the multi-app approach for mobile music production.</p>
+<p>Until his opinion/policy changes, there won’t be AB (or AUv3) support in Auxy - no matter how powerful mobile devices become.</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>But I can see that they would make less money</p>
+</blockquote>
+<p>How so?<br>
+They’d just need to make support a Premium/subs-only feature.</p>
+<p>They’d likely make more money as AB support would be an additional reason to buy (or not exclude)  - making Auxy a viable tool amongst the AB-centric producer community (which might actually be larger than the current Auxy userbase).</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/11</link>
+        <pubDate>Wed, 19 Sep 2018 06:34:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-11</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="XLXK" data-post="9" data-topic="12153">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/xlxk/40/14512_2.png" class="avatar"> XLXK:</div>
+<blockquote>
+<p>I could definitely see Auxy Adaptating AudioBuses Capability’s In the near future</p>
+</blockquote>
+</aside>
+<p>I’ve heard a rumour that Auxy v6 will have GaryBusey support.</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/8f760992ca49c3cd301cdea40848100516f8791b.jpeg" alt="download" data-base62-sha1="kt7aG2ZDgxDbLQz8B0ecM39YT3R" width="194" height="259"></p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/10</link>
+        <pubDate>Wed, 19 Sep 2018 03:37:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-10</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>Well thanks for the help. I could definitely see Auxy Adaptating AudioBuses Capability’s In the near future seeing how powerful the new phones are getting, being able to run more and do more is the future, and if Auxy allows 3rd party support, Itd be opening a whole new field of revolutionary Music production on the mobile device. But I can see that they would make less money. Maybe this will be discussed later in another topic. I’m just saying…</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/9</link>
+        <pubDate>Wed, 19 Sep 2018 03:25:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-9</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>AB, AU. A doorway leading anywhere in this walled garden would be welcome.</p>
+<p>…coz the only other doorway leading anywhere is the exit.</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/8</link>
+        <pubDate>Sat, 15 Sep 2018 15:02:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-8</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah someone on the Audiobus Forum compared it to running a modular synth. It’s not too inaccurate - you have to look at iOS as the rack and the apps you use are the modules. There’s no denying the flexibility when you look at it like that</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/7</link>
+        <pubDate>Sat, 15 Sep 2018 13:59:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-7</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="2" data-topic="12153">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/mistermaster/40/6715_1.png" class="avatar"> MisterMaster:</div>
+<blockquote>
+<p>We know some people think that’s a good way to work, but we think it’s a mess to run apps simultaneously.</p>
+</blockquote>
+</aside>
+<p>Fwiw, this is my favourite thing about mobile musicking.</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/6</link>
+        <pubDate>Sat, 15 Sep 2018 13:52:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-6</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>At this point in the game I’d rather see AU support. AudioBus was revolutionary when it came out, and I’m not saying it doesn’t have its place in some peoples workflows, but AU is where to be right now. It’s the closest you’re gonna get to the “desktop experience” of sound flexibility with all the goodness that comes from using a made for touch software.</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/5</link>
+        <pubDate>Sat, 15 Sep 2018 13:43:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-5</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="2" data-topic="12153">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/mistermaster/40/6715_1.png" class="avatar"> MisterMaster:</div>
+<blockquote>
+<p>We know some people think that’s a good way to work, but we think it’s a mess to run apps simultaneously.</p>
+</blockquote>
+</aside>
+<p>Which roughly translates to…</p>
+<p>‘We know it’s the <em>most popular approach in mobile music production</em>, but we think <em>everyone</em> else is wrong, including the biggest brands in electronic music production, so… no…</p>
+<p>…though, don’t forget, Auxy is definitely <em>not</em> aimed at beginners.’</p>
+<p>Now, I could get behind that if they were innovating at a more rapid pace, but unfortunately…</p>
+<p>&nbsp;<br>
+/s (-ish)</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/4</link>
+        <pubDate>Sat, 15 Sep 2018 13:35:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-4</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Compatible apps list here:</p>
+<p><a href="https://audiob.us/apps/" class="onebox" target="_blank">https://audiob.us/apps/</a></p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/3</link>
+        <pubDate>Sat, 15 Sep 2018 05:36:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-3</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Here’s an earlier response from another topic…</p>
+<aside class="quote no-group" data-username="Auxy" data-post="16" data-topic="51" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"><a href="https://disco.auxy.co/t/sfx-and-vocals-for-your-auxy-track/51/16">SFX and vocals for your Auxy track</a>
+</div>
+<blockquote>
+<p>We’re not supporting Audiobus because we don’t want to invest in the case where you’re running multiple apps at the same time to make music. We know some people think that’s a good way to work, but we think it’s a mess to run apps simultaneously. And Audiobus doesn’t solve the problem of sending files back and forth, except you can record in other apps.</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/2</link>
+        <pubDate>Sat, 15 Sep 2018 05:35:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-2</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+      <item>
+        <title>Audiobus compatibility?</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>So, I was wondering around the App Store when I found audio bus, it’s $10 and I want to know if it works with Auxy. Anybody know?</p>
+          <p><a href="https://disco.auxy.co/t/audiobus-compatibility/12153/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/audiobus-compatibility/12153/1</link>
+        <pubDate>Sat, 15 Sep 2018 05:26:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12153-1</guid>
+        <source url="https://disco.auxy.co/t/audiobus-compatibility/12153.rss">Audiobus compatibility?</source>
+      </item>
+  </channel>
+</rss>

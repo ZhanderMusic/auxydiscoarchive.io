@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Expand Clipboard Functionality</title>
+    <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137</link>
+    <description>It would be helpful if clipboard functioned more globally in the app. 
+
+For example, if I could highlight and copy a pattern of midi notes, and paste them into an existing clip
+
+
+(e.g. highlighted midi note patterns)</description>
+    
+    <lastBuildDate>Fri, 17 Sep 2021 15:45:42 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[tycho]]></dc:creator>
+        <description><![CDATA[
+            <p>Just figured it out, nevermind!  Can’t do it with a pen on ipad.  If you hold down on the selected notes, a new set of copied notes will fade in and be draggable.</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/11</link>
+        <pubDate>Fri, 17 Sep 2021 15:45:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-11</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>I guess.</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/9</link>
+        <pubDate>Sun, 15 Mar 2020 14:28:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-9</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[tincan]]></dc:creator>
+        <description><![CDATA[
+            <p>+1</p>
+<p>Sorry for bad english.</p>
+<p>Just putting converted XML or JSON or whatever buffer into OS clipboard and parsing it on paste-action is my favorite behavior. (in this way, we can edit in text editor and generate with your own DIYed automator)</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/8</link>
+        <pubDate>Fri, 06 Mar 2020 05:28:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-8</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s been a feature for a very long time now, over a year if I recall. But yes, what you’re proposing would be great!</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/7</link>
+        <pubDate>Fri, 19 Apr 2019 20:01:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-7</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>I see that you can copy/paste an entire instrument across songs now. I guess I hadn’t tried in a while.</p>
+<p>BUT, you still cannot go into a clip (sequence) and highlight a few bars of midi notes and paste them into another clip</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/6</link>
+        <pubDate>Fri, 19 Apr 2019 19:48:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-6</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>This is possible already, no? I copy drum kits with their sequences into other projects often. And sometimes I pull a lead melody from one track into another just for fun to see if it works.</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/5</link>
+        <pubDate>Fri, 19 Apr 2019 13:40:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-5</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting suggestions.  Haven’t seen them before, but they make sense.</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/4</link>
+        <pubDate>Fri, 19 Apr 2019 07:40:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-4</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[The_Osprey]]></dc:creator>
+        <description><![CDATA[
+            <p>I want that</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/3</link>
+        <pubDate>Fri, 19 Apr 2019 04:07:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-3</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>Another example would be to be able to copy an entire instrument/drum or sample rack with their stems to a different song</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/2</link>
+        <pubDate>Fri, 19 Apr 2019 03:55:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-2</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+      <item>
+        <title>Expand Clipboard Functionality</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>It would be helpful if clipboard functioned more globally in the app.</p>
+<p>For example, if I could highlight and copy a pattern of midi notes, and paste them into an existing clip</p>
+<p>(e.g. highlighted midi note patterns)</p>
+          <p><a href="https://disco.auxy.co/t/expand-clipboard-functionality/15137/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/expand-clipboard-functionality/15137/1</link>
+        <pubDate>Fri, 19 Apr 2019 03:49:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15137-1</guid>
+        <source url="https://disco.auxy.co/t/expand-clipboard-functionality/15137.rss">Expand Clipboard Functionality</source>
+      </item>
+  </channel>
+</rss>

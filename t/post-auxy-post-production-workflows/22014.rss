@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+    <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014</link>
+    <description>Hey folks,
+Looking for suggestions/workflows/best practices from the Auxy community here on what to do with my tunes after I&#39;m done crafting them in Auxy. I have a few tracks that I would like to have mixed/mastered finalized before uploading to streamers/etc. What do you all do? Export to Bitwig/Studio One/etc? I have used Cubase/Audition/FL Studio in the past (I&#39;d say I&#39;m intermediate-level in each of them), so I believe I still have some working versions of those DAWs around somewhere that I could load up. But I also am not ruling out just sending these &quot;finished&quot; tracks out to someone or some service online to get them post-produced more professionally (and quickly!) than I could.
+
+Hit me up with your suggestions or best practices!
+
+Thanks!</description>
+    
+    <lastBuildDate>Tue, 19 Jul 2022 00:26:43 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[Avro]]></dc:creator>
+        <description><![CDATA[
+            <p>skin</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/7</link>
+        <pubDate>Tue, 19 Jul 2022 00:26:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-7</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[Avro]]></dc:creator>
+        <description><![CDATA[
+            <p>I turn off master effects before I even start making a track, as I found out that it RUiNs my kick n snares!!!</p>
+<p>My mix used to be muddy and wet. Now it sounds much clean and dry. as clean as a holy virgin. as dry as yo grandmama’s old</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/6</link>
+        <pubDate>Tue, 19 Jul 2022 00:17:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-6</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s actually an aspect I suck at.</p>
+<p>I typically export the Auxy mastered ‘Uncompressed WAV’ file, then run that through CloudBounce, tweaking inside CloudBounce. Even though that’s technically layering two rounds of mastering on top of each other, it still ends up in a place I’m kinda* ok with.</p>
+<p>I probably should try that process but disable Auxy’s mastering first, and then do a comparison test, to see which process produces the end version I most like.</p>
+<p>The one thIng you’ll want to do is err on the side of having your exported, mixed, but pre-mastered uncompressed WAV a little ‘quieter’. Mastering services, even automated ones, work best with files which aren’t nudging against 0dB (i.e. leave a bit of ‘head room’).</p>
+<p>As long as your Auxy export isn’t clipping, you might want to run it through an audio tool to normalise it to somewhere between -6dB and -12dB. This should be enough ‘head room’ for mastering services to have room to rebalance dynamics and add emphasis where needed and still have space to optimise overall ‘loudness’.</p>
+<p>I use Ocenaudio. It’s free and available for both Mac and Windows.<br>
+(Hopefully, Auxy will be add the ability to control things like that directly inside Auxy in a future update <em><span class="hashtag">#nevergonnahappen</span></em>. )</p>
+<p>To my ears, I prefer CloudBounce to the others I listed, which I’ve tested against. But you might prefer something else.</p>
+<p>If I ever created something that I believed had real commercial potential, (and I’d definitely finished working on it),  I’d consider getting it manually mastered by a pro.</p>
+<p>I’m very indecisive and will often ‘master’ WIPs at each significant version during development, so I can have a representative version for repeated review, while I decide how to change and develop a track further.</p>
+<p>Consequently, I’ve gone for CloudBounce’s unlimited option, which is on sale regularly. (Once you grab the sale price, it renews annually at that sale price.)</p>
+<p>*All that said, I know I should be more attentive to the mixing and mastering, and while I’m still bad at it, I’m not convinced any of my material is really ‘radio ready’. Though that’s most likely down to my over-production and muddy mixing (and being too lazy to reach beyond Auxy’s cheap sounding library) —  not the mastering.</p>
+<p>—-</p>
+<p>Actually, on the question of cheap sounds…</p>
+<p>It’s worth mentioning that I increasingly do actually spit out the project as an Ableton set, with the aim of replacing specific sounds that I’m not satisfied with for better ones. That’s typically e-piano/Rhodes and piano sounds, which I use often. I gravitated towards ‘Lobby’ and ‘Noir’ in Auxy, but I’m increasingly replacing them with recreations done with Ableton using a decent library with more character and nuance.</p>
+<p>I’ll then export those specific recreated stems as WAVs and import them back into Auxy as long samples or loops, where I’ll continue to develop the piece.</p>
+<p>—-</p>
+<p>One last thing… do some research on how ‘reference tracks’ can help with the mixing and mastering stage.</p>
+<p>—-</p>
+<p>Not sure how much any of that helped ya. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=12" title=":+1:" class="emoji" alt=":+1:" loading="lazy" width="20" height="20"></p>
+<p>(Now I just need to learn to take my own advice.) <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=12" title=":wink:" class="emoji" alt=":wink:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/5</link>
+        <pubDate>Mon, 18 Jul 2022 15:21:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-5</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[str8zstar]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/thoughtfulnoise">@ThoughtfulNoise</a> Do you have any recommendations for getting your Auxy track ready to import into something like CloudBounce? i.e. volume recs, no Auxy mastering settings, etc.</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/4</link>
+        <pubDate>Mon, 18 Jul 2022 14:24:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-4</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[str8zstar]]></dc:creator>
+        <description><![CDATA[
+            <p>Perfect, thank you for the recommendations!</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/3</link>
+        <pubDate>Mon, 18 Jul 2022 14:23:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-3</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Check out the auto-mastering services available online…</p>
+<p>e.g.…</p>
+<ul>
+<li>
+<a href="https://community.soundcloud.com/mastering-on-soundcloud" rel="noopener nofollow ugc">Soundcloud offers auto-mastering for Pro accounts</a> (3 free each month, iirc, pay for the others)</li>
+<li>
+<a href="https://www.cloudbounce.com/" rel="noopener nofollow ugc">CloudBounce</a> (I use this)</li>
+<li><a href="https://www.landr.com/en/pricing/master/" rel="noopener nofollow ugc">LANDR</a></li>
+<li><a href="https://chosenmasters.com/" rel="noopener nofollow ugc">ChosenMasters</a></li>
+<li>…</li>
+</ul>
+<p>Search this category for more.</p>
+<p>You could also look into iOS mastering apps, like <a href="https://klevgrand.com/products/grandfinale" rel="noopener nofollow ugc">Klevgrand’s Grand Finale</a>.</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/2</link>
+        <pubDate>Mon, 18 Jul 2022 11:53:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-2</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+      <item>
+        <title>&quot;Post-Auxy&quot; Post-Production Workflows</title>
+        <dc:creator><![CDATA[str8zstar]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey folks,<br>
+Looking for suggestions/workflows/best practices from the Auxy community here on what to do with my tunes after I’m done crafting them in Auxy. I have a few tracks that I would like to have mixed/mastered finalized before uploading to streamers/etc. What do you all do? Export to Bitwig/Studio One/etc? I have used Cubase/Audition/FL Studio in the past (I’d say I’m intermediate-level in each of them), so I believe I still have some working versions of those DAWs around somewhere that I could load up. But I also am not ruling out just sending these “finished” tracks out to someone or some service online to get them post-produced more professionally (and quickly!) than I could.</p>
+<p>Hit me up with your suggestions or best practices!</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/post-auxy-post-production-workflows/22014/1</link>
+        <pubDate>Tue, 05 Jul 2022 19:50:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22014-1</guid>
+        <source url="https://disco.auxy.co/t/post-auxy-post-production-workflows/22014.rss">&quot;Post-Auxy&quot; Post-Production Workflows</source>
+      </item>
+  </channel>
+</rss>

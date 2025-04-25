@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to change the tempo one step at a time</title>
+    <link>https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877</link>
+    <description>Hello there Auxy forums!
+Right now, I have a bit of difficulty changing the bpm.
+The current system requires me to drag the bpm slider.
+However, the slider is quite small for such a wide range of numbers. It would be much easier if I could simply tap on the current bpm number to pull up a text/number input and type my own bpm. If the number was too high or too low, it could just throw me a blue message saying something along the lines of “Invalid bpm number! Please try again.” I’ve had the app for more than half a year at this point and still have this minor inconvenience.
+Thanks for reading.</description>
+    
+    <lastBuildDate>Mon, 06 Jan 2020 21:32:42 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to change the tempo one step at a time</title>
+        <dc:creator><![CDATA[Vibrato]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you, that’s very helpful!</p>
+          <p><a href="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/3</link>
+        <pubDate>Mon, 06 Jan 2020 21:32:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17877-3</guid>
+        <source url="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877.rss">How to change the tempo one step at a time</source>
+      </item>
+      <item>
+        <title>How to change the tempo one step at a time</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>You can tap on the line next to the bpm circle to nudge 1 bpm at a time, give it a whirl</p>
+          <p><a href="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/2</link>
+        <pubDate>Sun, 05 Jan 2020 04:01:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17877-2</guid>
+        <source url="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877.rss">How to change the tempo one step at a time</source>
+      </item>
+      <item>
+        <title>How to change the tempo one step at a time</title>
+        <dc:creator><![CDATA[Vibrato]]></dc:creator>
+        <description><![CDATA[
+            <p>Hello there Auxy forums!<br>
+Right now, I have a bit of difficulty changing the bpm.<br>
+The current system requires me to drag the bpm slider.<br>
+However, the slider is quite small for such a wide range of numbers. It would be much easier if I could simply tap on the current bpm number to pull up a text/number input and type my own bpm. If the number was too high or too low, it could just throw me a blue message saying something along the lines of “Invalid bpm number! Please try again.” I’ve had the app for more than half a year at this point and still have this minor inconvenience.<br>
+Thanks for reading.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877/1</link>
+        <pubDate>Sun, 05 Jan 2020 04:00:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17877-1</guid>
+        <source url="https://disco.auxy.co/t/how-to-change-the-tempo-one-step-at-a-time/17877.rss">How to change the tempo one step at a time</source>
+      </item>
+  </channel>
+</rss>

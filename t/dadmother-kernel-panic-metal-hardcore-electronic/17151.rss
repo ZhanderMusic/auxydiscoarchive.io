@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dadmother - _kernel_panic_ [metal/hardcore/electronic]</title>
+    <link>https://disco.auxy.co/t/dadmother-kernel-panic-metal-hardcore-electronic/17151</link>
+    <description>[&lt;c037f040&gt;] ip_rcv_finish+0x0/0x2c0
+[&lt;c0360084&gt;] nf_hook_slow+0xe4/0x120
+[&lt;c037f040&gt;] ip_rcv_finish+0x0/0x2c0
+[&lt;c037ed69&gt;] ip_rcv+0x439/0x500
+[&lt;c037f040&gt;] ip_rcv_finish+0x0/0x2c0
+[&lt;c0355807&gt;] netif_receive_skb+0x117/0x1d0
+[&lt;c034d4a7&gt;] alloc_skb+0x47/0xe0
+[&lt;c02d3779&gt;] rtl8139_rx+0x199/0x340
+[&lt;c02d3b0a&gt;] rtl8139_poll+0x5a/0xe0
+[&lt;c0355a53&gt;] net_rx_action+0x83/0x110
+[&lt;c0123d3a&gt;] __do_softirq+0xba/0xd0
+[&lt;c010892c&gt;] do_softirq+0x4c/0x60
+[&lt;c0108045&gt;] do_IRQ+0x165/0x1b0
+[&lt;c0105be8&gt;] common_interrupt+0x18/0x20
+[&lt;c0103030&gt;] default_idle+0x0/0x40
+[&lt;c010305c&gt;] default_idle+0x2c/0x40
+[&lt;c01030f2&gt;] cpu_idle+0x42/0x60
+[&lt;c051d937&gt;] start_kernel+0x167/0x190
+[&lt;c051d3a0&gt;] unknown_bootoption+0x0/0x160
+Code: 8b 44 24 24 89 44 24 04 e8 85 7d ff ff 8b 5c 24 18 83 c4 1c c3 8d b6 00 00 00 00 8d bc 27 00 00 00 00 55 31 ed 57 56 53 83 ec 34 &lt;8b&gt; 54 24 48 8b 4c 24 48 0f b6 42 0e 8b 04 85 00 e7 5a c0 89 44
+ &lt;0&gt;Kernel panic - not syncing: Fatal exception in interrupt
+
+*please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please rebootpleaserebootpleaserebootpleaserebooteaserebootpleaserebootpleaserebootpleaserebooteaserebootpleaserebootpleaserebootpleaserebooteaserebootrebootrebootrebootrebootrebootrebootreboot*
+
+
+*pl  e  as  e     r  eb  o   ot*
+
+
+
+*r    eb   o    ot*    
+
+
+
+**[_kernel_panic_](https://soundcloud.com/dadmother/kernel_panic)**
+![image|500x500](upload://uVrGyyIHcJOMLlsrCvz39Z493fy.jpeg)</description>
+    
+    <lastBuildDate>Tue, 15 Oct 2019 03:09:41 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/dadmother-kernel-panic-metal-hardcore-electronic/17151.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dadmother - _kernel_panic_ [metal/hardcore/electronic]</title>
+        <dc:creator><![CDATA[Dadmother]]></dc:creator>
+        <description><![CDATA[
+            <p>[] ip_rcv_finish+0x0/0x2c0<br>
+[] nf_hook_slow+0xe4/0x120<br>
+[] ip_rcv_finish+0x0/0x2c0<br>
+[] ip_rcv+0x439/0x500<br>
+[] ip_rcv_finish+0x0/0x2c0<br>
+[] netif_receive_skb+0x117/0x1d0<br>
+[] alloc_skb+0x47/0xe0<br>
+[] rtl8139_rx+0x199/0x340<br>
+[] rtl8139_poll+0x5a/0xe0<br>
+[] net_rx_action+0x83/0x110<br>
+[] __do_softirq+0xba/0xd0<br>
+[] do_softirq+0x4c/0x60<br>
+[] do_IRQ+0x165/0x1b0<br>
+[] common_interrupt+0x18/0x20<br>
+[] default_idle+0x0/0x40<br>
+[] default_idle+0x2c/0x40<br>
+[] cpu_idle+0x42/0x60<br>
+[] start_kernel+0x167/0x190<br>
+[] unknown_bootoption+0x0/0x160<br>
+Code: 8b 44 24 24 89 44 24 04 e8 85 7d ff ff 8b 5c 24 18 83 c4 1c c3 8d b6 00 00 00 00 8d bc 27 00 00 00 00 55 31 ed 57 56 53 83 ec 34 &lt;8b&gt; 54 24 48 8b 4c 24 48 0f b6 42 0e 8b 04 85 00 e7 5a c0 89 44<br>
+&lt;0&gt;Kernel panic - not syncing: Fatal exception in interrupt</p>
+<p><em>please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please reboot please rebootpleaserebootpleaserebootpleaserebooteaserebootpleaserebootpleaserebootpleaserebooteaserebootpleaserebootpleaserebootpleaserebooteaserebootrebootrebootrebootrebootrebootrebootreboot</em></p>
+<p><em>pl  e  as  e     r  eb  o   ot</em></p>
+<p><em>r    eb   o    ot</em></p>
+<p><strong><a href="https://soundcloud.com/dadmother/kernel_panic" rel="nofollow noopener"><em>kernel_panic</em></a></strong><br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8.jpeg" data-download-href="/uploads/short-url/uVrGyyIHcJOMLlsrCvz39Z493fy.jpeg?dl=1" title="2AF19CB5-DC8E-4D0D-84D8-FB6BA712F9C6.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8_2_500x500.jpeg" alt="image" data-base62-sha1="uVrGyyIHcJOMLlsrCvz39Z493fy" width="500" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8_2_500x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8_2_750x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8_2_1000x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8bf9fc69d3ea2d07818a8ed5cf5cc68f4976de8_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/dadmother-kernel-panic-metal-hardcore-electronic/17151/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/dadmother-kernel-panic-metal-hardcore-electronic/17151/1</link>
+        <pubDate>Tue, 15 Oct 2019 03:09:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17151-1</guid>
+        <source url="https://disco.auxy.co/t/dadmother-kernel-panic-metal-hardcore-electronic/17151.rss">Dadmother - _kernel_panic_ [metal/hardcore/electronic]</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sample Folders or...?</title>
+    <link>https://disco.auxy.co/t/sample-folders-or/19092</link>
+    <description>Hey, I think I’ve mentioned this before, but is there any chance that there could be some way of using sub-folders or another organizing function for imported samples? Right now I must have at least 500, and scrolling down alphabetically gets really old when you’re looking for samples that start with S or T...  this would be a big help.</description>
+    
+    <lastBuildDate>Sat, 16 May 2020 18:29:32 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/sample-folders-or/19092.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Good answer, thnx.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/19</link>
+        <pubDate>Sat, 16 May 2020 18:29:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-19</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yup, got it, sounds like it does in fact do the import silently. I’d test it but can’t, but seems like it makes sense.</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/18</link>
+        <pubDate>Wed, 13 May 2020 12:17:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-18</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>For me, the easiest way to import samples is to get the .wav or FLAC (never used it, but apparently it works) and then drop that file into the “Samples” folder under the Auxy folder in your iCloud Drive. They’ll appear instantly in the “iCloud” section of the drum sample selection screen.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/17</link>
+        <pubDate>Wed, 13 May 2020 11:40:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-17</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>When you open a sample from iCloud, it’s like opening a new drum pack that Auxy releases and downloading those sounds. When you drop the samples into the “Samples” folder in iCloud Drive, you can go straight into the app and view all of the samples in their folders in the “iCloud” section like you would with any other drum kits. You have to then tap each one to download it to the app, which I guess is a form of “importing”? I guess what I’m getting at is that you don’t have to go to iCloud Drive and manually import every sample into the app, you can just drop them all into the samples folder and download them in the app, almost like downloading new instruments from a new sound pack on the day of its release. You can see the new sounds, but you can’t use them until you click the download button and then you can browse and use them normally. I hope this makes sense…</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/16</link>
+        <pubDate>Wed, 13 May 2020 11:38:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-16</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>If you’re doing it from an app you should be able to export from whatever app and press ‘Open In’ Auxy.</p>
+<p>Usually, I save my stuff to Files, then import from within Auxy. Apparently you can still drop stuff inside iCloud/Auxy/Samples, I haven’t tried since the last update.</p>
+<p>You have to make sure it’s 20 seconds or less, it has to be a .wav file, 16bit. 32bit waves DO NOT WORK. FLAC files apparently work, I don’t normally work in that format so I can’t confirm.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/15</link>
+        <pubDate>Tue, 12 May 2020 19:32:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-15</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>I kinda need help there, I’ve been having troubles importing stuff to Auxy. What’s the easiest way to do that?</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/14</link>
+        <pubDate>Tue, 12 May 2020 19:02:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-14</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m still confused here though… I thought that when you open a sample from iCloud, it still imports it into the app. That’s not the case?</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/13</link>
+        <pubDate>Tue, 12 May 2020 18:55:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-13</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, I was hoping we could also create folders within the app, but the iCloud is a good workaround…</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/12</link>
+        <pubDate>Tue, 12 May 2020 17:48:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-12</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the replies. This seems so obvious I can’t believe I didn’t try it, but it will be a big help going forward!</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/11</link>
+        <pubDate>Tue, 12 May 2020 17:34:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-11</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah what sn.ow.y said^^ you can create folders under the Auxy &gt; Samples folder in your Files app</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb.jpeg" data-download-href="/uploads/short-url/e6OsYsiBGt86MMr5PSyzCPKJWZ5.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb_2_666x500.jpeg" alt="image" data-base62-sha1="e6OsYsiBGt86MMr5PSyzCPKJWZ5" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/62e39eea591b1c287a783da5fcbe1736621e55cb_2_10x10.png"></a></div><p></p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a.jpeg" data-download-href="/uploads/short-url/qfK9PN0BLpj6Q3zo1rjqisY8Tx0.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a_2_666x500.jpeg" alt="image" data-base62-sha1="qfK9PN0BLpj6Q3zo1rjqisY8Tx0" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b8002455292ce9f6e3336c3d1673be5f4cc1525a_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/10</link>
+        <pubDate>Tue, 12 May 2020 03:46:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-10</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh I see what you mean, as I was looking at a different section. I normally don’t copy samples directly into the app, so I never end up using the “Imported” section, and instead go to the iCloud section. My imported section is unsorted though, and I haven’t been able to create folders or anything there–it’s remained an alphabetized mess. I also don’t think I can access the “Imported” folder from iCloud drive or anything, so I don’t know how to create new folders.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/9</link>
+        <pubDate>Mon, 11 May 2020 13:13:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-9</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://auxy.co/samples.html" class="onebox" target="_blank">https://auxy.co/samples.html</a></p>
+<p>It seems like when you open a sample from iCloud it imports it into the app, like the app storage sandbox, and labels it as “From iCloud” - so I was curious whether or not that also honored multiple subfolders.</p>
+<p>It’s not super important. Slow morning for me LOL, not much else to do right this second…</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/8</link>
+        <pubDate>Mon, 11 May 2020 13:09:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-8</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not sure exactly what you mean by “imported”… When I select samples to use in a drum kit, I just go to the folder of the sample, and if I have not already downloaded it, I just have to click on it and it will automatically download from the iCloud folder and will then be available like any other sample. To get them into Auxy in the first place, I literally just grabbed all of the samples from my download folder on my iPad, put them into a folder, and dropped that folder into the “Samples” folder in my iCloud drive.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/7</link>
+        <pubDate>Mon, 11 May 2020 13:06:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-7</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>When you choose a sample to use in a drum kit though, it has to be imported into the app, right? I know previously it just loaded samples from cloud, but I was under the impression all samples needed to be imported. Thanks for the screens, very helpful!</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/6</link>
+        <pubDate>Mon, 11 May 2020 12:53:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-6</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, you can have sub folders under the main ones. For example, under my “drums” folder, I have this: </p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d.jpeg" data-download-href="/uploads/short-url/2my0ONFmNWplFBPmjoMLRM9XQZv.jpeg?dl=1" title="image"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d_2_666x500.jpeg" alt="image" data-base62-sha1="2my0ONFmNWplFBPmjoMLRM9XQZv" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1090dda974bbfa928341c7ff8e345f49b0f61f2d_2_10x10.png"></a></div><br>
+I don’t know how many more layers of folders deeper you can go, as I haven’t tested it. For samples imported into the app directly, I’m actually not sure as I haven’t organized that. I usually always save a sample to the samples folder in iCloud Drive, instead of going directly to the app.<p></p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/5</link>
+        <pubDate>Mon, 11 May 2020 12:40:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-5</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>The only thing is… twofold. One, can you have more than one folder? Ie, top level is Drums, then subfolder BD, subfolder SD, etc.</p>
+<p>Two, you ultimately have to import your samples into the app, they don’t load from the cloud anymore (according to the devs) - so once they are ingested into the app, do those also follow the multi-directory rules or they are single directory and then any other samples are just this bloated list?</p>
+<p>I’d test myself but cannot</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/4</link>
+        <pubDate>Mon, 11 May 2020 12:11:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-4</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, you can organize everything really easily using the files app where your samples are stored. You have to find the folder where they are all stored, I think it’s called “Samples” under the larger Auxy folder, and then just make new folders in the “Samples” folder and organize from there. Then, reload your app and you should see the full directory and be able to access your samples from each folder. I’ve done this myself, and it’s been really helpful: </p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07.jpeg" data-download-href="/uploads/short-url/3R4gozMCqj1NGdzOnpaaSZSUD3N.jpeg?dl=1" title="image"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07_2_666x500.jpeg" alt="image" data-base62-sha1="3R4gozMCqj1NGdzOnpaaSZSUD3N" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b063ddf4cefff6579096956596ae2c33632bd07_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/3</link>
+        <pubDate>Mon, 11 May 2020 12:09:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-3</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I never really had a boatload of samples in the app, but does it do the Cubasis 2 thing where you get one folder and all subfolders below that are ignored? Cause that was pants (fun fact, it’s fixed in Cubasis 3)</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/2</link>
+        <pubDate>Mon, 11 May 2020 11:16:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-2</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+      <item>
+        <title>Sample Folders or...?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey, I think I’ve mentioned this before, but is there any chance that there could be some way of using sub-folders or another organizing function for imported samples? Right now I must have at least 500, and scrolling down alphabetically gets really old when you’re looking for samples that start with S or T…  this would be a big help.</p>
+          <p><a href="https://disco.auxy.co/t/sample-folders-or/19092/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sample-folders-or/19092/1</link>
+        <pubDate>Mon, 11 May 2020 04:01:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19092-1</guid>
+        <source url="https://disco.auxy.co/t/sample-folders-or/19092.rss">Sample Folders or...?</source>
+      </item>
+  </channel>
+</rss>

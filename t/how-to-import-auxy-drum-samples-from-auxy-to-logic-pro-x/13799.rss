@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+    <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799</link>
+    <description>As the title says i would like to know what can i do to import Auxy drum samples from Auxy to Logic Pro X.
+I know that i can render every instrument as a track and put one drum sample on every drum instrument. But that would just take too much time.
+Do you guys know of a way to do this that is faster?</description>
+    
+    <lastBuildDate>Fri, 25 Jan 2019 06:06:32 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know if anyone has mentioned it, but you can fill up a drum kit, and program the samples seperated so they don’t overlap. Export uncompressed audio and share with airdrop. Slice the audio file and bounce the samples to new wav files.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/21</link>
+        <pubDate>Fri, 25 Jan 2019 06:06:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-21</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="19" data-topic="13799">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sylent/40/11808_2.png" class="avatar"> Sylent:</div>
+<blockquote>
+<p>If that comes to the next Auxy update that will be amazing.</p>
+</blockquote>
+</aside>
+<p>It’s certainly a step in the right direction if they want producers to easily work with the app inside of a larger workflow.</p>
+<aside class="quote no-group" data-post="19" data-topic="13799">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sylent/40/11808_2.png" class="avatar"> Sylent:</div>
+<blockquote>
+<p>Built in EQ for Auxy?</p>
+</blockquote>
+</aside>
+<p>Doubtful, but it <em>could</em> happen. I dunno though to be honest.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/20</link>
+        <pubDate>Fri, 25 Jan 2019 01:45:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-20</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>If that comes to the next Auxy update that will be amazing. It will make things whole lot more easier!<br>
+Thanks for all the information i will check the sample pack out. If its affordable ill buy it :).</p>
+<p>By the way you talked about EQing Logic. It came to my mind are there any plans for Built in EQ for Auxy?</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/19</link>
+        <pubDate>Thu, 24 Jan 2019 13:57:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-19</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks ICS for pointing me towards this thread.</p>
+<p><a href="https://blackoctopus-sound.com/" rel="nofollow noopener">https://blackoctopus-sound.com/</a> is where you can find most of the licensed sound currently included in Auxy. In addition, Crate Diggers and Cutting Edge Percussion are licensed from <a href="https://originsound.co.uk/" rel="nofollow noopener">https://originsound.co.uk/</a>. As for the default Auxy samples, you’d need to do some work to export samples individually in order to achieve the desired result, but as opposed to 3000 samples (Leviathan 2) there’s only around 120 native to Auxy.</p>
+<p>Also, according to Lenberg, there may be more robust exporting features coming soon for Auxy, and hopefully one of these is individual sample exports from drum kits. This will make a huge step in helping towards importing Auxy samples into Logic, as when they are exported individually it allows for better EQing of the samples.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/18</link>
+        <pubDate>Thu, 24 Jan 2019 13:19:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-18</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh i see ok thank you so much again for taking your time👍🏻</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/17</link>
+        <pubDate>Thu, 24 Jan 2019 11:52:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-17</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>We grant you a perpetual, non-transferable, non-exclusive license to any Sound Packs provided to you free of charge as well as any individual Sound Packs purchased by you. You may solely use the Sound Packs that we license to you for the purpose of creating Music, i.e. you must not re-distribute, sub-license or otherwise make them available “as is”.</p>
+</blockquote>
+<p>You <strong>are</strong> free to use the sounds in another app.</p>
+<p>You <strong>are not</strong> able to transfer your licence to somebody else.<br>
+You <strong>are not</strong> allowed to re-distribute, sub-license, sell or give them away “as is”.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/16</link>
+        <pubDate>Thu, 24 Jan 2019 10:59:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-16</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>It says the samples are allowed to use non transferably. So does that mean i cant use the samples out of Auxy?<br>
+(My english is not thay good so im having a hard time trying to understand the terms lol sorry)</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/15</link>
+        <pubDate>Thu, 24 Jan 2019 10:54:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-15</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="10" data-topic="13799" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sylent/40/11808_2.png" class="avatar"> Sylent:</div>
+<blockquote>
+<p>Another thing is it legal to use these samples since they are from other sample packs that are on sale in the internet + i still can use them if i remove my subscription</p>
+</blockquote>
+</aside>
+<p><a href="http://auxy.co/terms.html" class="onebox" target="_blank" rel="nofollow noopener">http://auxy.co/terms.html</a></p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/14</link>
+        <pubDate>Thu, 24 Jan 2019 10:46:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-14</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmm i see thanks!</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/13</link>
+        <pubDate>Thu, 24 Jan 2019 10:46:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-13</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>i dont see why they wouldn’t be legal. I can still upload my tracks with the old auxy sounds that I dont have anymore and exporting to other DAW’s is a built in feature of the app too, so i dont see why that would be illegal too.</p>
+<p>As long as you’re not selling the individual sounds as your own you should be fine</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/12</link>
+        <pubDate>Thu, 24 Jan 2019 10:44:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-12</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>If you’re just doing audio, im pretty sure you could also just use quick time player</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/11</link>
+        <pubDate>Thu, 24 Jan 2019 10:42:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-11</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Another thing is it legal to use these samples since they are from other sample packs that are on sale in the internet + i still can use them if i remove my subscription</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/10</link>
+        <pubDate>Thu, 24 Jan 2019 10:42:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-10</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh right didnt think about that👌🏻That would definitely save some time<br>
+Thanks <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a> and <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a> <img src="https://emoji.discourse-cdn.com/apple/+1/2.png?v=6" title=":+1:t2:" class="emoji" alt=":+1:t2:"><img src="https://emoji.discourse-cdn.com/apple/+1/2.png?v=6" title=":+1:t2:" class="emoji" alt=":+1:t2:"></p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/9</link>
+        <pubDate>Thu, 24 Jan 2019 10:40:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-9</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>It doesn’t, but you’re recording just the audio from it. So you could record hits direct into ES24 or just cut loops from the output of Auxy. Either would save a little time!</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/8</link>
+        <pubDate>Thu, 24 Jan 2019 10:30:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-8</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes its ES24 and doing that would be insanely time consuming. Recording sample importing sample getting it into ES24 each time. Lol</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/7</link>
+        <pubDate>Thu, 24 Jan 2019 10:26:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-7</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh wow i didnt knew about IDAM. It looks pretty usefull but the thing is Auxy doesnt have midi support <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=6" title=":frowning:" class="emoji" alt=":frowning:">. Does it?</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/6</link>
+        <pubDate>Thu, 24 Jan 2019 10:25:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-6</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh duh or this lol. <a href="https://youtu.be/FmEJY8tY8vc" rel="nofollow noopener">https://youtu.be/FmEJY8tY8vc</a></p>
+<p>This actually would be your exact use case haha</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/5</link>
+        <pubDate>Thu, 24 Jan 2019 10:09:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-5</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>I would connect your iOS device to your Mac and just record everything directly via IDAM.</p>
+<p><small>This is more-or-less how I use Auxy 99% of the time.</small></p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/4</link>
+        <pubDate>Thu, 24 Jan 2019 09:57:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-4</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>You’re in for a real long haul. You could export individual hits, cut them up and assign to whatever sampler Logic uses (ES24?) - this is going to be incredibly time consuming.</p>
+<p>Your best bet would be to just do the work you want in Auxy and dump stems to Logic. From there you could do any layering / post processing you want/need.</p>
+<p>For what it’s worth, if there’s a specific sample pack you really like it might be worthwhile to just get it from the source - a healthy chunk of the samples in Auxy are sourced from third party sample packs you can purchase. <a class="mention" href="https://disco.auxy.co/u/therealjfalc">@TheRealJFalc</a> knows a bit more about it and has linked some of those exact packs here <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/3</link>
+        <pubDate>Thu, 24 Jan 2019 09:54:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-3</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>nope.</p>
+<p>well you could do each sample and stretch the scene to 8 bars and just put each hit every bar or so (if that makes sense)</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/2</link>
+        <pubDate>Thu, 24 Jan 2019 09:53:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-2</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+      <item>
+        <title>How to import Auxy drum samples from Auxy to Logic pro x</title>
+        <dc:creator><![CDATA[Sylent]]></dc:creator>
+        <description><![CDATA[
+            <p>As the title says i would like to know what can i do to import Auxy drum samples from Auxy to Logic Pro X.<br>
+I know that i can render every instrument as a track and put one drum sample on every drum instrument. But that would just take too much time.<br>
+Do you guys know of a way to do this that is faster?</p>
+          <p><a href="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799/1</link>
+        <pubDate>Thu, 24 Jan 2019 09:36:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13799-1</guid>
+        <source url="https://disco.auxy.co/t/how-to-import-auxy-drum-samples-from-auxy-to-logic-pro-x/13799.rss">How to import Auxy drum samples from Auxy to Logic pro x</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Fixing the size of Soundcloud players in posts</title>
+    <link>https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034</link>
+    <description>FAO: @lenberg
+
+Firstly, great to see that it’s possible to post Soundcloud players in posts again. Thanks 👍
+
+QQ: Can anything be done to fix the layout/width issue?
+They appear as tall, thin blocks, using a fraction of the available width, even on mobile.
+They would be more useful and usable if they made better use of the available width.
+
+![image|371x500](upload://zMtj9fY3dSMS5PRkOBKz72G7LjK.jpeg)</description>
+    
+    <lastBuildDate>Fri, 21 May 2021 10:36:03 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Fixing the size of Soundcloud players in posts</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I also found this article, but it’s not anything specific to Discourse <a href="https://help.soundcloud.com/hc/en-us/articles/115003453587-Embedded-players" class="inline-onebox">Embedded players – SoundCloud Help Center</a> - already tried the iframe embed here and it does not work, I end up with two links… very strange. That’s about all the cycles I can spend on this right now lol.</p>
+          <p><a href="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/4</link>
+        <pubDate>Fri, 21 May 2021 10:36:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21034-4</guid>
+        <source url="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034.rss">Fixing the size of Soundcloud players in posts</source>
+      </item>
+      <item>
+        <title>Fixing the size of Soundcloud players in posts</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Aight.</p>
+<p>In my totally non-professional, non-admin opinion, it seems like Discourse isn’t rendering properly from <a href="http://www.soundcloud.com">www.soundcloud.com</a>. If you put in a Bandcamp link, you get the mini player like always. In the example of Alch’s track the URL is actually <a href="https://soundcloud.app.goo.gl">https://soundcloud.app.goo.gl</a> which is something newer I guess, weird Google tie in. If I put a full URL to a track on SC it also doesn’t render (this may or may not have always been the behavior? I kind of remember always posting track art as an attachment here, and then posting SC link below it. Maybe that’s why…)</p>
+          <p><a href="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/2</link>
+        <pubDate>Fri, 21 May 2021 10:24:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21034-2</guid>
+        <source url="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034.rss">Fixing the size of Soundcloud players in posts</source>
+      </item>
+      <item>
+        <title>Fixing the size of Soundcloud players in posts</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>FAO: <span class="mention">@lenberg</span></p>
+<p>Firstly, great to see that it’s possible to post Soundcloud players in posts again. Thanks <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+<p>QQ: Can anything be done to fix the layout/width issue?<br>
+They appear as tall, thin blocks, using a fraction of the available width, even on mobile.<br>
+They would be more useful and usable if they made better use of the available width.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec.jpeg" data-download-href="/uploads/short-url/zMtj9fY3dSMS5PRkOBKz72G7LjK.jpeg?dl=1" title="image"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec_2_371x500.jpeg" alt="image" data-base62-sha1="zMtj9fY3dSMS5PRkOBKz72G7LjK" width="371" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec_2_371x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec_2_556x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec_2_742x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/a/fac6ce7f86f8988b82369af9c57b9c7ec2a781ec_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034/1</link>
+        <pubDate>Fri, 21 May 2021 04:40:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21034-1</guid>
+        <source url="https://disco.auxy.co/t/fixing-the-size-of-soundcloud-players-in-posts/21034.rss">Fixing the size of Soundcloud players in posts</source>
+      </item>
+  </channel>
+</rss>

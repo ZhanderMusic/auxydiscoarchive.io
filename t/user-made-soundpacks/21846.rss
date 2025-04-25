@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>User-made Soundpacks?</title>
+    <link>https://disco.auxy.co/t/user-made-soundpacks/21846</link>
+    <description>Now, I know you may think:
+“Oh, but we have custom sounds!” or
+“Just get some from the forum!”.
+What I *mean* is that - digitally, this is - us producers could develop our own soundpacks inside of the app!
+
+You could have the choice of:
+Collections of already existing sounds into - for example - a tool for certain genre sounds.
+An entirely new pack for samples and new synths etc.
+A mix of both.
+
+And, you could do it with drums or melodic sounds!
+Plus, they would appear in the same menu as already-existing packs (or a toggleable button to switch between them).
+
+Just a suggestion, but maybe this could be introduced someday!</description>
+    
+    <lastBuildDate>Sun, 27 Mar 2022 13:11:09 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/user-made-soundpacks/21846.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>User-made Soundpacks?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Giving users access to the synth and sample engine underneath Auxy has been a recurring request from some Auxy veterans for literally years.</p>
+<p>Despite the fact that it would hugely ‘power-up’ Auxy, the Auxy team have been resistant to discussing it.</p>
+<p>…which generally means that The Auxy team believe that it wouldn’t be sufficiently profitable to justify the dev and UI design effort (even though some of those veterans, myself included, have stated a willingness to pay more for a more compelling ‘Pro’ offering).</p>
+<p>The Auxy team have historically been resistant to upgrading Auxy to something more deserving of the moniker “Pro” — and, afaik, have never explored the market potential of that level of upgrade. Their aim remains making an easy-to-use mini music production tool for hobbyists and beginners, which is fine, but doesn’t really gel with an app with “Pro” in the name.</p>
+<p>(Edit: I’ve just noticed they’ve dropped “Pro” from the app name. Guess they finally agreed that it probably wasn’t a good/honest naming tactic.)</p>
+<p>One of the additional possible benefits of access to the synth engine, and the ability to create — <em>and save/export</em> — new instrument packs could be opening it up to ‘side-loading’ sound packs, rather than only coming from Auxy’s internal instrument feeds.</p>
+<p>This feature could foster some much needed buzz and product differentiation for Auxy — and increase Auxy’s appeal to actual Pro music makers, who are generally happy to spend good money on good tools.</p>
+          <p><a href="https://disco.auxy.co/t/user-made-soundpacks/21846/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/user-made-soundpacks/21846/2</link>
+        <pubDate>Sun, 27 Mar 2022 13:04:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21846-2</guid>
+        <source url="https://disco.auxy.co/t/user-made-soundpacks/21846.rss">User-made Soundpacks?</source>
+      </item>
+      <item>
+        <title>User-made Soundpacks?</title>
+        <dc:creator><![CDATA[Riff]]></dc:creator>
+        <description><![CDATA[
+            <p>Now, I know you may think:<br>
+“Oh, but we have custom sounds!” or<br>
+“Just get some from the forum!”.<br>
+What I <em>mean</em> is that - digitally, this is - us producers could develop our own soundpacks inside of the app!</p>
+<p>You could have the choice of:<br>
+Collections of already existing sounds into - for example - a tool for certain genre sounds.<br>
+An entirely new pack for samples and new synths etc.<br>
+A mix of both.</p>
+<p>And, you could do it with drums or melodic sounds!<br>
+Plus, they would appear in the same menu as already-existing packs (or a toggleable button to switch between them).</p>
+<p>Just a suggestion, but maybe this could be introduced someday!</p>
+          <p><a href="https://disco.auxy.co/t/user-made-soundpacks/21846/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/user-made-soundpacks/21846/1</link>
+        <pubDate>Sun, 27 Mar 2022 11:38:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21846-1</guid>
+        <source url="https://disco.auxy.co/t/user-made-soundpacks/21846.rss">User-made Soundpacks?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Coral - Moments</title>
+    <link>https://disco.auxy.co/t/coral-moments/19300</link>
+    <description>https://soundcloud.com/koralmsc/moments</description>
+    
+    <lastBuildDate>Tue, 09 Jun 2020 08:25:10 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/coral-moments/19300.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Coral - Moments</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p>Welcome back bro!</p>
+          <p><a href="https://disco.auxy.co/t/coral-moments/19300/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/coral-moments/19300/2</link>
+        <pubDate>Tue, 09 Jun 2020 08:25:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19300-2</guid>
+        <source url="https://disco.auxy.co/t/coral-moments/19300.rss">Coral - Moments</source>
+      </item>
+      <item>
+        <title>Coral - Moments</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://soundcloud.com/koralmsc/moments" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/koralmsc/moments</a></p>
+          <p><a href="https://disco.auxy.co/t/coral-moments/19300/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/coral-moments/19300/1</link>
+        <pubDate>Tue, 09 Jun 2020 03:08:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19300-1</guid>
+        <source url="https://disco.auxy.co/t/coral-moments/19300.rss">Coral - Moments</source>
+      </item>
+  </channel>
+</rss>

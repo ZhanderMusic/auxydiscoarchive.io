@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tempo changes and time signatures</title>
+    <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099</link>
+    <description>I&#39;ve gotten into a lot of film scores as of late and changing tempo and time signatures are becoming bigger demands for me. I know a lot of users have requested these features in the past. Any chance these are things you have been working on for the near future? Or are these still lower down on the priority list?</description>
+    
+    <lastBuildDate>Fri, 25 Jan 2019 01:46:43 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="19" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/blakkaz/40/8448_2.png" class="avatar"> blakkaz:</div>
+<blockquote>
+<p>Are you not using Core Midi under the hood?</p>
+</blockquote>
+</aside>
+<p>From what I can gather from Auxy’s behavior and Lenberg’s own statements, I do not think they are using pure MIDI signals for their engine.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/26</link>
+        <pubDate>Fri, 25 Jan 2019 01:46:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-26</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[DHO]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t forget 7/4, 5/4, 5/8, and 17/16.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/25</link>
+        <pubDate>Thu, 24 Jan 2019 21:34:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-25</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Tree]]></dc:creator>
+        <description><![CDATA[
+            <p>7/8 is fun</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/24</link>
+        <pubDate>Thu, 24 Jan 2019 21:08:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-24</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>I just realized you were talking about time signatures and not tempo <img src="https://emoji.discourse-cdn.com/apple/man_facepalming.png?v=6" title=":man_facepalming:" class="emoji" alt=":man_facepalming:"></p>
+<p>In defense of the devs, sometimes code just “wont do the thing”, but i do agree that it doesn’t sound that ridiculous of a challenge. Maybe not options for ALL the time signatures, but having options such as 4/4, 3/4, and 6/8 would be good enough for 99% of producers.  <span class="spoiler"><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/23">spoiler</a></span></p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/23</link>
+        <pubDate>Thu, 24 Jan 2019 09:52:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-23</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Furthermore, and the point I was getting at, is that MIDI has no notion of measure.</p>
+<p>The following examples all sound the same, and are represented the same in a MIDI file:</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/cd83c76c57776320eacaaf0bf62e7fd51c06c0e7.png" alt="42%20pm" width="454" height="500"></p>
+<p>The only difference is how they are interpreted and displayed.</p>
+<p>The Core Midi framework handles most of this for you…<br>
+Which is why I’m confused about why an ‘extensive rewrite’ would be necessary?</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/22</link>
+        <pubDate>Thu, 24 Jan 2019 09:03:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-22</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="20" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/11468_2.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>Well then they’d have to add whatever tracks tempo to every scene you make, which would prob eat up some additional processing power, even if you dont change tempo at all.</p>
+</blockquote>
+</aside>
+<p>The tempo is already present in a MIDI file. No extra work required.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/21</link>
+        <pubDate>Thu, 24 Jan 2019 08:37:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-21</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>Well then they’d have to add whatever tracks tempo to every scene you make, which would prob eat up some additional processing power, even if you dont change tempo at all.  Like every scene’s tempo would have to be a new variable or something and if you have a lot of scenes, that’s going to be a lot of processing time.<br>
+Again just a guess, but how u set tempo currently probably just “standardizes” everything so it’s less of a process for your phone to run.</p>
+<p>also, coding is never just a few tweaks.  I can speak from experience on that one.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/20</link>
+        <pubDate>Thu, 24 Jan 2019 08:03:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-20</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="12" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>Various time signatures is obviously a common feature (request) but unfortunately it would require a pretty extensive rewrite of our engine, which is why we’re not prioritizing it.</p>
+</blockquote>
+</aside>
+<p>Are you not using Core Midi under the hood?</p>
+<p>I can’t wrap my head around how this would require an extensive rewrite…<br>
+Seems like it should only need some changes to how the UI is displayed?</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/19</link>
+        <pubDate>Thu, 24 Jan 2019 07:01:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-19</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah. This is how most other apps and DAWs I’ve seen do it. Which is cool, it’s just another channel. Maybe pack it in with those pocket operator style performance FX I’m dying for <img src="https://emoji.discourse-cdn.com/apple/stuck_out_tongue.png?v=6" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/18</link>
+        <pubDate>Wed, 23 Jan 2019 22:31:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-18</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Which is why I’d gladly take setting tempo by scene as opposed to introducing more things like this. Although to be honest I’d much rather have full automation control over it as it would be a multitude of times smoother.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/17</link>
+        <pubDate>Wed, 23 Jan 2019 22:30:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-17</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>cool, but not sure how that would be implemented.  You’d need like some kind of “master” automation channel or something.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/16</link>
+        <pubDate>Wed, 23 Jan 2019 22:29:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-16</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[anon2811266]]></dc:creator>
+        <description><![CDATA[
+            <p>The most interesting thing would probably be a tempo automation because why not.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/15</link>
+        <pubDate>Wed, 23 Jan 2019 22:23:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-15</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="12" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>I was specifically referring to tempo changes</p>
+</blockquote>
+</aside>
+<p>To be quite blunt, I don’t see how even that is an edge case to be honest. Why do you believe that it is? I’m genuinely curious as to what leads you to believe that such a powerful feature is considered an edge case.</p>
+<p>Even being able to set tempo by scene would be a huge advantage over other programs, and wouldn’t necessarily interfere with the workflow for most users by introducing new and/or “confusing” power-user options.</p>
+
+Slight rant, disregard if you aren't a programmer <a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/14">(click for more details)</a>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/14</link>
+        <pubDate>Wed, 23 Jan 2019 22:22:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-14</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[sad_muso]]></dc:creator>
+        <description><![CDATA[
+            <p>Just don’t get why you’d limit time sig to 4/4. I’m itching to do a song in 5/4!</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/13</link>
+        <pubDate>Wed, 23 Jan 2019 21:52:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-13</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>When I said edge case I was specifically referring to tempo changes. Various time signatures is obviously a common feature (request) but unfortunately it would require a pretty extensive rewrite of our engine, which is why we’re not prioritizing it. As mentioned, it’s fairly straightforward to to 3/4 with triplets if that’s what you’re looking for. So in practice we’ve got a lot of time signature bases covered already.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/12</link>
+        <pubDate>Wed, 23 Jan 2019 21:32:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-12</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>The possibilities would be waltz and fusion, no?</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/11</link>
+        <pubDate>Wed, 23 Jan 2019 21:28:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-11</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[sad_muso]]></dc:creator>
+        <description><![CDATA[
+            <p>I definitely would not consider something so basic as tine signatures as an ‘edge case’ - pretty much every DAW caters for this. I love Auxy but just imagine the possibilities you would open up by something presumably relatively simple to dev.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/10</link>
+        <pubDate>Tue, 22 Jan 2019 14:57:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-10</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Peregrihn]]></dc:creator>
+        <description><![CDATA[
+            <p>I used 6/8 in my track Losing Sleep by cutting down to six bar scenes and using triplets as quarter notes</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/9</link>
+        <pubDate>Wed, 05 Dec 2018 07:16:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-9</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://app.auxy.co/projects/JfbuDDYXAV9zem5I233tLQ==" class="onebox" target="_blank" rel="nofollow noopener">https://app.auxy.co/projects/JfbuDDYXAV9zem5I233tLQ==</a></p>
+<p>Here’s one method of brute forcing it</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/8</link>
+        <pubDate>Tue, 04 Dec 2018 20:17:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-8</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="6" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>You can technically brute force a tempo change or a time signature change into a song if you’re smart enough about it.</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="https://disco.auxy.co/u/otzsil">@Otzsil</a> was this the technique you used in <a href="https://soundcloud.com/otzsil/stratosphere" rel="nofollow noopener">Stratosphere</a> for the timing?</p>
+<p>I’ve spent some time looking around the demo and it looks like it’s using 3/4 time</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/7</link>
+        <pubDate>Tue, 04 Dec 2018 19:00:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-7</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>You can technically brute force a tempo change or a time signature change into a song if you’re smart enough about it. But it’s very limited and only works if it’s a “sensible” division like 2/3 of the tempo or 3/4. things like 7/8 would require different tempos entirely.</p>
+<p>If you need a demonstration, <a href="https://soundcloud.com/eslashe/ampersand" rel="nofollow noopener">I’ve done a song with one of these brute force tempo changes</a>. And no this isn’t intended as promo, the song really is more of a rough draft than anything else xD</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/6</link>
+        <pubDate>Tue, 04 Dec 2018 03:00:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-6</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="4" data-topic="13099">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>I’ve had that idea for quite a while now and it would solve a whole lot of problems in many aspects.</p>
+</blockquote>
+</aside>
+<p>That’s the problem right now, I have an idea of a song, but then up losing that idea because different time signatures, and tempo automation isn’t available.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/5</link>
+        <pubDate>Tue, 04 Dec 2018 02:55:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-5</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Still quite unfortunate that this is still seen as an edge case.</p>
+<p>Honestly, something that <em>could</em> be doable would be to set tempo by scene, no automation and stuff. I’ve had that idea for quite a while now and it would solve a whole lot of problems in many aspects. Theoretically, you could also set song key by scene, which would be a big help as well.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/4</link>
+        <pubDate>Tue, 04 Dec 2018 02:25:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-4</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>Just wondering, how hard is it to add new features into Auxy? I’m assuming you guys are using Swift, but I don’t know jack squat about it.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/3</link>
+        <pubDate>Mon, 03 Dec 2018 22:32:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-3</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+      <item>
+        <title>Tempo changes and time signatures</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Great for you that you’re developing down this path!</p>
+<p>For Auxy in general, this is still pretty much an edge case and thus we won’t prioritize it in the short term.</p>
+          <p><a href="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099/2</link>
+        <pubDate>Mon, 03 Dec 2018 19:48:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13099-2</guid>
+        <source url="https://disco.auxy.co/t/tempo-changes-and-time-signatures/13099.rss">Tempo changes and time signatures</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Demo for my new song!</title>
+    <link>https://disco.auxy.co/t/demo-for-my-new-song/21107</link>
+    <description>[Dirt featuring LILAC](https://app.auxy.co/projects/nMIhpY3SzgVjk_Lg0h8NVA==)</description>
+    
+    <lastBuildDate>Wed, 02 Jun 2021 02:20:54 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/demo-for-my-new-song/21107.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Demo for my new song!</title>
+        <dc:creator><![CDATA[Assasinerd]]></dc:creator>
+        <description><![CDATA[
+            <p>it’s ight</p>
+          <p><a href="https://disco.auxy.co/t/demo-for-my-new-song/21107/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/demo-for-my-new-song/21107/3</link>
+        <pubDate>Wed, 02 Jun 2021 02:20:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21107-3</guid>
+        <source url="https://disco.auxy.co/t/demo-for-my-new-song/21107.rss">Demo for my new song!</source>
+      </item>
+      <item>
+        <title>Demo for my new song!</title>
+        <dc:creator><![CDATA[L1me]]></dc:creator>
+        <description><![CDATA[
+            <p>2 much stuff at beginning cool tho</p>
+          <p><a href="https://disco.auxy.co/t/demo-for-my-new-song/21107/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/demo-for-my-new-song/21107/2</link>
+        <pubDate>Wed, 02 Jun 2021 01:40:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21107-2</guid>
+        <source url="https://disco.auxy.co/t/demo-for-my-new-song/21107.rss">Demo for my new song!</source>
+      </item>
+      <item>
+        <title>Demo for my new song!</title>
+        <dc:creator><![CDATA[SmackdownBeta]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://app.auxy.co/projects/nMIhpY3SzgVjk_Lg0h8NVA==" rel="noopener nofollow ugc">Dirt featuring LILAC</a></p>
+          <p><a href="https://disco.auxy.co/t/demo-for-my-new-song/21107/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/demo-for-my-new-song/21107/1</link>
+        <pubDate>Wed, 02 Jun 2021 00:57:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21107-1</guid>
+        <source url="https://disco.auxy.co/t/demo-for-my-new-song/21107.rss">Demo for my new song!</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AUXY to AUM? [Audio FLOW / InterAPP]</title>
+    <link>https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337</link>
+    <description>Hi Guys, is AUXY compatible with AUM (audio sharing / interApp..) ?
+Actually i am owning AudioBus and it is not recognized... Do you guess AUXY woul dbe updated in  this direction later? or any other suggestions?
+
+Thanks
+T./</description>
+    
+    <lastBuildDate>Fri, 20 Apr 2018 09:10:43 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>AUXY to AUM? [Audio FLOW / InterAPP]</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="2" data-topic="9337">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/arimyth/40/3892_1.png" class="avatar"> Arimyth:</div>
+<blockquote>
+<p>it’s definitely being pushed for by a lot of Auxy users.</p>
+</blockquote>
+</aside>
+<p>That’s possibly an over-statement.<br>
+It’s true there are a good handful of users on this forum who have expressed that they’d like to see it return to Auxy. But, even as a % of total members here, it’s relatively small. One might assume that 90%+ of Auxy users aren’t on this forum. So, as a % of all Auxy users, it’s tiny.</p>
+<p>…unless there’s another feedback channel that Auxy is listening to.</p>
+<p>Point being, I think requests for MIDI i/o, AudioBus, etc… support is still some distance away from reaching a critical mass (where it makes good business sense to spend money [re-]supporting it).</p>
+<p>The additional obstacle is that Lenberg believes that inter-app functionality isn’t the way forward. So, we’d need to break through his philosophical objection to supporting MIDI i/o, AudioBus, etc… first.</p>
+<p>But, who knows, maybe they’ll surprise us. <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/4</link>
+        <pubDate>Fri, 20 Apr 2018 09:10:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-9337-4</guid>
+        <source url="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337.rss">AUXY to AUM? [Audio FLOW / InterAPP]</source>
+      </item>
+      <item>
+        <title>AUXY to AUM? [Audio FLOW / InterAPP]</title>
+        <dc:creator><![CDATA[TH3_WH4L3]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea, there’s no inner-app support with Auxy. However, you can import your Auxy song as a .wav file into audiobus, chop it up into samples and audio paste each sample into another app (iMaschine 2, Launchpad or GarageBand are great examples).</p>
+          <p><a href="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/3</link>
+        <pubDate>Fri, 20 Apr 2018 08:35:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-9337-3</guid>
+        <source url="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337.rss">AUXY to AUM? [Audio FLOW / InterAPP]</source>
+      </item>
+      <item>
+        <title>AUXY to AUM? [Audio FLOW / InterAPP]</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>Auxy does not have MIDI support or the ability to connect to external apps through audio sharing platforms, including AudioBus.</p>
+<p>It’s not really known whether Auxy will support it in the future, although it’s definitely being pushed for by a lot of Auxy users.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/2</link>
+        <pubDate>Fri, 20 Apr 2018 07:51:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-9337-2</guid>
+        <source url="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337.rss">AUXY to AUM? [Audio FLOW / InterAPP]</source>
+      </item>
+      <item>
+        <title>AUXY to AUM? [Audio FLOW / InterAPP]</title>
+        <dc:creator><![CDATA[GUMMOGLICH]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Guys, is AUXY compatible with AUM (audio sharing / interApp…) ?<br>
+Actually i am owning AudioBus and it is not recognized… Do you guess AUXY woul dbe updated in  this direction later? or any other suggestions?</p>
+<p>Thanks<br>
+T./</p>
+          <p><a href="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337/1</link>
+        <pubDate>Fri, 20 Apr 2018 07:40:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-9337-1</guid>
+        <source url="https://disco.auxy.co/t/auxy-to-aum-audio-flow-interapp/9337.rss">AUXY to AUM? [Audio FLOW / InterAPP]</source>
+      </item>
+  </channel>
+</rss>

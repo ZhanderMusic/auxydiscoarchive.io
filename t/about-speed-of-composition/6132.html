@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>About Speed of Composition - Production Talk - Auxy Disco</title>
+<meta content="Please tell me how to make a song quickly. 
+I would like to refer to your opinions as a bit reference. 
+HELP ME" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="6132.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="6132.rss" rel="alternate nofollow" title="RSS feed of 'About Speed of Composition'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" property="og:image"/>
+<meta content="index.htmlt/about-speed-of-composition/6132" property="og:url"/>
+<meta content="index.htmlt/about-speed-of-composition/6132" name="twitter:url"/>
+<meta content="About Speed of Composition" property="og:title"/>
+<meta content="About Speed of Composition" name="twitter:title"/>
+<meta content="Please tell me how to make a song quickly.  I would like to refer to your opinions as a bit reference.  HELP ME" property="og:description"/>
+<meta content="Please tell me how to make a song quickly.  I would like to refer to your opinions as a bit reference.  HELP ME" name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="2 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="41 ❤"/>
+<meta content="2018-01-12T12:32:07+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="6132.html">About Speed of Composition</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="c/music/12.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #0E76BD"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Production Talk</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_1" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/anon38751485.html" itemprop="url"><span itemprop="name">anon38751485</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T12:32:07Z" itemprop="datePublished">
+                January 12, 2018, 12:32pm
+              </time>
+<meta content="2018-01-13T04:41:09Z" itemprop="dateModified"/>
+<span itemprop="position">#1</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Please tell me how to make a song quickly.</p>
+<p>I would like to refer to your opinions as a bit reference.</p>
+<p><strong>HELP ME</strong></p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_2" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T12:37:01Z" itemprop="datePublished">
+                January 12, 2018, 12:37pm
+              </time>
+<meta content="2018-01-12T12:37:01Z" itemprop="dateModified"/>
+<span itemprop="position">#2</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Quality, not quantity.<br/>
+It’s not a race.</p>
+<p>It takes as long as it takes.<br/>
+Sometimes I’ll have an idea in the morning, potter about with it for a few mins here and there – and have something for SC by the evening.</p>
+<p>Others takes weeks, possibly months.</p>
+<p> <br/>
+Why might some users be angry at you?<br/>
+(Not producing enough material for their liking?)</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="12" itemprop="userInteractionCount"/>
+<span class="post-likes">12 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_4" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T12:48:20Z" itemprop="datePublished">
+                January 12, 2018, 12:48pm
+              </time>
+<meta content="2018-01-12T12:48:20Z" itemprop="dateModified"/>
+<span itemprop="position">#4</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Who’s angry at you? D:</p>
+<p>Amazingness takes time, don’t rush yourself. The true thing that can help improve productivity in composition is practice. If you’re a perfectionist, that takes more time. Don’t beat yourself up over it. Your music is seriously cool, especially the RAC demo remix!</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_5" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/LittleSpikes.html" itemprop="url"><span itemprop="name">LittleSpikes</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T13:59:30Z" itemprop="datePublished">
+                January 12, 2018,  1:59pm
+              </time>
+<meta content="2018-01-12T13:59:30Z" itemprop="dateModified"/>
+<span itemprop="position">#5</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>個人的には時間かかってもカヤショーさんみたいなかっこいい音楽が作れる方法を教えてほしい…</p>
+<p>I rather want you to tell us how to make really cool stuff like your works even it is time consuming…</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_6" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/anon38751485.html" itemprop="url"><span itemprop="name">anon38751485</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T22:07:56Z" itemprop="datePublished">
+                January 12, 2018, 10:07pm
+              </time>
+<meta content="2018-01-12T22:07:56Z" itemprop="dateModified"/>
+<span itemprop="position">#6</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Thanks.</p>
+<p>Perhaps you are right.<br/>
+I can’t easily satisfy with my songs.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_7" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Db909.html" itemprop="url"><span itemprop="name">Db909</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T22:30:51Z" itemprop="datePublished">
+                January 12, 2018, 10:30pm
+              </time>
+<meta content="2018-01-12T22:30:51Z" itemprop="dateModified"/>
+<span itemprop="position">#7</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Would you be faster if you were able to record melodies/rhythms live into Auxy loops via some kind of key/touchpad within the app?  Cause this would really do it for me.  I love Auxy, love the sounds, love the engine, automation, but it honestly takes me so much more time to make a song in Auxy than in some of the other apps I use with this capability.  And my output is less than it could be as a result.  But those apps don’t have the sheer sonic power of Auxy.  Cmon <a class="mention" href="../../u/Auxy.html">@Auxy</a>, in 2018 let’s get a playing surface w/recording in Auxy!  And please let me test it, I’m sure it will be awesome as everything else.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_8" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/BlaMeese.html" itemprop="url"><span itemprop="name">BlaMeese</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T23:00:37Z" itemprop="datePublished">
+                January 12, 2018, 11:00pm
+              </time>
+<meta content="2018-01-12T23:00:37Z" itemprop="dateModified"/>
+<span itemprop="position">#8</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Sometimes inspiration comes to you. Last night I had a really good idea so I stayed up late to finish. On one of my other tracks I spent about 2 weeks on it and it wasn’t even my best work. It’s all about making it the way you like it.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_9" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/MrSerpent.html" itemprop="url"><span itemprop="name">MrSerpent</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-12T23:11:45Z" itemprop="datePublished">
+                January 12, 2018, 11:11pm
+              </time>
+<meta content="2018-01-12T23:11:45Z" itemprop="dateModified"/>
+<span itemprop="position">#9</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I definitely agree with this statement. Couldn’t be truer, the same things happen for me. I made my best songs in hours/days and my mediocre ones in days/weeks</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="7" itemprop="userInteractionCount"/>
+<span class="post-likes">7 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_10" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/LimeZ.html" itemprop="url"><span itemprop="name">LimeZ</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T02:21:28Z" itemprop="datePublished">
+                January 13, 2018,  2:21am
+              </time>
+<meta content="2018-01-13T02:21:28Z" itemprop="dateModified"/>
+<span itemprop="position">#10</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yeah, my latest song, Ruthless, took about 2-3 hours.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_11" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/El1011.html" itemprop="url"><span itemprop="name">El1011</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T02:29:33Z" itemprop="datePublished">
+                January 13, 2018,  2:29am
+              </time>
+<meta content="2018-01-13T02:29:33Z" itemprop="dateModified"/>
+<span itemprop="position">#11</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Pretty much as everyone else has said. But it’s all about inspiration. If ur motivated, noting can stop you. Varíen finished a whole album in 10 days, meanwhile PsoGnar and Teminite spent about a year working on an EP.</p>
+<p>It’s about what u got flowin at the moment and sometimes they are spaced out and sometimes they all come crashing down all at once</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_12" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/anon38751485.html" itemprop="url"><span itemprop="name">anon38751485</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:22:08Z" itemprop="datePublished">
+                January 13, 2018,  4:22am
+              </time>
+<meta content="2018-01-13T04:22:08Z" itemprop="dateModified"/>
+<span itemprop="position">#12</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>早ぇ〜し！笑<br/>
+SO FAST LOL</p>
+<p>Its impossible for me.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_13" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:26:14Z" itemprop="datePublished">
+                January 13, 2018,  4:26am
+              </time>
+<meta content="2018-01-13T04:26:14Z" itemprop="dateModified"/>
+<span itemprop="position">#13</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<div class="lazyYT" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque" data-width="480" data-youtube-id="0ppaiQ6mhbE" data-youtube-title="Toy Story 2 You Can't Rush Art"></div>
+<p>Don’t rush yourself man. I’m excited for your upcoming tracks!</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_14" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/SpaghettiSauce.html" itemprop="url"><span itemprop="name">SpaghettiSauce</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:37:19Z" itemprop="datePublished">
+                January 13, 2018,  4:37am
+              </time>
+<meta content="2018-01-13T04:37:19Z" itemprop="dateModified"/>
+<span itemprop="position">#14</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>All I can say is, don’t rush it. If that not what you like, don’t do it.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_15" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Arimyth.html" itemprop="url"><span itemprop="name">Arimyth</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:47:45Z" itemprop="datePublished">
+                January 13, 2018,  4:47am
+              </time>
+<meta content="2018-01-13T04:47:45Z" itemprop="dateModified"/>
+<span itemprop="position">#15</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>You shouldn’t try to force something to be finished quickly.</p>
+<p>Often times I’ll have an idea, get it down, think it to be garbage, come back to it a couple months later and be inspired again to finish it (currently happening right now).</p>
+<p>Other times I’ll have a flood of ideas and work on a song consistently and get it to 90-95%, with only finishing touches being needed. (happened with my track Enigma).</p>
+<p>The point is that you should go with the flow of whatever track you’re making and not focus on how long it takes. Unless you are going to pursue music production as a profession, you don’t really need a defined schedule or feel obligated to post a flood of tracks.</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_16" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Dj_Peloton.html" itemprop="url"><span itemprop="name">Dj_Peloton</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:48:09Z" itemprop="datePublished">
+                January 13, 2018,  4:48am
+              </time>
+<meta content="2018-01-13T04:48:09Z" itemprop="dateModified"/>
+<span itemprop="position">#16</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>It has taken me about four hrs rn for making a trap song</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_17" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/MrSerpent.html" itemprop="url"><span itemprop="name">MrSerpent</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:48:41Z" itemprop="datePublished">
+                January 13, 2018,  4:48am
+              </time>
+<meta content="2018-01-13T04:48:41Z" itemprop="dateModified"/>
+<span itemprop="position">#17</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Finished your car ride? <img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/></p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_18" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Dj_Peloton.html" itemprop="url"><span itemprop="name">Dj_Peloton</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:49:53Z" itemprop="datePublished">
+                January 13, 2018,  4:49am
+              </time>
+<meta content="2018-01-13T04:49:53Z" itemprop="dateModified"/>
+<span itemprop="position">#18</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Ya…</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_19" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Dj_Peloton.html" itemprop="url"><span itemprop="name">Dj_Peloton</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:50:10Z" itemprop="datePublished">
+                January 13, 2018,  4:50am
+              </time>
+<meta content="2018-01-13T04:50:10Z" itemprop="dateModified"/>
+<span itemprop="position">#19</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Thx for noticing</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_20" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Dj_Peloton.html" itemprop="url"><span itemprop="name">Dj_Peloton</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:52:00Z" itemprop="datePublished">
+                January 13, 2018,  4:52am
+              </time>
+<meta content="2018-01-13T04:52:00Z" itemprop="dateModified"/>
+<span itemprop="position">#20</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>WAit… howd you know</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_21" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Dj_Peloton.html" itemprop="url"><span itemprop="name">Dj_Peloton</span></a>
+</span>
+<link href="6132.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-01-13T04:52:08Z" itemprop="datePublished">
+                January 13, 2018,  4:52am
+              </time>
+<meta content="2018-01-13T04:52:08Z" itemprop="dateModified"/>
+<span itemprop="position">#21</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Wait nvm</p>
+</div>
+<meta content="About Speed of Composition" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

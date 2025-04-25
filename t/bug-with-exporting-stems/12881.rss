@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug with exporting stems</title>
+    <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881</link>
+    <description>![image|690x464](upload://9AzCK4Un1EfknOnBQ2sqx1PxT8G.png) 
+
+I&#39;ve mentioned this before, but it&#39;s the first time I&#39;m actually documenting what I&#39;m talking about. Specifically because this ZIP file is nearly 300MB large. Every time I have to re-render all of that when this sort of thing happens. I&#39;ve spent the last hour exporting the same file with slight changes each time only to find out that my last export fell victim to the bounce bug. 
+
+More options would be nice when exporting, such as selecting _which_ stems export would be very helpful, as well as fixing whatever bug that is causing this to occur @Fredrik @Auxy</description>
+    
+    <lastBuildDate>Tue, 20 Nov 2018 14:51:37 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="7" data-topic="12881">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>What happened?</p>
+</blockquote>
+</aside>
+<p>The export failed to rename stems, glitching out and producing “Bounce-#####” instead.</p>
+<p>Also, a general frustration with how stem exporting doesn’t have as many features as I personally would like, with some suggestions to helping improve it in the future.</p>
+<aside class="quote no-group" data-username="Auxy" data-post="7" data-topic="12881">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>Also, we prefer if you send any bug reports to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> instead.</p>
+</blockquote>
+</aside>
+<p>I suppose this is why the thread was hidden. I’ll keep that in mind when I next experience a similar bug where a specific track fails to render in the export stems, which has only happened once and I’ve failed to recreate and cannot demonstrate aside from saying “it happened”.</p>
+<aside class="quote no-group" data-username="Auxy" data-post="7" data-topic="12881">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>Thanks!</p>
+</blockquote>
+</aside>
+<p>Thanks as well.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/8</link>
+        <pubDate>Tue, 20 Nov 2018 14:51:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-8</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="5" data-topic="12881">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>The only thing that is wrong is in fact the renaming, which I am not entirely sure why it happened but this is certainly not the first time this has happened to me.</p>
+</blockquote>
+</aside>
+<p>What happened?</p>
+<p>Also, we prefer if you send any bug reports to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> instead.</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/7</link>
+        <pubDate>Tue, 20 Nov 2018 10:03:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-7</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/6</link>
+        <pubDate>Tue, 20 Nov 2018 10:03:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-6</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>The only thing that is wrong is in fact the renaming, which I am not entirely sure why it happened but this is certainly not the first time this has happened to me.</p>
+<p>The part about having to constantly export nearly 300 MB of data for one small change to a single part tends to just get rather frustrating at times, as it takes time away from actually working on the music I’ve exported. Hoping to see more features in exporting stems in the future.</p>
+
+From another post with potential upgrades <a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/5">(click for more details)</a>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/5</link>
+        <pubDate>Mon, 19 Nov 2018 16:23:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-5</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[Fredrik]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for reporting this! Could you elaborate on what is actually wrong here except for the naming? Are there too many stems? 300 MB doesn’t sound unreasonable for all stems.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/4</link>
+        <pubDate>Mon, 19 Nov 2018 07:28:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-4</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I know what you’re talking about with that, however I doubt it’s a PC thing because those are the contents of the ZIP file itself. It’d be that way on a mac too.</p>
+<p>As for the notification thing, I know exactly what you’re talking about and I’ve had that happen before. I disabled notifications on the device I export stems from for a reason after all. It’s not that.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/3</link>
+        <pubDate>Fri, 16 Nov 2018 19:50:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-3</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>wack i’ve never had this problem actually.  Perhaps its only an issue when going to pc? idk.</p>
+<p>But i have had issues where the files dont all bounce out and that’s because on the “rendering” bar screen sometimes a notification will come up and that’s what stops the render.  Maybe that’s what’s happening here?</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/2</link>
+        <pubDate>Fri, 16 Nov 2018 19:41:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-2</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+      <item>
+        <title>Bug with exporting stems</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4335f8d1bddbbad682f34a2dda10fac8bdbe983e.png" title="image.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4335f8d1bddbbad682f34a2dda10fac8bdbe983e.png" alt="image" width="690" height="464" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4335f8d1bddbbad682f34a2dda10fac8bdbe983e_2_10x10.png"></a></div><p></p>
+<p>I’ve mentioned this before, but it’s the first time I’m actually documenting what I’m talking about. Specifically because this ZIP file is nearly 300MB large. Every time I have to re-render all of that when this sort of thing happens. I’ve spent the last hour exporting the same file with slight changes each time only to find out that my last export fell victim to the bounce bug.</p>
+<p>More options would be nice when exporting, such as selecting <em>which</em> stems export would be very helpful, as well as fixing whatever bug that is causing this to occur <a class="mention" href="https://disco.auxy.co/u/fredrik">@Fredrik</a> <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a></p>
+          <p><a href="https://disco.auxy.co/t/bug-with-exporting-stems/12881/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-exporting-stems/12881/1</link>
+        <pubDate>Fri, 16 Nov 2018 18:45:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12881-1</guid>
+        <source url="https://disco.auxy.co/t/bug-with-exporting-stems/12881.rss">Bug with exporting stems</source>
+      </item>
+  </channel>
+</rss>

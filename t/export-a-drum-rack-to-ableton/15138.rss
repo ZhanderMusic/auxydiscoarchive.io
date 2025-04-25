@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Export a drum rack to Ableton?</title>
+    <link>https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138</link>
+    <description>Thanks for adding ableton export, it’s great!
+
+Is it possible to export the drum/samples as racks themselves into Ableton (Each sample having independent parameters such as volumes, etc)?</description>
+    
+    <lastBuildDate>Thu, 25 Apr 2019 07:44:20 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Export a drum rack to Ableton?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Ableton doesn’t support this but we’re hoping that they’ll add it in the future so that we can implement the feature.</p>
+          <p><a href="https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138/2</link>
+        <pubDate>Thu, 25 Apr 2019 07:44:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15138-2</guid>
+        <source url="https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138.rss">Export a drum rack to Ableton?</source>
+      </item>
+      <item>
+        <title>Export a drum rack to Ableton?</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for adding ableton export, it’s great!</p>
+<p>Is it possible to export the drum/samples as racks themselves into Ableton (Each sample having independent parameters such as volumes, etc)?</p>
+          <p><a href="https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138/1</link>
+        <pubDate>Fri, 19 Apr 2019 07:39:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15138-1</guid>
+        <source url="https://disco.auxy.co/t/export-a-drum-rack-to-ableton/15138.rss">Export a drum rack to Ableton?</source>
+      </item>
+  </channel>
+</rss>

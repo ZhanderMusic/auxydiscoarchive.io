@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Shepard Tones in Auxy</title>
+    <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932</link>
+    <description>Hey!
+
+I was fiddling around &amp; ended up sorta recreating a Shepard Tone (in Auxy, of course). If you don&#39;t know what a Shepard Tone is, you can read about it [here](https://en.wikipedia.org/wiki/Shepard_tone). Apparently a true Shepard tone uses sine waves, so this may not be _pure_, but it has the same illusion. As for production, I filled a 1-bar pattern with 32nd notes, duplicated the instrument, and did some automation:
+
+First pattern:
+- Pitch -100% to 0%
+- Volume 0% to 100%
+
+Second pattern:
+- Pitch 0% to 100%
+- Volume 100% to 0%
+
+Ran into some problems because Auxy&#39;s volume automation isn&#39;t linear, so I slightly adjusted the volume automation (made a fake curve) to fit.
+
+:soundcloud: Listen: 
+https://soundcloud.com/stereofld/shepard/s-gjdx9
+
+:auxy: Open the project:
+https://app.auxy.co/projects/VR0utj8xkaMFP4jTPyiw5Q==</description>
+    
+    <lastBuildDate>Sun, 31 Mar 2019 19:11:05 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[stereofield]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, sorta. The recurring theme in Dunkirk (<a href="https://www.youtube.com/watch?v=KKkCP7ovMQA" rel="nofollow noopener">The Oil</a>) uses it, though it’s not a pitch shift, just a bunch of notes going up and up (on the bassline).</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/19</link>
+        <pubDate>Sun, 31 Mar 2019 19:11:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-19</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Yaad]]></dc:creator>
+        <description><![CDATA[
+            <p>dude the project made my app crash <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=6" title=":joy:" class="emoji" alt=":joy:"></p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/18</link>
+        <pubDate>Sun, 10 Feb 2019 00:39:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-18</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[stereofield]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, I’ve seen that site before. It uses the same effect, pretty convincing too.</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/17</link>
+        <pubDate>Sat, 09 Feb 2019 23:24:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-17</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Trey]]></dc:creator>
+        <description><![CDATA[
+            <p></p><aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="http://www.fallingfalling.com" target="_blank" rel="nofollow noopener">fallingfalling</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/443;"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/1eac99dcef6fa3406b308aa862efb8429853131e.png" class="thumbnail"></div>
+
+<h3><a href="http://www.fallingfalling.com" target="_blank" rel="nofollow noopener">collection of hampus lindwall, falling falling .com by rafaël rozendaal, 2011....</a></h3>
+
+<p>FALLING FALLING .COM BY RAFAEL ROZENDAAL - 2011 - WWW.NEWRAFAEL.COM, CODE BY REINIER FEIJEN - WWW.BOXOFCHOCOLATES.NL, COLLECTION OF HAMPUS LINDWALL, SOUND BY GLOUMOTH - HTTP://GLOUMOUTH1.FREE.FR</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+Reminds me of this…<br>
+Anybody recognize it?.<br>
+(I think you have to tap the screen once the page loads on mobile for sound)<p></p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/16</link>
+        <pubDate>Sat, 09 Feb 2019 23:22:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-16</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>august 2017<br>
+Ok</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/15</link>
+        <pubDate>Tue, 05 Feb 2019 22:05:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-15</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://emoji.discourse-cdn.com/apple/joy.png?v=6" title=":joy:" class="emoji" alt=":joy:"><img src="https://emoji.discourse-cdn.com/apple/skull.png?v=6" title=":skull:" class="emoji" alt=":skull:"> lol</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/14</link>
+        <pubDate>Tue, 05 Feb 2019 20:19:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-14</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[eohr]]></dc:creator>
+        <description><![CDATA[
+            <p>Is the volume automation by decibels (logarithmic)?</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/13</link>
+        <pubDate>Tue, 05 Feb 2019 19:47:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-13</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[eohr]]></dc:creator>
+        <description><![CDATA[
+            <p>well, kinda…</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/12</link>
+        <pubDate>Tue, 05 Feb 2019 19:03:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-12</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/0/0eda788b2bbf28683de0700c849e5907ab76d940.jpeg" alt="Image result for thx logo" width="480" height="360"></p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/11</link>
+        <pubDate>Tue, 05 Feb 2019 18:58:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-11</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[kheeshKP]]></dc:creator>
+        <description><![CDATA[
+            <p>Reminds me of pamtri lol</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/10</link>
+        <pubDate>Tue, 05 Feb 2019 17:41:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-10</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <p>LOL</p>
+<p>Nice one, I tried this actually but I used notes instead of a pitch bend so it didn’t really work <img src="https://emoji.discourse-cdn.com/apple/stuck_out_tongue_closed_eyes.png?v=6" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"></p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/9</link>
+        <pubDate>Tue, 05 Feb 2019 17:03:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-9</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>I can’t listen right now, but I thought I should probably pop this post from the thread <a href="https://disco.auxy.co/t/cool-sound-illusion/1583/3" class="inline-onebox">Cool Sound Illusion</a> from <a class="mention" href="https://disco.auxy.co/u/azureonyx">@AzureOnyx</a> here…</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/8</link>
+        <pubDate>Tue, 05 Feb 2019 16:57:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-8</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[DHO]]></dc:creator>
+        <description><![CDATA[
+            <p>This is so cool.</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/7</link>
+        <pubDate>Tue, 05 Feb 2019 16:02:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-7</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Fuujiya]]></dc:creator>
+        <description><![CDATA[
+            <p>Wow that sounded weird as hell. Cool find tho lol</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/6</link>
+        <pubDate>Tue, 05 Feb 2019 15:45:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-6</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Cornea]]></dc:creator>
+        <description><![CDATA[
+            <p>Still waiting for the drop</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/5</link>
+        <pubDate>Tue, 05 Feb 2019 14:15:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-5</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Jax]]></dc:creator>
+        <description><![CDATA[
+            <p>this could make a cool effect inn some future bass or dubstep songs</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/4</link>
+        <pubDate>Tue, 05 Feb 2019 13:48:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-4</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[Produk]]></dc:creator>
+        <description><![CDATA[
+            <p>P sure these are the things that Christopher Nolan uses in his movies for intense scenes? Like in Dunkirk?</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/3</link>
+        <pubDate>Tue, 05 Feb 2019 13:33:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-3</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>My man, very cool. I never knew the name of the sound but was familiar with the sound itself. I love seeing this kind of stuff, it’s researchy, it’s fun, and it’s a great exercise.</p>
+<p>Good job <a class="mention" href="https://disco.auxy.co/u/stereofield">@stereofield</a>!</p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/2</link>
+        <pubDate>Tue, 05 Feb 2019 12:25:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-2</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+      <item>
+        <title>Shepard Tones in Auxy</title>
+        <dc:creator><![CDATA[stereofield]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey!</p>
+<p>I was fiddling around &amp; ended up sorta recreating a Shepard Tone (in Auxy, of course). If you don’t know what a Shepard Tone is, you can read about it <a href="https://en.wikipedia.org/wiki/Shepard_tone" rel="nofollow noopener">here</a>. Apparently a true Shepard tone uses sine waves, so this may not be <em>pure</em>, but it has the same illusion. As for production, I filled a 1-bar pattern with 32nd notes, duplicated the instrument, and did some automation:</p>
+<p>First pattern:</p>
+<ul>
+<li>Pitch -100% to 0%</li>
+<li>Volume 0% to 100%</li>
+</ul>
+<p>Second pattern:</p>
+<ul>
+<li>Pitch 0% to 100%</li>
+<li>Volume 100% to 0%</li>
+</ul>
+<p>Ran into some problems because Auxy’s volume automation isn’t linear, so I slightly adjusted the volume automation (made a fake curve) to fit.</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/abca85bee674e24cdec3d618929a972b299cea54.png?v=6" title=":soundcloud:" class="emoji emoji-custom" alt=":soundcloud:"> Listen:<br>
+<a href="https://soundcloud.com/stereofld/shepard/s-gjdx9" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/stereofld/shepard/s-gjdx9</a></p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/1X/691592d2cec985aca452b49a7c1b3bea1d825701.png?v=6" title=":auxy:" class="emoji emoji-custom" alt=":auxy:"> Open the project:<br>
+<a href="https://app.auxy.co/projects/VR0utj8xkaMFP4jTPyiw5Q==" class="onebox" target="_blank" rel="nofollow noopener">https://app.auxy.co/projects/VR0utj8xkaMFP4jTPyiw5Q==</a></p>
+          <p><a href="https://disco.auxy.co/t/shepard-tones-in-auxy/13932/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shepard-tones-in-auxy/13932/1</link>
+        <pubDate>Tue, 05 Feb 2019 12:16:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13932-1</guid>
+        <source url="https://disco.auxy.co/t/shepard-tones-in-auxy/13932.rss">Shepard Tones in Auxy</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Connecting my iPhone to my Windows laptop</title>
+    <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317</link>
+    <description>Hi all, I was wondering if anyone here knew how to get Audacity running on Windows 10 to record sounds being output from my iPhone, aka Auxy. I&#39;ve done some digging through the Audacity forums and the best I&#39;ve found is to use this [item](https://www.amazon.com/gp/product/B000KW2YEI/ref=ask_ql_qh_dp_hza). Does anyone have any suggestions or can confirm that using that converter would work?</description>
+    
+    <lastBuildDate>Mon, 23 Oct 2017 01:44:41 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>i’ve gotten it to record through there. It doesn’t “Recognize” anything but if you hit record on audacity it will load it. And it’s the best you’re going to get with Auxy. Perhaps <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> could add something in the future for this</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/12</link>
+        <pubDate>Mon, 23 Oct 2017 01:44:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-12</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve tried, it’s both a headphone and mic jack. It won’t just switch to that plug in because it’s not detecting the phone. Even if it did work, the sound wouldn’t be very clean anyways.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/11</link>
+        <pubDate>Mon, 23 Oct 2017 01:36:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-11</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>if you have a microphone jack on your computer, use an auxiliary cable to plug in both the iPad/iPhone and the jack. If you then hit record it will recognize it as audio input. If you do not have one of those you cannot do this.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/10</link>
+        <pubDate>Mon, 23 Oct 2017 01:31:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-10</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>The trouble is that my computer cannot detect my phone as a device it can record. That’s why I wanna know if the device I mentioned would be useful. In theory, I could use it as a sort of translator where it would take the sound put out from my phone and input to my computer as a device my computer can detect.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/9</link>
+        <pubDate>Mon, 23 Oct 2017 00:38:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-9</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not sure what you mean.<br>
+Edit: No I don’t.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/8</link>
+        <pubDate>Mon, 23 Oct 2017 00:27:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-8</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Use an auxilary cabel and plug your iphone speakers into the microphone port on your computer. It will only be in stereo but it’s your best option.</p>
+<p>Also you wouldn’t be able to really play it live, that really doesn’t work very well.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/7</link>
+        <pubDate>Sun, 22 Oct 2017 04:14:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-7</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you have an audio interface?</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/6</link>
+        <pubDate>Sun, 22 Oct 2017 03:48:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-6</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s exactly it. It’s alright. Thanks for the input anyways.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/5</link>
+        <pubDate>Sun, 22 Oct 2017 02:15:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-5</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <p>By record it live you mean route your iPhone into Audacity and/or record what you’re doing on your iPhone, right? Like live mixing from the original Auxy?</p>
+<p>If so, can’t help you. Sorry man.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/4</link>
+        <pubDate>Sun, 22 Oct 2017 02:15:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-4</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>I want to try and record it live in order to have more control over the effects.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/3</link>
+        <pubDate>Sun, 22 Oct 2017 02:13:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-3</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <p>Best thing to do in this situation for a rendered project:</p>
+<p>Export an uncompressed wav from Auxy<br>
+Import it into google drive in app<br>
+Download it on PC<br>
+Import it into Audacity</p>
+<p>Idk if you were talking about live projects into Audacity (which I know nothing about) so this is the method that I would use from what you mentioned.</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/2</link>
+        <pubDate>Sun, 22 Oct 2017 02:01:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-2</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+      <item>
+        <title>Connecting my iPhone to my Windows laptop</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi all, I was wondering if anyone here knew how to get Audacity running on Windows 10 to record sounds being output from my iPhone, aka Auxy. I’ve done some digging through the Audacity forums and the best I’ve found is to use this <a href="https://www.amazon.com/gp/product/B000KW2YEI/ref=ask_ql_qh_dp_hza">item</a>. Does anyone have any suggestions or can confirm that using that converter would work?</p>
+          <p><a href="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317/1</link>
+        <pubDate>Sun, 22 Oct 2017 01:54:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3317-1</guid>
+        <source url="https://disco.auxy.co/t/connecting-my-iphone-to-my-windows-laptop/3317.rss">Connecting my iPhone to my Windows laptop</source>
+      </item>
+  </channel>
+</rss>

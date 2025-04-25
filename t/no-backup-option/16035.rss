@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>No backup option?</title>
+    <link>https://disco.auxy.co/t/no-backup-option/16035</link>
+    <description>I Just reset my phone and can no longer see any auto backup from iCloud. iCloud is on backup is on. I can only import the project one by one from Files</description>
+    
+    <lastBuildDate>Fri, 19 Jul 2019 08:07:58 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/no-backup-option/16035.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>When you import a sample, it scans the audio file and makes an identifier. Those identifiers are stored in the project. So when you open a project, it will look through the pool of samples and see if it can find a sample with the right identifiers. Ie this is regardless of path etc. So it should “just work” as long as you have the samples somewhere in your library.</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/12</link>
+        <pubDate>Fri, 19 Jul 2019 08:07:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-12</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok.  Let’s say I want to install Auxy on a new device. I have all my projects backed up in one folder in the cloud/dropbox, and I have all my samples in another folder. Now what do I need to do to be able to open these projects in Auxy on the new device with all the samples loading correctly?</p>
+<p>Really hope the answer isn’t I have to go back and re-load the samples one by one, because I  arm easily using a couple dozen samples per project these days…</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/11</link>
+        <pubDate>Fri, 19 Jul 2019 07:50:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-11</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, I second this question, if I have all my projects backed up and the sample library backed up separately in Dropbox, when I load those two folders onto a new device, will I be able to open projects with samples loading properly? If it means going back and having to do them one by one, that is going to be a nightmare.</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/10</link>
+        <pubDate>Fri, 05 Jul 2019 06:56:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-10</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I found this and a third grab shows a function-</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5.jpeg" title="7098DA19-D6B1-4245-8375-8B96355F95A1.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5_2_620x499.jpeg" alt="image" data-base62-sha1="6anWHySX3p6CNNlYHp0LNvJ20gR" width="620" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5_2_620x499.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/2b399a9317a2bf22ba0b39a712c5cd1c05716bb5_2_10x10.png"></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd.jpeg" title="A82D06A0-09F8-49CD-BA6C-AE147F343019.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd_2_231x500.jpeg" alt="image" data-base62-sha1="349UzKqmP6qDcjwaPha21oe6T0N" width="231" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd_2_231x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd_2_346x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd_2_462x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/157ee6d60de008bd917a9b017e070dbcc093ecfd_2_10x10.png"></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530.jpeg" title="3C8A2DAC-1BC2-4C32-86C5-AE7188EDC7CC.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530_2_690x306.jpeg" alt="image" data-base62-sha1="8tERkY9yPUpEpLZN0aKXk06dXZ6" width="690" height="306" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530_2_690x306.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/3b6bac6e6705cebeb4e4e010f4472230ec1ad530_2_10x10.png"></a></div><p></p>
+<p>(I swiped left on the Imported sample folder to get size and Export).</p>
+<p>Here’s the thing though - I don’t believe there’s a fast way of importing everything back in. I honestly never tested it I don’t know… my workflow is usually only having 1-3 projects running at a time, when I’m done I export them and delete everything locally for a clean slate. I get everyone works different though so that tactic is useless for some.</p>
+<p><a class="mention" href="https://disco.auxy.co/u/fredrik">@Fredrik</a> <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> what’s the best way to handle something like moving to a new device (also, iCloud restore would negate this issues since app data restores perfectly from an iCloud backup, but it’s still a good question how to handle importing the sample library and bulk import of projects).</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/9</link>
+        <pubDate>Tue, 02 Jul 2019 08:44:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-9</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[hamo]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes I reset my phone now I have to import 100+ projects one by one (which I won’t)</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/8</link>
+        <pubDate>Tue, 02 Jul 2019 08:06:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-8</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>So I guess the question is, how exactly should we be backing up our projects now? I back up individual projects and the sample folder in both iCloud and dropbox, but does this mean if I want to install on a new device, samples will still have to be imported one by one again? That doesn’t seem right…</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/7</link>
+        <pubDate>Tue, 02 Jul 2019 07:17:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-7</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Just to clarify, like your original post says you have to import them one by one. There’s not a bulk import.</p>
+<p>Imported projects get copied to the local app “sandbox” (each iOS app is sandboxes from others and can potentially have their own dynamic storage space).</p>
+<p>If your projects had external samples they will not be included in the backups on iCloud. You’d have to track those down manually and import them fresh. Hope this helps some even if it’s not the answer you’re looking for.</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/6</link>
+        <pubDate>Fri, 28 Jun 2019 02:06:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-6</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[hamo]]></dc:creator>
+        <description><![CDATA[
+            <p>So now I lost all my new project. Well… Im done subscribing. Thanks</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/5</link>
+        <pubDate>Fri, 28 Jun 2019 02:01:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-5</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>No I believe with the new update that feature/option was taken out. They haven’t updated the Auxy FAQ page I guess to match that.</p>
+<p>All Auxy files are stored locally on your device (which is part of the reason I haven’t updated)</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/4</link>
+        <pubDate>Fri, 28 Jun 2019 01:45:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-4</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[hamo]]></dc:creator>
+        <description><![CDATA[
+            <p>Wym? That was an option before. I have 20+ projects all backed up but cant auto backup<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc.jpeg" title="21F8AA4D-6554-4BD5-9286-40F7EF41D017.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc_2_515x500.jpeg" alt="image" data-base62-sha1="iyctnPelduNLTTekW9HF36DCi3q" width="515" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc_2_515x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/8204daffa26e50a35c9fd46579739f52c8cc2edc_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/3</link>
+        <pubDate>Fri, 28 Jun 2019 01:34:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-3</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah… unfortunately, your projects don’t automatically save to iCloud due to reliability.</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/2</link>
+        <pubDate>Fri, 28 Jun 2019 01:31:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-2</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+      <item>
+        <title>No backup option?</title>
+        <dc:creator><![CDATA[hamo]]></dc:creator>
+        <description><![CDATA[
+            <p>I Just reset my phone and can no longer see any auto backup from iCloud. iCloud is on backup is on. I can only import the project one by one from Files</p>
+          <p><a href="https://disco.auxy.co/t/no-backup-option/16035/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/no-backup-option/16035/1</link>
+        <pubDate>Fri, 28 Jun 2019 01:30:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16035-1</guid>
+        <source url="https://disco.auxy.co/t/no-backup-option/16035.rss">No backup option?</source>
+      </item>
+  </channel>
+</rss>

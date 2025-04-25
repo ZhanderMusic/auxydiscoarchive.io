@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Some questions about mixing</title>
+    <link>https://disco.auxy.co/t/some-questions-about-mixing/20010</link>
+    <description>Just some stuff I was wondering about
+
+* should you let the frequency ranges that reverb/delay are applied to overlap each other on different/the same instrument(s)? Does it matter? (I’m just asking because they both ring out after something hits so I didn’t know if having them overlap with each other/other instruments reverb/delay would make stuff muddy)
+* how much should you ‘separate’ (using cutting) different instruments? An (extreme) example of what I mean by ‘separating’  would be highpass cutting everything except the bass/kick.
+
+Thanks in advance
+
+Edit: also if something has a different answer in Auxy as it does in a generic DAW, please clarify</description>
+    
+    <lastBuildDate>Sun, 21 Feb 2021 06:43:45 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>With reverb in general, ask yourself which Sound is the effect going to be the most noticeable on, and shape it to sound good with that. The other instruments should have reverb more or less in ballpark range, but if it’s a very low levels, I wouldn’t lose too much sleep over adjusting all of them one by one.</p>
+<p>Reverb, when used subtly, its kind of the glue that holds all the sounds together and not make everything sound too discrete and separate. At heavier levels, it’s more of an effect, and in that case you don’t need to match the characteristics with what you consider your “overall“ reverb.</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/8</link>
+        <pubDate>Sun, 21 Feb 2021 06:43:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-8</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>To emphasize the point, if you mix is sounding a bit muddy, definitely look to the 200 to 500 K range for the culprit. OTOH if it’s sounding a bit thin, that might be where you need a little more presence.</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/7</link>
+        <pubDate>Sun, 21 Feb 2021 06:41:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-7</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Keep reverb off your low frequencies, below 200, otherwise you’re risking mud.</p>
+<p>Regarding cutting EQ on everything, a lot of producers do cut everything below about 500 K except on the bass &amp; kick, but I think that’s a bit extreme. There’s a lot of presence in the 200 to 500 range. You can use the HPF to cut below 500 (like 9 o’clock or 10 o’clock on the dial) on sounds like your snare, hats, cymbals, probably leads too.<br>
+Things like pads, you’re better off using the liow cut on the EQ to find the exact point where you want to roll it off a bit.</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/6</link>
+        <pubDate>Sun, 21 Feb 2021 06:39:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-6</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[traverse]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the answer!</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/5</link>
+        <pubDate>Sat, 12 Sep 2020 20:41:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-5</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>so I know the example you put of separation was extreme, but I have overdone the EQing all just to remove my EQ parameters and have it sound better than with all of the attention to detail. It’s all about balance. Some special sounds you wanna focus on more should be shaped a lil more, but some should be let to be more organic with less control. I saw a video the other day where they said it’s like a photo. Reverb makes things blurry, but not every part of every photo should necessarily be in focus.</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/4</link>
+        <pubDate>Sat, 12 Sep 2020 06:45:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-4</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[The_Osprey]]></dc:creator>
+        <description><![CDATA[
+            <p>If it sounds good then your doing good</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/2</link>
+        <pubDate>Tue, 08 Sep 2020 21:41:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-2</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+      <item>
+        <title>Some questions about mixing</title>
+        <dc:creator><![CDATA[traverse]]></dc:creator>
+        <description><![CDATA[
+            <p>Just some stuff I was wondering about</p>
+<ul>
+<li>should you let the frequency ranges that reverb/delay are applied to overlap each other on different/the same instrument(s)? Does it matter? (I’m just asking because they both ring out after something hits so I didn’t know if having them overlap with each other/other instruments reverb/delay would make stuff muddy)</li>
+<li>how much should you ‘separate’ (using cutting) different instruments? An (extreme) example of what I mean by ‘separating’  would be highpass cutting everything except the bass/kick.</li>
+</ul>
+<p>Thanks in advance</p>
+<p>Edit: also if something has a different answer in Auxy as it does in a generic DAW, please clarify</p>
+          <p><a href="https://disco.auxy.co/t/some-questions-about-mixing/20010/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/some-questions-about-mixing/20010/1</link>
+        <pubDate>Tue, 08 Sep 2020 03:36:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20010-1</guid>
+        <source url="https://disco.auxy.co/t/some-questions-about-mixing/20010.rss">Some questions about mixing</source>
+      </item>
+  </channel>
+</rss>

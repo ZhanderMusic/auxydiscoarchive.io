@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Imported samples problem</title>
+    <link>https://disco.auxy.co/t/imported-samples-problem/21633</link>
+    <description>I don’t know if this is a problem on my device only but it seems to be happening increasingly often.
+
+Every few weeks I go back to work on an old song where I’ve used the melodic sampler atop find that the imported sample has been deleted from my library and k can’t find it again. This is getting increasingly annoying as I’m starting to use more and more imported samples and when this problem occurs it kinda ruins the song or at least an element of it.
+
+I’d put an example but importing photos is kinda glitched.
+
+If anyone knows how to fix this then pls tell me.</description>
+    
+    <lastBuildDate>Mon, 13 Dec 2021 12:01:36 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/imported-samples-problem/21633.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Imported samples problem</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know if this is a problem on my device only but it seems to be happening increasingly often.</p>
+<p>Every few weeks I go back to work on an old song where I’ve used the melodic sampler atop find that the imported sample has been deleted from my library and k can’t find it again. This is getting increasingly annoying as I’m starting to use more and more imported samples and when this problem occurs it kinda ruins the song or at least an element of it.</p>
+<p>I’d put an example but importing photos is kinda glitched.</p>
+<p>If anyone knows how to fix this then pls tell me.</p>
+          <p><a href="https://disco.auxy.co/t/imported-samples-problem/21633/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/imported-samples-problem/21633/1</link>
+        <pubDate>Mon, 13 Dec 2021 12:01:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21633-1</guid>
+        <source url="https://disco.auxy.co/t/imported-samples-problem/21633.rss">Imported samples problem</source>
+      </item>
+  </channel>
+</rss>

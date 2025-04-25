@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Panning and Stereo Width</title>
+    <link>https://disco.auxy.co/t/panning-and-stereo-width/14492</link>
+    <description>Anyone have and tips, tricks, or best practices for panning to maximize stereo width?
+
+Some instruments have a panned delay. Panning those left or right really just offsets the center I think.
+
+What&#39;s your favorite use of the panning feature in a finished track?</description>
+    
+    <lastBuildDate>Fri, 08 Mar 2019 20:37:19 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Panning and Stereo Width</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>I have this old project I’ve never finished with a cool panning trick on the sound Glare and a 3/16 reverb. It’s hard to describe, but Glare’s panned delay plus an automated panning creates a really cool little effect. It’s not a finished track, but I’ll try and upload a preview of what I’m talking about later.</p>
+          <p><a href="https://disco.auxy.co/t/panning-and-stereo-width/14492/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/panning-and-stereo-width/14492/5</link>
+        <pubDate>Fri, 08 Mar 2019 20:37:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14492-5</guid>
+        <source url="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss">Panning and Stereo Width</source>
+      </item>
+      <item>
+        <title>Panning and Stereo Width</title>
+        <dc:creator><![CDATA[GovernorBeats]]></dc:creator>
+        <description><![CDATA[
+            <p>Panning hi hats that fluctuate in pitch can be a really cool effect, if done correctly.</p>
+          <p><a href="https://disco.auxy.co/t/panning-and-stereo-width/14492/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/panning-and-stereo-width/14492/4</link>
+        <pubDate>Fri, 08 Mar 2019 20:11:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14492-4</guid>
+        <source url="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss">Panning and Stereo Width</source>
+      </item>
+      <item>
+        <title>Panning and Stereo Width</title>
+        <dc:creator><![CDATA[wagneric]]></dc:creator>
+        <description><![CDATA[
+            <p>I <a href="https://soundcloud.com/wagneric/20181305-v0" rel="nofollow noopener">sometimes</a> “double-track” two instances of the same instrument, panned, with different delays (usually small differences in the notes as well) to get things really spread out.</p>
+          <p><a href="https://disco.auxy.co/t/panning-and-stereo-width/14492/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/panning-and-stereo-width/14492/3</link>
+        <pubDate>Fri, 08 Mar 2019 20:05:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14492-3</guid>
+        <source url="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss">Panning and Stereo Width</source>
+      </item>
+      <item>
+        <title>Panning and Stereo Width</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Possibly the best panning I’ve seen is in the Vs collab from <a class="mention" href="https://disco.auxy.co/u/xavior">@xavior</a> and <a class="mention" href="https://disco.auxy.co/u/southborne">@Southborne</a> in Even Louder. They used a combination of high pass on some basses to make a panning hit that really sounds fantastic, long before the days of Auxy 5 giving panning of samples. Aside from that, there’s not much I can say.</p>
+<p>If you’re going for true stereo expansion and width, some sounds feature it natively but they’re few and far between. The only four I can think of off the top of my head are Chalk, Grain, Cinema and Runner. If you want a real stereo expansion, your best option would be to export stems and use an external plugin in a DAW. Maybe <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a> can share if iOS has any AU’s for it xD</p>
+          <p><a href="https://disco.auxy.co/t/panning-and-stereo-width/14492/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/panning-and-stereo-width/14492/2</link>
+        <pubDate>Fri, 08 Mar 2019 15:38:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14492-2</guid>
+        <source url="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss">Panning and Stereo Width</source>
+      </item>
+      <item>
+        <title>Panning and Stereo Width</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyone have and tips, tricks, or best practices for panning to maximize stereo width?</p>
+<p>Some instruments have a panned delay. Panning those left or right really just offsets the center I think.</p>
+<p>What’s your favorite use of the panning feature in a finished track?</p>
+          <p><a href="https://disco.auxy.co/t/panning-and-stereo-width/14492/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/panning-and-stereo-width/14492/1</link>
+        <pubDate>Fri, 08 Mar 2019 15:25:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14492-1</guid>
+        <source url="https://disco.auxy.co/t/panning-and-stereo-width/14492.rss">Panning and Stereo Width</source>
+      </item>
+  </channel>
+</rss>

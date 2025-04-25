@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+    <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838</link>
+    <description>@Auxy 
+
+Just encountered an odd behaviour/bug when using long, sustained notes on any of the &#39;Section&#39; instruments within the Orchestral Strings pack.
+
+When playing the piece through, the sustained string note seems to turn off for the first couple of bars of the 2nd and 4th scenes.
+It&#39;s as though the sample runs out, and the instrument appears to switch to &#39;off&#39;, even though it&#39;s sustained for the full length of both patterns.
+
+Here&#39;s a basic project highlighting the issue.
+(I&#39;ve also reported it via the app&#39;s Support email feature.)
+
+https://app.auxy.co/projects/UvJlJM5wnq1dWY-YhYo6OA==</description>
+    
+    <lastBuildDate>Mon, 28 Mar 2022 08:46:51 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>I masked the issue with a little layering for now. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=12" title=":+1:" class="emoji" alt=":+1:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/10</link>
+        <pubDate>Mon, 28 Mar 2022 08:46:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-10</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey! This is a known issue that is very hard to fix without rewriting the whole sequencer. The issue is, as mentioned, that the notes are longer than the scene length. I.e. you can either shorten the notes to match the 7 bar scenes, or duplicate the loops and change loops from scene to scene.</p>
+<p>Hope this helps and thanks for reporting!</p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/9</link>
+        <pubDate>Mon, 28 Mar 2022 08:33:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-9</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>The bar length controls aren’t an issue in this case, and I’m reluctant to mess with the bits that aren’t actually broken.</p>
+<p>Duplicating the Instrument + Patterns, but having one with a delayed start (to fill the gaps of the first) is likely the least disruptive workaround.</p>
+<p>Would be great if <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> could pop in here to explain or acknowledge. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=12" title=":+1:" class="emoji" alt=":+1:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/8</link>
+        <pubDate>Fri, 25 Mar 2022 17:34:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-8</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll have to, for now. Having the strings sound come in and out isn’t feeling like a ‘happy accident’. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=12" title=":wink:" class="emoji" alt=":wink:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/7</link>
+        <pubDate>Fri, 25 Mar 2022 17:30:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-7</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[itskadde]]></dc:creator>
+        <description><![CDATA[
+            <p>just discovered something in an old topic that might really help you:</p><aside class="quote" data-post="5" data-topic="11183">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/tc64/40/16615_2.png" class="avatar">
+    <a href="https://disco.auxy.co/t/how-to-deal-with-half-bars/11183/5">How to deal with half bars? </a> <a class="badge-wrapper  bullet" href="https://disco.auxy.co/c/music/12"><span class="badge-category-bg" style="background-color: #0E76BD;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Discuss anything related to music production. Post tracks in the respective categories though, not here!">Production Talk</span></a>
+  </div>
+  <blockquote>
+    <a href="https://app.auxy.co/projects/HdGsr6GuJKEVNy4ExJsZiA==" rel="noopener nofollow ugc">Will this help?</a> 
+Edit: removed an old inside joke in the scene name, it was actually me who made this project
+  </blockquote>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/6</link>
+        <pubDate>Fri, 25 Mar 2022 08:28:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-6</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[itskadde]]></dc:creator>
+        <description><![CDATA[
+            <p>duplicating the instrument works too but if you want to save space - duplicate the pattern</p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/5</link>
+        <pubDate>Thu, 24 Mar 2022 12:01:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-5</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[itskadde]]></dc:creator>
+        <description><![CDATA[
+            <p>from my understanding it happens because the pattern is 8 bars long but the scene is 7 so auxy thinks that it’s better to move that last bar of the pattern to the next scene, but to prevent sounds from clashing it turns off the track on the next scene for the previous one to play</p>
+<p>you can fix this by duplicating the pattern and using it every other scene (so pattern 1 - scene 1, pattern 2 - scene 2 and so on)</p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/4</link>
+        <pubDate>Thu, 24 Mar 2022 11:58:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-4</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting. I don’t think I’ve ever encountered it before, though I’ve definitely had sustained notes for 8 bars in some patterns — including with Orchestral Strings (pretty sure).</p>
+<p>It stands out a lot on a piece I’m currently working on, so I’m having to duplicate the instrument and stagger the start points to ensure it’s audibly sustained.</p>
+<p><img src="https://emoji.discourse-cdn.com/apple/man_shrugging.png?v=12" title=":man_shrugging:" class="emoji only-emoji" alt=":man_shrugging:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/3</link>
+        <pubDate>Thu, 24 Mar 2022 11:58:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-3</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[itskadde]]></dc:creator>
+        <description><![CDATA[
+            <p>also, it happens not only with section strings, but with all long playing sounds</p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/2</link>
+        <pubDate>Thu, 24 Mar 2022 11:55:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-2</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+      <item>
+        <title>Buggy sustain on Orchestral Strings &#39;Sections&#39;</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a></p>
+<p>Just encountered an odd behaviour/bug when using long, sustained notes on any of the ‘Section’ instruments within the Orchestral Strings pack.</p>
+<p>When playing the piece through, the sustained string note seems to turn off for the first couple of bars of the 2nd and 4th scenes.<br>
+It’s as though the sample runs out, and the instrument appears to switch to ‘off’, even though it’s sustained for the full length of both patterns.</p>
+<p>Here’s a basic project highlighting the issue.<br>
+(I’ve also reported it via the app’s Support email feature.)</p>
+<p><a href="https://app.auxy.co/projects/UvJlJM5wnq1dWY-YhYo6OA==" class="onebox" target="_blank" rel="noopener nofollow ugc">https://app.auxy.co/projects/UvJlJM5wnq1dWY-YhYo6OA==</a></p>
+          <p><a href="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838/1</link>
+        <pubDate>Tue, 22 Mar 2022 14:20:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21838-1</guid>
+        <source url="https://disco.auxy.co/t/buggy-sustain-on-orchestral-strings-sections/21838.rss">Buggy sustain on Orchestral Strings &#39;Sections&#39;</source>
+      </item>
+  </channel>
+</rss>

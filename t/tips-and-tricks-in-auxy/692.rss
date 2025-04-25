@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tips and tricks in Auxy</title>
+    <link>https://disco.auxy.co/t/tips-and-tricks-in-auxy/692</link>
+    <description>It should be nice to start this as a category. It will allow to share any feature that you would like to share. It will allow to learn more about how to use our great tool ;-)
+Example:
+Did you noticed that the order of the instrument is changing the rendering ? 
+
+Thanks</description>
+    
+    <lastBuildDate>Fri, 07 Jul 2017 13:19:45 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Tips and tricks in Auxy</title>
+        <dc:creator><![CDATA[Oli4-8]]></dc:creator>
+        <description><![CDATA[
+            <p>I mean that looks like if I want to have more drums then it should be in top one as example, am I wrong?</p>
+          <p><a href="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/3</link>
+        <pubDate>Fri, 07 Jul 2017 13:19:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-692-3</guid>
+        <source url="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692.rss">Tips and tricks in Auxy</source>
+      </item>
+      <item>
+        <title>Tips and tricks in Auxy</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Great topic! Although, how do you mean the order of instruments are changing the rendering?</p>
+          <p><a href="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/2</link>
+        <pubDate>Fri, 07 Jul 2017 13:02:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-692-2</guid>
+        <source url="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692.rss">Tips and tricks in Auxy</source>
+      </item>
+      <item>
+        <title>Tips and tricks in Auxy</title>
+        <dc:creator><![CDATA[Oli4-8]]></dc:creator>
+        <description><![CDATA[
+            <p>It should be nice to start this as a category. It will allow to share any feature that you would like to share. It will allow to learn more about how to use our great tool <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"><br>
+Example:<br>
+Did you noticed that the order of the instrument is changing the rendering ?</p>
+<p>Thanks</p>
+          <p><a href="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/tips-and-tricks-in-auxy/692/1</link>
+        <pubDate>Fri, 07 Jul 2017 12:11:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-692-1</guid>
+        <source url="https://disco.auxy.co/t/tips-and-tricks-in-auxy/692.rss">Tips and tricks in Auxy</source>
+      </item>
+  </channel>
+</rss>

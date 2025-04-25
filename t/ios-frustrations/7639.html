@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>iOS frustrations - Production Talk - Auxy Disco</title>
+<meta content="I’m about to rant, so if yer not in the mood just bypass this. 
+How the actual f*ck do you guys manage to not want to just snap your device in half? I literally spent 30 minutes trying to copy a wave file out of blocs wa&amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="7639.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="7639.rss" rel="alternate nofollow" title="RSS feed of 'iOS frustrations'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" property="og:image"/>
+<meta content="index.htmlt/ios-frustrations/7639" property="og:url"/>
+<meta content="index.htmlt/ios-frustrations/7639" name="twitter:url"/>
+<meta content="iOS frustrations" property="og:title"/>
+<meta content="iOS frustrations" name="twitter:title"/>
+<meta content="I’m about to rant, so if yer not in the mood just bypass this.  How the actual f*ck do you guys manage to not want to just snap your device in half? I literally spent 30 minutes trying to copy a wave file out of blocs wave, to the clipboard, to garageband and it keeps pasting a loop I copied yesterday. WHAT THE 🤬  I know I could have exported to audio share, or even save to Files and copy out of there, but it’s bull. These weird “workflow” things drive me absolutely ..." property="og:description"/>
+<meta content="I’m about to rant, so if yer not in the mood just bypass this.  How the actual f*ck do you guys manage to not want to just snap your device in half? I literally spent 30 minutes trying to copy a wave file out of blocs wave, to the clipboard, to garageband and it keeps pasting a loop I copied yesterday. WHAT THE 🤬  I know I could have exported to audio share, or even save to Files and copy out of there, but it’s bull. These weird “workflow” things drive me absolutely ..." name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="2 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="13 ❤"/>
+<meta content="2018-02-15T18:16:00+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+<link href="7639page=2.html" rel="next"/>
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="7639.html">iOS frustrations</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="c/music/12.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #0E76BD"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Production Talk</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_1" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T18:16:00Z" itemprop="datePublished">
+                February 15, 2018,  6:16pm
+              </time>
+<meta content="2018-02-15T18:16:00Z" itemprop="dateModified"/>
+<span itemprop="position">#1</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I’m about to rant, so if yer not in the mood just bypass this.</p>
+<p>How the actual f*ck do you guys manage to not want to just snap your device in half? I literally spent 30 minutes trying to copy a wave file out of blocs wave, to the clipboard, to garageband and it keeps pasting a loop I copied yesterday. WHAT THE <img alt=":face_with_symbols_over_mouth:" class="emoji" src="../../emoji.discourse-cdn.com/apple/face_with_symbols_over_mouth.png" title=":face_with_symbols_over_mouth:"/></p>
+<p>I know I could have exported to audio share, or even save to Files and copy out of there, but it’s bull. These weird “workflow” things drive me absolutely nuts, it makes me want to totally pack it in for mobile production.</p>
+<p>Does anyone commiserate? Misery loves company <img alt=":drooling_face:" class="emoji" src="../../emoji.discourse-cdn.com/apple/drooling_face.png" title=":drooling_face:"/></p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_2" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Db909.html" itemprop="url"><span itemprop="name">Db909</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T18:27:43Z" itemprop="datePublished">
+                February 15, 2018,  6:27pm
+              </time>
+<meta content="2018-02-15T18:27:43Z" itemprop="dateModified"/>
+<span itemprop="position">#2</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>It’s frustrating for sure. Which is why I typically make music in one app at a time and don’t really mix apps together unless I’m sampling sounds from one app to be composed in another.  Even when all the copy/paste, etc stuff works, it still takes up a lot of time if you’re doing frequently.   So I typically do all of that kind of crap in one session where it’s just all about organization, moving things, etc</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_3" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T18:37:08Z" itemprop="datePublished">
+                February 15, 2018,  6:37pm
+              </time>
+<meta content="2018-02-15T18:37:08Z" itemprop="dateModified"/>
+<span itemprop="position">#3</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="1" data-topic="7639" data-username="iammane">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" loading="lazy" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" width="20"/> iammane:</div>
+<blockquote>
+<p>These weird “workflow” things drive me absolutely nuts</p>
+</blockquote>
+</aside>
+<p>I completely agree. I’ve been learning fl studio recently. Ducking sound is the absolute worst thing if you’re ducking to the kick in any other time than 4/4 (or any regular kick beat for that matter). Trying to set different types of ducker on different channels causes the kick to overcompress and distort. Muting a kick just to duck it doesn’t actually do anything either which makes no sense. It’s the literal worst thing. I am so thankful for auxy making this not an issue. Seriously it’s ridiculous.</p>
+<p>I would love to just copy a wav file into other apps but apple doesn’t seem to understand that features that <strong>should</strong> make sense aren’t a priority compared to their outright fetish of making their phones thinner at whatever cost to <a href="https://www.youtube.com/watch?v=znK652H6yQM">structural integrity</a> that may occur.</p>
+<div class="spoiler">
+<p>kinda like Auxy and how things like tempo automation and alternate time signatures aren’t “important” but i digress</p>
+</div>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_4" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Polar.html" itemprop="url"><span itemprop="name">Polar</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T18:59:02Z" itemprop="datePublished">
+                February 15, 2018,  6:59pm
+              </time>
+<meta content="2018-02-15T18:59:02Z" itemprop="dateModified"/>
+<span itemprop="position">#4</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>iOS makes me so mad lol, if you don’t have the new phone, then you are basically screwed with a slow device until you spend $1000. Tbh I would be using an android or a pixel if it wasn’t for Auxy</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_5" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T20:37:42Z" itemprop="datePublished">
+                February 15, 2018,  8:37pm
+              </time>
+<meta content="2018-02-15T20:37:42Z" itemprop="dateModified"/>
+<span itemprop="position">#5</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>The mixer in FL doesn’t really make sense to me. As long as I’ve been using it, it just seems weird. When I first tried out Reason it made SO much more sense, and actually helped clarify insert vs send effects for me. Ducking in Reason would be very simple because you could split kick signal (duplicate it), send one to side chain and one to mixer out.</p>
+<p>Sometimes it’s just so effin frustrating on iOS, apps just crashing, Copy and paste just… not, apparently lol. Barf.</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_6" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T20:44:38Z" itemprop="datePublished">
+                February 15, 2018,  8:44pm
+              </time>
+<meta content="2018-02-15T20:44:38Z" itemprop="dateModified"/>
+<span itemprop="position">#6</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I’m frustrated too cause lately, everything I’m writing is 25-50% sample loops and it’s really such a chore to do this in Auxy. I’m like wtf am I doing this to myself for lol…</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_7" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:26:05Z" itemprop="datePublished">
+                February 15, 2018,  9:26pm
+              </time>
+<meta content="2018-02-15T21:26:05Z" itemprop="dateModified"/>
+<span itemprop="position">#7</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>It’s because ducking is done through a plug-in and even then it’s stupid. Idfk xD</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_8" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:37:42Z" itemprop="datePublished">
+                February 15, 2018,  9:37pm
+              </time>
+<meta content="2018-02-15T21:37:42Z" itemprop="dateModified"/>
+<span itemprop="position">#8</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>How are you doing it? You can use the envelope controller I think, that’s the only way I know how at least. You pick a source channel (where the kick lives) and have that automate the volume knob for your synth channel.</p>
+<p>If you’re already doing that than my apologies, I seriously cannot stand FL anymore. Just such weirdness like this drives me crazy. Every time I crack it open I just slump down in my chair and sigh lol…</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_9" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:40:58Z" itemprop="datePublished">
+                February 15, 2018,  9:40pm
+              </time>
+<meta content="2018-02-15T21:40:58Z" itemprop="dateModified"/>
+<span itemprop="position">#9</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I can’t be sure since I’m not at my desktop atm xD i’m not even sure of it myself but all I know is that trying to use different fruity limiters for kick ducking was causing the kick to distort when it probably shouldn’t have.</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_10" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:43:18Z" itemprop="datePublished">
+                February 15, 2018,  9:43pm
+              </time>
+<meta content="2018-02-15T21:43:18Z" itemprop="dateModified"/>
+<span itemprop="position">#10</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Oh man, yeah I don’t know if it’s possible to use that for ducking. Maybe. The problem is there’s many, many different ways to do it lol, all of which are pretty obscure to me</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_11" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:45:03Z" itemprop="datePublished">
+                February 15, 2018,  9:45pm
+              </time>
+<meta content="2018-02-15T21:45:03Z" itemprop="dateModified"/>
+<span itemprop="position">#11</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<div class="lazyYT" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque" data-width="480" data-youtube-id="buoP2IEKvd8" data-youtube-title="FL Studio 12  - Sidechain Compression with Fruity Limiter"></div>
+<p>If there’s a better way than this PLEASE TELL ME HELP xD</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_12" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:51:20Z" itemprop="datePublished">
+                February 15, 2018,  9:51pm
+              </time>
+<meta content="2018-02-15T21:51:20Z" itemprop="dateModified"/>
+<span itemprop="position">#12</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Lol I hate to tell you but, this way is wayyyy more direct than using the envelope controller. Especially since you still need to do all the weird channel juggling.</p>
+<p>I saw all those green lines at the bottom of the mixer and it made me ill for a sec. ugh ugh, I just don’t get it… obviously it’s just my opinion, not objective at all.</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_13" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:53:59Z" itemprop="datePublished">
+                February 15, 2018,  9:53pm
+              </time>
+<meta content="2018-02-15T21:53:59Z" itemprop="dateModified"/>
+<span itemprop="position">#13</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yeah I hear ya. It really is so annoying on this platform. It takes three times longer to do anything, so frustrating. And that’s WHEN it works properly. I deleted all the projects but I guarantee you the next time I try to copy paste it’s still gonna paste that same drum loop I copied to pasteboard f*cking three days ago.</p>
+<p>This is the stuff that just drives me TOTALLY INSANE</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_14" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T21:55:31Z" itemprop="datePublished">
+                February 15, 2018,  9:55pm
+              </time>
+<meta content="2018-02-15T21:55:31Z" itemprop="dateModified"/>
+<span itemprop="position">#14</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>So this is the best way to do it? D:</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_15" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:02:42Z" itemprop="datePublished">
+                February 15, 2018, 10:02pm
+              </time>
+<meta content="2018-02-15T22:02:42Z" itemprop="dateModified"/>
+<span itemprop="position">#15</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>This is how I side chain in FL-</p>
+<ol>
+<li>Place kick sample</li>
+<li>Place lead</li>
+<li>Close FL</li>
+<li>Control panel &gt; Programs and Features</li>
+<li>Uninstall</li>
+</ol>
+<p><img alt=":sob:" class="emoji" src="../../emoji.discourse-cdn.com/apple/sob.png" title=":sob:"/></p>
+<p>I’m sorry lol I couldn’t resist. I really am super biased and I will admit it.</p>
+<p>All kidding aside, of the ways I’ve seen, this way does seem to require the least amount of fenagling. Once you get it perfect I think you can save your mixer channels as a template, or even just the whole project as a template.</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_16" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Produk.html" itemprop="url"><span itemprop="name">Produk</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:03:13Z" itemprop="datePublished">
+                February 15, 2018, 10:03pm
+              </time>
+<meta content="2018-02-15T22:03:13Z" itemprop="dateModified"/>
+<span itemprop="position">#16</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>reeeeee</p>
+<p>use a computer</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_17" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:05:26Z" itemprop="datePublished">
+                February 15, 2018, 10:05pm
+              </time>
+<meta content="2018-02-15T22:05:26Z" itemprop="dateModified"/>
+<span itemprop="position">#17</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Man if I’m gonna use a computer I might as well just go back to using Reason. Trying to avoid using a computer lol.</p>
+<p>I think the problem is I want the workflow ease of use in a mobile form factor, like tablet / phone mobile, and it’s just not possible. Ah well. I feel better now I was just super chuffed having spent basically my whole lunch trying to move 1 f*ckin sample. YIIIIIKES</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_18" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:05:48Z" itemprop="datePublished">
+                February 15, 2018, 10:05pm
+              </time>
+<meta content="2018-02-15T22:05:48Z" itemprop="dateModified"/>
+<span itemprop="position">#18</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>xD no worries x3</p>
+<p>I only use fl since I was recommended it, I don’t have Apple for logic and I can’t afford ableton</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_19" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:07:47Z" itemprop="datePublished">
+                February 15, 2018, 10:07pm
+              </time>
+<meta content="2018-02-15T22:07:47Z" itemprop="dateModified"/>
+<span itemprop="position">#19</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Don’t get me wrong, I’m not slagging FL it’s just fine, it’s not bad at all. I just can’t get on with the UI anymore and the way they present stuff like the mixer, especially the mixer. It just drives me bonkers. It’s totally personal taste. Lord knows I’ve written a TON of music on FL and it’s def not a bad program. I just drank from the Propellerhead juice and it spoiled everything lol</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_20" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="7639.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-02-15T22:08:22Z" itemprop="datePublished">
+                February 15, 2018, 10:08pm
+              </time>
+<meta content="2018-02-15T22:08:22Z" itemprop="dateModified"/>
+<span itemprop="position">#20</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Trust me I don’t like how confusing it is xD lol</p>
+</div>
+<meta content="iOS frustrations" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><b><a href="7639page=2.html" itemprop="url" rel="next">next page →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

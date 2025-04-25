@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Creating &quot;vocal&quot; samples using a computer</title>
+    <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621</link>
+    <description>Here is a little tutorial for Mac OSX users...
+
+This is a little tutorial, which is a short explanation of how to generate your own vocals under OSX. Please do not expect too much: the modulation is not perfect - this does not have much to do with singing. Everything sounds more like reading. If you have better options or know tool - please participate in this tutorial.
+
+Manual:
+
+Open the terminal (In the Finder -&gt; Go to -&gt; Utilities -&gt; Terminal) and enter the command
+
+![Terminal|500x500](upload://fFEESgUgUvqAALQN2RIDuJTmYHc.png) 
+
+***say &quot;hello&quot;***
+
+Of course, the sound must be activated for this. You can also download and activate different voices. For this look in the system settings under &quot;dictation and language&quot; (perhaps different I have another language installed..).
+
+You can easily select the desired voice - if it is installed - via this command:
+
+***say -v Boing -r 160 &quot;haha - i like music&quot;***
+
+&quot;*Boing*&quot; is the voice used here.
+
+*-r 160* is the speed - just change the number
+
+You can also save everything as an audio file. For this you need the following command:
+
+***say -v Boing -o ~/Desktop/boing_audiofile.aiff -r 185 &quot;hello&quot;***
+
+The file is then saved as aiff-file under the desktop.
+
+Of course, this file has to be converted to a wav-file in order to use it in Auxy. For example, the program [Audacity](https://www.audacityteam.org) could help you.
+
+[Here](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/SpeechSynthesisProgrammingGuide/FineTuning/FineTuning.html) are some helpful ways to edit some adjustments like pauses and accents.
+
+I also used these on some of my tracks. [Check this one](https://soundcloud.com/dr-aquaman/natt) here at 4:30 or this [one](https://soundcloud.com/dr-aquaman/kill) (kill - do not kill all humans - please do not misunderstand the lyrics - the most important thing is at the end as always...)
+
+I would not be very happy about your attempts with the say command</description>
+    
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:04 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[Jax]]></dc:creator>
+        <description><![CDATA[
+            <p>This is really cool! Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/9</link>
+        <pubDate>Fri, 12 Apr 2019 00:00:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-9</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve used TTS in some songs before, most notably the intro to <a href="https://soundcloud.com/eslashe/2050-ad" rel="nofollow noopener">2050 AD</a>. Also, <a class="mention" href="https://disco.auxy.co/u/xavior">@xavior</a> used them <em>amazingly</em> in his song <a href="https://m.soundcloud.com/xaviormusic/sex" rel="nofollow noopener">S.E.X.</a> (this was actually the inspiration for putting the vocal chop at the beginning of 2050 AD xD)</p>
+<p>It’s unfortunate that Apple’s ToS doesn’t permit this method, as Siri and other Apple voices are top-quality.</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/6</link>
+        <pubDate>Thu, 11 Apr 2019 18:00:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-6</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="3" data-topic="14621">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/phenylalanine/40/5534_2.png" class="avatar"> phenylalanine:</div>
+<blockquote>
+<p>I believe that, legally, you are not allowed to use Mac voices for commercial use. <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+</blockquote>
+</aside>
+<blockquote>
+<p><em>Voices</em>  Subject to the terms and conditions of this License, you may use the system voices included in the Apple Software (“System Voices”) (i) while running the Apple Software and (ii) to create your own original content and projects for your personal, non-commercial use. No other use of the System Voices is permitted by this License, including but not limited to the use, reproduction, display, performance, recording, publishing or redistribution of any of the System Voices in a profit, non-profit, public sharing or commercial context.</p>
+</blockquote>
+<p>From macOS’s TOS</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/5</link>
+        <pubDate>Tue, 09 Apr 2019 15:21:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-5</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[dr-aquaman]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/phenylalanine">@phenylalanine</a> interesting point …</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/4</link>
+        <pubDate>Sat, 16 Mar 2019 07:27:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-4</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[phenylalanine]]></dc:creator>
+        <description><![CDATA[
+            <p>I believe that, legally, you are not allowed to use Mac voices for commercial use. <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=7" title=":frowning:" class="emoji" alt=":frowning:"></p>
+<p>I use <a href="http://text2speech.org" rel="nofollow noopener">text2speech.org</a> it’s slow, but supposed to be free to use commercially.</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/3</link>
+        <pubDate>Sat, 16 Mar 2019 06:31:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-3</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>There are also websites that provide free online text-to-speech (TTS) services &amp; allow a file to be saved.</p>
+<p>eg: <a href="http://www.fromtexttospeech.com/" rel="nofollow noopener">http://www.fromtexttospeech.com/</a></p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/2</link>
+        <pubDate>Fri, 15 Mar 2019 22:19:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-2</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+      <item>
+        <title>Creating &quot;vocal&quot; samples using a computer</title>
+        <dc:creator><![CDATA[dr-aquaman]]></dc:creator>
+        <description><![CDATA[
+            <p>Here is a little tutorial for Mac OSX users…</p>
+<p>This is a little tutorial, which is a short explanation of how to generate your own vocals under OSX. Please do not expect too much: the modulation is not perfect - this does not have much to do with singing. Everything sounds more like reading. If you have better options or know tool - please participate in this tutorial.</p>
+<p>Manual:</p>
+<p>Open the terminal (In the Finder -&gt; Go to -&gt; Utilities -&gt; Terminal) and enter the command</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/6/6dd60e975c784e27aebba5cf91518964e7052086.png" title="Terminal.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6dd60e975c784e27aebba5cf91518964e7052086_2_500x500.png" alt="Terminal" width="500" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6dd60e975c784e27aebba5cf91518964e7052086_2_500x500.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6dd60e975c784e27aebba5cf91518964e7052086_2_750x750.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6dd60e975c784e27aebba5cf91518964e7052086_2_1000x1000.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6dd60e975c784e27aebba5cf91518964e7052086_2_10x10.png"></a></div><p></p>
+<p><em><strong>say "hello"</strong></em></p>
+<p>Of course, the sound must be activated for this. You can also download and activate different voices. For this look in the system settings under “dictation and language” (perhaps different I have another language installed…).</p>
+<p>You can easily select the desired voice - if it is installed - via this command:</p>
+<p><em><strong>say -v Boing -r 160 "haha - i like music"</strong></em></p>
+<p>“<em>Boing</em>” is the voice used here.</p>
+<p><em>-r 160</em> is the speed - just change the number</p>
+<p>You can also save everything as an audio file. For this you need the following command:</p>
+<p><em><strong>say -v Boing -o ~/Desktop/boing_audiofile.aiff -r 185 "hello"</strong></em></p>
+<p>The file is then saved as aiff-file under the desktop.</p>
+<p>Of course, this file has to be converted to a wav-file in order to use it in Auxy. For example, the program <a href="https://www.audacityteam.org" rel="nofollow noopener">Audacity</a> could help you.</p>
+<p><a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/SpeechSynthesisProgrammingGuide/FineTuning/FineTuning.html" rel="nofollow noopener">Here</a> are some helpful ways to edit some adjustments like pauses and accents.</p>
+<p>I also used these on some of my tracks. <a href="https://soundcloud.com/dr-aquaman/natt" rel="nofollow noopener">Check this one</a> here at 4:30 or this <a href="https://soundcloud.com/dr-aquaman/kill" rel="nofollow noopener">one</a> (kill - do not kill all humans - please do not misunderstand the lyrics - the most important thing is at the end as always…)</p>
+<p>I would not be very happy about your attempts with the say command</p>
+          <p><a href="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621/1</link>
+        <pubDate>Fri, 15 Mar 2019 21:26:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14621-1</guid>
+        <source url="https://disco.auxy.co/t/creating-vocal-samples-using-a-computer/14621.rss">Creating &quot;vocal&quot; samples using a computer</source>
+      </item>
+  </channel>
+</rss>

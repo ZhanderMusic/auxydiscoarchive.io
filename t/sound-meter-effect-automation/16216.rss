@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sound meter &amp; effect automation</title>
+    <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216</link>
+    <description>I’m super excited about the new update. Thanks for making such great tool! I sing it’s praises whenever I can! 
+
+With all the new effect parameters you can really crank the dB’s in the sounds (especially with gain, distortions, long reverbs, etc), it would be really helpful to have some sort clipping meter. (Especially before flattening the tracks for Ableton export)
+
+Even a simple little light that flashes or toggles on. 
+
+Also, maybe it’s a pipe dream, but, is there any chance in the future we’ll be able to make automation lanes for some of the effect parameters? (Eg. I’d live to automate just the the decay in the reverb)
+
+Thanks again!</description>
+    
+    <lastBuildDate>Fri, 19 Jul 2019 21:49:26 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[JacobJustus]]></dc:creator>
+        <description><![CDATA[
+            <p>All I want is automation for Attack, Release and Glide.</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/6</link>
+        <pubDate>Fri, 19 Jul 2019 21:49:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-6</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>You are correct. I forgot that you could not automate some of the sample rack effects</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/5</link>
+        <pubDate>Fri, 19 Jul 2019 15:59:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-5</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Is this correct? Do not see the reverb or delay included in the automation drop-down window in the new update for Sampler/drum kits. Melodic instruments and bass yes, but not for samples and drums.</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/4</link>
+        <pubDate>Fri, 19 Jul 2019 07:45:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-4</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>You can already make automation scenes for the delay and reverb for each instrument or whole sample rack. (As for sample/drum racks) you may not be able to automate each individual sample, BUT, you can get around this by having  ONLY ONE sample in the rack, and using pitch automation so you can treat the one sample like an instrument.</p>
+<p>I’m really hoping to be able to automate the internal parameters that create the effect, (eg. The room size, decay, etc. with reverb. OR the rate, depth, etc. with modulation)</p>
+<p>And I agree automating attack would be cool too (really anything in the ASDR envelope)</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/3</link>
+        <pubDate>Wed, 17 Jul 2019 16:24:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-3</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, Automation for delay and reverb would be great, if not for the individual samples at least for the instrument! Definitely attack &amp; decay for the instruments, shifting that around really keeps movement in the phrase… Would love to be able to control that in the basses…</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/2</link>
+        <pubDate>Wed, 17 Jul 2019 15:50:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-2</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+      <item>
+        <title>Sound meter &amp; effect automation</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m super excited about the new update. Thanks for making such great tool! I sing it’s praises whenever I can!</p>
+<p>With all the new effect parameters you can really crank the dB’s in the sounds (especially with gain, distortions, long reverbs, etc), it would be really helpful to have some sort clipping meter. (Especially before flattening the tracks for Ableton export)</p>
+<p>Even a simple little light that flashes or toggles on.</p>
+<p>Also, maybe it’s a pipe dream, but, is there any chance in the future we’ll be able to make automation lanes for some of the effect parameters? (Eg. I’d live to automate just the the decay in the reverb)</p>
+<p>Thanks again!</p>
+          <p><a href="https://disco.auxy.co/t/sound-meter-effect-automation/16216/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sound-meter-effect-automation/16216/1</link>
+        <pubDate>Mon, 15 Jul 2019 20:00:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16216-1</guid>
+        <source url="https://disco.auxy.co/t/sound-meter-effect-automation/16216.rss">Sound meter &amp; effect automation</source>
+      </item>
+  </channel>
+</rss>

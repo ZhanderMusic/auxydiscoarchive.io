@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Elevate - Chaff</title>
+    <link>https://disco.auxy.co/t/elevate-chaff/9926</link>
+    <description>The new demo sounds are a blessing
+https://soundcloud.com/wheat_husk/elevate</description>
+    
+    <lastBuildDate>Tue, 15 May 2018 17:47:48 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/elevate-chaff/9926.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Elevate - Chaff</title>
+        <dc:creator><![CDATA[Chaff]]></dc:creator>
+        <description><![CDATA[
+            <p>The new demo sounds are a blessing<br>
+<a href="https://soundcloud.com/wheat_husk/elevate" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/wheat_husk/elevate</a></p>
+          <p><a href="https://disco.auxy.co/t/elevate-chaff/9926/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/elevate-chaff/9926/1</link>
+        <pubDate>Tue, 15 May 2018 17:47:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-9926-1</guid>
+        <source url="https://disco.auxy.co/t/elevate-chaff/9926.rss">Elevate - Chaff</source>
+      </item>
+  </channel>
+</rss>

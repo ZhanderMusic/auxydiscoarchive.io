@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy save offline?</title>
+    <link>https://disco.auxy.co/t/auxy-save-offline/15417</link>
+    <description>I had an Auxy project I had made on the 04/08/2019, but after searching for it for an hour I haven’t found it. I clicked through every single project on iCloud files and Auxy, but it wasn’t in either places. I was working offline. Is there a way I could have somehow not saved it? Or is it more possible that I accidentally deleted it?</description>
+    
+    <lastBuildDate>Thu, 09 May 2019 02:35:34 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-save-offline/15417.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy save offline?</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>Epic😎</p>
+          <p><a href="https://disco.auxy.co/t/auxy-save-offline/15417/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-save-offline/15417/3</link>
+        <pubDate>Thu, 09 May 2019 02:35:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15417-3</guid>
+        <source url="https://disco.auxy.co/t/auxy-save-offline/15417.rss">Auxy save offline?</source>
+      </item>
+      <item>
+        <title>Auxy save offline?</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it’s gone.  From what i believe, Auxy’s backup directory is tied to the icloud one, so if your project is deleted and you were offline, no backup file in icloud/auxy was created.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-save-offline/15417/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-save-offline/15417/2</link>
+        <pubDate>Thu, 09 May 2019 02:16:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15417-2</guid>
+        <source url="https://disco.auxy.co/t/auxy-save-offline/15417.rss">Auxy save offline?</source>
+      </item>
+      <item>
+        <title>Auxy save offline?</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>I had an Auxy project I had made on the 04/08/2019, but after searching for it for an hour I haven’t found it. I clicked through every single project on iCloud files and Auxy, but it wasn’t in either places. I was working offline. Is there a way I could have somehow not saved it? Or is it more possible that I accidentally deleted it?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-save-offline/15417/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-save-offline/15417/1</link>
+        <pubDate>Wed, 08 May 2019 22:46:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15417-1</guid>
+        <source url="https://disco.auxy.co/t/auxy-save-offline/15417.rss">Auxy save offline?</source>
+      </item>
+  </channel>
+</rss>

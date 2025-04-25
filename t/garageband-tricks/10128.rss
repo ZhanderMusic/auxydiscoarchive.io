@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>GarageBand Tricks</title>
+    <link>https://disco.auxy.co/t/garageband-tricks/10128</link>
+    <description>I just wanted to make this in case there are people that use both auxy and GarageBand, and tricks for people to use both (pretty much).
+
+I want this thread to have advice or tricks you know about GarageBand.
+I’ll start:
+Since GarageBand doesn’t really have a sub bass you can make one in auxy, export it as an audio file and save it in the files app. Then go into garageband and select audio files when you click the loop icon in a project. You also have to make sure the tempo and key are the same when you export the audio.
+
+K now continue it</description>
+    
+    <lastBuildDate>Mon, 28 May 2018 04:55:01 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/garageband-tricks/10128.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[OFFSXGHT]]></dc:creator>
+        <description><![CDATA[
+            <p>I usually EQ my tracks on GarageBand on my Mac and export them from there to publish them.</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/21</link>
+        <pubDate>Mon, 28 May 2018 04:55:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-21</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Ablopez]]></dc:creator>
+        <description><![CDATA[
+            <p>I created this because on my GarageBand on iPad, it doesn’t have a sub bass, only substantial kick</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/20</link>
+        <pubDate>Sun, 27 May 2018 19:24:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-20</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve done this both ways. It depends on what I’m trying to achieve. If I know I’m recording longer instrumental parts (READ RECORD, with a mic or interface) then the obvious choice is GB and bringing in Auxy stems.</p>
+<p>I’ve also set up sequences in GB and exported them for sequencing in Auxy. There’s no real hard and fast rule</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/19</link>
+        <pubDate>Fri, 25 May 2018 08:28:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-19</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep. Everyone seems to think it’s just a loop box. I’m more than happy to let everyone have whatever false opinion they’d like on the matter <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/18</link>
+        <pubDate>Fri, 25 May 2018 08:26:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-18</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <p>What’s appearing as “obvious” to me, is that ALOT more peeps than I had anticipated, have been (or, are now) integrating GB and Auxy, all along (or at least since the 5.0 release?)! COOL!!! Certainly isn’t surprising, given the forum here is Auxy; the cat is bag free, and the dog appears to be unleashed, via this topic. This is EXCITING!! <img src="https://emoji.discourse-cdn.com/apple/sunny.png?v=10" title=":sunny:" class="emoji" alt=":sunny:"></p>
+<aside class="quote no-group" data-username="blakkaz" data-post="16" data-topic="10128">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/blakkaz/40/8448_2.png" class="avatar"> blakkaz:</div>
+<blockquote>
+<p>Probably stating the obvious, but Garageband supports Audio Units so you can really create any sound you like.</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/17</link>
+        <pubDate>Fri, 25 May 2018 04:27:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-17</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably stating the obvious, but Garageband supports Audio Units so you can really create any sound you like.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/7/72103f4c0b0d4fc590524551f197ff4cb51dbabd.jpg" title="garageband_ios_review_ipad_pro_au_support_1200_thumb.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/7/72103f4c0b0d4fc590524551f197ff4cb51dbabd.jpg" width="666" height="500" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/72103f4c0b0d4fc590524551f197ff4cb51dbabd_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/16</link>
+        <pubDate>Fri, 25 May 2018 03:42:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-16</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Southborne]]></dc:creator>
+        <description><![CDATA[
+            <p>Pro tip right there</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/15</link>
+        <pubDate>Fri, 25 May 2018 03:08:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-15</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <p>Spaced this as it was already mentioned also! You’ll have to ask Aimyth for details though, I gotta run.<br>
+~~&gt;&gt;&gt;</p>
+<p>Arimyth<br>
+5h</p>
+<p>GarageBand has a feature which allows you to exit the app and instead use Auxy.</p>
+<aside class="quote no-group" data-post="12" data-topic="10128" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/anirudhkhanna/40/8677_1.png" class="avatar"> AnirudhKhanna:</div>
+<blockquote>
+<p>how do I export an auxy project to GB?</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/14</link>
+        <pubDate>Fri, 25 May 2018 02:05:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-14</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="12" data-topic="10128" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/anirudhkhanna/40/8677_1.png" class="avatar"> AnirudhKhanna:</div>
+<blockquote>
+<p>how do I export an auxy project to GB?</p>
+</blockquote>
+</aside>
+<p>I have tried (literally!) every (I think) possible way that to the two DAW’s can be used in a hybrid fashion. It boils down to this (I say this as far as w/o losing your mind and with a positive outcome!) ~~&gt;&gt;</p>
+<p>Option 1: …You can take stem samples (up to 10sec/ea.) and drag those in the “Sample” folder in the “Auxy” cloud file. Then from there you will have to (unfortunately, cause it can be frustrating and time consuming) piece it together again. I recommend starting in Auxy and use GB as the slave if you must have sounds from GB. THEN …</p>
+<p>Option 2: Make what you want to use in Auxy and simply export them to your Cloud Sub Folder “Garage Band for IOS” Sub Folder “Garage Band File Transfer” Sub Folder “Sample Loops”. It’s been a while, so I can’t remember if I renamed the folder to “Sample Loops” or if it was something else. Bottom line is put em that folder! You may also just simply “Move” samples into that folder from wherever you have them. GB has taken entire projects in it completed form from Auxy, but I can’t tell ya what the mb limit might be, cause I never had a reason to look; it always takes it!  GB will recognize your samples just like it would as if it was an apple loop. You can drag and drop em right into the “little boxes” LOL!  anyways, GB is now what you will be finishing and exporting your end product from, so if ya screw up on a sample from Auxy, ya have to do it over and over until ya get it right!</p>
+<p>Hope that helps?!  I personally like to slap all samples I make in Auxy or take from GB and spread em out in Ableton Live10 and then use that as the BOSS DAW!! Alter, tweak etc.  It’s absolutely FABULOUS!!! Only took about 3 months of my life wasted to get to this point! LMAO!! DOH!! So, like Auxy, I am only $5/mo for my engineering tips &amp; tricks services. Got PayPal? Hehehe, J/P Take Care~</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/13</link>
+        <pubDate>Fri, 25 May 2018 01:57:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-13</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[AnirudhKhanna]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>how do I export an auxy project to GB?</strong></p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/12</link>
+        <pubDate>Fri, 25 May 2018 01:21:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-12</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[GrandpaMusic]]></dc:creator>
+        <description><![CDATA[
+            <p>In addition to importing sounds and using them in GarageBand, try making the same melody with two different sounds and pairing them together. It offers plenty of room for experimentation.</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/11</link>
+        <pubDate>Thu, 24 May 2018 22:40:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-11</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <p>I am now a fan of the collab use of both (for my last few projects, and probably from now on!!), with or without using Ableton Live10 (Which I use as the BOSS of them both now. But that’s my CANDY STORE choice ;)) LOL <img src="https://emoji.discourse-cdn.com/apple/smile.png?v=5" title=":smile:" class="emoji" alt=":smile:"> <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/10</link>
+        <pubDate>Thu, 24 May 2018 21:31:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-10</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>GarageBand has a feature which allows you to exit the app and instead use Auxy.</p>
+<div class="spoiler"><a href="https://disco.auxy.co/t/garageband-tricks/10128/9">spoiler</a></div>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/9</link>
+        <pubDate>Thu, 24 May 2018 21:25:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-9</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[stereofield]]></dc:creator>
+        <description><![CDATA[
+            <p>If you have vocals for a song, you can use GarageBand to combine it with your Auxy song</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/8</link>
+        <pubDate>Thu, 24 May 2018 21:16:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-8</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="5" data-topic="10128" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/1219_1.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>GarageBand has Sub bass (on desktop)</p>
+</blockquote>
+</aside>
+<p>And in IOS App! It clearly is labeled “Sub Bass” and their is also, “Full Sub”</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/7</link>
+        <pubDate>Thu, 24 May 2018 21:06:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-7</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Danbligity]]></dc:creator>
+        <description><![CDATA[
+            <p>And Vice Versa!  Also, from what I’ve encountered here, it appears that most people in this forum want to use Auxy as main DAW (DUH! lol), simply because of it’s simple functionality, which is what makes Auxy so cool in the first place. What I’m trying to say, is; Very Few Auxy Users like using IOS GB! LOL</p>
+<p>So with the Vice Versa part, and if you can at minimum learn the basics of GB, you can also take their samples and import them into Auxy! WALAH!!  *This is, ofcourse, if the samples are 10secs or less. They MUST be placed into the Auxy specific File called “Samples”.</p>
+<p>**I appreciate this topic you created, BTW! <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/6</link>
+        <pubDate>Thu, 24 May 2018 21:04:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-6</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>GarageBand has Sub bass (on desktop)</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/5</link>
+        <pubDate>Thu, 24 May 2018 21:01:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-5</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Ablopez]]></dc:creator>
+        <description><![CDATA[
+            <p>K thanks</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/4</link>
+        <pubDate>Thu, 24 May 2018 20:36:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-4</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[LimeZ]]></dc:creator>
+        <description><![CDATA[
+            <p>There should be a pencil icon at the bottom of the post.</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/3</link>
+        <pubDate>Thu, 24 May 2018 20:22:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-3</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Ablopez]]></dc:creator>
+        <description><![CDATA[
+            <p>You also need to save the audio in Files and under ICloud user. Then you go into GarageBand and click the loop icon when your In a project then select audio files, and then you click “browse from files app” and select your loop.<br>
+Ps. I don’t know how to edit my post</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/2</link>
+        <pubDate>Thu, 24 May 2018 19:12:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-2</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+      <item>
+        <title>GarageBand Tricks</title>
+        <dc:creator><![CDATA[Ablopez]]></dc:creator>
+        <description><![CDATA[
+            <p>I just wanted to make this in case there are people that use both auxy and GarageBand, and tricks for people to use both (pretty much).</p>
+<p>I want this thread to have advice or tricks you know about GarageBand.<br>
+I’ll start:<br>
+Since GarageBand doesn’t really have a sub bass you can make one in auxy, export it as an audio file and save it in the files app. Then go into garageband and select audio files when you click the loop icon in a project. You also have to make sure the tempo and key are the same when you export the audio.</p>
+<p>K now continue it</p>
+          <p><a href="https://disco.auxy.co/t/garageband-tricks/10128/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/garageband-tricks/10128/1</link>
+        <pubDate>Thu, 24 May 2018 19:02:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10128-1</guid>
+        <source url="https://disco.auxy.co/t/garageband-tricks/10128.rss">GarageBand Tricks</source>
+      </item>
+  </channel>
+</rss>

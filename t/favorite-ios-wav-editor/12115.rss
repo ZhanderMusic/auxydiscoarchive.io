@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Favorite iOS wav editor?</title>
+    <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115</link>
+    <description>I&#39;m starting to explore importing my own samples in Auxy. But some samples need editing before importing. Do you have a favorite wav editor for iOS? Especially one that&#39;s easy for working with Auxy?</description>
+    
+    <lastBuildDate>Wed, 12 Sep 2018 23:16:33 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>Ya Caustic is pretty awesome for creating samples.  You can draw waveforms, apply fx endlessly, etc</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/12</link>
+        <pubDate>Wed, 12 Sep 2018 23:16:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-12</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[Lex]]></dc:creator>
+        <description><![CDATA[
+            <p>I use this app called Lexis Audio Editor. It’s not fancy schmancy but it gets the job done for me.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/11</link>
+        <pubDate>Wed, 12 Sep 2018 16:04:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-11</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>They’re the pre-cursor to audio unit effects/instruments… I can’t remember how many years ago they came out, but basically it was Apple’s answer to AudioBus, in a way. You can apply inter app audio (IAA) effects in a recording chain but cannot apply the effects after the fact (ie, apply IAA effects to recorded audio). In my experience at least… though I think Cubasis does some trickery that might make this possible (via resampling, I’d imagine).</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/10</link>
+        <pubDate>Wed, 12 Sep 2018 13:57:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-10</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah well, I mean, NS2 is in the works, nearly done. NS1 is 32bit so if you’re not running an older device YOU CANNOT run NS1. NS2 is probably going to be pretty awesome…</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/9</link>
+        <pubDate>Wed, 12 Sep 2018 13:53:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-9</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>What are IAA effects?</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/8</link>
+        <pubDate>Wed, 12 Sep 2018 13:35:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-8</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[corey]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="6" data-topic="12115">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>Nanostudio, RIP</p>
+</blockquote>
+</aside>
+<p>Is it official then? I’ve seen people asking about updates, but no announcement that it’s actually dead.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/7</link>
+        <pubDate>Wed, 12 Sep 2018 11:58:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-7</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s not free, and it does quite a bit more than just edit audio, but I recall Caustic having a pretty fleshed out wave editor too. So did Nanostudio, RIP.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/6</link>
+        <pubDate>Wed, 12 Sep 2018 11:49:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-6</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yessss plus you can get loops and etc from here directly. A little pricey imo, but these could be opened directly in Auxy as said <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/5</link>
+        <pubDate>Wed, 12 Sep 2018 08:29:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-5</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>Yesss. Kymatica takes the cake for this one!</p>
+<p>Audioshare is feature rich enough while still being fairly easy to use–definitely a solid choice. (Also as a side note, for anyone looking for a nice mobile audio mixer, I highly recommend AUM. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=6" title=":wink:" class="emoji" alt=":wink:"> )</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/4</link>
+        <pubDate>Wed, 12 Sep 2018 06:05:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-4</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>My vote is for AudioShare as well, but anybody looking for a free solution could do worse than <a href="http://retronyms.com/audiocopy/">Audiocopy from Retronyms</a>.</p>
+<p>It can ‘open in’ Auxy as well.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/3</link>
+        <pubDate>Wed, 12 Sep 2018 02:44:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-3</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>AudioShare, hands down. It’s by the same developer of Aum.</p>
+<p>Depending on what kind of editing you want to do, like trimming, normalizing etc it’s probably all you’d need. You can also re-sample using IAA effects which is pretty cool. It’s also a decent enough recorder.</p>
+<p>You can “open in” Auxy directly from AudioShare.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/2</link>
+        <pubDate>Tue, 11 Sep 2018 12:37:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-2</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+      <item>
+        <title>Favorite iOS wav editor?</title>
+        <dc:creator><![CDATA[corey]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m starting to explore importing my own samples in Auxy. But some samples need editing before importing. Do you have a favorite wav editor for iOS? Especially one that’s easy for working with Auxy?</p>
+          <p><a href="https://disco.auxy.co/t/favorite-ios-wav-editor/12115/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-ios-wav-editor/12115/1</link>
+        <pubDate>Tue, 11 Sep 2018 12:36:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12115-1</guid>
+        <source url="https://disco.auxy.co/t/favorite-ios-wav-editor/12115.rss">Favorite iOS wav editor?</source>
+      </item>
+  </channel>
+</rss>

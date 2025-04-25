@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How do you process samples?</title>
+    <link>https://disco.auxy.co/t/how-do-you-process-samples/15891</link>
+    <description>How do you go about making a sample unique? (eq, compression,distortion etc)
+
+What methods do you use?
+
+What apps do you use to achieve this?</description>
+    
+    <lastBuildDate>Thu, 04 Jul 2019 16:43:28 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Good question - I never tried to be honest… I think that aum does the recording, it just records to shared space that AudioShare uses? So it’s not a true circle… I’m conjecturing of course since I haven’t really tested.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/25</link>
+        <pubDate>Thu, 04 Jul 2019 16:43:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-25</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>No feedback loop from recording out and into the same app at the same time?</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/24</link>
+        <pubDate>Thu, 04 Jul 2019 15:01:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-24</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Auria would be really tough in terms of UI on a phone, not really practical I think. And at the time they started it, the iPad could barely handle the thing in terms of processing power. These days of course things run much more smoothly.  It is really the closest thing to a desktop DAW on mobile, but the interface is so fast to use.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/23</link>
+        <pubDate>Thu, 04 Jul 2019 15:00:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-23</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Negatory <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+<p>That is the WORST thing about iOS music production. All the really heavy hitters are iPad only (Auria, Cubasis, NS2 (for now)). I mean I get it, I can’t imagine cramming the UI down to a phone sized screen (Gadget on a phone? Laughable, don’t care what anyone says), but it sucks that the phone doesn’t really have great representation as far as these more powerful, flexible apps.</p>
+<p>I recently sold my iPad and I’m regretting it. Not really gonna be able to pick up a new one until next year due to other financial considerations.</p>
+<p>I reread what you wrote, you could actually load AudioShare in AUM (maybe? I never tried this but I think it should work) then route that through your AUFX chain and straight record back IN to AudioShare from there (AUM and AudioShare integration is SUPER tight). AudioShare won’t load AUv3 - wtf??? I could have sworn it did but you can only load up IAA (which will be deprecated in iOS 13 but continue to work for… a little while? A year? Who knows, Apple lol).</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/22</link>
+        <pubDate>Tue, 02 Jul 2019 12:38:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-22</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>Is Auria an iPhone app?</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/21</link>
+        <pubDate>Tue, 02 Jul 2019 12:07:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-21</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>I just export my Auxy samples to Audioshare, and then use Audiobus to run the samples from AudioShare through the AUFX, recording into Auria. From there back into the Auxy sample folder.</p>
+<p>Can also add compression and EQ in Auria.  I often do post production on my Auxy tracks in Auria as well, Fab-filter ProQ is great, Can’t believe I can use that on mobile!</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/20</link>
+        <pubDate>Tue, 02 Jul 2019 07:14:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-20</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>AUFX are great,  especially for adding Canyon reverbs or long delays that you can’t get in Auxy.   They are rocksolid on BPM too, so no worries re-importing into Auxy.</p>
+<p>It’s always a good idea when you find a good setting to save it as a user pre-set with the same name as the track you’re using it on, this really helps if six months later you need to go back and do some re-mixing.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/19</link>
+        <pubDate>Tue, 02 Jul 2019 07:10:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-19</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>The AUFX stuff is a natural fit for AUM so you good there. You COULD use AUM and Auxy together with Link for tempo sync, then there’s an option to record bar length loops out of AUM you could import back into Auxy (keeping in mind 20 second limit). Option is called sync quantum I think, and you can specify how many bars it will record for at your tempo to cut out a perfect loop. Otherwise, AUM and Auxy are basically speaking Mandarin and German lol…</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/18</link>
+        <pubDate>Sat, 29 Jun 2019 11:38:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-18</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>Just need to play around and work out how to use them all now lol</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/17</link>
+        <pubDate>Sat, 29 Jun 2019 07:54:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-17</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>None of those are bad choices <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/16</link>
+        <pubDate>Sat, 29 Jun 2019 02:28:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-16</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>I went a bit app crazy and bought all of the AUFX lol and AUM.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/15</link>
+        <pubDate>Fri, 28 Jun 2019 21:44:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-15</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Nothing wrong with free plugs - there are A LOT of gems out there.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/14</link>
+        <pubDate>Thu, 20 Jun 2019 17:01:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-14</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[HYDRANS]]></dc:creator>
+        <description><![CDATA[
+            <p>I use FL studio and the native EQ (Fruity Parametric EQ 2) works great most of the time. I have a variety of distortion plugins that have different effects. Again, FL Studio has a variety of good native distortion plugins, but I also like to use plugins like guitar rig, Krush (which is a bitcrush plugin but also acts as distortion) and sometimes the distortion in Serum FX</p>
+<p>I use a lot of free plugins lol</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/13</link>
+        <pubDate>Thu, 20 Jun 2019 14:43:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-13</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>Which apps do you use for EQ, distortion etc?</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/12</link>
+        <pubDate>Thu, 20 Jun 2019 13:31:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-12</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[HYDRANS]]></dc:creator>
+        <description><![CDATA[
+            <p>There isn’t one specific way I process a sample. For me, it really depends on the specific sample that I am processing and the song that it is going to be used in</p>
+<p>For example, if I am processing a vocal sample for something more mainstream/melodic sounding, I might use simple techniques such as slight EQing and some reverb for subtle effects. I wouldn’t want to take focus away from the actual vocal performance. However, if I was using the same vocal for a more heavy, experimental track (what I normally make) I would probably use various effects to fit the song. I like to use OTT, distortion and a subtle amp effect along with EQ to get a blown out speakers effect to a vocal sample.</p>
+<p>TL;DR</p>
+<p>It really depends on the sample and type of song I’m using it for</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/11</link>
+        <pubDate>Thu, 20 Jun 2019 00:57:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-11</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[tornait]]></dc:creator>
+        <description><![CDATA[
+            <p>i don’t process any of my samples. I think i should, though.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/10</link>
+        <pubDate>Tue, 18 Jun 2019 21:02:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-10</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[M9601]]></dc:creator>
+        <description><![CDATA[
+            <p>I use garage band when i want use my voice. And AVR X PRO for recording the nature or anything else with my iPhone</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/9</link>
+        <pubDate>Tue, 18 Jun 2019 19:52:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-9</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[foryou]]></dc:creator>
+        <description><![CDATA[
+            <p>in auxy, there’s currently not much you can do to tweak samples, but in ableton or fl studio, the possibilities are endless. i prefer ableton’s complex sample warp system, as it assures me that everything in the sample is timed right in relation to the rest of the song. also, the built-in effects in ableton and fl studio are amazing. if you’re looking to take your production to the next level while still using auxy, i recommend getting ableton, as you can make something in auxy then export it right into ableton.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/8</link>
+        <pubDate>Tue, 18 Jun 2019 19:00:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-8</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[foryou]]></dc:creator>
+        <description><![CDATA[
+            <p>i chop it up a lot, and try to create my own melody out of it. it works pretty well. since i make lofi hip hop, i think doing less to the sample actually is better because too much distortion would take away from the simplicity of the sample and the track in general.</p>
+<p>for experimental stuff, there’s not much i can say, other than try everything possible until you get something you like. it may take a while, but the end result is worth it.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/7</link>
+        <pubDate>Tue, 18 Jun 2019 18:57:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-7</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[Thrashie]]></dc:creator>
+        <description><![CDATA[
+            <p>If you use discord a lot of EDM label discord servers have a sample share thread that you can go through and find samples you’d like to use</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/6</link>
+        <pubDate>Tue, 18 Jun 2019 14:59:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-6</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[Thrashie]]></dc:creator>
+        <description><![CDATA[
+            <p>I normally just try and find unique metallic sounds and occasionally a wooden perc sound and resample the sound with effects over and over until I have something I’m happy with (in ableton there is a resample feature. Not sure how many Daws have that.)</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/5</link>
+        <pubDate>Tue, 18 Jun 2019 14:57:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-5</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>I have to agree with finding samples that are good as is, currently I do this but I want to take them to the next level by making them have a bit of crunch whilst retaining a clean sample that isn’t muddy. I need to invest in some apps that are iPhone compatible I think so that I can eq properly and utilise other effects.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/4</link>
+        <pubDate>Tue, 18 Jun 2019 13:52:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-4</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I was gonna put some wonky tongue in cheek answer but it was taking too long to type out something crazy lol…</p>
+<p>Honestly, I spend more time looking for the sample that fits as-is, then, at the very most I’ll do some chopping or just performance / buffer based effects. I’ve noticed I’m very big on stuff like Replicant, Turnado, Effectrix etc. Unfortunately only one of those even works on the phone. But those three are my go to on an iPad.</p>
+<p>I’m trying to make a concerted effort to use less samples, not because I don’t believe they are useful, but I feel like it’s making me kind of lazy and I’m just bored. So usually I’ll try to only use samples for things I either can’t record myself, or can’t synthesize (orchestral stuff, guitars, vocals, etc)</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/3</link>
+        <pubDate>Tue, 18 Jun 2019 13:05:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-3</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m a sucker for the sound of vintage samplers.</p>
+<p>I put most of my samples through either <a href="https://www.inphonik.com/products/rx950-classic-ad-da-converter/" rel="nofollow noopener">Inphonik RX950</a> or <a href="https://klevgrand.se/products/degrader" rel="nofollow noopener">Klevgrand Degrader</a> to get that extra crunch.</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/2</link>
+        <pubDate>Tue, 18 Jun 2019 12:30:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-2</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+      <item>
+        <title>How do you process samples?</title>
+        <dc:creator><![CDATA[PISTOL]]></dc:creator>
+        <description><![CDATA[
+            <p>How do you go about making a sample unique? (eq, compression,distortion etc)</p>
+<p>What methods do you use?</p>
+<p>What apps do you use to achieve this?</p>
+          <p><a href="https://disco.auxy.co/t/how-do-you-process-samples/15891/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-do-you-process-samples/15891/1</link>
+        <pubDate>Tue, 18 Jun 2019 12:16:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15891-1</guid>
+        <source url="https://disco.auxy.co/t/how-do-you-process-samples/15891.rss">How do you process samples?</source>
+      </item>
+  </channel>
+</rss>

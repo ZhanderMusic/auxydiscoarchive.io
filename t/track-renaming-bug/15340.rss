@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Track Renaming Bug</title>
+    <link>https://disco.auxy.co/t/track-renaming-bug/15340</link>
+    <description>I have this problem in which renaming a track will reset it to what it was previously.
+
+iPhone 6s running the latest iOS firmware
+
+https://youtu.be/vn-fJ5k-Im0</description>
+    
+    <lastBuildDate>Mon, 06 May 2019 07:45:34 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/track-renaming-bug/15340.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[Mr_Mooo]]></dc:creator>
+        <description><![CDATA[
+            <p>that’s what used to happen (it would just put the number 2 next to it) but in the new update this has been happening to me where if a project of that name exists it just doesn’t name it</p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/7</link>
+        <pubDate>Mon, 06 May 2019 07:45:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-7</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>No it will have a <span class="hashtag">#2</span> next to it</p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/6</link>
+        <pubDate>Mon, 06 May 2019 05:26:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-6</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>I noticed this as well, and I think it seems to happen when you try to rename a project to the name of an existing project.</p>
+<p>(Previously it would add a 2 to the end) I only saw this after the most recent update</p>
+<p>Hope this helps with trying to narrow it down^^</p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/5</link>
+        <pubDate>Sun, 05 May 2019 01:34:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-5</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve tested other projects as well. It seems to be an issue when I change the title to something with exactly 3 Cs.</p>
+<p>It’s hard to describe it. I tried to rename one of my tracks to <em>City Electric</em> but then reverted back to what it was before.</p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/4</link>
+        <pubDate>Sat, 04 May 2019 16:51:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-4</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes this is. It happened to me three times. <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/3</link>
+        <pubDate>Sat, 04 May 2019 12:34:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-3</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Is this happening all the time, i.e. you’re not able to rename any projects, or just for this project?</p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/2</link>
+        <pubDate>Sat, 04 May 2019 12:26:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-2</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+      <item>
+        <title>Track Renaming Bug</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I have this problem in which renaming a track will reset it to what it was previously.</p>
+<p>iPhone 6s running the latest iOS firmware</p>
+<p><a href="https://www.youtube.com/embed/vn-fJ5k-Im0?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/vn-fJ5k-Im0</a></p>
+          <p><a href="https://disco.auxy.co/t/track-renaming-bug/15340/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/track-renaming-bug/15340/1</link>
+        <pubDate>Fri, 03 May 2019 22:02:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15340-1</guid>
+        <source url="https://disco.auxy.co/t/track-renaming-bug/15340.rss">Track Renaming Bug</source>
+      </item>
+  </channel>
+</rss>

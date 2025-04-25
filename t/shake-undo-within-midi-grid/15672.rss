@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>“Shake” undo within midi grid</title>
+    <link>https://disco.auxy.co/t/shake-undo-within-midi-grid/15672</link>
+    <description>When the midi grid starts to get busy, it is VERY easy to accidentally move or delete notes as you are scrolling from bar to bar. I am imagining using the “shake” undo feature that the iPhone has in other apps.</description>
+    
+    <lastBuildDate>Thu, 30 May 2019 21:07:53 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>“Shake” undo within midi grid</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/4</link>
+        <pubDate>Thu, 30 May 2019 21:08:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15672-4</guid>
+        <source url="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672.rss">“Shake” undo within midi grid</source>
+      </item>
+      <item>
+        <title>“Shake” undo within midi grid</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/3</link>
+        <pubDate>Thu, 30 May 2019 21:08:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15672-3</guid>
+        <source url="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672.rss">“Shake” undo within midi grid</source>
+      </item>
+      <item>
+        <title>“Shake” undo within midi grid</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>A post was merged into an existing topic: <a href="https://disco.auxy.co/t/most-wanted-features/14165">Most Wanted Features</a></p>
+          <p><a href="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/2</link>
+        <pubDate>Thu, 30 May 2019 21:08:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15672-2</guid>
+        <source url="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672.rss">“Shake” undo within midi grid</source>
+      </item>
+      <item>
+        <title>“Shake” undo within midi grid</title>
+        <dc:creator><![CDATA[rosenthal.scott]]></dc:creator>
+        <description><![CDATA[
+            <p>When the midi grid starts to get busy, it is VERY easy to accidentally move or delete notes as you are scrolling from bar to bar. I am imagining using the “shake” undo feature that the iPhone has in other apps.</p>
+          <p><a href="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/shake-undo-within-midi-grid/15672/1</link>
+        <pubDate>Thu, 30 May 2019 21:07:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15672-1</guid>
+        <source url="https://disco.auxy.co/t/shake-undo-within-midi-grid/15672.rss">“Shake” undo within midi grid</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+    <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871</link>
+    <description>This update introduces Ableton Live export—the perfect feature for Ableton users who use Auxy as a sketch pad for new tracks. It also brings some important changes to how projects and samples are stored and managed in the app.
+
+### New Features
+- Projects can now be exported as Ableton Live sets with instruments rendered as separate audio and MIDI tracks
+- Projects and samples are now stored in the app for improved performance and reliability
+- Projects and samples can now be easily imported and exported to iCloud and other places
+- Any imported samples used in a project are now included when you share the project
+- Each drum kit now has 16 sample slots and can be set to any color
+- When you delete an unused loop you now get the option to delete all unused loops for that instrument
+- A new option lets you duplicate automation when changing the loop length
+- The Ableton Link library has been updated to the latest version
+- We have fixed a number of bugs and crashes 
+
+### About the New Project Features
+Projects are now stored locally on your device (in the app). They are no longer stored in iCloud, which means you will always see all your projects and they will load instantly. Except for the improved reliability and performance, browsing and opening projects should work as usual.
+
+Check the new [Projects Help](https://auxy.co/projects.html) page for more details.
+
+### About the New Sample Features
+Samples can now be imported and organized in the app, instead of referenced in iCloud. Once you have imported a sample, the app find it even if you rearrange your library. Note that if you have old projects with references to iCloud samples, you need to keep your library in the same order until you have opened these projects so that the app can update the sample references.
+
+Check the new [Samples Help](https://auxy.co/samples.html) page for more details.</description>
+    
+    <lastBuildDate>Sat, 11 May 2019 17:52:52 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/95">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/95</link>
+        <pubDate>Wed, 26 May 2021 19:23:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-95</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[JPNYC]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks dude.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/94">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/94</link>
+        <pubDate>Sat, 11 May 2019 17:52:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-94</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Inside of a project hit the nut menu &gt; Export project &gt; see below:</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/5/543a22b2b1742cf16f0f840d057588fe7de517fc.jpeg" alt="image" width="231" height="500"></p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/93">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/93</link>
+        <pubDate>Sat, 11 May 2019 16:56:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-93</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[JPNYC]]></dc:creator>
+        <description><![CDATA[
+            <p>In order to get a free copy of Ableton Live Lite 10, you have to be given a serial number from the product company you purchased from.</p>
+<p>Ableton Live Lite is bundled with a lot of software and hardware purchases (An example would be if you purchased a Focusrite Scarlett audio interface. Focusrite includes a serial number to activate Ableton Live Lite as a bonus for purchasing their product).</p>
+<p>Auxy mentions that Ableton Live Lite is free for Auxy subscribers. I can image that there might be some producers in the forum who are subscribers, who might not have a copy of Ableton Live 10 and would appreciate a copy of the Lite version. In order to use it, they would have to get a serial number or link to the software from Auxy.</p>
+<p>When I was on YouTube yesterday I noticed that the description under Auxy’s video on the new Ableton Live Export stated you could get a free copy, but have no instructions as to how.</p>
+<p>I looked through the forum and on the <a href="http://Auxy.co" rel="nofollow noopener">Auxy.co</a> website and there was no info. I just figured someone here would probably like to get a free copy, so I am asking for instructions/info.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/92">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/92</link>
+        <pubDate>Sat, 11 May 2019 16:28:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-92</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you mean by “take advantage of this offer”?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/91">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/91</link>
+        <pubDate>Sat, 11 May 2019 16:09:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-91</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[JPNYC]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> This release comes with Ableton Live Export. The video on YouTube walks us through this feature and mentions in the description that Auxy subscribers can get a copy of Ableton Live Lite for free. Is there information somewhere on how to take advantage of this offer?</p>
+<p>I am sure there are a few people that would love to take advantage of this. Thank you.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/90">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/90</link>
+        <pubDate>Sat, 11 May 2019 15:59:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-90</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>I think the feature to delete all unused loops in an instrument is a good feature, but i think its better if we could select loops to delete</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/89">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/89</link>
+        <pubDate>Sun, 05 May 2019 02:21:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-89</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[bedlegs]]></dc:creator>
+        <description><![CDATA[
+            <p>Got it, thanks alot!!</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/88">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/88</link>
+        <pubDate>Fri, 03 May 2019 18:11:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-88</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>If you press Import on the project menu, then back out to Locations on iCloud Drive… press into iCloud Drive, then the Auxy folder -&gt; Backups should still be in there. The backups still live in the cloud but all projects inside the app now are local.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/87">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/87</link>
+        <pubDate>Fri, 03 May 2019 17:59:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-87</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[bedlegs]]></dc:creator>
+        <description><![CDATA[
+            <p>I cant figure out how to access the backups with the newest update</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/86">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/86</link>
+        <pubDate>Fri, 03 May 2019 17:46:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-86</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="81" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/11468_2.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>If I’m still using 5.3 for the reason stated above, would this affect project sharing between 5.3 and 5.4?</p>
+</blockquote>
+</aside>
+<p>You should update if you want to send projects back and forth!</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/85">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/85</link>
+        <pubDate>Thu, 25 Apr 2019 08:48:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-85</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="81" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/11468_2.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>If I don’t have any space on my phone should I not update since I won’t have enough storage for my current projects?</p>
+</blockquote>
+</aside>
+<p>The projects require very little space, so it’s better that you delete e.g. renders or something else if you need to free up space.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/84">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/84</link>
+        <pubDate>Thu, 25 Apr 2019 08:48:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-84</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Two reasons for this:</p>
+<ul>
+<li>Make the sample grid somewhat different from the melody grid</li>
+<li>Give the labels enough space in each slot</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/83</link>
+        <pubDate>Thu, 25 Apr 2019 08:46:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-83</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We have a special link for it but we haven’t shared it publicly since it’s quite destructive… <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/82">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/82</link>
+        <pubDate>Thu, 25 Apr 2019 08:45:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-82</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>So 2 questions related to each other:</p>
+<ol>
+<li>If I don’t have any space on my phone should I not update since I won’t have enough storage for my current projects?</li>
+<li>If I’m still using 5.3 for the reason stated above, would this affect project sharing between 5.3 and 5.4?</li>
+</ol>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/81</link>
+        <pubDate>Thu, 25 Apr 2019 08:38:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-81</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>I understand your points now but either way I’m. Okay with it and no I didn’t see the part u mentioned it being 10-12</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/80</link>
+        <pubDate>Wed, 24 Apr 2019 01:54:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-80</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="78" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/dj_la_rocca/40/12694_2.png" class="avatar"> DJ_La_Rocca:</div>
+<blockquote>
+<p>extremely small</p>
+</blockquote>
+</aside>
+<p>Which is why I said something around 10-12 instead of 8. That’s not half, half would be 16. I seriously have doubts that you either fully read or fully understood my post. And, for your information, if they <em>were</em> halved to the <em>same size</em> as an <em><strong>instrument</strong></em>, it wouldn’t be <em>extremely small</em> unless you’re calling the notes on the <em><strong>instrument</strong></em> view <em>extremely small</em>.</p>
+<aside class="quote no-group" data-post="78" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/dj_la_rocca/40/12694_2.png" class="avatar"> DJ_La_Rocca:</div>
+<blockquote>
+<p>I’m happy with the scroll</p>
+</blockquote>
+</aside>
+<p>Some people, namely myself, aren’t, and have a perfectly valid reason to offer up a request and explain their position.</p>
+<aside class="quote no-group" data-post="78" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/dj_la_rocca/40/12694_2.png" class="avatar"> DJ_La_Rocca:</div>
+<blockquote>
+<p>U can’t always see what’s going on in a melody without scrolling around so what difference would it make for drums?</p>
+</blockquote>
+</aside>
+<p>It would make a difference to see more drums since you’re using multiple notes on a drum kit at the same time, compared to in the <em><strong>instrument</strong></em> view you’re usually either doing chords or single-line melodies. <em>Usual practice</em> doesn’t have users putting say a low bass and a high melody line in the same <em><strong>instrument channel</strong></em>, so scrolling in that sense would be required. Otherwise, you don’t tend to do too much scrolling aside from actually <em>writing a melody part down</em>.</p>
+<aside class="quote no-group" data-post="78" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/dj_la_rocca/40/12694_2.png" class="avatar"> DJ_La_Rocca:</div>
+<blockquote>
+<p>I don’t see the issue</p>
+</blockquote>
+</aside>
+<p>I hope I was able to enlighten you so you’d see my position here. Clearly I wasn’t explaining it well enough, so now I hope it’s obvious.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/79</link>
+        <pubDate>Wed, 24 Apr 2019 01:52:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-79</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>If u halved the size of the already 8 notes in the drums they’d be extremely small. I’m happy with the scroll. U can’t always see what’s going on in a melody without scrolling around so what difference would it make for drums? I don’t see the issue</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/78</link>
+        <pubDate>Wed, 24 Apr 2019 01:39:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-78</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="76" data-topic="14871">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/dj_la_rocca/40/12694_2.png" class="avatar"> DJ_La_Rocca:</div>
+<blockquote>
+<p>Melodies are scroll worthy?</p>
+</blockquote>
+</aside>
+<p>Yes, because on the <em>instrument</em> window it shows more than 8 notes worth of width, I’d certainly imagine that to be worthy of scrolling. <span class="spoiler"><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/77">spoiler</a></span></p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/77</link>
+        <pubDate>Tue, 23 Apr 2019 15:32:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-77</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>What difference does it make? Melodies are scroll worthy?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/76</link>
+        <pubDate>Tue, 23 Apr 2019 05:22:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-76</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>My only issue I personally take place with the way the drum kits work now is that they’re still stretched-size hits, and the scrolling is an entire screen’s worth. Is there any chance that in the future the size of the single drum samples will get scaled down? I feel it’s a bit wasteful for it to be that size still. Even if we have to scroll to access 4-6 of the samples, I think a new width would breathe fresh air into using the new 16-wide kits.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/75</link>
+        <pubDate>Mon, 22 Apr 2019 02:26:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-75</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah it was but now it’s “export”</p>
+<p>And yeah well I have heaps of scrap/wip projects</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/74</link>
+        <pubDate>Fri, 19 Apr 2019 18:35:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-74</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe, not sure. Never have enough tracks in here to use tags haha. It was part of the swipe left choices before, right?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/73</link>
+        <pubDate>Fri, 19 Apr 2019 18:35:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-73</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[DJ_La_Rocca]]></dc:creator>
+        <description><![CDATA[
+            <p>Ohhhh incase I missed it, but this change was not mentioned in the update?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/72</link>
+        <pubDate>Fri, 19 Apr 2019 18:34:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-72</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/d/d8381dd447d1958715fbe2a186a5327366501cde.jpeg" title="86A97E9D-5D0A-453A-8D18-3464AA1BEA6E.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8381dd447d1958715fbe2a186a5327366501cde_2_231x500.jpeg" alt="image" width="231" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8381dd447d1958715fbe2a186a5327366501cde_2_231x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8381dd447d1958715fbe2a186a5327366501cde_2_346x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8381dd447d1958715fbe2a186a5327366501cde_2_462x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d8381dd447d1958715fbe2a186a5327366501cde_2_10x10.png"></a></div><p></p>
+<p>Swipe right</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871/71</link>
+        <pubDate>Fri, 19 Apr 2019 18:33:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14871-71</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-4-ableton-live-export-and-improved-reliability/14871.rss">What&#39;s New in 5.4 - Ableton Live Export and Improved Reliability</source>
+      </item>
+  </channel>
+</rss>

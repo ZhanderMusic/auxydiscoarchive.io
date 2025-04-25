@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Where does the exported Bitwig Bundle go?</title>
+    <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068</link>
+    <description>Auxy 6.6
+iPadOS 14.6
+
+HI! I was delighted to discover that Auxy now supports exporting to a Bitwig readable format. As an experiment I&#39;ve exported the Dream Demo, but, no doubt due to my lack of iPad skills, I cannot figure out where the exported data has gone.
+
+I&#39;ve used the iPads Spotlight search but all that can find is a bunch of .AXP file which have the right kind of time stamp, but as far as I know .AXP not a standard Bitwig file extension. These were on the iCloud under Auxy, by the way.</description>
+    
+    <lastBuildDate>Thu, 03 Jun 2021 19:33:22 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>Tell a lie! DropBox does work, just very very sloooowwwllllyyy <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/21</link>
+        <pubDate>Thu, 03 Jun 2021 19:33:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-21</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know if it is a problem with my Dropbox but that doesn’t appear to work at all. However. iCloud works just fine, even if it does take a couple of minutes for my iPad and my Mac to sync.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/20</link>
+        <pubDate>Thu, 03 Jun 2021 19:29:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-20</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>The Bitwig export didn’t work in the previous Auxy version, but if you update to 6.6.1, it should render a file that you can send wherever you like and then open in Bitwig. Check so that you have updated to the latest version and let me know if the export feature works!</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/19</link>
+        <pubDate>Thu, 03 Jun 2021 18:53:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-19</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m on beta 2 already <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> Have you seen the latest news? Import of Ableton projects is supposed to support native devices as well as audio and 3rd party VST. It doesn’t work yet, but that’s probably coming in beta 3 <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/18</link>
+        <pubDate>Thu, 03 Jun 2021 15:06:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-18</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="carlcaulkett" data-post="16" data-topic="21068">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/carlcaulkett/40/11329_2.png" class="avatar"> carlcaulkett:</div>
+<blockquote>
+<p>Presumably this relies on the new Bitwig 4 beta; I don’t recall the <code>.axbw</code> file being a recognised Bitwig file before.</p>
+</blockquote>
+</aside>
+<p>It’s new in v4.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba.png" data-download-href="/uploads/short-url/zcdiIxLFNbh8ZqzffOuN6hn5KR4.png?dl=1" title="Screen Shot 2021-06-04 at 1.05.04 am" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba_2_690x182.png" alt="Screen Shot 2021-06-04 at 1.05.04 am" data-base62-sha1="zcdiIxLFNbh8ZqzffOuN6hn5KR4" width="690" height="182" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba_2_690x182.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba_2_1035x273.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/f/6/f6ad8e983e9c698e5de2bb007dc9b40574c470ba_2_10x10.png"></a></div><p></p>
+<p><a href="https://www.bitwig.com/support/technical_support/42/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.bitwig.com/support/technical_support/42/</a></p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/17</link>
+        <pubDate>Thu, 03 Jun 2021 15:03:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-17</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>Sadly, on my iPad there is nothing to indicate that the render has even started, let alone finished. My apologies for any misplaced suspicions! Presumably this relies on the new Bitwig 4 beta; I don’t recall the <code>.axbw</code> file being a recognised Bitwig file before. <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a>  Any thoughts about this?</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/16</link>
+        <pubDate>Thu, 03 Jun 2021 15:00:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-16</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <ol>
+<li>Tap <code>Export Bitwig Bundle</code>
+</li>
+<li>Wait for render to finish…</li>
+<li>From the popup that appears, select either: <code>AirDrop</code> or <code>Save to Files</code>
+</li>
+<li>Import the <code>.axbw</code> file into Bitwig.</li>
+</ol>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/15</link>
+        <pubDate>Thu, 03 Jun 2021 14:51:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-15</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>What actually changes on screen to let you know it has worked? On mine, I just click on “Export Bitwig Bundle” and nothing else on screen changes. Do you have a secret place or folder where you can check and find the newly generated “Bitwig Bundle”? If you cannot come up with any thing better than “it *was” working" and “it <em>is</em> working for me”, a less charitable person than I, might think that you were trolling…</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/14</link>
+        <pubDate>Thu, 03 Jun 2021 14:45:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-14</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s working for me. (as it did before being removed)</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/13</link>
+        <pubDate>Thu, 03 Jun 2021 14:18:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-13</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>The Export Bitwig Bundle menu option has returned (as of 14:22 BST 03 Jun 2021) but doesn’t seem to do anything yet!</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/12</link>
+        <pubDate>Thu, 03 Jun 2021 13:23:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-12</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We have a server side config where we can disable certain features, change the links in the help tab, etc.</p>
+<p>The feature used to work but probably broke when we added support for individual sample stems, but we’ll get it sorted next week.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/11</link>
+        <pubDate>Fri, 28 May 2021 07:52:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-11</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> Fwiw, Bitwig export was working for me before it disappeared.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/10</link>
+        <pubDate>Fri, 28 May 2021 06:18:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-10</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="carlcaulkett" data-post="8" data-topic="21068">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/carlcaulkett/40/11329_2.png" class="avatar"> carlcaulkett:</div>
+<blockquote>
+<p>are you able to update the app on the fly?</p>
+</blockquote>
+</aside>
+<p>Wait a seccccc whaaaat. Unless that’s a webpage being pulled up (like the news feed) I don’t see how this is possible haha… but yes, I also see this has happened.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/9</link>
+        <pubDate>Thu, 27 May 2021 23:54:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-9</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>I notice now, without having updated anything, the Export to Bitwig option within Export a Project has now disappeared. <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> are you able to update the app on the fly? I don’t mind. It’s just a little unnerving <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/8</link>
+        <pubDate>Thu, 27 May 2021 21:56:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-8</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>Any chance of giving us the steps we need to do to get this to work? As my posts, and those of <a class="mention" href="https://disco.auxy.co/u/sj1">@sj1</a> and <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a> show, this is not very obvious!</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/7</link>
+        <pubDate>Thu, 27 May 2021 21:25:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-7</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We have made a special integration with Bitwig so it has nothing to do with Ableton.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/6</link>
+        <pubDate>Thu, 27 May 2021 19:35:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-6</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m actually using it alongside the beta of Bitwig 4.0 which was released today. Interestingly Bitwig now has the ability to read Ableton Live projects, so maybe this had something to do with it? There’s no rush, most of my time will be taken up investigating the finer points of the new Bitwig. The Bitwig feature of Auxy is a nice bonus. But I can wait a few days <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/5</link>
+        <pubDate>Thu, 27 May 2021 18:51:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-5</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>This feature is new and only supported in Bitwig 4, which was announced today: <a href="https://www.bitwig.com/whats-new/" class="inline-onebox">New in 4.0 | Bitwig</a></p>
+<p>Not sure why tapping the button in Auxy does nothing, but will disable it and invest further.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/4</link>
+        <pubDate>Thu, 27 May 2021 18:02:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-4</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> Can also confirm above, button press does nothing. Didn’t even know that was in there! Pretty cool.</p>
+<p><a class="mention" href="https://disco.auxy.co/u/carlcaulkett">@carlcaulkett</a> .AXP is the Auxy native project format, so it’s only readable by Auxy. If you export a Live Set you get all the stems, midi + a .ALS file. Not sure about Studio One.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/3</link>
+        <pubDate>Thu, 27 May 2021 17:18:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-3</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[sj1]]></dc:creator>
+        <description><![CDATA[
+            <p>I have the same question.   Export to Bitwig seems to do nothing.</p>
+<p>I would appreciate commentary by someone who knows as to whether Export to Bitwig is (or ever was) a working feature of Auxy or not.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/2</link>
+        <pubDate>Thu, 27 May 2021 17:06:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-2</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+      <item>
+        <title>Where does the exported Bitwig Bundle go?</title>
+        <dc:creator><![CDATA[carlcaulkett]]></dc:creator>
+        <description><![CDATA[
+            <p>Auxy 6.6<br>
+iPadOS 14.6</p>
+<p>HI! I was delighted to discover that Auxy now supports exporting to a Bitwig readable format. As an experiment I’ve exported the Dream Demo, but, no doubt due to my lack of iPad skills, I cannot figure out where the exported data has gone.</p>
+<p>I’ve used the iPads Spotlight search but all that can find is a bunch of .AXP file which have the right kind of time stamp, but as far as I know .AXP not a standard Bitwig file extension. These were on the iCloud under Auxy, by the way.</p>
+          <p><a href="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068/1</link>
+        <pubDate>Thu, 27 May 2021 15:16:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21068-1</guid>
+        <source url="https://disco.auxy.co/t/where-does-the-exported-bitwig-bundle-go/21068.rss">Where does the exported Bitwig Bundle go?</source>
+      </item>
+  </channel>
+</rss>

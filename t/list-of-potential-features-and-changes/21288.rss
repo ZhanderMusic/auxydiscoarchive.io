@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>List of potential features and changes</title>
+    <link>https://disco.auxy.co/t/list-of-potential-features-and-changes/21288</link>
+    <description>1. Effects:
+a. Effects rack - b. Reordering effects - c. Volume control - d. Further modulation
+
+a.
+For arbitrary effects like a simple phaser or vibrato (which are usually exclusive to specific instruments), there could be an effects rack. Every instrument gets one extra effect square in the instrument configuration with a plus - tapping this opens a drop-down or pop-up menu with several effects that can be added to an instrument like vibrato, phaser, wub
+
+b.
+All effects on the effect rack aforementioned could be sorted so the audio gets passed through an order chosen by the user. For example, you could choose to have the reverb either before the distortion or after the distortion, or maybe put the lowpass before or after the delay for whatever reason. This feature gives the user more intricate control over sound and how it is built.
+
+c.
+A very welcome addition would be to allow to manually tune the output volume of all effects in the effects rack, one use of this would be for example: removing the sound from the instrument itself while keeping the reverb and delay the instrument would give with the notes played
+
+d.
+Further modulation of effect details.
+For the longest time I&#39;ve been thinking about being able to more intricately change my sound on the fly to keep my beats from going dry. Perhaps giving the reverb lowpass a spin could give an interesting twist in the sound, or perhaps I&#39;d like to up or down the knee of my distortion. All of these individual effect details could be modulated by for example holding down a original effect so for example: instrument &gt; modulation screen &gt; hold lowpass down &gt; new subsection opens up for modulating selected module. 
+
+2. Changing hard limits
+a. BPM limitations - b. Time signatures c. Loop lengths - d. Scales
+
+a.
+For the longest time I&#39;ve been kinda confused about the limit in BPM. Upper limit? Sure. Understandable. 300 is quite a bit and more might just cause lag. But 60 as lower limit? Why? It would be nice to be able to put the BPM to just 1. Conventional? No. Fun to experiment around with? Absolutely. I could make a killer zero beat ambient track with low BPM like that. As for the upper limit, just something a bit higher like maybe 400, 500 might do for experimenting enthusiasts like me who want to see what I can come up with under extreme conditions
+
+b. I&#39;ve personally always found 4th and 3rd enough to just make music but I&#39;ve always felt a need to explore beyond that, introducing new time signatures like fifths, sevenths and such would make for great opportunities to experiment
+
+c. Maybe add a 16 bar and 32 bar loop length option or perhaps add an option to have half bars, like a loop should last 4.5 bars. Maybe add a number field where a length can be typed 
+
+d. Scales. As of now there&#39;s Major, minor and minor harmonic, but I&#39;d love to see scales like Lydian, Dorian and Blues for example
+
+3: Closing word
+This is a lot to ask and I do not expect any of this to be implemented anytime soon if at all. If Auxy&#39;s aim is simplicity and workflow, maybe it really IS just time to move on to something else, however some of these things could be at least considered. Love to hear your opinion, have a good day!</description>
+    
+    <lastBuildDate>Fri, 30 Jul 2021 14:36:41 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>List of potential features and changes</title>
+        <dc:creator><![CDATA[Lucif]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, a simple 10 band would make such a big difference</p>
+          <p><a href="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/4</link>
+        <pubDate>Fri, 30 Jul 2021 14:36:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21288-4</guid>
+        <source url="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288.rss">List of potential features and changes</source>
+      </item>
+      <item>
+        <title>List of potential features and changes</title>
+        <dc:creator><![CDATA[BeeUrSelf]]></dc:creator>
+        <description><![CDATA[
+            <p>Yea, I wish they get give us a better EQ.</p>
+          <p><a href="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/3</link>
+        <pubDate>Tue, 20 Jul 2021 23:08:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21288-3</guid>
+        <source url="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288.rss">List of potential features and changes</source>
+      </item>
+      <item>
+        <title>List of potential features and changes</title>
+        <dc:creator><![CDATA[Lucif]]></dc:creator>
+        <description><![CDATA[
+            <p>Would love to hear <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> 's opinion on this</p>
+          <p><a href="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/2</link>
+        <pubDate>Tue, 20 Jul 2021 22:50:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21288-2</guid>
+        <source url="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288.rss">List of potential features and changes</source>
+      </item>
+      <item>
+        <title>List of potential features and changes</title>
+        <dc:creator><![CDATA[Lucif]]></dc:creator>
+        <description><![CDATA[
+            <ol>
+<li>Effects:<br>
+a. Effects rack - b. Reordering effects - c. Volume control - d. Further modulation</li>
+</ol>
+<p>a.<br>
+For arbitrary effects like a simple phaser or vibrato (which are usually exclusive to specific instruments), there could be an effects rack. Every instrument gets one extra effect square in the instrument configuration with a plus - tapping this opens a drop-down or pop-up menu with several effects that can be added to an instrument like vibrato, phaser, wub</p>
+<p>b.<br>
+All effects on the effect rack aforementioned could be sorted so the audio gets passed through an order chosen by the user. For example, you could choose to have the reverb either before the distortion or after the distortion, or maybe put the lowpass before or after the delay for whatever reason. This feature gives the user more intricate control over sound and how it is built.</p>
+<p>c.<br>
+A very welcome addition would be to allow to manually tune the output volume of all effects in the effects rack, one use of this would be for example: removing the sound from the instrument itself while keeping the reverb and delay the instrument would give with the notes played</p>
+<p>d.<br>
+Further modulation of effect details.<br>
+For the longest time I’ve been thinking about being able to more intricately change my sound on the fly to keep my beats from going dry. Perhaps giving the reverb lowpass a spin could give an interesting twist in the sound, or perhaps I’d like to up or down the knee of my distortion. All of these individual effect details could be modulated by for example holding down a original effect so for example: instrument &gt; modulation screen &gt; hold lowpass down &gt; new subsection opens up for modulating selected module.</p>
+<ol start="2">
+<li>Changing hard limits<br>
+a. BPM limitations - b. Time signatures c. Loop lengths - d. Scales</li>
+</ol>
+<p>a.<br>
+For the longest time I’ve been kinda confused about the limit in BPM. Upper limit? Sure. Understandable. 300 is quite a bit and more might just cause lag. But 60 as lower limit? Why? It would be nice to be able to put the BPM to just 1. Conventional? No. Fun to experiment around with? Absolutely. I could make a killer zero beat ambient track with low BPM like that. As for the upper limit, just something a bit higher like maybe 400, 500 might do for experimenting enthusiasts like me who want to see what I can come up with under extreme conditions</p>
+<p>b. I’ve personally always found 4th and 3rd enough to just make music but I’ve always felt a need to explore beyond that, introducing new time signatures like fifths, sevenths and such would make for great opportunities to experiment</p>
+<p>c. Maybe add a 16 bar and 32 bar loop length option or perhaps add an option to have half bars, like a loop should last 4.5 bars. Maybe add a number field where a length can be typed</p>
+<p>d. Scales. As of now there’s Major, minor and minor harmonic, but I’d love to see scales like Lydian, Dorian and Blues for example</p>
+<p>3: Closing word<br>
+This is a lot to ask and I do not expect any of this to be implemented anytime soon if at all. If Auxy’s aim is simplicity and workflow, maybe it really IS just time to move on to something else, however some of these things could be at least considered. Love to hear your opinion, have a good day!</p>
+          <p><a href="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/list-of-potential-features-and-changes/21288/1</link>
+        <pubDate>Tue, 20 Jul 2021 22:33:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21288-1</guid>
+        <source url="https://disco.auxy.co/t/list-of-potential-features-and-changes/21288.rss">List of potential features and changes</source>
+      </item>
+  </channel>
+</rss>

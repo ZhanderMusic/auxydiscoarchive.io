@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>WIKI: Auxy v6's new sound shaping features - Production Talk - Auxy Disco</title>
+<meta content="WIKI: Auxy v6’s new sound shaping features
+
+MASTER :nut_and_bolt:
+
+
+
+Compress: Compression is used to reduce dynamic range — the span between the softest and loudest parts of a sound. [1]
+
+Attack: Attack is the time take&amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="16159page=3.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="16159.rss" rel="alternate nofollow" title="RSS feed of 'WIKI: Auxy v6's new sound shaping features'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/5/5b53d729f2686f1c7ae254183c6bbab7063526c6.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/5/5b53d729f2686f1c7ae254183c6bbab7063526c6.png" property="og:image"/>
+<meta content="index.htmlt/wiki-auxy-v6s-new-sound-shaping-features/16159?page=3" property="og:url"/>
+<meta content="index.htmlt/wiki-auxy-v6s-new-sound-shaping-features/16159?page=3" name="twitter:url"/>
+<meta content="WIKI: Auxy v6's new sound shaping features" property="og:title"/>
+<meta content="WIKI: Auxy v6's new sound shaping features" name="twitter:title"/>
+<meta content="Also is Auxy compatible to midi plugins such as the mpk mini?" property="og:description"/>
+<meta content="Also is Auxy compatible to midi plugins such as the mpk mini?" name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="5 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="262 ❤"/>
+<meta content="2019-08-26T17:38:19+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+<link href="16159page=2.html" rel="prev"/>
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="16159.html">WIKI: Auxy v6's new sound shaping features</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="index.htmlc/music/12" itemprop="item">
+<span class="badge-category-bg" style="background-color: #0E76BD"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Production Talk</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_44" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Antbrick.html" itemprop="url"><span itemprop="name">Antbrick</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-08-26T17:38:19Z" itemprop="datePublished">
+                August 26, 2019,  5:38pm
+              </time>
+<meta content="2019-08-26T17:38:19Z" itemprop="dateModified"/>
+<span itemprop="position">#44</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Also is Auxy compatible to midi plugins such as the mpk mini?</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_45" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/AzureOnyx.html" itemprop="url"><span itemprop="name">AzureOnyx</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-08-26T17:42:55Z" itemprop="datePublished">
+                August 26, 2019,  5:42pm
+              </time>
+<meta content="2019-08-26T17:42:55Z" itemprop="dateModified"/>
+<span itemprop="position">#45</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>No, Auxy doesn’t support MIDI in, I’m assuming Plugins are input devices.</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_46" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Antbrick.html" itemprop="url"><span itemprop="name">Antbrick</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-08-26T17:59:13Z" itemprop="datePublished">
+                August 26, 2019,  5:59pm
+              </time>
+<meta content="2019-08-26T17:59:13Z" itemprop="dateModified"/>
+<span itemprop="position">#46</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yes like the mpk mini</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_47" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-08-26T18:29:20Z" itemprop="datePublished">
+                August 26, 2019,  6:29pm
+              </time>
+<meta content="2019-08-26T18:29:20Z" itemprop="dateModified"/>
+<span itemprop="position">#47</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>No midi in. The most connected you’ll get is Ableton Link (so other apps can share tempo data in a session) or straight export to Live option in the project menu.</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_48" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Antbrick.html" itemprop="url"><span itemprop="name">Antbrick</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-08-28T17:43:12Z" itemprop="datePublished">
+                August 28, 2019,  5:43pm
+              </time>
+<meta content="2019-08-28T17:43:12Z" itemprop="dateModified"/>
+<span itemprop="position">#48</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Well that sucks</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_49" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Antbrick.html" itemprop="url"><span itemprop="name">Antbrick</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-12T10:58:55Z" itemprop="datePublished">
+                September 12, 2019, 10:58am
+              </time>
+<meta content="2019-09-12T10:58:55Z" itemprop="dateModified"/>
+<span itemprop="position">#49</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Hey guys I have a sample that I’m trying to edit. It’s in reverse but there are some clicking noises from the hi hat and snares that’s originally on the track that I wanted to try and edit out or fix up in a way where you just hear the beat without the clicks. Any tips or assistance would be greatly appreciated.</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_50" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-12T11:05:58Z" itemprop="datePublished">
+                September 12, 2019, 11:05am
+              </time>
+<meta content="2019-09-12T11:05:58Z" itemprop="dateModified"/>
+<span itemprop="position">#50</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>There’s nothing native to Auxy that’s gonna help there. I think Audiocopy by Retronyms has some basic editing functions, it’s free. A really great swiss army knife of audio editing is Audioshare, the dev is great, it’s 5 bucks but it’s paid for itself over and over for me over all these years.</p>
+<p>If you’re talking about trying to clean up content in the <em>middle</em> of the sample (ie not just trimming) that’s gonna be pretty difficult. Maybe with some creative filtering, but it will effect the character of the sound.</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_51" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/blakkaz.html" itemprop="url"><span itemprop="name">blakkaz</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2dd23bca3cef2ae100a98bf2c0780811b4147730.png" itemprop="image"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-12T11:13:41Z" itemprop="datePublished">
+                September 12, 2019, 11:13am
+              </time>
+<meta content="2019-09-12T11:13:41Z" itemprop="dateModified"/>
+<span itemprop="position">#51</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Audiocopy should work for your use case.</p>
+<p><img alt="21%20pm" data-base62-sha1="6xlUo3rbTrx0Xr6feuHSF1wi1Yk" height="424" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2dd23bca3cef2ae100a98bf2c0780811b4147730.png" width="636"/></p>
+<p><a class="onebox" href="https://retronyms.com/audiocopy/" rel="nofollow noopener" target="_blank">https://retronyms.com/audiocopy/</a></p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_52" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/YeahMarcYeah.html" itemprop="url"><span itemprop="name">YeahMarcYeah</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-20T18:20:53Z" itemprop="datePublished">
+                September 20, 2019,  6:20pm
+              </time>
+<meta content="2019-09-20T18:20:53Z" itemprop="dateModified"/>
+<span itemprop="position">#52</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I’m not sure if this is exactly the right place for this, but how does everyone feel about the new Reverb? I don’t like it at all!  It’s just wayyy too much.  Does anybody else feel this way?</p>
+<p>If you do like it, how do you manage it?</p>
+<p>Thanks</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_53" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/obexg.html" itemprop="url"><span itemprop="name">obexg</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-20T21:47:48Z" itemprop="datePublished">
+                September 20, 2019,  9:47pm
+              </time>
+<meta content="2019-09-20T21:47:48Z" itemprop="dateModified"/>
+<span itemprop="position">#53</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Welcome!</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_54" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Kam.html" itemprop="url"><span itemprop="name">Kam</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-23T04:59:23Z" itemprop="datePublished">
+                September 23, 2019,  4:59am
+              </time>
+<meta content="2019-09-23T04:59:23Z" itemprop="dateModified"/>
+<span itemprop="position">#54</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>you can click on the reverb and tune it to your liking. not just the slider anymore</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_55" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Simon.html" itemprop="url"><span itemprop="name">Simon</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-26T10:01:41Z" itemprop="datePublished">
+                September 26, 2019, 10:01am
+              </time>
+<meta content="2019-09-26T10:01:41Z" itemprop="dateModified"/>
+<span itemprop="position">#55</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Je😍</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_56" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Weak_Assurance.html" itemprop="url"><span itemprop="name">Weak_Assurance</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-11-02T16:20:12Z" itemprop="datePublished">
+                November 2, 2019,  4:20pm
+              </time>
+<meta content="2019-11-02T16:20:12Z" itemprop="dateModified"/>
+<span itemprop="position">#56</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Great guide, thanks a lot!</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_57" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Duk.html" itemprop="url"><span itemprop="name">Duk</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-12-30T04:34:58Z" itemprop="datePublished">
+                December 30, 2019,  4:34am
+              </time>
+<meta content="2019-12-30T04:34:58Z" itemprop="dateModified"/>
+<span itemprop="position">#57</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Why is there a mugshot in the wiki?</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_58" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/VJM.html" itemprop="url"><span itemprop="name">VJM</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2020-01-02T19:35:06Z" itemprop="datePublished">
+                January 2, 2020,  7:35pm
+              </time>
+<meta content="2020-01-02T19:35:06Z" itemprop="dateModified"/>
+<span itemprop="position">#58</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>It’s a pun on offset (the rhythmic function on Auxy) and Offset (the rapper).<br/>
+<aside class="onebox wikipedia">
+<header class="source">
+<a href="https://en.wikipedia.org/wiki/Offset_(rapper)" rel="nofollow noopener" target="_blank">en.wikipedia.org</a>
+</header>
+<article class="onebox-body">
+<div class="aspect-image" style="--aspect-ratio:220/316;"><img class="thumbnail" height="316" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Offset_Veld_festival_2017.jpg/220px-Offset_Veld_festival_2017.jpg" width="220"/></div>
+<h3><a href="https://en.wikipedia.org/wiki/Offset_(rapper)" rel="nofollow noopener" target="_blank">Offset (rapper)</a></h3>
+<p>
+ 
+ Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper and songwriter. He is a member of the hip hop and trap music trio Migos, alongside his cousin Quavo and his nephew Takeoff. He is also an investor in esports organization FaZe Clan.
+ The members of Migos were raised middle-class in suburban Gwinnett County, Georgia. In 2008, Offset formed Migos with Quavo and Takeoff. Offset is Quavo's cousin, and Quavo is Takeoff's uncle. The three grew up t...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_59" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Duk.html" itemprop="url"><span itemprop="name">Duk</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2020-01-02T21:53:05Z" itemprop="datePublished">
+                January 2, 2020,  9:53pm
+              </time>
+<meta content="2020-01-02T21:53:05Z" itemprop="dateModified"/>
+<span itemprop="position">#59</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>That is funny!</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_60" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/MetricMusicDivision.html" itemprop="url"><span itemprop="name">MetricMusicDivision</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2022-07-09T12:15:14Z" itemprop="datePublished">
+                July 9, 2022, 12:15pm
+              </time>
+<meta content="2022-07-09T12:15:14Z" itemprop="dateModified"/>
+<span itemprop="position">#60</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>How do I post? New here</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_61" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Kensei.html" itemprop="url"><span itemprop="name">Kensei</span></a>
+</span>
+<link href="16159.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2022-07-09T15:05:04Z" itemprop="datePublished">
+                July 9, 2022,  3:05pm
+              </time>
+<meta content="2022-07-09T15:05:04Z" itemprop="dateModified"/>
+<span itemprop="position">#61</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>You press new topic, make a title, choose a category and create ur post</p>
+</div>
+<meta content="WIKI: Auxy v6's new sound shaping features" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><a href="16159page=2.html" itemprop="url" rel="prev">← previous page</a></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

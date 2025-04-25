@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug with the glide feature</title>
+    <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203</link>
+    <description>While producing my last track I just realized that there’s a small bug with adjusting glide- after using the slider, when you exit the menu, the value will automatically be set a few ms below what you adjusted it to, and it doesn’t seem entirely consistent, either. For example, every time I would set it to 18 ms, I would close and reopen the menu to see it set to 16 ms. If I set it to 17 ms, however, it would go all the way down to 14 ms.
+
+Not sure what causes this but thought it would be good for the peeps to know</description>
+    
+    <lastBuildDate>Thu, 24 Jun 2021 08:10:56 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bug with the glide feature</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok, thanks for reporting! We’ll get it fixed.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203/5</link>
+        <pubDate>Thu, 24 Jun 2021 08:10:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21203-5</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss">Bug with the glide feature</source>
+      </item>
+      <item>
+        <title>Bug with the glide feature</title>
+        <dc:creator><![CDATA[cursed]]></dc:creator>
+        <description><![CDATA[
+            <p>This happens with release too. You cant really set your release to 0ms, it will re-adjust to 5ms everytime you close and reopen the project.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203/4</link>
+        <pubDate>Thu, 24 Jun 2021 07:01:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21203-4</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss">Bug with the glide feature</source>
+      </item>
+      <item>
+        <title>Bug with the glide feature</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks! We’ll have a look.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203/3</link>
+        <pubDate>Thu, 24 Jun 2021 06:13:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21203-3</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss">Bug with the glide feature</source>
+      </item>
+      <item>
+        <title>Bug with the glide feature</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> , but also worth <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> email!</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203/2</link>
+        <pubDate>Wed, 23 Jun 2021 16:53:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21203-2</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss">Bug with the glide feature</source>
+      </item>
+      <item>
+        <title>Bug with the glide feature</title>
+        <dc:creator><![CDATA[BobTheGUYYYYY]]></dc:creator>
+        <description><![CDATA[
+            <p>While producing my last track I just realized that there’s a small bug with adjusting glide- after using the slider, when you exit the menu, the value will automatically be set a few ms below what you adjusted it to, and it doesn’t seem entirely consistent, either. For example, every time I would set it to 18 ms, I would close and reopen the menu to see it set to 16 ms. If I set it to 17 ms, however, it would go all the way down to 14 ms.</p>
+<p>Not sure what causes this but thought it would be good for the peeps to know</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-glide-feature/21203/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-glide-feature/21203/1</link>
+        <pubDate>Wed, 23 Jun 2021 14:19:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21203-1</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-glide-feature/21203.rss">Bug with the glide feature</source>
+      </item>
+  </channel>
+</rss>

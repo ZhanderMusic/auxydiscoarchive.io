@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Limit on how many notes play at once on an instrument - Auxy Feedback - Auxy Disco</title>
+<meta content="This may sound like a bit of a random, off-the-wall question, but something I’ve been noticing is that there potentially is a hard limit on how many simultaneous notes can be triggered at the same time on a single instru&amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="15068page=2.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="15068.rss" rel="alternate nofollow" title="RSS feed of 'Limit on how many notes play at once on an instrument'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" property="og:image"/>
+<meta content="index.htmlt/limit-on-how-many-notes-play-at-once-on-an-instrument/15068?page=2" property="og:url"/>
+<meta content="index.htmlt/limit-on-how-many-notes-play-at-once-on-an-instrument/15068?page=2" name="twitter:url"/>
+<meta content="Limit on how many notes play at once on an instrument" property="og:title"/>
+<meta content="Limit on how many notes play at once on an instrument" name="twitter:title"/>
+<meta content="There is some “smart” voice allocation that limits the number of simultaneous notes, yes. This is necessary and hopefully done in a way so you won’t have to think about it. Did this cause any actual problem for anyone?" property="og:description"/>
+<meta content="There is some “smart” voice allocation that limits the number of simultaneous notes, yes. This is necessary and hopefully done in a way so you won’t have to think about it. Did this cause any actual problem for anyone?" name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="3 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="42 ❤"/>
+<meta content="2019-04-25T09:00:58+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+<link href="15068.html" rel="prev"/>
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="15068.html">Limit on how many notes play at once on an instrument</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="../../c/feedback.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Auxy Feedback</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_21" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T09:00:58Z" itemprop="datePublished">
+                April 25, 2019,  9:00am
+              </time>
+<meta content="2019-04-25T09:00:58Z" itemprop="dateModified"/>
+<span itemprop="position">#21</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>There is some “smart” voice allocation that limits the number of simultaneous notes, yes. This is necessary and hopefully done in a way so you won’t have to think about it. Did this cause any actual problem for anyone?</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_22" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aqzi.html" itemprop="url"><span itemprop="name">Aqzi</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T10:52:39Z" itemprop="datePublished">
+                April 25, 2019, 10:52am
+              </time>
+<meta content="2019-04-25T10:52:39Z" itemprop="dateModified"/>
+<span itemprop="position">#22</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>interestinf</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_23" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:09:01Z" itemprop="datePublished">
+                April 25, 2019, 11:09am
+              </time>
+<meta content="2019-04-25T11:09:01Z" itemprop="dateModified"/>
+<span itemprop="position">#23</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Monophonic instruments function a bit different than this. If a note has any release, it would be cut off by the next note in a monophonic setup, which is a good thing in some instances depending on the use case. It’s sort of like the instrument is its own choke group, to give some practical context.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_24" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:22:38Z" itemprop="datePublished">
+                April 25, 2019, 11:22am
+              </time>
+<meta content="2019-04-25T11:22:38Z" itemprop="dateModified"/>
+<span itemprop="position">#24</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Indeed! Although we have a thing we call “auto note off”, which is a setting that is enabled for a lot of sounds, especially basses. It does this exact thing, i.e. cuts off any tail of the previous note. So it’s the best of both worlds. <img alt=":slight_smile:" class="emoji" src="../../emoji.discourse-cdn.com/apple/slight_smile.png" title=":slight_smile:"/></p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_25" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:45:48Z" itemprop="datePublished">
+                April 25, 2019, 11:45am
+              </time>
+<meta content="2019-04-25T11:45:48Z" itemprop="dateModified"/>
+<span itemprop="position">#25</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I see. This sort of setting would be nice to be able to manually enable or disable though, no? At the very least, a list of sounds that <em>do</em> do this would be nice.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_26" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:49:30Z" itemprop="datePublished">
+                April 25, 2019, 11:49am
+              </time>
+<meta content="2019-04-25T11:49:30Z" itemprop="dateModified"/>
+<span itemprop="position">#26</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>If you want these types of features (that level of control) I would recommend using a DAW instead of Auxy, honestly.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_27" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:52:14Z" itemprop="datePublished">
+                April 25, 2019, 11:52am
+              </time>
+<meta content="2019-04-25T11:52:14Z" itemprop="dateModified"/>
+<span itemprop="position">#27</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>:\</p>
+<p>It’s <em>why</em> I <em>do</em> use a DAW, and why I get so frustrated with Auxy all the time. I want to see Auxy be the best it can be. Options like this only add and enhance the experience, and they don’t take away from it. I get that you want to keep it simple, and I do appreciate that, but there’s a certain point where Auxy can do so much more and be so much more amazing because of it and I don’t always feel that interest from you. I’m sorry if that sounds rude, but it’s how I feel about it and I don’t know how else to express the frustration I sometimes feel.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_28" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T11:56:12Z" itemprop="datePublished">
+                April 25, 2019, 11:56am
+              </time>
+<meta content="2019-04-25T11:56:12Z" itemprop="dateModified"/>
+<span itemprop="position">#28</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="27" data-topic="15068">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/2467_1.png" width="20"/> TheRealJFalc:</div>
+<blockquote>
+<p>I get so frustrated with Auxy all the time</p>
+</blockquote>
+</aside>
+<p>If you are frustrated with Auxy you should consider not using it instead of nagging us about how you want things to work. Every person has a different view on what should be added and not, so if you’re just feeling frustrated the app is probably not the right choice for you.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_29" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T12:01:26Z" itemprop="datePublished">
+                April 25, 2019, 12:01pm
+              </time>
+<meta content="2019-04-25T12:01:26Z" itemprop="dateModified"/>
+<span itemprop="position">#29</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="28" data-topic="15068" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<p>you should consider not using it instead of nagging us about how you want things to work</p>
+</blockquote>
+</aside>
+<p>It’s difficult for me to give up on something I feel so passionate about. And I’m sorry that you see my posts as nagging. They’re certainly not intended that way.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_30" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Db909.html" itemprop="url"><span itemprop="name">Db909</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T13:29:34Z" itemprop="datePublished">
+                April 25, 2019,  1:29pm
+              </time>
+<meta content="2019-04-25T13:29:34Z" itemprop="dateModified"/>
+<span itemprop="position">#30</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Well frankly it’s just fun to spam mono synths with notes to see what kind of whacky sounds come out.  You may get a nice surprise.  It’s really not necessary.    Now as for live recording,  don’t not do it.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_31" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/AnirudhKhanna.html" itemprop="url"><span itemprop="name">AnirudhKhanna</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T16:21:19Z" itemprop="datePublished">
+                April 25, 2019,  4:21pm
+              </time>
+<meta content="2019-04-25T16:21:19Z" itemprop="dateModified"/>
+<span itemprop="position">#31</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>lmao my music is extremely undetailed so i have never run into this encounter</p>
+<div class="spoiler">
+<p>this was brought to you by the four note chord gang</p>
+</div>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_32" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T17:15:24Z" itemprop="datePublished">
+                April 25, 2019,  5:15pm
+              </time>
+<meta content="2019-04-25T17:15:24Z" itemprop="dateModified"/>
+<span itemprop="position">#32</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yeah but in theory if you stack a slew of melodic channels playing the same four notes then this could be a problem? Yaknowhowpeopleloveto’staccthelayers’aroundhere.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_33" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-25T17:26:49Z" itemprop="datePublished">
+                April 25, 2019,  5:26pm
+              </time>
+<meta content="2019-04-25T17:26:49Z" itemprop="dateModified"/>
+<span itemprop="position">#33</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Not really. It’s a limit per instrument.</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_34" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/TXA.html" itemprop="url"><span itemprop="name">TXA</span></a>
+</span>
+<link href="15068.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-04-30T01:59:53Z" itemprop="datePublished">
+                April 30, 2019,  1:59am
+              </time>
+<meta content="2019-04-30T01:59:53Z" itemprop="dateModified"/>
+<span itemprop="position">#34</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Four notes isn’t even scratching the surface of “stacked layers”</p>
+</div>
+<meta content="Limit on how many notes play at once on an instrument" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><a href="15068.html" itemprop="url" rel="prev">← previous page</a></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

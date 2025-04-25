@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>MIDI Out using lightning connector - #24 by TheRealJFalc - Auxy Feedback - Auxy Disco</title>
+<meta content="I am a long time Auxy user and I still use the old version of the iPad App purely because it had the ability to route to external MIDI devices through the lightning connector. My main limitation with the old app is that &amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="../12503page=2.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="../12503.rss" rel="alternate nofollow" title="RSS feed of 'MIDI Out using lightning connector'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" property="og:image"/>
+<meta content="index.htmlt/midi-out-using-lightning-connector/12503/24" property="og:url"/>
+<meta content="index.htmlt/midi-out-using-lightning-connector/12503/24" name="twitter:url"/>
+<meta content="MIDI Out using lightning connector" property="og:title"/>
+<meta content="MIDI Out using lightning connector" name="twitter:title"/>
+<meta content="At least some sort of roadmap would be much appreciated, as the one mentioned in “The future of Auxy” is getting a taaaad bit outdated…  Especially when considering it is a subscription-based service, I think that as recurring-payment customers we should have a little more foresight into what’s on the table. For example, being able to do a community or app-wide vote on an upcoming feature would be great, that way they can tell what users want the most out of Auxy and design around that. Especial..." property="og:description"/>
+<meta content="At least some sort of roadmap would be much appreciated, as the one mentioned in “The future of Auxy” is getting a taaaad bit outdated…  Especially when considering it is a subscription-based service, I think that as recurring-payment customers we should have a little more foresight into what’s on the table. For example, being able to do a community or app-wide vote on an upcoming feature would be great, that way they can tell what users want the most out of Auxy and design around that. Especial..." name="twitter:description"/>
+<meta content="2018-12-15T00:17:02+00:00" property="article:published_time"/>
+<meta content="true" property="og:ignore_canonical"/>
+<link href="../12503.html" rel="prev"/>
+</link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="../12503.html">MIDI Out using lightning connector</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="../../../c/feedback.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Auxy Feedback</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_7" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/reluct.html" itemprop="url"><span itemprop="name">reluct</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-14T22:50:44Z" itemprop="datePublished">
+                October 14, 2018, 10:50pm
+              </time>
+<meta content="2018-10-14T22:50:44Z" itemprop="dateModified"/>
+<span itemprop="position">#7</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I love Auxy and I respect that you don’t want to develop and support midi. The thing is you can’t really argue that midi is underused. Most music apps do support it. Midi is everywhere and it’s still the best and only way to connect all your hardware and software. Isn’t it just a design choice? To keep it simple and promote Auxy only songs?</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_8" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T03:35:13Z" itemprop="datePublished">
+                October 15, 2018,  3:35am
+              </time>
+<meta content="2018-10-15T03:35:13Z" itemprop="dateModified"/>
+<span itemprop="position">#8</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>They previously gave three reasons as to why MIDI support was dropped.</p>
+<ul>
+<li>Not a lot of people knew about it or used it.</li>
+<li>It’s a mess of cables that interfered with the design</li>
+<li>There isn’t enough demand for it to be returned for it to be worked on.</li>
+</ul>
+<p>To be fair, <span class="hashtag">#2</span> is always the case with physical hardware, but that really doesn’t impact Auxy as a product. It’s not a big enough feature that it’s seen as important though, but perhaps in the future that will change.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_9" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/blakkaz.html" itemprop="url"><span itemprop="name">blakkaz</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T03:43:59Z" itemprop="datePublished">
+                October 15, 2018,  3:43am
+              </time>
+<meta content="2018-10-15T03:43:59Z" itemprop="dateModified"/>
+<span itemprop="position">#9</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="8" data-topic="12503">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" width="20"/> TheRealJFalc:</div>
+<blockquote>
+<p>It’s a mess of cables that interfered with the design</p>
+</blockquote>
+</aside>
+<p>Not an issue with virtual or bluetooth MIDI. <img alt=":wink:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_10" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T03:45:46Z" itemprop="datePublished">
+                October 15, 2018,  3:45am
+              </time>
+<meta content="2018-10-15T03:45:46Z" itemprop="dateModified"/>
+<span itemprop="position">#10</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Just reiterating the reasoning they gave last time, I’m sure it’s changed in the last 4 years since the iPad version originally came out with the feature implemented</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_11" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/blakkaz.html" itemprop="url"><span itemprop="name">blakkaz</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T04:04:53Z" itemprop="datePublished">
+                October 15, 2018,  4:04am
+              </time>
+<meta content="2018-10-15T04:04:53Z" itemprop="dateModified"/>
+<span itemprop="position">#11</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group quote-modified" data-post="8" data-topic="12503">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" width="20"/> TheRealJFalc:</div>
+<blockquote>
+<ul>
+<li>Not a lot of people knew about it or used it.</li>
+<li>There isn’t enough demand for it to be returned for it to be worked on.</li>
+</ul>
+</blockquote>
+</aside>
+<p>I find points 1 and 3 interesting as well.</p>
+<p>Reason Compact was slammed on release for not having MIDI.<br/>
+So much so, it was added a few weeks later.</p>
+<p>I guess Auxy and Reason appeal to different markets?</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_12" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T05:47:42Z" itemprop="datePublished">
+                October 15, 2018,  5:47am
+              </time>
+<meta content="2018-10-15T05:47:42Z" itemprop="dateModified"/>
+<span itemprop="position">#12</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I’d definitely agree on that regard. Auxy, despite the efforts to move towards a singular mobile studio experience, seems to only be attracting very young musicians and hobbyists, rather than professionals and people who would desire the advanced features that some keep asking for but aren’t a priority. Whether that be from a lack of marketing or awareness, it’s simply how it is. I wonder whether or not this could be addressed moving forward. I for one am open to more users and especially those who seek to get the most out of Auxy.</p>
+<p>Then again, those same people could already have been put off in the past and aren’t willing to try a second time. Who knows? :\</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_13" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T11:57:49Z" itemprop="datePublished">
+                October 15, 2018, 11:57am
+              </time>
+<meta content="2018-10-15T11:57:49Z" itemprop="dateModified"/>
+<span itemprop="position">#13</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I already stated our reasoning above, so no need to paraphrase what’s been said and cause additional discussion. Thanks!</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_14" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-10-15T14:46:59Z" itemprop="datePublished">
+                October 15, 2018,  2:46pm
+              </time>
+<meta content="2018-10-15T14:46:59Z" itemprop="dateModified"/>
+<span itemprop="position">#14</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>My apologies. I wrote this after a rough night of work, and for some reason I thought there was a reason that was stated a long time ago that wasn’t already restated. I wanted to more address that while MIDI is definitely used, it isn’t used in the context of Auxy.</p>
+<p>That being said, I don’t feel that positive discussion should be discouraged, and in this case I don’t feel that it was necessarily negative, and it was interesting to observe the needs and audience of Auxy as a whole.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_15" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/reluct.html" itemprop="url"><span itemprop="name">reluct</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-11-08T23:07:26Z" itemprop="datePublished">
+                November 8, 2018, 11:07pm
+              </time>
+<meta content="2018-11-08T23:07:26Z" itemprop="dateModified"/>
+<span itemprop="position">#15</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>You don’t want us to discuss auxy features in the Auxy Feedback forum?</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_16" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-11-09T00:37:14Z" itemprop="datePublished">
+                November 9, 2018, 12:37am
+              </time>
+<meta content="2018-11-09T00:37:14Z" itemprop="dateModified"/>
+<span itemprop="position">#16</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Oof</p>
+<p>I think what he meant more is that I shouldn’t simply restate something he already had said. Which to be fair I did sort of do unintentionally without realizing.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_17" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/bri77.html" itemprop="url"><span itemprop="name">bri77</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-13T04:39:15Z" itemprop="datePublished">
+                December 13, 2018,  4:39am
+              </time>
+<meta content="2018-12-13T04:39:15Z" itemprop="dateModified"/>
+<span itemprop="position">#17</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="../../../u/Auxy.html">@Auxy</a> Midi out is provided by many apps and used by lots of people so I feel this would be a great addition to Auxy.  Please add this.</p>
+<p>Have you any plans to support iOS AUV3 apps?</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_18" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/AzureOnyx.html" itemprop="url"><span itemprop="name">AzureOnyx</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-13T05:51:32Z" itemprop="datePublished">
+                December 13, 2018,  5:51am
+              </time>
+<meta content="2018-12-13T05:51:32Z" itemprop="dateModified"/>
+<span itemprop="position">#18</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>He has no plans for including MIDI input for Auxy, unfortunately</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_19" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/bri77.html" itemprop="url"><span itemprop="name">bri77</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-13T07:22:26Z" itemprop="datePublished">
+                December 13, 2018,  7:22am
+              </time>
+<meta content="2018-12-13T07:22:26Z" itemprop="dateModified"/>
+<span itemprop="position">#19</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Okay.  That is disappointing.  I’ve not been on this forum much lately.  Has any new features been revealed by the developer?</p>
+<p>How can the Auxy team expect people to subscribe without letting customer’s know what’s coming next?  I don’t get it.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_20" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/reluct.html" itemprop="url"><span itemprop="name">reluct</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-13T13:03:40Z" itemprop="datePublished">
+                December 13, 2018,  1:03pm
+              </time>
+<meta content="2018-12-13T13:03:40Z" itemprop="dateModified"/>
+<span itemprop="position">#20</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yeah. I cancelled my subscription and moved on to more capable apps. Loved Auxy, but as a subscription service it’s lacking.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_21" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/bri77.html" itemprop="url"><span itemprop="name">bri77</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-14T01:34:35Z" itemprop="datePublished">
+                December 14, 2018,  1:34am
+              </time>
+<meta content="2018-12-14T01:34:35Z" itemprop="dateModified"/>
+<span itemprop="position">#21</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Exactly.  I will not subscribe again until we get more clarity from the developer.  Plenty other apps out there.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_22" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Cornea.html" itemprop="url"><span itemprop="name">Cornea</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-14T10:55:35Z" itemprop="datePublished">
+                December 14, 2018, 10:55am
+              </time>
+<meta content="2018-12-14T10:55:35Z" itemprop="dateModified"/>
+<span itemprop="position">#22</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="21" data-topic="12503" data-username="bri77">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/avatars.discourse-cdn.com/v4/letter/b/cc9497/40.png" width="20"/> bri77:</div>
+<blockquote>
+<p>Plenty other apps out there.</p>
+</blockquote>
+</aside>
+<p>Good luck finding one like Auxy though. Most other programs are usually too complex for mobile or just too over simplified.<br/>
+Kinda hoping for a roadmap as well tho</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_23" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="index.htmlu/iammane" itemprop="url"><span itemprop="name">iammane</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-14T14:25:50Z" itemprop="datePublished">
+                December 14, 2018,  2:25pm
+              </time>
+<meta content="2018-12-14T14:25:50Z" itemprop="dateModified"/>
+<span itemprop="position">#23</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>It’s a double edged sword. A developer of any application can’t afford to lay out ALL planned features because you run the risk of having ideas stolen before you’re able to ship to market, so I get that.</p>
+<p>On the flip side, it does help to have little tidbits out there to whet the appetite. It comes down to a healthy balance of both.</p>
+<p>There are plenty of apps out there, and as a consumer, I would encourage everyone to try out many different kinds. Everyone has different workflows and there’s no right or wrong answer. After you’ve tried a bunch you’ll see which work the best and which produce the best and fastest results.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_24" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/TheRealJFalc.html" itemprop="url"><span itemprop="name">TheRealJFalc</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2018-12-15T00:17:02Z" itemprop="datePublished">
+                December 15, 2018, 12:17am
+              </time>
+<meta content="2018-12-15T00:17:02Z" itemprop="dateModified"/>
+<span itemprop="position">#24</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>At least <em>some</em> sort of roadmap would be much appreciated, as the one mentioned in “The future of Auxy” is getting a <em>taaaad bit</em> outdated…</p>
+<p>Especially when considering it is a subscription-based service, I think that as recurring-payment customers we should have a little more foresight into what’s on the table. For example, being able to do a community or app-wide vote on an upcoming feature would be great, that way they can tell what users want the most out of Auxy and design around that. Especially when it comes to obtaining sample pack licenses, I’m sure that some users would love to vote for different types to license.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_25" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/StatusRed.html" itemprop="url"><span itemprop="name">StatusRed</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-01-11T14:20:13Z" itemprop="datePublished">
+                January 11, 2019,  2:20pm
+              </time>
+<meta content="2019-01-11T14:20:13Z" itemprop="dateModified"/>
+<span itemprop="position">#25</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>MIDI support for Premium version, please.</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_26" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/germsie.html" itemprop="url"><span itemprop="name">germsie</span></a>
+</span>
+<link href="../12503.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2019-09-29T06:43:03Z" itemprop="datePublished">
+                September 29, 2019,  6:43am
+              </time>
+<meta content="2019-09-29T06:43:03Z" itemprop="dateModified"/>
+<span itemprop="position">#26</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>i still use the old version on an i pad because its easy and quick to control 2 monosynths and a drum machine…would love the same think with more tracks maybe a new app miidaux…?!@</p>
+</div>
+<meta content="MIDI Out using lightning connector" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><a href="../12503.html" itemprop="url" rel="prev">← previous page</a></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

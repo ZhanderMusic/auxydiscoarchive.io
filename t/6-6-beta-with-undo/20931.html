@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>6.6 Beta with Undo - Auxy Feedback - Auxy Disco</title>
+<meta content="Just sent out a new beta to everyone who helped testing the previous version. The big news is that now you can (finally) undo any changes in the loop editor! :partying_face: 
+Also in this version: 
+
+Old renders are autom&amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="20931.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="20931.rss" rel="alternate nofollow" title="RSS feed of '6.6 Beta with Undo'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/287601d72456ab1a6993cf2ab514c2999668fda9.png" property="og:image"/>
+<meta content="index.htmlt/6-6-beta-with-undo/20931" property="og:url"/>
+<meta content="index.htmlt/6-6-beta-with-undo/20931" name="twitter:url"/>
+<meta content="6.6 Beta with Undo" property="og:title"/>
+<meta content="6.6 Beta with Undo" name="twitter:title"/>
+<meta content="Just sent out a new beta to everyone who helped testing the previous version. The big news is that now you can (finally) undo any changes in the loop editor! 🥳  Also in this version:   Old renders are automatically grouped and can be quickly deleted if you need to free up space on your device New scenes are made empty by default (use duplicate if you want to copy an existing scene) The last scene now stays selected when you play the track to the end A few tweaks for improved graphi..." property="og:description"/>
+<meta content="Just sent out a new beta to everyone who helped testing the previous version. The big news is that now you can (finally) undo any changes in the loop editor! 🥳  Also in this version:   Old renders are automatically grouped and can be quickly deleted if you need to free up space on your device New scenes are made empty by default (use duplicate if you want to copy an existing scene) The last scene now stays selected when you play the track to the end A few tweaks for improved graphi..." name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="6 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="37 ❤"/>
+<meta content="2021-04-28T05:39:06+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+<link href="20931page=2.html" rel="next"/>
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="20931.html">6.6 Beta with Undo</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="../../c/feedback.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Auxy Feedback</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_1" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T05:39:06Z" itemprop="datePublished">
+                April 28, 2021,  5:39am
+              </time>
+<meta content="2021-04-28T05:39:06Z" itemprop="dateModified"/>
+<span itemprop="position">#1</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Just sent out a new beta to everyone who helped testing the previous version. The big news is that now you can (finally) undo any changes in the loop editor! <img alt=":partying_face:" class="emoji" src="../../emoji.discourse-cdn.com/apple/partying_face.png" title=":partying_face:"/></p>
+<p>Also in this version:</p>
+<ul>
+<li>Old renders are automatically grouped and can be quickly deleted if you need to free up space on your device</li>
+<li>New scenes are made empty by default (use duplicate if you want to copy an existing scene)</li>
+<li>The last scene now stays selected when you play the track to the end</li>
+<li>A few tweaks for improved graphics (can you spot the differences?)</li>
+</ul>
+<p>If you want to test it and didn’t get an invite:</p><aside class="onebox allowlistedgeneric">
+<header class="source">
+<img class="site-icon" height="64" src="https://testflight.apple.com/favicon.ico" width="64"/>
+<a href="https://testflight.apple.com/join/sn4U8nQQ" rel="noopener" target="_blank">testflight.apple.com</a>
+</header>
+<article class="onebox-body">
+<img class="thumbnail onebox-avatar" height="500" src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d6/25/09/d6250931-6b5e-790c-9bc2-5c28f527b6e8/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png" width="500"/>
+<h3><a href="https://testflight.apple.com/join/sn4U8nQQ" rel="noopener" target="_blank">Join the Auxy - Music &amp; Beat Maker beta</a></h3>
+<p>Available on iOS</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="7" itemprop="userInteractionCount"/>
+<span class="post-likes">7 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+</div>
+<div class="crawler-linkback-list" itemscope="" itemtype="http://schema.org/ItemList">
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="../open-beta-melodic-sampler-qol-updates/20827page=130.html" itemprop="item" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<meta content="index.htmlt/open-beta-melodic-sampler-qol-updates/20827/130" itemprop="url"/>
+<span itemprop="name">Open Beta - Melodic Sampler, QOL updates</span>
+</a>
+<meta content="2" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="../most-wanted-features/14165page=695.html" itemprop="item" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<meta content="index.htmlt/most-wanted-features/14165/695" itemprop="url"/>
+<span itemprop="name">Most Wanted Features</span>
+</a>
+<meta content="3" itemprop="position"/>
+</div>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_2" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T05:56:41Z" itemprop="datePublished">
+                April 28, 2021,  5:56am
+              </time>
+<meta content="2021-04-28T05:56:41Z" itemprop="dateModified"/>
+<span itemprop="position">#2</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Just saw notification…very excited <img alt=":eyes:" class="emoji" src="../../emoji.discourse-cdn.com/apple/eyes.png" title=":eyes:"/></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_3" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:14:35Z" itemprop="datePublished">
+                April 28, 2021,  6:14am
+              </time>
+<meta content="2021-04-28T06:14:35Z" itemprop="dateModified"/>
+<span itemprop="position">#3</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Well done devs <img alt=":clap:" class="emoji" src="../../emoji.discourse-cdn.com/apple/clap.png" title=":clap:"/><img alt=":clap:" class="emoji" src="../../emoji.discourse-cdn.com/apple/clap.png" title=":clap:"/><img alt=":clap:" class="emoji" src="../../emoji.discourse-cdn.com/apple/clap.png" title=":clap:"/><br/>
+Undo feature is great and works perfect. Just tried no issues so far.<br/>
+It’s the most requested feature on forum and it’s implemented the way I wanted.<br/>
+Auxy users gonna love this a lot.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_4" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:32:11Z" itemprop="datePublished">
+                April 28, 2021,  6:32am
+              </time>
+<meta content="2021-04-28T06:32:11Z" itemprop="dateModified"/>
+<span itemprop="position">#4</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="1" data-topic="20931" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<p>Old renders are automatically grouped and can be quickly deleted if you need to free up space on your device</p>
+</blockquote>
+</aside>
+<p>I just rendered audio of project that was previously rendered and I see two separate rendered audio file with the same name. I don’t see them grouped.</p>
+<aside class="quote no-group" data-post="1" data-topic="20931" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<ul>
+<li>A few tweaks for improved graphics (can you spot the differences?)</li>
+</ul>
+</blockquote>
+</aside>
+<p>I don’t find any difference in graphics. Maybe I have to reinstall AppStore version to check this.<br/>
+OR maybe newer devices can notice this difference easily</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_5" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:39:25Z" itemprop="datePublished">
+                April 28, 2021,  6:39am
+              </time>
+<meta content="2021-04-28T06:39:25Z" itemprop="dateModified"/>
+<span itemprop="position">#5</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="4" data-topic="20931" data-username="Aklibs">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/aklibs/40/12599_2.png" width="20"/> Aklibs:</div>
+<blockquote>
+<p>I just rendered audio of project that was previously rendered and I see two separate rendered audio file with the same name. I don’t see them grouped.</p>
+</blockquote>
+</aside>
+<p>The idea is that it will group any renders that are older than one month. I.e. it does not keep track of which project has rendered a file.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_6" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:39:49Z" itemprop="datePublished">
+                April 28, 2021,  6:39am
+              </time>
+<meta content="2021-04-28T06:39:49Z" itemprop="dateModified"/>
+<span itemprop="position">#6</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="4" data-topic="20931" data-username="Aklibs">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/aklibs/40/12599_2.png" width="20"/> Aklibs:</div>
+<blockquote>
+<p>I don’t find any difference in graphics. Maybe I have to reinstall AppStore version to check this.<br/>
+OR maybe newer devices can notice this difference easily</p>
+</blockquote>
+</aside>
+<p>These are very subtle so I assume you will not find them.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_7" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:40:54Z" itemprop="datePublished">
+                April 28, 2021,  6:40am
+              </time>
+<meta content="2021-04-28T06:40:54Z" itemprop="dateModified"/>
+<span itemprop="position">#7</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Ok the position of undo icon is very close to soft and pitch button which quite increase the chances of mistake.<br/>
+Like while testing I wanted to soft some notes and it touched undo.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_8" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:42:19Z" itemprop="datePublished">
+                April 28, 2021,  6:42am
+              </time>
+<meta content="2021-04-28T06:42:19Z" itemprop="dateModified"/>
+<span itemprop="position">#8</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Ok <img alt=":+1:" class="emoji" src="../../emoji.discourse-cdn.com/apple/+1.png" title=":+1:"/>, Thanks for clarifying.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_9" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:43:34Z" itemprop="datePublished">
+                April 28, 2021,  6:43am
+              </time>
+<meta content="2021-04-28T06:43:34Z" itemprop="dateModified"/>
+<span itemprop="position">#9</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="7" data-topic="20931" data-username="Aklibs">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/aklibs/40/12599_2.png" width="20"/> Aklibs:</div>
+<blockquote>
+<p>Like while testing I wanted to soft some notes and it touched undo.</p>
+</blockquote>
+</aside>
+<p>Good point! You don’t want to undo by mistake.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_10" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:44:31Z" itemprop="datePublished">
+                April 28, 2021,  6:44am
+              </time>
+<meta content="2021-04-28T06:44:31Z" itemprop="dateModified"/>
+<span itemprop="position">#10</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><img alt=":mag_right:" class="emoji" src="../../emoji.discourse-cdn.com/apple/mag_right.png" title=":mag_right:"/><img alt=":mag_right:" class="emoji" src="../../emoji.discourse-cdn.com/apple/mag_right.png" title=":mag_right:"/><img alt=":mag_right:" class="emoji" src="../../emoji.discourse-cdn.com/apple/mag_right.png" title=":mag_right:"/> <img alt=":eyes:" class="emoji" src="../../emoji.discourse-cdn.com/apple/eyes.png" title=":eyes:"/> <img alt=":eyes:" class="emoji" src="../../emoji.discourse-cdn.com/apple/eyes.png" title=":eyes:"/></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_11" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T06:46:47Z" itemprop="datePublished">
+                April 28, 2021,  6:46am
+              </time>
+<meta content="2021-04-28T06:46:47Z" itemprop="dateModified"/>
+<span itemprop="position">#11</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Exactly, a little far undo would be great. (…) 4 dot spaces would be ok.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_12" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T09:14:11Z" itemprop="datePublished">
+                April 28, 2021,  9:14am
+              </time>
+<meta content="2021-04-28T09:14:11Z" itemprop="dateModified"/>
+<span itemprop="position">#12</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Hello world! Changed my name/avatar to clarify that it’s the “official Auxy stance” and separate that a bit from the private person Henrik. <img alt=":relaxed:" class="emoji" src="../../emoji.discourse-cdn.com/apple/relaxed.png" title=":relaxed:"/></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="6" itemprop="userInteractionCount"/>
+<span class="post-likes">6 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_13" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/sn.ow.y.html" itemprop="url"><span itemprop="name">sn.ow.y</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T12:21:43Z" itemprop="datePublished">
+                April 28, 2021, 12:21pm
+              </time>
+<meta content="2021-04-28T12:21:43Z" itemprop="dateModified"/>
+<span itemprop="position">#13</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Just noticing the indicators in the scenes showing how long the scene is and which loops are active for looks a bit sharper than usual, the gaps between each little square seem minutely wider and outlined?</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_14" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T12:40:15Z" itemprop="datePublished">
+                April 28, 2021, 12:40pm
+              </time>
+<meta content="2021-04-28T12:40:15Z" itemprop="dateModified"/>
+<span itemprop="position">#14</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Nice catch!</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_15" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T13:10:04Z" itemprop="datePublished">
+                April 28, 2021,  1:10pm
+              </time>
+<meta content="2021-04-28T13:10:04Z" itemprop="dateModified"/>
+<span itemprop="position">#15</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="13" data-topic="20931" data-username="sn.ow.y">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sn.ow.y/40/10181_1.png" width="20"/> sn.ow.y:</div>
+<blockquote>
+<p>which loops are active for looks a bit sharper than usual</p>
+</blockquote>
+</aside>
+<p>I noticed this too, I thought it was changed in previous version. I think it’s not sharp instead border looks more broad.<br/>
+Personally I prefer the previous style, l liked it’s sleek and sharp border.</p>
+<p>Also Rendering timeline also made broader.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_16" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/ThoughtfulNoise.html" itemprop="url"><span itemprop="name">ThoughtfulNoise</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T15:04:00Z" itemprop="datePublished">
+                April 28, 2021,  3:04pm
+              </time>
+<meta content="2021-04-28T15:04:00Z" itemprop="dateModified"/>
+<span itemprop="position">#16</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-full="true" data-post="1" data-topic="20931" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<ul>
+<li>New scenes are made empty by default (use duplicate if you want to copy an existing scene)</li>
+</ul>
+</blockquote>
+</aside>
+<p>I kinda get what was being aimed for here, but imo, this one seems a strange one, likely to complicate most workflows than improve them.</p>
+<p>When a scene is added onto the end of an in-production track, it’s likely to have more in common with the previous Scene than a blank slate.</p>
+<p>So, while it’s still possible using Duplicate, I suspect 51%+ of users would prefer the previous ‘one tap’ option to be the default.</p>
+<p>Not sure the new default behaviour is optimised towards how users actually work.</p>
+<p>My ¢2.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_17" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/ThoughtfulNoise.html" itemprop="url"><span itemprop="name">ThoughtfulNoise</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T15:17:28Z" itemprop="datePublished">
+                April 28, 2021,  3:17pm
+              </time>
+<meta content="2021-04-28T15:17:28Z" itemprop="dateModified"/>
+<span itemprop="position">#17</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p><a class="mention" href="../../u/aklibs.html">@Aklibs</a> Does the new Undo require a confirmation?</p>
+<p>(It is a kind of destructive action — unless there’s also a Redo being added (which I don’t think is the case) — so maybe… <img alt=":man_shrugging:" class="emoji" src="../../emoji.discourse-cdn.com/apple/man_shrugging.png" title=":man_shrugging:"/></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_18" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T15:56:42Z" itemprop="datePublished">
+                April 28, 2021,  3:56pm
+              </time>
+<meta content="2021-04-28T15:56:42Z" itemprop="dateModified"/>
+<span itemprop="position">#18</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="17" data-topic="20931" data-username="ThoughtfulNoise">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/thoughtfulnoise/40/15848_2.png" width="20"/> ThoughtfulNoise:</div>
+<blockquote>
+<p>unless there’s also a Redo being added</p>
+</blockquote>
+</aside>
+<p>Good point, Undo without redo. There is not confirmation of changes when you undo notes.</p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_19" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Aklibs.html" itemprop="url"><span itemprop="name">Aklibs</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e.png" itemprop="image"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T16:19:06Z" itemprop="datePublished">
+                April 28, 2021,  4:19pm
+              </time>
+<meta content="2021-04-28T16:19:06Z" itemprop="dateModified"/>
+<span itemprop="position">#19</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Bug Report <span class="hashtag">#1</span></p>
+<p>I found very unusual bug <img alt=":bug:" class="emoji" src="../../emoji.discourse-cdn.com/apple/bug.png" title=":bug:"/><br/>
+Any note can be drawn anywhere in the loop editor and drum loop editor.<br/>
+It doesn’t stick to grid if it is below 50%.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="/uploads/short-url/awmI7QacbSkb5snVE10Ln77oDaC.png" href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e.png" rel="noopener nofollow ugc" title="image"><img alt="image" data-base62-sha1="awmI7QacbSkb5snVE10Ln77oDaC" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e_2_10x10.png" height="500" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e_2_666x500.png" srcset="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e_2_666x500.png, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e_2_999x750.png 1.5x, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/4/9/49be5d96a9bed13300787e8eeacf2577b3565b3e_2_1332x1000.png 2x" width="666"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2048×1536 135 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="/uploads/short-url/oabiGRSR6H2a2Qy82xNCKusjIno.png" href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842.png" rel="noopener nofollow ugc" title="image"><img alt="image" data-base62-sha1="oabiGRSR6H2a2Qy82xNCKusjIno" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842_2_10x10.png" height="500" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842_2_666x500.png" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842_2_666x500.png, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842_2_999x750.png 1.5x, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/a/9/a95ad544809ede4efafd29859db3d13aee653842_2_1332x1000.png 2x" width="666"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2048×1536 130 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="/uploads/short-url/uLZgToiMJSzAbqLNVSvVTguJI9h.png" href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7.png" rel="noopener nofollow ugc" title="image"><img alt="image" data-base62-sha1="uLZgToiMJSzAbqLNVSvVTguJI9h" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7_2_10x10.png" height="500" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7_2_666x500.png" srcset="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7_2_666x500.png, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7_2_999x750.png 1.5x, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/d/7/d7adeadb3ea2a3cc2b94517d8c58dca382141ca7_2_1332x1000.png 2x" width="666"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2048×1536 125 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>After clicking Ok, the notes gets into grid.<br/>
+<div class="lightbox-wrapper"><a class="lightbox" data-download-href="/uploads/short-url/ljDAqlGVdA3ROgebVodrOAikvPC.png" href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc.png" rel="noopener nofollow ugc" title="image"><img alt="image" data-base62-sha1="ljDAqlGVdA3ROgebVodrOAikvPC" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc_2_10x10.png" height="500" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc_2_666x500.png" srcset="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc_2_666x500.png, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc_2_999x750.png 1.5x, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/5/9565f54b9610c9e7534436de1bf06d61dff38dfc_2_1332x1000.png 2x" width="666"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2048×1536 119 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" data-download-href="/uploads/short-url/mNomQN0UnwSPVnopmm3dOdtg0C8.png" href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec.png" rel="noopener nofollow ugc" title="image"><img alt="image" data-base62-sha1="mNomQN0UnwSPVnopmm3dOdtg0C8" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec_2_10x10.png" height="500" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec_2_666x500.png" srcset="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec_2_666x500.png, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec_2_999x750.png 1.5x, ../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/f/9fc52d6e59774a6a4b20f73076f0ab557b4171ec_2_1332x1000.png 2x" width="666"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">2048×1536 120 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_20" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/ThoughtfulNoise.html" itemprop="url"><span itemprop="name">ThoughtfulNoise</span></a>
+</span>
+<link href="20931.html" itemprop="mainEntityOfPage"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/original/3X/7/2/72e278e5a74815f76f55840120f62b3d4d69d54a.jpeg" itemprop="image"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2021-04-28T16:36:30Z" itemprop="datePublished">
+                April 28, 2021,  4:36pm
+              </time>
+<meta content="2021-04-28T16:36:30Z" itemprop="dateModified"/>
+<span itemprop="position">#20</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group quote-modified" data-full="true" data-post="9" data-topic="20931" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<aside class="quote no-group" data-post="7" data-topic="20931" data-username="Aklibs">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/aklibs/40/12599_2.png" width="20"/> Aklibs:</div>
+<blockquote>
+<p>Like while testing I wanted to soft some notes and it touched undo.</p>
+</blockquote>
+</aside>
+<p>Good point! You don’t want to undo by mistake.</p>
+</blockquote>
+</aside>
+<p>Fwiw…</p>
+<aside class="quote quote-modified" data-post="599" data-topic="14165">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" loading="lazy" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/thoughtfulnoise/40/15848_2.png" width="20"/>
+<a href="../most-wanted-features/14165page=599.html">Most Wanted Features</a> <a class="badge-wrapper bullet" href="../../c/feedback.html"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span class="badge-category clear-badge" data-drop-close="true" style="" title="Share your thoughts on the current and future versions of Auxy.">Auxy Feedback</span></a>
+</div>
+<blockquote>
+    Another one I’ve been meaning to request for a long time… 
+More space between the Bars, time sig, and Soft buttons. 
+[image]
+  </blockquote>
+</aside>
+<p><img alt="image" data-base62-sha1="gojE3Z6gSQfVBerTEuet4OJe2j8" height="215" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/original/3X/7/2/72e278e5a74815f76f55840120f62b3d4d69d54a.jpeg" width="336"/></p>
+</div>
+<meta content="6.6 Beta with Undo" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><b><a href="20931page=2.html" itemprop="url" rel="next">next page →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

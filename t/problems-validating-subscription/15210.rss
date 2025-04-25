@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Problems validating subscription</title>
+    <link>https://disco.auxy.co/t/problems-validating-subscription/15210</link>
+    <description>So I just updated to the latest Auxy today (previously on v5.1) and since then have noticed an unusual yet consistent bug. Every time I open Auxy and then exit it, the subscription will toggle states from the previous time I had opened the app. So for example, if I had the subscription and then closed the app (not force quit necessarily) and then reopened it even a minute later, all the sounds would show as locked and restore purchases will show nothing that needs to be restored. Closing and then immediately reopening it would return it to the subscription state. 
+
+The bug inherently has a workaround so it&#39;s tolerable but it&#39;s incredibly annoying when trying to use other apps along with Auxy. I was wondering if anyone else had this and if they had found a fix.
+
+Cheers :clinking_glasses:
+
+Running an iPad Pro iOS 12.1</description>
+    
+    <lastBuildDate>Fri, 17 May 2019 11:55:21 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/problems-validating-subscription/15210.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks! We’ll try to get this fixed in the next update.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/18</link>
+        <pubDate>Fri, 17 May 2019 11:55:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-18</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, I still have it. I’ve just sent you the screen capture. Sorry for the delayed response.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/17</link>
+        <pubDate>Sat, 11 May 2019 08:43:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-17</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Do you still have this problem <a class="mention" href="https://disco.auxy.co/u/arimyth">@Arimyth</a>? If so, could you make a screen capture and email to feedback@auxy?</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/16</link>
+        <pubDate>Thu, 02 May 2019 09:03:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-16</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>I remember it had something to do with uploading. It was so long ago I don’t know all the details.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/15</link>
+        <pubDate>Thu, 25 Apr 2019 11:44:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-15</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks! Yeah it’s ok to post in the forum but usually we can resolve things regardless.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/14</link>
+        <pubDate>Thu, 25 Apr 2019 08:34:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-14</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>I wrote to forum to poll the crowd on whether it was common / uncommon and tangentially whether anyone had discovered any fixes for it. Will definitely make sure to email you guys directly in addition to that next time. <img src="https://emoji.discourse-cdn.com/apple/ok_hand.png?v=9" title=":ok_hand:" class="emoji" alt=":ok_hand:"></p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/13</link>
+        <pubDate>Thu, 25 Apr 2019 08:00:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-13</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>If anyone has a similar problem, or ANY problem with subscription locking etc., please let us know!</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/12</link>
+        <pubDate>Thu, 25 Apr 2019 07:41:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-12</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for reporting, although it’s better that you email us directly than writing in the forum. We have made some changes to how the app handles “restore purchases” so this might be related to that. Will tell Fredrik to invest.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/11</link>
+        <pubDate>Thu, 25 Apr 2019 07:40:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-11</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, before we can fix any problem we need to know that it exists, so it’s always a good idea to contact support when something like this happens instead of finding a workaround.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/10</link>
+        <pubDate>Thu, 25 Apr 2019 07:39:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-10</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you mean? Could you send an email to support from within the app and explain how the song got lost? Shouldn’t happen obviously.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/9</link>
+        <pubDate>Thu, 25 Apr 2019 07:37:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-9</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> <a class="mention" href="https://disco.auxy.co/u/fredrik">@Fredrik</a> I found another topic about this and merged here. I myself haven’t seen this but interesting that at least three folks have.</p>
+<p>Definitely worth sending email to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a>. If you do it from the app (Subscription at bottom &gt; Contact Support) it will send a log too.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/8</link>
+        <pubDate>Wed, 24 Apr 2019 17:59:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-8</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>Weird, that never happened to me…</p>
+<p>You thinking of sending the devs a direct email about it? Chances are that the log file provided in the email will help the devs fix that nasty bug.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/5</link>
+        <pubDate>Wed, 24 Apr 2019 04:26:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-5</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve had that same exact problem not too long ago. It’s best if you directly email staff about this, as doing so will provide them a log file that contains analytical data that that affected device records. Ultimately, this can help solve your problem.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/7</link>
+        <pubDate>Wed, 24 Apr 2019 04:24:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-7</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[XLXK]]></dc:creator>
+        <description><![CDATA[
+            <p>I keep getting this error once every month when my subscription renews, it says I don’t have it when I obviously do. Sometimes this fixes itself over time, sometimes I have to cancel the subscription and sub to get the sounds. All and all, it’s really annoying. If this could be your main priority first that would be amazing! <img src="/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/6</link>
+        <pubDate>Wed, 24 Apr 2019 03:55:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-6</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Tip: Maybe u could restart the device u have. It actually worked once.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/4</link>
+        <pubDate>Wed, 24 Apr 2019 00:32:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-4</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Me neither. I did lose a song once.</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/3</link>
+        <pubDate>Wed, 24 Apr 2019 00:29:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-3</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[aUstin_Haga]]></dc:creator>
+        <description><![CDATA[
+            <p>This hasn’t happened to me. : P</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/2</link>
+        <pubDate>Wed, 24 Apr 2019 00:18:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-2</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+      <item>
+        <title>Problems validating subscription</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>So I just updated to the latest Auxy today (previously on v5.1) and since then have noticed an unusual yet consistent bug. Every time I open Auxy and then exit it, the subscription will toggle states from the previous time I had opened the app. So for example, if I had the subscription and then closed the app (not force quit necessarily) and then reopened it even a minute later, all the sounds would show as locked and restore purchases will show nothing that needs to be restored. Closing and then immediately reopening it would return it to the subscription state.</p>
+<p>The bug inherently has a workaround so it’s tolerable but it’s incredibly annoying when trying to use other apps along with Auxy. I was wondering if anyone else had this and if they had found a fix.</p>
+<p>Cheers <img src="https://emoji.discourse-cdn.com/apple/clinking_glasses.png?v=9" title=":clinking_glasses:" class="emoji" alt=":clinking_glasses:"></p>
+<p>Running an iPad Pro iOS 12.1</p>
+          <p><a href="https://disco.auxy.co/t/problems-validating-subscription/15210/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/problems-validating-subscription/15210/1</link>
+        <pubDate>Tue, 23 Apr 2019 23:00:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15210-1</guid>
+        <source url="https://disco.auxy.co/t/problems-validating-subscription/15210.rss">Problems validating subscription</source>
+      </item>
+  </channel>
+</rss>

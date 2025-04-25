@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>How automation works - #57 by akabillposters - Auxy Feedback - Auxy Disco</title>
+<meta content="Please note: The Sweeper was unfortunately broken in 4.0 but it will be fixed if you update to 4.0.1. 
+Automation refers to automating sound settings over time. A simple example is to automate the volume to fade in an in&amp;hellip;" name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="../1086page=3.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="../1086.rss" rel="alternate nofollow" title="RSS feed of 'How automation works'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/1X/ec908125a780dce62789975a658ea195cfc6d3ff.jpg" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/1X/ec908125a780dce62789975a658ea195cfc6d3ff.jpg" property="og:image"/>
+<meta content="index.htmlt/how-automation-works/1086/57?u=akabillposters" property="og:url"/>
+<meta content="index.htmlt/how-automation-works/1086/57?u=akabillposters" name="twitter:url"/>
+<meta content="How automation works" property="og:title"/>
+<meta content="How automation works" name="twitter:title"/>
+<meta content="Thanks for the response.  Will that also include the ability to play between notes – i.e. detuning – or only whole notes/semitones?" property="og:description"/>
+<meta content="Thanks for the response.  Will that also include the ability to play between notes – i.e. detuning – or only whole notes/semitones?" name="twitter:description"/>
+<meta content="2017-08-14T08:39:10+00:00" property="article:published_time"/>
+<meta content="true" property="og:ignore_canonical"/>
+<link href="../1086page=2.html" rel="prev"/>
+</link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="../1086.html">How automation works</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="../../../c/feedback.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Auxy Feedback</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_49" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/nep.html" itemprop="url"><span itemprop="name">nep</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-11T15:37:59Z" itemprop="datePublished">
+                August 11, 2017,  3:37pm
+              </time>
+<meta content="2017-08-11T15:37:59Z" itemprop="dateModified"/>
+<span itemprop="position">#49</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Same here. I think it’s because the paste timeout is too short.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_50" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/NEWNAMES.html" itemprop="url"><span itemprop="name">NEWNAMES</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-12T06:07:44Z" itemprop="datePublished">
+                August 12, 2017,  6:07am
+              </time>
+<meta content="2017-08-12T06:07:44Z" itemprop="dateModified"/>
+<span itemprop="position">#50</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Question <a class="mention" href="../../../u/Auxy.html">@Auxy</a><br/>
+Will there ever be curved automation lines?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_51" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Phoenix.html" itemprop="url"><span itemprop="name">Phoenix</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-13T21:23:59Z" itemprop="datePublished">
+                August 13, 2017,  9:23pm
+              </time>
+<meta content="2017-08-13T21:23:59Z" itemprop="dateModified"/>
+<span itemprop="position">#51</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Hey <a class="mention" href="../../../u/Auxy.html">@Auxy</a> will we be able to have drums pan in the future?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_52" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T07:41:43Z" itemprop="datePublished">
+                August 14, 2017,  7:41am
+              </time>
+<meta content="2017-08-14T07:41:43Z" itemprop="dateModified"/>
+<span itemprop="position">#52</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Most likely, yes!</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_53" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T07:42:04Z" itemprop="datePublished">
+                August 14, 2017,  7:42am
+              </time>
+<meta content="2017-08-14T07:42:04Z" itemprop="dateModified"/>
+<span itemprop="position">#53</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Could you give an example of when you need that?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_54" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T07:42:45Z" itemprop="datePublished">
+                August 14, 2017,  7:42am
+              </time>
+<meta content="2017-08-14T07:42:45Z" itemprop="dateModified"/>
+<span itemprop="position">#54</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>This is a bug that will be solved in the next update.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_55" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T07:44:13Z" itemprop="datePublished">
+                August 14, 2017,  7:44am
+              </time>
+<meta content="2017-08-14T07:44:13Z" itemprop="dateModified"/>
+<span itemprop="position">#55</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>We’re trying to come up with a way to visualize playing notes when editing automation. It’s not trivial though since the automation loop can have a different length than the note loop, etc.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_56" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T07:45:10Z" itemprop="datePublished">
+                August 14, 2017,  7:45am
+              </time>
+<meta content="2017-08-14T07:45:10Z" itemprop="dateModified"/>
+<span itemprop="position">#56</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Have you tried restarting your iPad? Which iPad model is it?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_57" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-14T08:39:10Z" itemprop="datePublished">
+                August 14, 2017,  8:39am
+              </time>
+<meta content="2017-08-14T08:39:10Z" itemprop="dateModified"/>
+<span itemprop="position">#57</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Thanks for the response.<br/>
+Will that also include the ability to play between notes – i.e. detuning – or only whole notes/semitones?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+<div class="crawler-linkback-list" itemscope="" itemtype="http://schema.org/ItemList">
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="../../post-your-great-auxy-feature-idea-here/1129page=215.html" itemprop="item" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<meta content="index.htmlt/post-your-great-auxy-feature-idea-here/1129/215" itemprop="url"/>
+<span itemprop="name">Post your great Auxy feature idea here!</span>
+</a>
+<meta content="1" itemprop="position"/>
+</div>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_58" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-15T12:46:59Z" itemprop="datePublished">
+                August 15, 2017, 12:46pm
+              </time>
+<meta content="2017-08-15T12:46:59Z" itemprop="dateModified"/>
+<span itemprop="position">#58</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>You mean not snapping the pitch bend to even semitones? Maybe. Is that important?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_59" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/NEWNAMES.html" itemprop="url"><span itemprop="name">NEWNAMES</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<link href="../../../../global.discourse-cdn.com/standard10/uploads/auxy/original/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb.PNG" itemprop="image"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-15T12:49:36Z" itemprop="datePublished">
+                August 15, 2017, 12:49pm
+              </time>
+<meta content="2017-08-15T12:49:36Z" itemprop="dateModified"/>
+<span itemprop="position">#59</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Off Topic, but crater’s label for distortion is replaced by reverb, although there’s no reverb added. <div class="lightbox-wrapper"><a class="lightbox" href="index.htmluploads/auxy/original/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb.PNG" title="IMG_2588.PNG"><img alt="IMG_2588" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_10x10.png" height="499" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_281x499.PNG" srcset="../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_281x499.PNG, ../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_421x748.PNG 1.5x, ../../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_562x998.PNG 2x" width="281"/><div class="meta">
+<svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_2588.PNG</span><span class="informations">750×1334 43.7 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_60" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-15T12:56:50Z" itemprop="datePublished">
+                August 15, 2017, 12:56pm
+              </time>
+<meta content="2017-08-15T12:56:50Z" itemprop="dateModified"/>
+<span itemprop="position">#60</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I think dist is converted to tone. There’s no reverb but we had to use the reverb slot for the former character macro, which is not a dist but a change in the oscillator balance. So it’s a little hack.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_61" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-15T14:43:27Z" itemprop="datePublished">
+                August 15, 2017,  2:43pm
+              </time>
+<meta content="2017-08-15T14:43:27Z" itemprop="dateModified"/>
+<span itemprop="position">#61</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-full="true" data-post="58" data-topic="1086" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<p>You mean not snapping the pitch bend to even semitones? Maybe. Is that important?</p>
+</blockquote>
+</aside>
+<p>Correct, the ability to position the bend points anywhere between semitones.</p>
+<p>Important? Probably not. But that one feature would add multiple options for sound shaping/design.</p>
+<p>With free detuning (i.e. no snapping on pitch bend feature), you could add width (and/or basic chorus effect) by layering multiple instances of an instrument, one/some tuned just above the note, the other(s) tuned just below.</p>
+<p>Additionally/optionally, using automation, it would allow for experimenting with vibrato, including the wonky, drugged out, vibratos of the type that Boards of Canada became known for.</p>
+<p>By adding a semitone grid to the pitch bend screen, with an option to disable snapping (Ref: Soft note toggle), users of all skill levels and tastes could get what they want out of the pitch bend feature.<br/>
+Having the ability pinch/zoom would be very helpful too, to allow for more detailed control.</p>
+<p>A real three-fer. <img alt=":wink:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p> <br/>
+And, thanks for responding. Appreciated. <img alt=":+1:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/+1.png" title=":+1:"/></p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_62" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-17T08:14:32Z" itemprop="datePublished">
+                August 17, 2017,  8:14am
+              </time>
+<meta content="2017-08-17T08:14:32Z" itemprop="dateModified"/>
+<span itemprop="position">#62</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Got it! Well, I think it sounds like a clumsy way to create chorus etc. Although I get where you’re coming from. Will keep this in mind.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_63" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-17T10:36:48Z" itemprop="datePublished">
+                August 17, 2017, 10:36am
+              </time>
+<meta content="2017-08-17T10:36:48Z" itemprop="dateModified"/>
+<span itemprop="position">#63</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="62" data-topic="1086" data-username="Auxy">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" width="20"/> Auxy:</div>
+<blockquote>
+<p>I think it sounds like a clumsy way to create chorus etc.</p>
+</blockquote>
+</aside>
+<p>Thanks for considering it, <a class="mention" href="u/auxy.html">@Auxy</a>. <img alt=":+1:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/+1.png" title=":+1:"/></p>
+<p>I agree that it’s clumsy re: chorus (though not an uncommon approach), but in the absence of formal controls… <img alt=":wink:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/><br/>
+Just trying to sell you on the multiple benefits arising from adding one tweak to an existing feature. <img alt=":wink:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p>My primary target would be automated fine tuning/detuning – mostly for sound character/width, but also as a boot-strappy way to mimic certain uses for LFO modulation.<br/>
+(I appreciate that adding real LFO modulation and vibrato, both additionally requiring depth and rate controls, would likely be overkill for Auxy and counter to the broader vision.(</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_64" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Auxy.html" itemprop="url"><span itemprop="name">Auxy</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-17T12:38:23Z" itemprop="datePublished">
+                August 17, 2017, 12:38pm
+              </time>
+<meta content="2017-08-17T12:38:23Z" itemprop="dateModified"/>
+<span itemprop="position">#64</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Well, we have the tech in place so we could definitely use the LFO more.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_65" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/vxsqxez.html" itemprop="url"><span itemprop="name">vxsqxez</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-08-28T20:17:58Z" itemprop="datePublished">
+                August 28, 2017,  8:17pm
+              </time>
+<meta content="2017-08-28T20:17:58Z" itemprop="dateModified"/>
+<span itemprop="position">#65</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>can it please be added in an update to where we can change the pitch of hi hats and hats 'etc ?</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_66" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/Stigmo.html" itemprop="url"><span itemprop="name">Stigmo</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-01T17:04:02Z" itemprop="datePublished">
+                September 1, 2017,  5:04pm
+              </time>
+<meta content="2017-09-01T17:04:02Z" itemprop="dateModified"/>
+<span itemprop="position">#66</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="33" data-topic="1086">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/stigmo/40/1915_1.png" width="20"/> Stigmo:</div>
+<blockquote>
+<p>Is there an option to see the notes while doing the automation? Since sometimes I want to automate specific notes, but I continously have to go back to the notes to see at what specific place and what length they are. I hope this is understandable.</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="../../../u/Auxy.html">@Auxy</a><br/>
+Will this be available in the future?<br/>
+Sorry for repeating myself, I haven’t really been active last weeks, so I might have missed an answer to my question.<br/>
+Thanks in advance.</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_67" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/yaneeck.html" itemprop="url"><span itemprop="name">yaneeck</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-05T19:39:39Z" itemprop="datePublished">
+                September 5, 2017,  7:39pm
+              </time>
+<meta content="2017-09-05T19:39:39Z" itemprop="dateModified"/>
+<span itemprop="position">#67</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Why didn’t you ask: Have you tried turning it off and on again? <img alt=":wink:" class="emoji" src="../../../../"emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_68" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../../u/GioMakyo.html" itemprop="url"><span itemprop="name">GioMakyo</span></a>
+</span>
+<link href="../1086.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-08T05:00:32Z" itemprop="datePublished">
+                September 8, 2017,  5:00am
+              </time>
+<meta content="2017-09-08T05:00:32Z" itemprop="dateModified"/>
+<span itemprop="position">#68</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>The drums already seem to change pitch depending on which key you are playing in</p>
+</div>
+<meta content="How automation works" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><a href="../1086page=2.html" itemprop="url" rel="prev">← previous page</a></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

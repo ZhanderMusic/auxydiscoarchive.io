@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to copy notes between instruments?</title>
+    <link>https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083</link>
+    <description>I have a feeling there’s an easy answer to this question, but I just can’t seem to figure it out. How do you copy the note data from a loop in one instrument and paste it into a new loop on another instrument, so you can get two instruments playing the same part without having to write it again a second time?
+
+Duplicate only works within the same instrument, and the same for note copy and paste. Can anyone answer this?</description>
+    
+    <lastBuildDate>Tue, 22 May 2018 15:01:45 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to copy notes between instruments?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, that worked! For some reason I thought move function was only within the same instrument!</p>
+          <p><a href="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/3</link>
+        <pubDate>Tue, 22 May 2018 15:01:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10083-3</guid>
+        <source url="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083.rss">How to copy notes between instruments?</source>
+      </item>
+      <item>
+        <title>How to copy notes between instruments?</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>Locate the instrument and the loop you would like to copy note data from.<br>
+Tap and hold on the loop.<br>
+Press <em>Duplicate</em>.<br>
+You will have a copy of that loop on the same instrument. Drag the duplicated loop to a new instrument.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/2</link>
+        <pubDate>Tue, 22 May 2018 07:57:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10083-2</guid>
+        <source url="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083.rss">How to copy notes between instruments?</source>
+      </item>
+      <item>
+        <title>How to copy notes between instruments?</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>I have a feeling there’s an easy answer to this question, but I just can’t seem to figure it out. How do you copy the note data from a loop in one instrument and paste it into a new loop on another instrument, so you can get two instruments playing the same part without having to write it again a second time?</p>
+<p>Duplicate only works within the same instrument, and the same for note copy and paste. Can anyone answer this?</p>
+          <p><a href="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083/1</link>
+        <pubDate>Tue, 22 May 2018 07:33:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10083-1</guid>
+        <source url="https://disco.auxy.co/t/how-to-copy-notes-between-instruments/10083.rss">How to copy notes between instruments?</source>
+      </item>
+  </channel>
+</rss>

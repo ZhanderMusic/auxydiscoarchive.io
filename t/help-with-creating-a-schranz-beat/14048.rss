@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Help with creating a Schranz beat</title>
+    <link>https://disco.auxy.co/t/help-with-creating-a-schranz-beat/14048</link>
+    <description>So lately I’ve been listening to artists from a rhythm game music production competition known as BOFU (BMS of Fighters Ultimate), which is a Japanese contest based on creating arcade style and length songs with BGAs (Background animations) that go with the music (or at least sync with it), and the projects are made for an open source game based off the Beatmania IIDX series.
+
+Straight to the topic, one of my favourite artists, nitro, makes a pretty sick style, mainly known for their time shifts, complicated rhythms and melodies, especially their [line] songs, which mostly involve schranz. I wanna try to recreate this in Auxy, but it’s pretty hard to figure it out, as the rhythm in my head is pretty much glued, as I hear *long kick* **pause** *short kick x2* (loop).
+
+Is it possible for anyone to help me and send a demo project that has that rhythm for an example, please and thanks.
+
+Here’s an example of what I’m talking about **Epilepsy warning!** (0:28 - 0:38):
+https://m.youtube.com/watch?v=IpGxe_jqZEI</description>
+    
+    <lastBuildDate>Tue, 12 Feb 2019 23:51:25 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/help-with-creating-a-schranz-beat/14048.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Help with creating a Schranz beat</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>So lately I’ve been listening to artists from a rhythm game music production competition known as BOFU (BMS of Fighters Ultimate), which is a Japanese contest based on creating arcade style and length songs with BGAs (Background animations) that go with the music (or at least sync with it), and the projects are made for an open source game based off the Beatmania IIDX series.</p>
+<p>Straight to the topic, one of my favourite artists, nitro, makes a pretty sick style, mainly known for their time shifts, complicated rhythms and melodies, especially their [line] songs, which mostly involve schranz. I wanna try to recreate this in Auxy, but it’s pretty hard to figure it out, as the rhythm in my head is pretty much glued, as I hear <em>long kick</em> <strong>pause</strong> <em>short kick x2</em> (loop).</p>
+<p>Is it possible for anyone to help me and send a demo project that has that rhythm for an example, please and thanks.</p>
+<p>Here’s an example of what I’m talking about <strong>Epilepsy warning!</strong> (0:28 - 0:38):<br>
+</p><p><a href="https://www.youtube.com/embed/IpGxe_jqZEI?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/IpGxe_jqZEI</a></p>
+          <p><a href="https://disco.auxy.co/t/help-with-creating-a-schranz-beat/14048/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/help-with-creating-a-schranz-beat/14048/1</link>
+        <pubDate>Tue, 12 Feb 2019 23:51:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14048-1</guid>
+        <source url="https://disco.auxy.co/t/help-with-creating-a-schranz-beat/14048.rss">Help with creating a Schranz beat</source>
+      </item>
+  </channel>
+</rss>

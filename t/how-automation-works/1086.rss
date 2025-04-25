@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How automation works</title>
+    <link>https://disco.auxy.co/t/how-automation-works/1086</link>
+    <description>**Please note: The Sweeper was unfortunately broken in 4.0 but it will be fixed if you update to 4.0.1.**
+
+Automation refers to automating sound settings over time. A simple example is to automate the volume to fade in an instrument, but that&#39;s just scratching the surface of what you can do. Here&#39;s what you need to know to get started:
+
+### Automation loops for each instrument
+- The big news is that we have added automation loops—a new type of loop that lets you automate all the sound settings.
+- The automation loops are added right below the melody loops for each instrument.
+- The transition feature has been removed and all projects that use transitions have been updated to use automation loops instead.
+- Just like melody loops, you select the automation loops that you want to be active in each scene. 
+- Each scene can have one melody loop and one automation loop active for each instrument.
+
+![loops|200x100](/uploads/auxy/original/1X/ec908125a780dce62789975a658ea195cfc6d3ff.jpg)
+_Automation loops below the melody loops._
+
+### Creating and editing automation loops
+- Select which sound setting you want to automate in the top left corner.
+- Tap the grid to add ‘nodes’ and build your automation curve.
+- Drag nodes right to increase the value and left to decrease.
+- Drag the curve to move a segment between two nodes.
+- Select and edit multiple nodes by long-pressing the grid and use the selection box.
+- Copy nodes by selecting them and then long-pressing the grid to paste.
+
+![volumeselect|200x200](/uploads/auxy/original/1X/1034c5e105772fad79edb19bcf441150cae5ed04.jpg)
+_Volume automation with a couple of nodes._
+
+### Automation length
+- Note that each automated setting has its own length, which means you can make a loop that repeats e.g. a filter change every bar, while the volume is repeating every 4 bars.
+- You can set automation length to ‘Scene’, which will make the curve as long as the current scene.
+
+### Snapping to previous and next scenes
+- If you remove the start- and end nodes (marked with a dot inside the circle), the curve will automatically snap to the values of the previous and next scenes.
+- This is useful for making smooth transitions between scenes.
+
+![snapline|200x200](/uploads/auxy/original/1X/67577743879b2635c88e73212b504ac87de1e7e5.jpg)
+_Removing the start node snaps the curve to the value of the previous scene._
+
+### Setting static values
+- Sound settings are no longer stored with each scene.
+- If you change e.g. the volume of an instrument in the tweak panel, it will change the volume across all scenes where volume is not automated.
+- If you want specific values in a scene, you have to use an automation loop and set ‘static’ values, i.e. straight automation curves.
+- The easiest way to set static values is to tap the grid once to add a straight line, and then drag the curve left or right.
+
+### New sound tweaks
+- Each sound now has a pan setting, which lets you pan the sound to the left or right.
+- Each sound now has a highpass setting, which lets you filter out low frequencies to improve the mix or create sweeping effects.
+- If a sound is missing a certain setting, it will be grayed out in the tweak panel and automation editor.
+
+![newtweaks|200x250](/uploads/auxy/original/1X/a1eb69d81bf77b45a97549c111b41b94f3604448.jpg)
+_The new tweak panel with pan and highpass._
+
+### Pitch automation
+- Selecting &#39;Pitch&#39; lets you pitch each instrument one octave up or down.
+- Nodes will automatically snap to even semitones.
+
+### Changes to how the Sweeper works
+- The ‘Sweeper’ effect no longer has start and end values.
+- To create a basic sweep, draw the notes and add automation to the lowpass setting.
+
+### Feeling confused?
+Post your questions in the comments below and we&#39;ll do our best to explain.
+
+Hope you like it!</description>
+    
+    <lastBuildDate>Fri, 08 Sep 2017 05:00:32 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/how-automation-works/1086.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>The drums already seem to change pitch depending on which key you are playing in</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/68</link>
+        <pubDate>Fri, 08 Sep 2017 05:00:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-68</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[yaneeck]]></dc:creator>
+        <description><![CDATA[
+            <p>Why didn’t you ask: Have you tried turning it off and on again? <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/67</link>
+        <pubDate>Tue, 05 Sep 2017 19:39:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-67</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Stigmo]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="33" data-topic="1086">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/stigmo/40/1915_1.png" class="avatar"> Stigmo:</div>
+<blockquote>
+<p>Is there an option to see the notes while doing the automation? Since sometimes I want to automate specific notes, but I continously have to go back to the notes to see at what specific place and what length they are. I hope this is understandable.</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a><br>
+Will this be available in the future?<br>
+Sorry for repeating myself, I haven’t really been active last weeks, so I might have missed an answer to my question.<br>
+Thanks in advance.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/66</link>
+        <pubDate>Fri, 01 Sep 2017 17:04:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-66</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[vxsqxez]]></dc:creator>
+        <description><![CDATA[
+            <p>can it please be added in an update to where we can change the pitch of hi hats and hats 'etc ?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/65</link>
+        <pubDate>Mon, 28 Aug 2017 20:17:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-65</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, we have the tech in place so we could definitely use the LFO more.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/64</link>
+        <pubDate>Thu, 17 Aug 2017 12:38:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-64</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="62" data-topic="1086">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>I think it sounds like a clumsy way to create chorus etc.</p>
+</blockquote>
+</aside>
+<p>Thanks for considering it, <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a>. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=10" title=":+1:" class="emoji" alt=":+1:"></p>
+<p>I agree that it’s clumsy re: chorus (though not an uncommon approach), but in the absence of formal controls… <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:"><br>
+Just trying to sell you on the multiple benefits arising from adding one tweak to an existing feature. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>My primary target would be automated fine tuning/detuning – mostly for sound character/width, but also as a boot-strappy way to mimic certain uses for LFO modulation.<br>
+(I appreciate that adding real LFO modulation and vibrato, both additionally requiring depth and rate controls, would likely be overkill for Auxy and counter to the broader vision.(</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/63</link>
+        <pubDate>Thu, 17 Aug 2017 10:36:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-63</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Got it! Well, I think it sounds like a clumsy way to create chorus etc. Although I get where you’re coming from. Will keep this in mind.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/62</link>
+        <pubDate>Thu, 17 Aug 2017 08:14:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-62</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="58" data-topic="1086" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>You mean not snapping the pitch bend to even semitones? Maybe. Is that important?</p>
+</blockquote>
+</aside>
+<p>Correct, the ability to position the bend points anywhere between semitones.</p>
+<p>Important? Probably not. But that one feature would add multiple options for sound shaping/design.</p>
+<p>With free detuning (i.e. no snapping on pitch bend feature), you could add width (and/or basic chorus effect) by layering multiple instances of an instrument, one/some tuned just above the note, the other(s) tuned just below.</p>
+<p>Additionally/optionally, using automation, it would allow for experimenting with vibrato, including the wonky, drugged out, vibratos of the type that Boards of Canada became known for.</p>
+<p>By adding a semitone grid to the pitch bend screen, with an option to disable snapping (Ref: Soft note toggle), users of all skill levels and tastes could get what they want out of the pitch bend feature.<br>
+Having the ability pinch/zoom would be very helpful too, to allow for more detailed control.</p>
+<p>A real three-fer. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>&nbsp;<br>
+And, thanks for responding. Appreciated. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=10" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/61</link>
+        <pubDate>Tue, 15 Aug 2017 14:43:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-61</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>I think dist is converted to tone. There’s no reverb but we had to use the reverb slot for the former character macro, which is not a dist but a change in the oscillator balance. So it’s a little hack.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/60</link>
+        <pubDate>Tue, 15 Aug 2017 12:56:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-60</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <p>Off Topic, but crater’s label for distortion is replaced by reverb, although there’s no reverb added. </p><div class="lightbox-wrapper"><a class="lightbox" href="https://disco.auxy.co/uploads/auxy/original/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb.PNG" title="IMG_2588.PNG"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_281x499.PNG" alt="IMG_2588" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_281x499.PNG, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_421x748.PNG 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_562x998.PNG 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/fa8f0c7d0eba4e7f856756e4ddf9ec2d4a648aeb_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/59</link>
+        <pubDate>Tue, 15 Aug 2017 12:49:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-59</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>You mean not snapping the pitch bend to even semitones? Maybe. Is that important?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/58</link>
+        <pubDate>Tue, 15 Aug 2017 12:46:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-58</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the response.<br>
+Will that also include the ability to play between notes – i.e. detuning – or only whole notes/semitones?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/57</link>
+        <pubDate>Mon, 14 Aug 2017 08:39:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-57</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Have you tried restarting your iPad? Which iPad model is it?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/56</link>
+        <pubDate>Mon, 14 Aug 2017 07:45:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-56</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We’re trying to come up with a way to visualize playing notes when editing automation. It’s not trivial though since the automation loop can have a different length than the note loop, etc.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/55</link>
+        <pubDate>Mon, 14 Aug 2017 07:44:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-55</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>This is a bug that will be solved in the next update.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/54</link>
+        <pubDate>Mon, 14 Aug 2017 07:42:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-54</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Could you give an example of when you need that?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/53</link>
+        <pubDate>Mon, 14 Aug 2017 07:42:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-53</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Most likely, yes!</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/52</link>
+        <pubDate>Mon, 14 Aug 2017 07:41:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-52</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Phoenix]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> will we be able to have drums pan in the future?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/51</link>
+        <pubDate>Sun, 13 Aug 2017 21:23:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-51</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <p>Question <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a><br>
+Will there ever be curved automation lines?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/50</link>
+        <pubDate>Sat, 12 Aug 2017 06:07:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-50</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[nep]]></dc:creator>
+        <description><![CDATA[
+            <p>Same here. I think it’s because the paste timeout is too short.</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/49</link>
+        <pubDate>Fri, 11 Aug 2017 15:37:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-49</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>What iPad do you have?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/48</link>
+        <pubDate>Thu, 10 Aug 2017 19:51:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-48</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>When you click through the sound list, the previews you hear still follow the current instrument settings and/or automation. So if you have just created a new instrument track and choose a sound, it will sound different than if you switched to the same sound on a different instrument track where you had adjusted the settings, etc</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/47</link>
+        <pubDate>Thu, 10 Aug 2017 19:50:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-47</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a>.</p>
+<p>Re: Pitch automation</p>
+<p>Would it be possible to offer ‘snap to note’ on the Pitch automation screen as an option in a future update?<br>
+Something that can be toggled off?</p>
+<p>Or the ability to ‘zoom in’, which switches to more granular set of ‘snaps’.</p>
+<p>(Trying out what can be done re: layered detuning, but the ‘snapping’ means it’s not really possible.)</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/46</link>
+        <pubDate>Thu, 10 Aug 2017 19:44:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-46</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> Not sure if this is the right place to post bugs but I found one.</p>
+<p>You know how when you click on the name of an instrument in the instruments list it plays the instrument’s sound? Those sounds are different than they used to be. That may be intentional but the main issue is when you create a new instrument and tap a note and you hear a preview. Then when you play it it sounds totally different.</p>
+<p>Basically the “sound” on each instrument isn’t consistent between previewing notes and playing them. I’ll upload a video if I get a chance. Thanks for the awesome app!</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/45</link>
+        <pubDate>Thu, 10 Aug 2017 15:25:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-45</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+      <item>
+        <title>How automation works</title>
+        <dc:creator><![CDATA[Djthrelkeld]]></dc:creator>
+        <description><![CDATA[
+            <p>How do I make the update on my iPad?</p>
+          <p><a href="https://disco.auxy.co/t/how-automation-works/1086/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-automation-works/1086/44</link>
+        <pubDate>Wed, 09 Aug 2017 20:38:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1086-44</guid>
+        <source url="https://disco.auxy.co/t/how-automation-works/1086.rss">How automation works</source>
+      </item>
+  </channel>
+</rss>

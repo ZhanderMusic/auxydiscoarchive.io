@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The new &#39;Soft&#39; note approach</title>
+    <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807</link>
+    <description>To be frank, I&#39;m not sure whether this new approach will just take some getting used to – or it&#39;s that you&#39;ve actually replaced the old &#39;not great&#39; approach, with one that&#39;s slightly worse.
+
+Hopefully the former. Time will tell. :)</description>
+    
+    <lastBuildDate>Mon, 02 Oct 2017 12:43:19 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>I do understand there are no easy, obvious answers.<br>
+It’s a great one to open up to broad qual research.</p>
+<p>…unless you’ve already done reasonably extensive prototyping/user testing.<br>
+(though I suspect that isn’t happening, at least to the right extent, as you’re not throwing test incomes in my face. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>I might have strong instincts towards a solution, but until I’ve lived with it or even tested it, I can’t say if it would actually suit my own workflow. (I’m not going to prototype something.) <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>&nbsp;<br>
+I would recommend testing anything I suggest.<br>
+This is just some heuristics. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>&nbsp;<br>
+One thing’s reasonably certain, it’s better to role out changes that have some testing to back them up, rather than simply reacting to something thrown up by one or two users (even ones who are UX professionals). Without testing, you can’t really be sure that the change is in right direction. This risks either changing things too frequently (as live users effectively become the first UI testers) which will damage patience for the app and hurt loyalty – or having to commit to a bad approach for the sake of consistency.</p>
+<p>Neither is what you want.</p>
+<p>&nbsp;<br>
+One option that instinctively feels like it might give me the control/agility I seek, would be to ditch Soft mode completely – and go with something like the long-press + slider approach.</p>
+<p>In that model, softness is not an editing ‘mode’, but something more focused.</p>
+<p><strong>State: Empty cell</strong></p>
+<ul>
+<li>I want to add a full note: Tap</li>
+<li>I want to add a soft note: Tap + Hold (select approx level)</li>
+</ul>
+<p><strong>State: Full note</strong></p>
+<ul>
+<li>I want to delete the note: Tap</li>
+<li>I want to make the note soft: Tap + Hold (select approx level)</li>
+</ul>
+<p><strong>State: Soft note (i.e. any ‘not full’ note)</strong></p>
+<ul>
+<li>I want to delete the note: Tap</li>
+<li>I want to make the note full: Tap + Hold (select level) [This could be particularly quick as the user could just move their finger rapidly beyond the top of the level, maxing out the level, then release, which closes the level bar.]</li>
+</ul>
+<p>In terms of increments on the softness level, I’d say four – 25%, 50%, 75%, 100% (though this could be abstracted down to 1, 2, 3, 4 (4 being ‘full’).<br>
+(There might be an argument for including 0%, for silencing, but keeping a note. But, chances are, in practice, users would opt to delete the note.)</p>
+<p>&nbsp;<br>
+Another one…</p>
+<p>‘+Soft’ mode as a variant of the default behaviour, using a single, generic soft level.</p>
+<p>&nbsp;<br>
+When in Default mode…</p>
+<p><strong>Tap: <em>Add full note &gt; Tap: Delete occupied note</em></strong></p>
+<p>&nbsp;<br>
+When in <em>+Soft</em> mode, the tap cycle becomes…</p>
+<p><strong>Tap: <em>Add full note &gt; Tap: make note soft &gt; Tap: delete note</em></strong></p>
+<p>&nbsp;<br>
+Iirc, this would effectively reinstate the previous model, with the added ability to delete a note as part of the tap cycle when in Soft mode.</p>
+<p>With something like that, <em>+Soft</em> mode setting would be persistent (to echo my comment about Chromatic).<br>
+I would basically live in <em>+Soft</em> mode, as that rapid tap-in-place workflow would interrupt my focus/flow less.</p>
+<p>Tapping in-place, even multiple additional times*, is still going to be far quicker than having to move your finger away to toggle a setting temporarily.</p>
+<p>* Even if you make a mistake by adding, editing or deleting a note accidentally, it’s still going to be quicker to let users fix it where they are with a quick tap or two, which is the quickest interaction/gesture available.</p>
+<p>&nbsp;<br>
+In both cases, adhering to one principle seems key – if I want to do something to a note/note cell, the less I need to move around the screen and away from that note to do it, the better.</p>
+<p>i.e. everything happens where the finger already is.</p>
+<p>My finger will most likely already be in the vicinity or directly over the note/cell that I want to effect. The UI currently demands that I move away from the small, targeted cell that I want to effect – to another small targeted area (a variable distance and direction from where my eye/finger is) – hit the target first time** – return to the small targeted area that I want to effect and then tap.</p>
+<p>** Not easy given the previously commented upon size of the ‘Soft’ button and its proximity to other buttons.</p>
+<p>&nbsp;<br>
+I suspect that both of the options above would be simpler to commit to muscle memory and consequently far quicker within a workflow.</p>
+<p>The second one feels like a good compromise/stepping stone. The first one feels like where it will ultimately end up, as the ‘most right’ solution.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>I trust to know about Fitt’s Law. If not, it’s worth checking out as it’s super-relevant, given that this ‘Soft note’ challenge is a mix of touch, small UI elements and the inclination towards a rapid workflow.</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/8</link>
+        <pubDate>Mon, 02 Oct 2017 12:37:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-8</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="6" data-topic="2807">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/akabillposters/40/667_1.png" class="avatar"> akabillposters:</div>
+<blockquote>
+<p>What would be ideal for me, may not suit others.</p>
+</blockquote>
+</aside>
+<p>What would be ideal for you?</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/7</link>
+        <pubDate>Mon, 02 Oct 2017 10:59:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-7</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="5" data-topic="2807">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>Wait, weren’t you the one asking for us to change so that notes can be deleted while in soft mode? <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=10" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+</blockquote>
+</aside>
+<p>Yep, but you have with one hand and took with the other. <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=10" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>It is a tough one, and one that probably doesn’t have a ‘one size fits all’ solution.<br>
+What would be ideal for me, may not suit others.</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>We’ve also tried preventing note creation in soft mode, which is the third option, but it feels strange to not be able to create new notes.</p>
+</blockquote>
+<p>Thank you not doing that. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>&nbsp;</p>
+<blockquote>
+<p>I think the “solution” might be to rethink soft in some smart way. That way is not likel to be “long press to get a slider though”…</p>
+</blockquote>
+<p>Agree that it needs a root and branch rethink.</p>
+<p>I wouldn’t write-off the ‘long press/slider’ idea just yet. If you’re going to offer multiple soft levels available per note at some point, having contextual ‘in-place’ controls should be strongly considered.</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/6</link>
+        <pubDate>Mon, 02 Oct 2017 09:44:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-6</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Wait, weren’t you the one asking for us to change so that notes can be deleted while in soft mode? <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>In either way, this is a clear case where each approach will come with some pros and cons. The previous mode was designed in order to let you toggle notes soft and hard in order to create variation in a pattern you’ve created. The problem was, according to feedback, that in case you created new notes by mistake, you had to toggle the mode to delete them. I think the new approach is more consistent though.</p>
+<p>We’ve also tried preventing note creation in soft mode, which is the third option, but it feels strange to not be able to create new notes.</p>
+<p>I think the “solution” might be to rethink soft in some smart way. That way is not likel to be “long press to get a slider though”…</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/5</link>
+        <pubDate>Mon, 02 Oct 2017 07:38:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-5</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>They’ve changed how the Soft mode works in the recent update.<br>
+You can now delete a note while in Soft mode, which is good.<br>
+But it’s now impossible to flip between soft and normal note without first toggling in or out of Soft mode.</p>
+<p>They’ve simplified it, because both modes, in isolation, behave the same way.<br>
+The new approach demands less agility and more consideration, slowing things (read: me) down.</p>
+<p>I said there had to be a better way than how it was. In my opinion, this isn’t it.</p>
+<p>At least before, you could toggle between a soft and normal note while keeping your finger exactly where the note is – i.e not having to flit off to the edge of the screen to tap the Soft button – assuming you manage to hit the Soft button first time, which is another problem with the UI.</p>
+<p>Now, one needs to go to the Soft button more often – and that’s just going to compound the problem arising from the (small) size of the Soft button itself, and how close it is to other buttons.</p>
+<p>It’s a <a href="https://www.interaction-design.org/literature/article/fitts-s-law-the-importance-of-size-and-distance-in-ui-design">Fitt’s Law / affordance / UX / UI design</a> thing.</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/4</link>
+        <pubDate>Thu, 28 Sep 2017 15:04:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-4</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[SUFOS]]></dc:creator>
+        <description><![CDATA[
+            <p>I have no idea what your talking about.</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/3</link>
+        <pubDate>Thu, 28 Sep 2017 15:04:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-3</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[xavior]]></dc:creator>
+        <description><![CDATA[
+            <p>What does this mean?</p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/2</link>
+        <pubDate>Thu, 28 Sep 2017 14:35:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-2</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+      <item>
+        <title>The new &#39;Soft&#39; note approach</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>To be frank, I’m not sure whether this new approach will just take some getting used to – or it’s that you’ve actually replaced the old ‘not great’ approach, with one that’s slightly worse.</p>
+<p>Hopefully the former. Time will tell. <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/the-new-soft-note-approach/2807/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-new-soft-note-approach/2807/1</link>
+        <pubDate>Thu, 28 Sep 2017 13:26:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2807-1</guid>
+        <source url="https://disco.auxy.co/t/the-new-soft-note-approach/2807.rss">The new &#39;Soft&#39; note approach</source>
+      </item>
+  </channel>
+</rss>

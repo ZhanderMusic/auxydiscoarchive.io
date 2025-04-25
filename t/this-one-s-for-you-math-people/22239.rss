@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>This one’s for you math people</title>
+    <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239</link>
+    <description>What do you think are the probabilities of getting the same default project name TWICE?</description>
+    
+    <lastBuildDate>Mon, 19 Sep 2022 20:22:48 +0000</lastBuildDate>
+    <category>Random</category>
+    <atom:link href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[Chimpan-T]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah… <em>realising math can be very complex</em></p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/7</link>
+        <pubDate>Mon, 19 Sep 2022 20:22:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-7</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>y e s</p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/6</link>
+        <pubDate>Mon, 19 Sep 2022 08:44:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-6</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[The_Osprey]]></dc:creator>
+        <description><![CDATA[
+            <p>My eyes… they are burning</p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/5</link>
+        <pubDate>Mon, 19 Sep 2022 03:54:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-5</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>This logic is a bit similar to finding how likely it is that two people in the same room will share a birthday, as the number of people in the room increases. (At about 23+ people, the chance starts being over 50%.)</p>
+<p>So projects have an adjective followed by a noun.<br>
+The total number of permutations (arrangements) is:</p>
+<pre><code class="lang-auto">total number of permutations [p] = [number of adjectives] x [number of nouns]
+</code></pre>
+<p>If you make two projects, for the second project:</p>
+<ul>
+<li>you have <code>(p-1)/p</code> chance of <em>not</em> getting the same name as the first one.
+<ul>
+<li>For birthdays with two people, this is <code>364/365</code> chance that the second person doesn’t share a birthday with the first</li>
+</ul>
+</li>
+<li>There’s a <code>1/p</code> chance that they are <em>both</em> different, aka the same as <code>1/p</code> chance of getting the same name as the first one.
+<ul>
+<li>For birthdays with two people, this is <code>1/365</code> that both people have the same birthday</li>
+</ul>
+</li>
+</ul>
+<p>When you have three projects, for the third project:</p>
+<ul>
+<li>you have <code>(p-1)/p</code> the chance of not getting the same as the first one
+<ul>
+<li>For birthdays, this is <code>364/365</code> chance that the second person doesn’t share a birthday with the first</li>
+</ul>
+</li>
+<li>you have <code>(p-2)/p</code> the chance of the third name not being the same name as the second, if the second is also not the same name as the first from the previous condition
+<ul>
+<li>For birthdays, this is <code>363/365</code> chance that the third person doesn’t share a birthday with the first and the second, if they’re also both different</li>
+</ul>
+</li>
+<li>So there’s a <code>(p-1)/p * (p-2)/p</code> or <code>364/365 * 363/365</code> chance that they’re all different.
+<ul>
+<li>This is the same as <code>1 - ((p-1)/p * (p-2)/p)</code> or  <code>1 - (364/365 * 363/365)</code> chance that there are at least two which are the same.</li>
+</ul>
+</li>
+</ul>
+<p>For birthdays, at about 23 people for 365 days in a year:</p>
+<pre><code class="lang-auto">1 - ((364*363*362*361*…*345*344*343) / 365^22) ≈ 50.73%
+</code></pre>
+<p>Or each time you make a new project, this is the chance of it at least two projects sharing the same name (where <code>n</code> is how many projects you’ve made, and <code>p</code> is number of adjectives x number of nouns)</p>
+<pre><code class="lang-auto">1 - (( (p-1)*(p-2)*(p-3)*(p-4)*…*(p-(n-3))*(p-(n-2))*(p-(n-1)) ) / p^(n-1) )
+</code></pre>
+<p>with numbers filled in, it’s a bit less mysterious. But basically:</p>
+<ul>
+<li>the more names there are, the more likely it will be that new names will be different to previous.</li>
+<li>the more project names you generate, the more likely it will be that the names are not all different (i.e. at least two are the same).</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/4</link>
+        <pubDate>Fri, 16 Sep 2022 10:17:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-4</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[Chimpan-T]]></dc:creator>
+        <description><![CDATA[
+            <p>Something like 1 in 200 chance</p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/3</link>
+        <pubDate>Fri, 16 Sep 2022 05:51:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-3</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>after you make a lot of projects</p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/2</link>
+        <pubDate>Fri, 16 Sep 2022 00:02:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-2</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+      <item>
+        <title>This one’s for you math people</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you think are the probabilities of getting the same default project name TWICE?</p>
+          <p><a href="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/this-one-s-for-you-math-people/22239/1</link>
+        <pubDate>Thu, 15 Sep 2022 23:08:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22239-1</guid>
+        <source url="https://disco.auxy.co/t/this-one-s-for-you-math-people/22239.rss">This one’s for you math people</source>
+      </item>
+  </channel>
+</rss>

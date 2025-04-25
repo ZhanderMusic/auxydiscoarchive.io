@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Voicemail (lofi)</title>
+    <link>https://disco.auxy.co/t/voicemail-lofi/18482</link>
+    <description>https://soundcloud.com/user-363092499/voicemail/s-hr4DiPgeFrq
+my new song ‘voicemail’ is out now!</description>
+    
+    <lastBuildDate>Sun, 22 Mar 2020 18:39:11 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/voicemail-lofi/18482.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Voicemail (lofi)</title>
+        <dc:creator><![CDATA[CTRL_TIME]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://soundcloud.com/user-363092499/voicemail/s-hr4DiPgeFrq" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/user-363092499/voicemail/s-hr4DiPgeFrq</a><br>
+my new song ‘voicemail’ is out now!</p>
+          <p><a href="https://disco.auxy.co/t/voicemail-lofi/18482/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/voicemail-lofi/18482/1</link>
+        <pubDate>Sun, 22 Mar 2020 18:39:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18482-1</guid>
+        <source url="https://disco.auxy.co/t/voicemail-lofi/18482.rss">Voicemail (lofi)</source>
+      </item>
+  </channel>
+</rss>

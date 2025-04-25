@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Safest way to archive an Auxy track?</title>
+    <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269</link>
+    <description>I finished a song. It includes Auxy samples and synths, but also custom samples loaded from my iCloud.
+
+I don&#39;t want to keep it on my iPad forever. What&#39;s the best way to archive it so I could reload it in the future, without risk of missing samples or sounds?</description>
+    
+    <lastBuildDate>Mon, 24 Sep 2018 20:18:42 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>Would love to see a proper ‘Collect and Save’ option in the Export settings in a not-too-distant future.</p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/6</link>
+        <pubDate>Mon, 24 Sep 2018 20:18:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-6</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yup, or even better, as you’re working on a track, give it a subfolder with the samples used in the track. Cause if you have a mess of Samples in “Auxy/Samples” you’re gonna have a hard time sorting it out. Just don’t make any folders before “Auxy/Samples/(song title)” - will only go down one level under Samples</p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/5</link>
+        <pubDate>Mon, 24 Sep 2018 19:40:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-5</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[corey]]></dc:creator>
+        <description><![CDATA[
+            <p>If I understand correctly, once you’ve finished with a track, you figure out every sample you use, you duplicate it to a song-specific folder and then re-assign the same in Auxy to point to the one in the song-specific folder? Am I saying that back correctly? Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/4</link>
+        <pubDate>Mon, 24 Sep 2018 19:33:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-4</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/c73f95430b59866c38e0581846327dda05f289cd.jpeg" alt="image" width="640" height="461"> <img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/46cf58cc29cba844246ab3f17466b36d4a308a94.jpeg" alt="image" width="557" height="499"></p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/3</link>
+        <pubDate>Mon, 24 Sep 2018 19:31:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-3</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I do this all the time. Well I keep it in iCloud but you don’t have to.</p>
+<p>Make a subfolder off the Auxy/Samples folder with the song title or something that makes sense. Fix your drum tracks with the samples to point to this folder. Open up <a href="http://iCloud.com">iCloud.com</a> on a PC or you can even use the Files app on iOS to copy the folder with the samples and the Auxy project file somewhere else.</p>
+<p>A little hoop jumpy, but at least you can do it all on your device</p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/2</link>
+        <pubDate>Mon, 24 Sep 2018 19:29:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-2</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+      <item>
+        <title>Safest way to archive an Auxy track?</title>
+        <dc:creator><![CDATA[corey]]></dc:creator>
+        <description><![CDATA[
+            <p>I finished a song. It includes Auxy samples and synths, but also custom samples loaded from my iCloud.</p>
+<p>I don’t want to keep it on my iPad forever. What’s the best way to archive it so I could reload it in the future, without risk of missing samples or sounds?</p>
+          <p><a href="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269/1</link>
+        <pubDate>Mon, 24 Sep 2018 19:27:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12269-1</guid>
+        <source url="https://disco.auxy.co/t/safest-way-to-archive-an-auxy-track/12269.rss">Safest way to archive an Auxy track?</source>
+      </item>
+  </channel>
+</rss>

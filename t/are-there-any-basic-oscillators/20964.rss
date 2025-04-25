@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Are there any basic oscillators?</title>
+    <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964</link>
+    <description>Hey y’all. I’m new here, and I was wondering if Auxy had any straight up just square, saw or sine waves available? not any cool synth stuff like the “sweet synths”, just the literal waveform. Thanks in advance!</description>
+    
+    <lastBuildDate>Thu, 06 May 2021 13:10:46 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Perhaps having an “about” section for sounds that can identify how the sound was made IE the waveforms (if basic enough) and the amount of voices had would be relatively useful.</p>
+<p>Since there’s not a slider for unison panning spread (that’s exposed to the end user), most basses with multi-voices can get muddy when put too low, and in general most basses are single-voiced, with the exception of Reese basses which are detuned multi-voice saw waves. This is just a general thing, you usually don’t want stereo sound below 100hz as it is muddy and a mess to mix with.</p>
+<p>Contrastingly, most chords are meant to be multi-voiced to create stereo width and detune.</p>
+<p>Having an about section to label this stuff out would be quite useful, and could help newcomers and advanced users easily identify what a sound is best used for.</p>
+<p>Also, as an aside, at least one or two more “basic” triangle wave presets would be nice, there’s very few that actually exist and sound good. Even if they aren’t labeled as such.</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/8</link>
+        <pubDate>Thu, 06 May 2021 13:10:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-8</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>There are lots of sounds that are very close to basic waveforms. In practice, you don’t get a clean waveform if you sample an analog synth, though. So when you say you’re looking for a clean waveform, it depends on which synth you refer to and what you’re trying to achieve?</p>
+<p>Our own synth can do a lot of waveforms since it’s using wavetables. Not sure it would be helpful to have a pack with “basic saw”, “basic sine”, etc. I think that sounds more interesting in theory than in practice.</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/7</link>
+        <pubDate>Thu, 06 May 2021 11:23:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-7</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>If you pitch down circle enough it makes a mean triangle bass. Unfortunately it’s the only of its kind. I’d recommend layering with crater or boosting the volume a heck so it can actually be heard in the low parts.</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/6</link>
+        <pubDate>Tue, 04 May 2021 23:11:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-6</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[Potatert0t]]></dc:creator>
+        <description><![CDATA[
+            <p>Them being basses are actually perfect lol, I need super low oscillators for the genre I’m going for. Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/5</link>
+        <pubDate>Tue, 04 May 2021 19:29:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-5</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>There’s some things that are close, fwiw.</p>
+<p>Crater is a single-voice sine wave oscillator, when given reverb a small amount of square wave is added to it to give it some texture and tonality.</p>
+<p>Circle is a single-voice triangle wave oscillator. When given tone (I believe, don’t quote me it’s been way too long) it gets another wave added one octave above, along with some noise.</p>
+<p>Gossip without any tone is as close to a pure sawtooth wave that you can get.</p>
+<p>Pasta without any tone is as close to a pure square wave as you can get.</p>
+<p>The problem with this is that 2/4 are basses, and you’re limited in the range to put them into leads.</p>
+<p>Also, Sweet Sine from what i remember is also almost single voice, but it might have an option to detune it slightly. Sweet Square is somewhere between 2 and 5 voice square wave and can be detuned with tone, and Sweet Saw is almost certainly 7 voice but without tone the voices are almost not detuned.</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/4</link>
+        <pubDate>Tue, 04 May 2021 19:10:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-4</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[Potatert0t]]></dc:creator>
+        <description><![CDATA[
+            <p>Alright, thank you!</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/3</link>
+        <pubDate>Tue, 04 May 2021 12:17:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-3</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Short answer, no.</p>
+<p>Longer answer and some projections - I think it’s in the pipeline?</p>
+<p>When the first beta came out for melodic sampler one of the things I said would be good would be for it to have a loop mode so that we could import single cycle waveforms. This would open up the melodic sampler to basically ACT like an oscillator with whatever waveform we feed it, then we could process further with distortion, delay, reverb chorus etc.</p>
+<p>I don’t know if this is still on the table, but <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> mentioned that in the future there may be a wavetable pack which I think would include basic waveforms.</p>
+<p>In the meantime the closest you’ll get is the stuff in the sweet synths pack I think :\</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/2</link>
+        <pubDate>Tue, 04 May 2021 11:56:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-2</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+      <item>
+        <title>Are there any basic oscillators?</title>
+        <dc:creator><![CDATA[Potatert0t]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey y’all. I’m new here, and I was wondering if Auxy had any straight up just square, saw or sine waves available? not any cool synth stuff like the “sweet synths”, just the literal waveform. Thanks in advance!</p>
+          <p><a href="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/are-there-any-basic-oscillators/20964/1</link>
+        <pubDate>Tue, 04 May 2021 04:55:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20964-1</guid>
+        <source url="https://disco.auxy.co/t/are-there-any-basic-oscillators/20964.rss">Are there any basic oscillators?</source>
+      </item>
+  </channel>
+</rss>

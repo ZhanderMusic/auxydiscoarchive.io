@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Drum Programming Techniques</title>
+    <link>https://disco.auxy.co/t/drum-programming-techniques/4483</link>
+    <description>Hi don’t know if this is the right place but I’ve been trying to make the drum roll sound with the drum kits and no luck . Anybody know how ? Please thanks !</description>
+    
+    <lastBuildDate>Tue, 28 Nov 2017 14:23:54 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/drum-programming-techniques/4483.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[SUFOS]]></dc:creator>
+        <description><![CDATA[
+            <p>Its basically the same as FL Studio Mobile’s drum pattern.</p>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/7</link>
+        <pubDate>Tue, 28 Nov 2017 14:23:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-7</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>I do drums like a I do a melody.  You just have different sounds instead of notes . So pick a couple of sounds and make a little “melody” with them, then do the same for others.  Usually two sounds at a time.</p>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/6</link>
+        <pubDate>Tue, 28 Nov 2017 14:18:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-6</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>If anyone wants to post drum patterns like this:  -</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th style="text-align:right"></th>
+<th style="text-align:center">1</th>
+<th style="text-align:center">2</th>
+<th style="text-align:center">3</th>
+<th style="text-align:center">4</th>
+<th style="text-align:center">5</th>
+<th style="text-align:center">6</th>
+<th style="text-align:center">7</th>
+<th style="text-align:center">8</th>
+<th style="text-align:center">9</th>
+<th style="text-align:center">10</th>
+<th style="text-align:center">11</th>
+<th style="text-align:center">12</th>
+<th style="text-align:center">13</th>
+<th style="text-align:center">14</th>
+<th style="text-align:center">15</th>
+<th>16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">Bass</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align:right">Snare</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align:right">Clap</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align:right">OH</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align:right">CH</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+</div><p>Copy the text below and paste it into your post, then put X’s in the appropriate spots.</p>
+<pre><code>| | 1 | 2 | 3| 4| 5 | 6 | 7| 8 | 9 |10 |11 |12 |13 |14 |15 |16|
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---| 
+| Bass    | X | - | - | - | X | - | - | - | X | - | - | - | X | - | - | - |
+| Snare   | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Clap     | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| OH       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| CH       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |</code></pre>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/5</link>
+        <pubDate>Tue, 28 Nov 2017 07:56:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-5</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[enby]]></dc:creator>
+        <description><![CDATA[
+            <p>I have no knowledge on drums, however, I want to improve my drumming with the use of better technique. I feel like one part is learning how to program drum fills. What do you guys have to say about this?</p>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/3</link>
+        <pubDate>Tue, 28 Nov 2017 04:55:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-3</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[PlutoPower]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know, but you could try 1/32 notes on a snare at a moderately high tempo.</p>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/2</link>
+        <pubDate>Sun, 26 Nov 2017 02:59:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-2</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+      <item>
+        <title>Drum Programming Techniques</title>
+        <dc:creator><![CDATA[Paulisbase]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi don’t know if this is the right place but I’ve been trying to make the drum roll sound with the drum kits and no luck . Anybody know how ? Please thanks !</p>
+          <p><a href="https://disco.auxy.co/t/drum-programming-techniques/4483/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-programming-techniques/4483/1</link>
+        <pubDate>Sun, 26 Nov 2017 01:58:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4483-1</guid>
+        <source url="https://disco.auxy.co/t/drum-programming-techniques/4483.rss">Drum Programming Techniques</source>
+      </item>
+  </channel>
+</rss>

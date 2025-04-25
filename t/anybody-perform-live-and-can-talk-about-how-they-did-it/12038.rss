@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Anybody perform Live and can talk about how they did it?</title>
+    <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038</link>
+    <description>Anybody perform live with the Ableton Link feature that could talk about it? Ableton Live is not cheap but if the link is awesome, maybe something to consider?
+
+Anyone otherwise perform live with Auxy produced music? I&#39;m thinking I could export each pattern individually and key them with launchpad or similar. Even the free Cakewalk have a launcher console that might work for this.
+
+I&#39;d love to figure this all out, but I&#39;m thinking that some of you all have already thought about all this.
+
+I&#39;ve mixed scenes live for friends, but would like to consider doing more professional if i were to do it in front of a crowd.</description>
+    
+    <lastBuildDate>Wed, 05 Sep 2018 13:05:47 +0000</lastBuildDate>
+    <category>Random</category>
+    <atom:link href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Anybody perform Live and can talk about how they did it?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, I rarely use Link live.<br>
+As, you said, it’s got some kinks.<br>
+The one time I did use Auxy live, I ran it straight into Live with my interface. The latency time was huge. (Not actually huge just enough m-seconds to notice some lag.) The latency from Link + the latency of my AD converters causes too much delay for me.</p>
+<p>Now, I think it would be fine if you used Link and just ran Auxy through a mixer (aka “sound board,” in idiot’s terms), because through the mixer, there’s no latency, so it should be fine.</p>
+          <p><a href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/5</link>
+        <pubDate>Wed, 05 Sep 2018 13:05:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12038-5</guid>
+        <source url="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss">Anybody perform Live and can talk about how they did it?</source>
+      </item>
+      <item>
+        <title>Anybody perform Live and can talk about how they did it?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Serato*</p>
+          <p><a href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/4</link>
+        <pubDate>Wed, 05 Sep 2018 12:52:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12038-4</guid>
+        <source url="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss">Anybody perform Live and can talk about how they did it?</source>
+      </item>
+      <item>
+        <title>Anybody perform Live and can talk about how they did it?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I know <a class="mention" href="https://disco.auxy.co/u/nickelle">@NickElle</a> has talked about using Live… well… live… and I think his take was that it’s not a great platform for it.</p>
+<p>I can speak to link - I’ve never used it live, but, I suspect you’d have timing issues. You really need eyes on all your software and hardware that’s linked up. Reason being is that it only sends tempo info and sync to host. It does NOT send start/stop currently (next version might? But I dunno, I have yet to see or hear anything about this).</p>
+<p>So, you could run into really weird timing issues where you’re playing something out of your “master” app (there is actually not a concept of master/slave midi here) and then you press play on another app and it’s not necessarily at the start of where you intend it to play from. This happens to me ALL THE TIME with blocs wave (syncing to both Auxy and Gadget).</p>
+<p>It’s not the fault of either app, or any app, it’s just how link currently works. This may or may not be acceptable - your stuff will be in time, but it might not be playing where you want it. OR, you could look at it as a way of adding variation?</p>
+<p>I do think it would be very difficult to control though.</p>
+          <p><a href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/3</link>
+        <pubDate>Wed, 05 Sep 2018 11:33:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12038-3</guid>
+        <source url="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss">Anybody perform Live and can talk about how they did it?</source>
+      </item>
+      <item>
+        <title>Anybody perform Live and can talk about how they did it?</title>
+        <dc:creator><![CDATA[Graye]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve preformed live, but I use serrato<br>
+I don’t know anything about how to do it with ableton</p>
+          <p><a href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/2</link>
+        <pubDate>Wed, 05 Sep 2018 11:29:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12038-2</guid>
+        <source url="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss">Anybody perform Live and can talk about how they did it?</source>
+      </item>
+      <item>
+        <title>Anybody perform Live and can talk about how they did it?</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Anybody perform live with the Ableton Link feature that could talk about it? Ableton Live is not cheap but if the link is awesome, maybe something to consider?</p>
+<p>Anyone otherwise perform live with Auxy produced music? I’m thinking I could export each pattern individually and key them with launchpad or similar. Even the free Cakewalk have a launcher console that might work for this.</p>
+<p>I’d love to figure this all out, but I’m thinking that some of you all have already thought about all this.</p>
+<p>I’ve mixed scenes live for friends, but would like to consider doing more professional if i were to do it in front of a crowd.</p>
+          <p><a href="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038/1</link>
+        <pubDate>Tue, 04 Sep 2018 20:38:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12038-1</guid>
+        <source url="https://disco.auxy.co/t/anybody-perform-live-and-can-talk-about-how-they-did-it/12038.rss">Anybody perform Live and can talk about how they did it?</source>
+      </item>
+  </channel>
+</rss>

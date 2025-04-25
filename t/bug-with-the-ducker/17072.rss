@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug with the ducker</title>
+    <link>https://disco.auxy.co/t/bug-with-the-ducker/17072</link>
+    <description>Sometimes when I close a project and then come back to it later, the ducker setting I had previously set on some sounds is removed.</description>
+    
+    <lastBuildDate>Wed, 23 Oct 2019 00:47:52 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[Osharu]]></dc:creator>
+        <description><![CDATA[
+            <p>Have you emailed them? Maybe that’s the issue! Email them from within the app, so they can receive the log, and figure out what’s causing it, and fix it ASAP!</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/6</link>
+        <pubDate>Wed, 23 Oct 2019 00:47:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-6</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[Octave]]></dc:creator>
+        <description><![CDATA[
+            <p>still happening : /</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/5</link>
+        <pubDate>Tue, 22 Oct 2019 23:42:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-5</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve experienced this like once or twice that I can recall.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/4</link>
+        <pubDate>Mon, 07 Oct 2019 23:44:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-4</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[aUstin_Haga]]></dc:creator>
+        <description><![CDATA[
+            <p>Can verify that this happens to me as well occasionally</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/3</link>
+        <pubDate>Mon, 07 Oct 2019 22:58:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-3</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Always good to email <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> for this kind of stuff. Also, if you do it from within the app it attaches an application log to the email, which might help expedite things</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/2</link>
+        <pubDate>Mon, 07 Oct 2019 16:45:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-2</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+      <item>
+        <title>Bug with the ducker</title>
+        <dc:creator><![CDATA[Octave]]></dc:creator>
+        <description><![CDATA[
+            <p>Sometimes when I close a project and then come back to it later, the ducker setting I had previously set on some sounds is removed.</p>
+          <p><a href="https://disco.auxy.co/t/bug-with-the-ducker/17072/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bug-with-the-ducker/17072/1</link>
+        <pubDate>Mon, 07 Oct 2019 14:00:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17072-1</guid>
+        <source url="https://disco.auxy.co/t/bug-with-the-ducker/17072.rss">Bug with the ducker</source>
+      </item>
+  </channel>
+</rss>

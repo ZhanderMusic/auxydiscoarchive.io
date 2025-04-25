@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+    <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300</link>
+    <description>We just released version 5.2 with the following improvements:
+- Sort your projects with tags. Swipe left in the list to tag a project.
+- Reverse playback option for any sample. New toggle added under the length setting for each sample.
+- Trigger the ducker with any sample. New toggle added under the volume setting for each sample.
+- Quickly reorder instruments with drag and drop.
+- &#39;Select All&#39; option added to the editor. Touch and hold the grid until the selection box appears, then tap the box to select all notes in the loop.
+- Current song length timer added to settings.
+- The &#39;Make new loops chromatic&#39; setting is now applied to all projects and properly stored between sessions.
+- Now possible to clear sample slots.
+- Imported samples can now be up to 20 seconds long.
+- Fixed an issue where Auxy would take more space after exporting stems.
+- The app is updated for and tested for iOS 12.
+- Some bug fixing and lots of polish as usual... :)
+
+As a little bonus, we have added four new demo projects created by some of our beta testers. They will be automatically added for new users, but you can also download them here:
+- Dream by @Zeph: https://app.auxy.co/projects/hMvDbR3oAlGWHu-9xDgwQw== 
+- Gaze by Null a.k.a. @Akyut : https://app.auxy.co/projects/y5zJ2q1WnKX8ewHNTdAMbg==
+- Peanut Butter by @Southborne: https://app.auxy.co/projects/IQvFiLpM2zCxM2mZFydUJw==
+- Sand Castle by @aUstin_Haga: https://app.auxy.co/projects/4ax0OmL6EKzpwPbxNa_90Q==
+
+Hope you like it and welcome to share your feedback and questions in the comments below!</description>
+    
+    <lastBuildDate>Wed, 27 Feb 2019 16:21:57 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/166">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/166</link>
+        <pubDate>Fri, 29 Mar 2019 10:47:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-166</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote quote-modified" data-post="91" data-topic="14165">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar">
+    <a href="https://disco.auxy.co/t/most-wanted-features/14165/91">Most Wanted Features</a> <a class="badge-wrapper  bullet" href="https://disco.auxy.co/c/feedback/8"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Share your thoughts on the current and future versions of Auxy.">Auxy Feedback</span></a>
+  </div>
+  <blockquote>
+    Like this? 
+ <a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/e/e62ecf94ef6ec4e440af0b518ddacbc6bae994c5.png" title="102A43EC-FCD8-47B4-8290-81E867C552CE.png" rel="noopener nofollow ugc">[image]</a>
+  </blockquote>
+</aside>
+
+<p>Yes. This is a major request from multiple people and I can’t wait for it to be implemented in a future update.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/165">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/165</link>
+        <pubDate>Wed, 27 Feb 2019 16:21:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-165</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>well when you change the pitch of lets say a snare sample, the sample is sped up or slowed down when you change the pitch.  Try speeding up or slowing down a youtube video.  you’ll notice that it seems to sound lower when slowed or higher when sped up.  What hexx is asking for is to be able to change pitch without affecting the speed, which is a pretty common thing in a lot of daws or editing softwares.  It’s something that I think should be an addition too.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/164">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/164</link>
+        <pubDate>Wed, 27 Feb 2019 09:41:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-164</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Plhector]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you mean?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/163">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/163</link>
+        <pubDate>Wed, 27 Feb 2019 04:55:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-163</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[eohr]]></dc:creator>
+        <description><![CDATA[
+            <p>wait I just got the pun</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/162">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/162</link>
+        <pubDate>Tue, 04 Dec 2018 15:32:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-162</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[anon86704580]]></dc:creator>
+        <description><![CDATA[
+            <p>Has anyone suggested being able to change pitch without changing length?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/161">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/161</link>
+        <pubDate>Wed, 28 Nov 2018 00:04:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-161</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Cornea]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it’d be a good idea to include both a bass and two leads from each pack. It summatizes must of the packs pretty well (besides the crazy bass only packs)</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/160">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/160</link>
+        <pubDate>Tue, 27 Nov 2018 13:59:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-160</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d say enough instruments to demonstrate the pack effectively. Some packs may need more than one instrument to do that effectively of course. I still stand by my reasoning that even adding the original demo sounds would actually still retain the value of the subscription in full, but that’s just me.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/159">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/159</link>
+        <pubDate>Tue, 27 Nov 2018 13:09:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-159</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[stereofield]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="157" data-topic="12300">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>I don’t feel that a single instrument would necessarily devalue the subscription.</p>
+</blockquote>
+</aside>
+<p>A single instrument? <img src="https://emoji.discourse-cdn.com/apple/thinking.png?v=6" title=":thinking:" class="emoji" alt=":thinking:"> You mean, 1 or 2, every pack? Because obviously one instrument isn’t gonna make the subscription worth nothing. Multiple instruments regularly added might, though.</p>
+<aside class="quote no-group" data-post="155" data-topic="12300">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/davis9754/40/9958_1.png" class="avatar"> Davis9754:</div>
+<blockquote>
+<p>can there be 1 or 2 demo sounds that are part of the new sound pack</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/158">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/158</link>
+        <pubDate>Tue, 27 Nov 2018 11:53:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-158</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>From a personal standpoint, I don’t feel that a single instrument would necessarily devalue the subscription. It more likely than not would be more incentive for users to subscribe, showing them the new sounds that they will be getting.</p>
+<p>My cousin actually was considering Auxy, but was turned off by the lack of sound. After trying to show them what used to be free, they said that would have been enough to convince them to subscribe. That can’t speak for everyone, of course, and i’m definitely not intending this negatively, but I don’t persoanlly feel the demo of Auxy incentivizes users enough to make the plunge into the subscription.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/157">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/157</link>
+        <pubDate>Mon, 26 Nov 2018 15:58:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-157</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Bastyon]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah that would be cool. But it will always lower the value of having the subscription if the free user got some of the sounds.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/156">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/156</link>
+        <pubDate>Mon, 26 Nov 2018 10:26:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-156</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>Is it possible to do this: when every new sound pack comes out each month, can there be 1 or 2 demo sounds that are part of the new sound pack</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/155">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/155</link>
+        <pubDate>Sun, 25 Nov 2018 19:10:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-155</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[FLB100]]></dc:creator>
+        <description><![CDATA[
+            <p>yesssss omg and you had to dj the recordings</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/154">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/154</link>
+        <pubDate>Sun, 11 Nov 2018 01:11:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-154</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>Your statement is kinda confusing, but all iPhones that are good with iOS 11 should be good with 12 too (thanks apple). But I use an SE on iOS 10 still and it works fine &amp; I get updates too.</p>
+<p>You only need minimum 10.3 to run the app so if u have that ur good to go</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/153">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/153</link>
+        <pubDate>Sun, 11 Nov 2018 01:01:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-153</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[crystldawnmusic]]></dc:creator>
+        <description><![CDATA[
+            <p>5S and SE support iOS 12 though, is Auxy 5 not supported on them?</p>
+<p>(Actually typing this on a blue 5C. I use Auxy on the 2017 iPad.)</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/152">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/152</link>
+        <pubDate>Sat, 10 Nov 2018 23:57:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-152</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[ST3R30]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah I saw that and was like “hol up I have a 5s and it works for me”</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/151">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/151</link>
+        <pubDate>Fri, 09 Nov 2018 20:24:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-151</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>i mean technically it still works with a 5s and SE so</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/150">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/150</link>
+        <pubDate>Fri, 09 Nov 2018 17:58:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-150</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p>I still have it too. I never use it tho.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/149">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/149</link>
+        <pubDate>Fri, 09 Nov 2018 15:47:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-149</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I still have it. Am I special yet?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/148">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/148</link>
+        <pubDate>Fri, 09 Nov 2018 15:29:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-148</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Cornea]]></dc:creator>
+        <description><![CDATA[
+            <p>Heck yes. Manually recording songs was intense</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/147">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/147</link>
+        <pubDate>Fri, 09 Nov 2018 14:19:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-147</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="142" data-topic="12300" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/notmiles/40/7791_1.png" class="avatar"> NotMiles:</div>
+<blockquote>
+<p>Remember when Auxy was green, only on iPad and you only got 4 instruments?</p>
+</blockquote>
+</aside>
+<p>That’s still the one I use.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/146">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/146</link>
+        <pubDate>Fri, 09 Nov 2018 11:42:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-146</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p>Boi</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/145">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/145</link>
+        <pubDate>Fri, 09 Nov 2018 03:35:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-145</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p><s>Remember when auxy was good jk lol</s></p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/144">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/144</link>
+        <pubDate>Fri, 09 Nov 2018 03:24:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-144</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[Vokon]]></dc:creator>
+        <description><![CDATA[
+            <p>Woah nostalgia</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/143">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/143</link>
+        <pubDate>Fri, 09 Nov 2018 03:14:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-143</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+      <item>
+        <title>What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p>Remember when Auxy was green, only on iPad and you only got 4 instruments?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/142">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300/142</link>
+        <pubDate>Fri, 09 Nov 2018 01:07:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12300-142</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-5-2-tag-sorting-reverse-samples-and-more/12300.rss">What&#39;s New in 5.2 - Tag Sorting, Reverse Samples and More</source>
+      </item>
+  </channel>
+</rss>

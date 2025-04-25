@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>(Help) Sample error?</title>
+    <link>https://disco.auxy.co/t/help-sample-error/12138</link>
+    <description>I’m relatively uninformed when it comes to importing samples into auxy, as I’ve never done it. But when I try to move samples into the auxy samples folder in iCloud, it just doesn’t allow me. I’ve seen auxy’s explanation how to, but I don’t really understand why it isn’t allowing me. Sorry if this is a stupid question or anything like that, I’m just looking for what I could be doing wrong or if this is just an error.</description>
+    
+    <lastBuildDate>Fri, 14 Sep 2018 16:29:09 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/help-sample-error/12138.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>(Help) Sample error?</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>The thing that I have done when sampling is just try to (first make sure that the file fits the 10 second limit, etc.) save the file directly into the samples folder, and make sure that the folder is just the general iCloud one first, instead of any sub-folders. Then, when you go into the drum kit, it should be in the unsorted iCloud section. Try that, but I’m not sure what else could be going on.</p>
+          <p><a href="https://disco.auxy.co/t/help-sample-error/12138/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/help-sample-error/12138/4</link>
+        <pubDate>Fri, 14 Sep 2018 16:29:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12138-4</guid>
+        <source url="https://disco.auxy.co/t/help-sample-error/12138.rss">(Help) Sample error?</source>
+      </item>
+      <item>
+        <title>(Help) Sample error?</title>
+        <dc:creator><![CDATA[Polar]]></dc:creator>
+        <description><![CDATA[
+            <p>Make sure the file is a .wav, and it’s under 10 seconds. Or instead of moving it to the folder yourself, try importing it into Auxy from the source app as <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a> said</p>
+          <p><a href="https://disco.auxy.co/t/help-sample-error/12138/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/help-sample-error/12138/3</link>
+        <pubDate>Thu, 13 Sep 2018 19:35:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12138-3</guid>
+        <source url="https://disco.auxy.co/t/help-sample-error/12138.rss">(Help) Sample error?</source>
+      </item>
+      <item>
+        <title>(Help) Sample error?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>This is a little above and beyond what you’re asking, but I don’t know that you can copy content directly to the Auxy/Samples folder. I’ve only had success with using “Copy To” Auxy from other apps. Others could chime in with their experience otherwise!</p>
+<aside class="quote quote-modified" data-post="1" data-topic="7340">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar">
+    <a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340">Advanced sampling with Auxy and Ableton link</a> <a class="badge-wrapper  bullet" href="https://disco.auxy.co/c/music/12"><span class="badge-category-bg" style="background-color: #0E76BD;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Discuss anything related to music production. Post tracks in the respective categories though, not here!">Production Talk</span></a>
+  </div>
+  <blockquote>
+    H’ooookay so. I would like to preface this by saying I am NOT a production guru. I’ve been around the block a few times with iOS music production though, minus the intermittent now and again where I use a “big boy” DAW, I’ve been doing the majority of my production on iOS for about seven years now. I want to touch base on sampling in Auxy and how Ableton link can facilitate this. You do not need a computer to do this, just other Ableton Link enabled apps that can also “Copy to” Auxy. 
+Firstly, m…
+  </blockquote>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/help-sample-error/12138/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/help-sample-error/12138/2</link>
+        <pubDate>Thu, 13 Sep 2018 17:13:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12138-2</guid>
+        <source url="https://disco.auxy.co/t/help-sample-error/12138.rss">(Help) Sample error?</source>
+      </item>
+      <item>
+        <title>(Help) Sample error?</title>
+        <dc:creator><![CDATA[Tree]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m relatively uninformed when it comes to importing samples into auxy, as I’ve never done it. But when I try to move samples into the auxy samples folder in iCloud, it just doesn’t allow me. I’ve seen auxy’s explanation how to, but I don’t really understand why it isn’t allowing me. Sorry if this is a stupid question or anything like that, I’m just looking for what I could be doing wrong or if this is just an error.</p>
+          <p><a href="https://disco.auxy.co/t/help-sample-error/12138/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/help-sample-error/12138/1</link>
+        <pubDate>Thu, 13 Sep 2018 15:54:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12138-1</guid>
+        <source url="https://disco.auxy.co/t/help-sample-error/12138.rss">(Help) Sample error?</source>
+      </item>
+  </channel>
+</rss>

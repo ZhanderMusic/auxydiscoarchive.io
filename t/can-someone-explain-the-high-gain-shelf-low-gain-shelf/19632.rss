@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+    <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632</link>
+    <description>I’m talking about when you click on Volume. That EQ/Gain stuff. 
+
+I still don’t think I fully grasp it.
+
+I get that you’re setting the “gain“ to a certain frequency and the shelf slider will boost or decrease that frequency. But is that all? 
+
+When I turn the sliders (especially on the lows) all the way up and down, it changes the sound in ways that I wouldn’t expect. So, I guess there’s just other stuff going on I still don’t quite understand.
+
+(Does anyone actually even mess with this stuff anyway?)
+
+Believe it or not, I have a good bit of experience with more traditional EQs. I REALLY wish Auxy would give us some a more standard EQ - preferably something like Fab Filter would amazing! I guess because I’m just more of a visual person.
+
+Thanks!!</description>
+    
+    <lastBuildDate>Sun, 19 Jul 2020 01:51:24 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>It can be. But it’s almost certainly being processed last in most instruments. At least from what I can tell.</p>
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/6</link>
+        <pubDate>Sun, 19 Jul 2020 01:51:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-6</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="TheRealJFalc" data-post="4" data-topic="19632">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_2.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>The EQ is technically the last in the chain…</p>
+</blockquote>
+</aside>
+<p>From the screenshots that have been shared, it looks like processors can be freely moved in the signal chain.</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/ca02588a2a8ac8991893bfd996deeb9b30f78188.png" alt="Screen Shot 2020-07-19 at 10.03.18 am" data-base62-sha1="sP3trVU1FdietTh3uxABG4GpEaA" width="407" height="317"></p>
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/5</link>
+        <pubDate>Sun, 19 Jul 2020 00:05:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-5</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>The EQ is technically the last in the chain, so that’s likely an artifact or biproduct of the intense compresser and limiter on the master bus.</p>
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/4</link>
+        <pubDate>Sat, 18 Jul 2020 20:30:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-4</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="YeahMarcYeah" data-post="1" data-topic="19632">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/yeahmarcyeah/40/14979_2.png" class="avatar"> YeahMarcYeah:</div>
+<blockquote>
+<p>I get that you’re setting the “gain“ to a <strong>certain</strong> frequency and the shelf slider will boost or decrease <strong>that</strong> frequency. But is that all?</p>
+</blockquote>
+</aside>
+<p>A shelf filter will boost/cut <strong>all</strong> frequencies above/below the cutoff frequency.<br>
+But yes, that’s all.</p>
+<aside class="quote no-group" data-username="YeahMarcYeah" data-post="1" data-topic="19632">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/yeahmarcyeah/40/14979_2.png" class="avatar"> YeahMarcYeah:</div>
+<blockquote>
+<p>When I turn the sliders (especially on the lows) all the way up and down, it changes the sound in ways that I wouldn’t expect. So, I guess there’s just other stuff going on I still don’t quite understand.</p>
+</blockquote>
+</aside>
+<p>You are changing the harmonic content of the sound by using a filter, so it could just be that other downstream processors are reacting differently to the signal.</p>
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/3</link>
+        <pubDate>Sat, 18 Jul 2020 02:32:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-3</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s a basic 3-band EQ. Well, technically two, but it can work like a 3-band one if done smartly. It functions similarly to higher band EQ’s, but without the way to change the type of band. It’s only a shelf. And no ability to set the steepness of the curve either.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://www.talkbass.com/threads/what-does-3-band-eq-mean.822739/" target="_blank" rel="noopener">TalkBass.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://images.talkbass.com/styles/flatawesomeplus/xenforo/avatars/avatar_m.png" class="thumbnail onebox-avatar" width="96" height="96">
+
+<h3><a href="https://www.talkbass.com/threads/what-does-3-band-eq-mean.822739/" target="_blank" rel="noopener">What does 3 band eq mean?</a></h3>
+
+<p>Also, does this Warwick bass have 3 band eq?
+
+Warwick Corvette $$ Double Buck 4-String Bass Left Handed: Shop Bass &amp; Other Musical Instruments |...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/2</link>
+        <pubDate>Fri, 17 Jul 2020 15:42:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-2</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+      <item>
+        <title>Can someone explain the High Gain/Shelf/Low Gain/Shelf?</title>
+        <dc:creator><![CDATA[YeahMarcYeah]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m talking about when you click on Volume. That EQ/Gain stuff.</p>
+<p>I still don’t think I fully grasp it.</p>
+<p>I get that you’re setting the “gain“ to a certain frequency and the shelf slider will boost or decrease that frequency. But is that all?</p>
+<p>When I turn the sliders (especially on the lows) all the way up and down, it changes the sound in ways that I wouldn’t expect. So, I guess there’s just other stuff going on I still don’t quite understand.</p>
+<p>(Does anyone actually even mess with this stuff anyway?)</p>
+<p>Believe it or not, I have a good bit of experience with more traditional EQs. I REALLY wish Auxy would give us some a more standard EQ - preferably something like Fab Filter would amazing! I guess because I’m just more of a visual person.</p>
+<p>Thanks!!</p>
+          <p><a href="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632/1</link>
+        <pubDate>Fri, 17 Jul 2020 15:39:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19632-1</guid>
+        <source url="https://disco.auxy.co/t/can-someone-explain-the-high-gain-shelf-low-gain-shelf/19632.rss">Can someone explain the High Gain/Shelf/Low Gain/Shelf?</source>
+      </item>
+  </channel>
+</rss>

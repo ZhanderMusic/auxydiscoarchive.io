@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Question about Imported samples, filenames, etc…</title>
+    <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521</link>
+    <description>Sorry to @ you @TheRealJFalc @iammane, but you might be the most able to answer…
+
+&amp;nbsp;
+
+The *&#39;Imported &gt; From iCloud&#39;* folder only has one level. i.e. every sample imported from iCloud goes into a single folder.
+
+&amp;nbsp;
+Scenario:
+
+I start a project, and look for a kick in my own iCloud Samples folder/library. I add a kick called &#39;Kick_1.wav&#39;. That &#39;Kick_1.wav&#39; file gets imported into the *&#39;Imported &gt; From iCloud&#39;* folder.
+
+Correct so far?
+&amp;nbsp;
+
+Later, I start another project. I import a different kick from a different iCloud folder, but it&#39;s also called &#39;Kick_1.wav&#39;.
+Because it has the same filename, when it&#39;s imported into the *&#39;Imported &gt; From iCloud&#39;* folder, will it overwrite/replace the &#39;Kick_1.wav&#39; that&#39;s already in there?
+
+If so, does that mean that the previous project will now be using the newer &#39;kick 1&#39; sample, because it&#39;s overwritten the previous &#39;Kick_1.wav&#39; that was in the  *&#39;Imported &gt; From iCloud&#39;* folder?
+
+&amp;nbsp;
+Reeeeally hoping that&#39;s not how it works.</description>
+    
+    <lastBuildDate>Sun, 05 Jul 2020 18:31:32 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Question about Imported samples, filenames, etc…</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey, <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a>.<br>
+Could you possibly explain the process?</p>
+<p>Thanks.</p>
+          <p><a href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/5</link>
+        <pubDate>Sun, 05 Jul 2020 18:31:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19521-5</guid>
+        <source url="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss">Question about Imported samples, filenames, etc…</source>
+      </item>
+      <item>
+        <title>Question about Imported samples, filenames, etc…</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="2" data-topic="19521">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>The best bet I think would be to not use the imported from iCloud folder, but make folders divvying up your sound types.</p>
+</blockquote>
+</aside>
+<p>That’s what I do. Organised around my own preferences.<br>
+Could be more organised, but it’s better than scrolling past 5,000 neurobass/brostep/etc… samples. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=10" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>I’d never been in the <em>Imported &gt; From iCloud</em> folder until today, and it made we wonder.<br>
+I’ve never knowingly ‘imported’. I just assumed it simply referenced the file in my custom iCloud folder.</p>
+<p>Never thought too much about the process underneath.</p>
+<p>So, I’m now assuming that all samples/files sourced from your own iCloud folder get imported to the <em>‘from iCloud’</em> folder automatically, and stored in the app’s local storage.<br>
+Looking in there now, I’m not seeing signs of custom suffixed to avoid overwriting — e.g. <em>Kick_1 (1)</em></p>
+<p>So, either I’ve been very lucky so far, or it’s simply overwriting — and there’s a good chance that Auxy has silently been screwing up my Auxy projects for quite a while.</p>
+<p>&nbsp;<br>
+I’ll try to do a test to confirm soon, but if that’s the case, that’s pretty bad.</p>
+          <p><a href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/4</link>
+        <pubDate>Sun, 05 Jul 2020 18:30:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19521-4</guid>
+        <source url="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss">Question about Imported samples, filenames, etc…</source>
+      </item>
+      <item>
+        <title>Question about Imported samples, filenames, etc…</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I never used imports enough to know whether or not this was a thing. Only things I ever imported were things from other users for other projects, and a weird sfx thing. That’s honestly about it. Naming conventions never were an issue.</p>
+          <p><a href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/3</link>
+        <pubDate>Sun, 05 Jul 2020 18:19:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19521-3</guid>
+        <source url="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss">Question about Imported samples, filenames, etc…</source>
+      </item>
+      <item>
+        <title>Question about Imported samples, filenames, etc…</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I never tried importing file names with the same name, I’m not 100% - my guess would be it would overwrite it, <em>or</em>, it may rename “Kick_1” to “Kick_1 (1)”… I’d be willing to test but can’t. The best bet I think would be to not use the imported from iCloud folder, but make folders divvying up your sound types.</p>
+<p>The way I always handled this was to just do a final project export from the main menu (which DOES include samples) and then clean everything out when I was done. If for some reason I was gonna swap out a sound in a project with samples included I’d do it and then just export the project again (plus overwrite original).</p>
+<p>In all fairness, a lot of other apps behave like this (single level folder). Cubasis 2 comes to mind, though, they fixed it in C3! So, it’s not impossible.</p>
+<p>Given the way things work (how I remember at least) I always just try to keep Auxy app sandbox as clean as possible.</p>
+          <p><a href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/2</link>
+        <pubDate>Sun, 05 Jul 2020 16:48:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19521-2</guid>
+        <source url="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss">Question about Imported samples, filenames, etc…</source>
+      </item>
+      <item>
+        <title>Question about Imported samples, filenames, etc…</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry to @ you <a class="mention" href="https://disco.auxy.co/u/therealjfalc">@TheRealJFalc</a> <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a>, but you might be the most able to answer…</p>
+<p>&nbsp;</p>
+<p>The <em>‘Imported &gt; From iCloud’</em> folder only has one level. i.e. every sample imported from iCloud goes into a single folder.</p>
+<p>&nbsp;<br>
+Scenario:</p>
+<p>I start a project, and look for a kick in my own iCloud Samples folder/library. I add a kick called ‘Kick_1.wav’. That ‘Kick_1.wav’ file gets imported into the <em>‘Imported &gt; From iCloud’</em> folder.</p>
+<p>Correct so far?<br>
+&nbsp;</p>
+<p>Later, I start another project. I import a different kick from a different iCloud folder, but it’s also called ‘Kick_1.wav’.<br>
+Because it has the same filename, when it’s imported into the <em>‘Imported &gt; From iCloud’</em> folder, will it overwrite/replace the ‘Kick_1.wav’ that’s already in there?</p>
+<p>If so, does that mean that the previous project will now be using the newer ‘kick 1’ sample, because it’s overwritten the previous ‘Kick_1.wav’ that was in the  <em>‘Imported &gt; From iCloud’</em> folder?</p>
+<p>&nbsp;<br>
+Reeeeally hoping that’s not how it works.</p>
+          <p><a href="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521/1</link>
+        <pubDate>Sun, 05 Jul 2020 16:07:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19521-1</guid>
+        <source url="https://disco.auxy.co/t/question-about-imported-samples-filenames-etc/19521.rss">Question about Imported samples, filenames, etc…</source>
+      </item>
+  </channel>
+</rss>

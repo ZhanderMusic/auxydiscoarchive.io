@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A mixer in Auxy? </title>
+    <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605</link>
+    <description>I have been wondering... what if there was a proper mixer in the iPad version of Auxy? You could turn the iPad sideways and have a mixer with your tracks. Mute/Unmute and Solo buttons, along with the sliders of course, and then nine knobs to twist for the effects. Would enable live experimentation and performances even. I would buy an iPad just to use this feature. What do you say...?</description>
+    
+    <lastBuildDate>Fri, 05 Jul 2019 19:09:22 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[Gheightz]]></dc:creator>
+        <description><![CDATA[
+            <p>True but it feels like major ailment having to work around that way from a work flow stand point especially for multiple complex drum patterns, when you factor Ableton export has already been rolled out in the application.</p>
+<p>Separate sample stem exports cannot be that much harder to implement unless i’m missing something?</p>
+<p>eg. lets say you have 4 drum variation patterns consisting of kick snare hihat,</p>
+<p><strong>Scenario 1:</strong><br>
+3 sample banks x 4 patterns</p>
+<ul>
+<li>You bounce between your pre-made drum sample banks your creative workflow/speed and the song vibe is going to suffer having to jump between drum sample banks to program the drums.</li>
+</ul>
+<p><strong>Scenario 2:</strong><br>
+1 sample bank x 4 patterns.</p>
+<ul>
+<li>You finish the drums and then duplicate the sample bank 2 times (for a total sum of 3 drum banks) and rename each bank as kick, snare and hi-hat.</li>
+<li>You go into each sample bank and delete the duplicate drum samples for each pattern for a total of 12 touches.</li>
+<li>You are now ready to export the song as individual drum stems.</li>
+</ul>
+<p><strong>Requested Scenario:</strong><br>
+1 sample bank x 4 patterns.</p>
+<ul>
+<li>You hit export song and the sample bank is exported by stem by stem for mixing/mastering (common practice)</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/9</link>
+        <pubDate>Fri, 05 Jul 2019 19:06:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-9</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m just worried about performance dips, especially when automation and the number of instruments gets heavy</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/8</link>
+        <pubDate>Fri, 05 Jul 2019 13:57:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-8</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[GioMakyo]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe you should just focus on creating multiple kits in the first place, one for your high hats, one for your kicks and low percussion, one for your snares, etc. Just because the sampler has 16 slots doesn’t mean you have to use them all <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/7</link>
+        <pubDate>Fri, 05 Jul 2019 07:00:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-7</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[Gheightz]]></dc:creator>
+        <description><![CDATA[
+            <p>Short of this we need the ability to export individual song drum samples as separate stems for external mixdown/mastering!!</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/6</link>
+        <pubDate>Mon, 01 Jul 2019 18:01:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-6</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>All auxy would need to do would be to support some form of MIDI out in order to make that a reality, even if it wasn’t directly built for Auxy it could theoretically work through a standard MIDI format. I’m sure <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a> would love something like this, but again it was deemed that “nobody needs this so it’s not worth implementing” by the devs, which is unfortunate because they already had done it before and reintroducing it would probably be simpler as they could reuse the format of the original interface (Take that with a grain of salt of course, this assumption is just my personal speculation, but if it was designed properly it should be easily reusable. It’s one of the main principles of modern programming with object-oriented design, as Swift is an OOD-based language).</p>
+<p>With the new 5.1 interface, it’s a lot harder to do something similar to what you could previously do with the old interface to makeshift live mixing into a hack job of a live performance, but it’s most likely the only option in the foreseeable future.</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/5</link>
+        <pubDate>Wed, 23 Jan 2019 18:19:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-5</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[anon2811266]]></dc:creator>
+        <description><![CDATA[
+            <p>If you mean about a mixer like in FL Studio,then I think we already have.I mean about recorder.But other than that it might sound very cool.I have to tell you that this post is familiar to: <a href="https://disco.auxy.co/t/post-your-great-auxy-feature-idea-here/1129/1262" class="inline-onebox">Post your great Auxy feature idea here!</a></p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/4</link>
+        <pubDate>Wed, 23 Jan 2019 15:51:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-4</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[Cloudstepper]]></dc:creator>
+        <description><![CDATA[
+            <p>I hadn’t heard of that. Sounds like something that would be cool to use and play around with. I could also live with a physical mixer for Auxy, a portable one that would charge the phone at the same time. Ahhh… dreams.</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/3</link>
+        <pubDate>Wed, 23 Jan 2019 15:36:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-3</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Are you talking about something akin to the original Auxy Creator Studio app (The green one)? It had something similar to this, but it only had three knobs for use. Development on that app was shut down and the app was (unfortunately) hidden from the app store, but it had some useful features that some (namely <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a>) still use today.</p>
+<p>It would be interesting to see something like this in the future, but it would cause the app to be less streamlined, which is against the design philosophy of Auxy as stated by Lenberg. It’s unlikely such an addition will ever make its way into Auxy, at least in the near future.</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/2</link>
+        <pubDate>Sat, 12 Jan 2019 18:18:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-2</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+      <item>
+        <title>A mixer in Auxy? </title>
+        <dc:creator><![CDATA[Cloudstepper]]></dc:creator>
+        <description><![CDATA[
+            <p>I have been wondering… what if there was a proper mixer in the iPad version of Auxy? You could turn the iPad sideways and have a mixer with your tracks. Mute/Unmute and Solo buttons, along with the sliders of course, and then nine knobs to twist for the effects. Would enable live experimentation and performances even. I would buy an iPad just to use this feature. What do you say…?</p>
+          <p><a href="https://disco.auxy.co/t/a-mixer-in-auxy/13605/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-mixer-in-auxy/13605/1</link>
+        <pubDate>Sat, 12 Jan 2019 13:00:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-13605-1</guid>
+        <source url="https://disco.auxy.co/t/a-mixer-in-auxy/13605.rss">A mixer in Auxy? </source>
+      </item>
+  </channel>
+</rss>

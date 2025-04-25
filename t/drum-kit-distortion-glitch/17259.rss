@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Drum Kit Distortion Glitch</title>
+    <link>https://disco.auxy.co/t/drum-kit-distortion-glitch/17259</link>
+    <description>i found a glitch where if you want to add distortion to a drum kit in auxy with automation, you have to add distortion in the main drum kit first or it won&#39;t work.
+
+to see what i’m talking about, i uploaded a video to youtube: https://youtu.be/QsLEtOd3AwY
+
+video broken down into steps:
+1. drum beat with no distortion
+2. added distortion in automation but it doesn’t apply to the drums
+3. added distortion to the main kit and then turned it back down
+4. added distortion in automation and now it works</description>
+    
+    <lastBuildDate>Mon, 28 Oct 2019 08:15:09 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/drum-kit-distortion-glitch/17259.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Drum Kit Distortion Glitch</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Worth shooting an email over to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> from within app!</p>
+          <p><a href="https://disco.auxy.co/t/drum-kit-distortion-glitch/17259/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-kit-distortion-glitch/17259/2</link>
+        <pubDate>Mon, 28 Oct 2019 08:15:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17259-2</guid>
+        <source url="https://disco.auxy.co/t/drum-kit-distortion-glitch/17259.rss">Drum Kit Distortion Glitch</source>
+      </item>
+      <item>
+        <title>Drum Kit Distortion Glitch</title>
+        <dc:creator><![CDATA[Mr_Mooo]]></dc:creator>
+        <description><![CDATA[
+            <p>i found a glitch where if you want to add distortion to a drum kit in auxy with automation, you have to add distortion in the main drum kit first or it won’t work.</p>
+<p>to see what i’m talking about, i uploaded a video to youtube: <a href="https://youtu.be/QsLEtOd3AwY" rel="nofollow noopener">https://youtu.be/QsLEtOd3AwY</a></p>
+<p>video broken down into steps:</p>
+<ol>
+<li>drum beat with no distortion</li>
+<li>added distortion in automation but it doesn’t apply to the drums</li>
+<li>added distortion to the main kit and then turned it back down</li>
+<li>added distortion in automation and now it works</li>
+</ol>
+          <p><a href="https://disco.auxy.co/t/drum-kit-distortion-glitch/17259/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/drum-kit-distortion-glitch/17259/1</link>
+        <pubDate>Mon, 28 Oct 2019 01:44:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17259-1</guid>
+        <source url="https://disco.auxy.co/t/drum-kit-distortion-glitch/17259.rss">Drum Kit Distortion Glitch</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Automation Resetting</title>
+    <link>https://disco.auxy.co/t/automation-resetting/17363</link>
+    <description>Hey guys, I wanted to reach out to the community and possibly see if anyone else seems to be having the same issues that I am having... The reoccurring problem is with my sound profiles (sounds already on auxy), I will spend quite some time on a song and master the sound profiles; however, the problem that I am having is when I go to log back onto the app. It seems to be very inconsistent when it happens but every other time that I log onto the app, it resets the sound profiles and automation that I did previously and I have to go back and restructure the sounds accordingly. The only other thing that I can think of that would possibly fix this issue would be to automate the sounds by using the presets to alleviate this them being reset.</description>
+    
+    <lastBuildDate>Tue, 12 Nov 2019 00:06:23 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/automation-resetting/17363.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Automation Resetting</title>
+        <dc:creator><![CDATA[Octave]]></dc:creator>
+        <description><![CDATA[
+            <p>Also have this issue often, use the feedback system within the app so they can hopefully resolve it.</p>
+          <p><a href="https://disco.auxy.co/t/automation-resetting/17363/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/automation-resetting/17363/3</link>
+        <pubDate>Tue, 12 Nov 2019 00:06:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17363-3</guid>
+        <source url="https://disco.auxy.co/t/automation-resetting/17363.rss">Automation Resetting</source>
+      </item>
+      <item>
+        <title>Automation Resetting</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I have this problem too, but it seems to happen randomly whenever I try to copy an instrument from a project to another.</p>
+          <p><a href="https://disco.auxy.co/t/automation-resetting/17363/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/automation-resetting/17363/2</link>
+        <pubDate>Mon, 11 Nov 2019 17:34:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17363-2</guid>
+        <source url="https://disco.auxy.co/t/automation-resetting/17363.rss">Automation Resetting</source>
+      </item>
+      <item>
+        <title>Automation Resetting</title>
+        <dc:creator><![CDATA[T3CH]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey guys, I wanted to reach out to the community and possibly see if anyone else seems to be having the same issues that I am having… The reoccurring problem is with my sound profiles (sounds already on auxy), I will spend quite some time on a song and master the sound profiles; however, the problem that I am having is when I go to log back onto the app. It seems to be very inconsistent when it happens but every other time that I log onto the app, it resets the sound profiles and automation that I did previously and I have to go back and restructure the sounds accordingly. The only other thing that I can think of that would possibly fix this issue would be to automate the sounds by using the presets to alleviate this them being reset.</p>
+          <p><a href="https://disco.auxy.co/t/automation-resetting/17363/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/automation-resetting/17363/1</link>
+        <pubDate>Mon, 11 Nov 2019 02:48:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17363-1</guid>
+        <source url="https://disco.auxy.co/t/automation-resetting/17363.rss">Automation Resetting</source>
+      </item>
+  </channel>
+</rss>

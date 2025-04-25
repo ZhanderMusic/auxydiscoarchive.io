@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Live Perfoming loops on an iPad</title>
+    <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184</link>
+    <description>So recently, i&#39;ve been working on a live setup using an iPad over traditional Ableton and i&#39;ve been struggling finding a good replacement that could play clips/ tracks/ loops. Im also trying to find something that can sync my drum machine together with the app. So far ive been considering using Launchpad (ampify) or Remixlive but im not really sure how im going to go about with it. 
+
+Any ideas on how I could use them for tracks and how I can transition tracks with different bpms on them? 
+
+Also if anyone could suggest better alternatives id really appreciate it!</description>
+    
+    <lastBuildDate>Thu, 13 Feb 2020 12:05:58 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[cursed]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you so much for all the advice! I cant wait to finish this project! I’ll update you here if it works out HAHAHAH</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/8</link>
+        <pubDate>Thu, 13 Feb 2020 12:05:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-8</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah I know you can, it’s just a matter of finding the right physical connections</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/7</link>
+        <pubDate>Thu, 13 Feb 2020 03:05:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-7</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[cursed]]></dc:creator>
+        <description><![CDATA[
+            <p>I was thinking of using the drumbrute like its own instrument and implementing it during sets. Was hoping i could use something like an iRig to sync the launchpad app to the drumbrute directly. Im trying to use more hardware and less apps to run on the ipad</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/6</link>
+        <pubDate>Thu, 13 Feb 2020 02:57:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-6</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know of a midi to lightning cable or adapter…</p>
+<p>You’ll probably need something like <a href="https://apps.apple.com/us/app/link-to-midi/id1066216595">https://apps.apple.com/us/app/link-to-midi/id1066216595</a> or <a href="https://apps.apple.com/us/app/midi-link-sync/id1071048493">https://apps.apple.com/us/app/midi-link-sync/id1071048493</a></p>
+<p>I think the tricky thing will be getting your sync out from iDevice to midi in. Something like an iConnect4 would probably bridge the gap, but not too sure how much hardware you want and exactly how well it would work.</p>
+<p>You also could use a smallish midi interface for iPhone / iPad, and then something like Audiobus or AUM should be able to route midi through the interface midi out.</p>
+<p>Just spitballing a little bit here. You could always also record line level out from the drumbrute into Launchpad directly and then just use it as a sample. That’s why iOS is so damn cool - there’s so many options</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/5</link>
+        <pubDate>Thu, 13 Feb 2020 02:23:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-5</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[cursed]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks a ton for this! I use a drumbrute but im not really sure how to go about patching other than to clock in/out to lightning directly to the ipad (which is probably a bad idea…). Or MIDI to lightning?</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/4</link>
+        <pubDate>Thu, 13 Feb 2020 01:30:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-4</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://www.algoriddim.com/djay-ios">Algoriddim djay</a> might be worth a look.</p>
+<p>4 decks, live looper with time stretching, visualizer, Ableton Link, headphone cueing, hardware support…</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/3</link>
+        <pubDate>Wed, 12 Feb 2020 14:56:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-3</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Aight so.</p>
+<p>Launchpad is probably your best bet here. What kind of drum machine are you using?</p>
+<p>You could use Ableton Link to keep your session in time. Auxy, Launchpad, plus many other apps play very nicely with Link. Launchpad unfortunately still doesn’t have Ableton Link start/stop, so your session will carry the correct tempo but you’ll need to hit play at the right time (within a scene) otherwise your scene starts will be off (which could make for happy accidents).</p>
+<p>If you host Launchpad in AUM or perhaps AudioBus you can route midi apps to your drum machine. You can also use an app like Sync control (KORG) to sync link to pulse out (if it’s like a volca, or has similar timing inputs).</p>
+<p>If you’re looking to mix tracks together you’re definitely going to want some kind of DJ app, Traktor comes to mind. There’s others. I’m not familiar with them really I’m not big on this kind of stuff. Launchpad does re-key and re-tempo loops nicely now, so you’ll have that functionality there, but as far as full length songs you’ll need something like Traktor.</p>
+<p>Hope this helps some. There’s probably people on the Audiobus forum doing this kind of stuff already who could help you out there too.</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/2</link>
+        <pubDate>Wed, 12 Feb 2020 14:48:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-2</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+      <item>
+        <title>Live Perfoming loops on an iPad</title>
+        <dc:creator><![CDATA[cursed]]></dc:creator>
+        <description><![CDATA[
+            <p>So recently, i’ve been working on a live setup using an iPad over traditional Ableton and i’ve been struggling finding a good replacement that could play clips/ tracks/ loops. Im also trying to find something that can sync my drum machine together with the app. So far ive been considering using Launchpad (ampify) or Remixlive but im not really sure how im going to go about with it.</p>
+<p>Any ideas on how I could use them for tracks and how I can transition tracks with different bpms on them?</p>
+<p>Also if anyone could suggest better alternatives id really appreciate it!</p>
+          <p><a href="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184/1</link>
+        <pubDate>Wed, 12 Feb 2020 14:16:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-18184-1</guid>
+        <source url="https://disco.auxy.co/t/live-perfoming-loops-on-an-ipad/18184.rss">Live Perfoming loops on an iPad</source>
+      </item>
+  </channel>
+</rss>

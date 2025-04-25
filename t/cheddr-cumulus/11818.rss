@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cheddr - Cumulus</title>
+    <link>https://disco.auxy.co/t/cheddr-cumulus/11818</link>
+    <description>https://soundcloud.com/cheddr/cumulus</description>
+    
+    <lastBuildDate>Tue, 21 Aug 2018 15:10:56 +0000</lastBuildDate>
+    <category>Post Your Tracks</category>
+    <atom:link href="https://disco.auxy.co/t/cheddr-cumulus/11818.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Cheddr - Cumulus</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://soundcloud.com/cheddr/cumulus" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/cheddr/cumulus</a></p>
+          <p><a href="https://disco.auxy.co/t/cheddr-cumulus/11818/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/cheddr-cumulus/11818/1</link>
+        <pubDate>Tue, 21 Aug 2018 15:10:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-11818-1</guid>
+        <source url="https://disco.auxy.co/t/cheddr-cumulus/11818.rss">Cheddr - Cumulus</source>
+      </item>
+  </channel>
+</rss>

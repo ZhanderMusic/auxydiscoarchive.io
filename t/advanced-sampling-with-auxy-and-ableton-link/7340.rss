@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Advanced sampling with Auxy and Ableton link</title>
+    <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340</link>
+    <description>H’ooookay so. I would like to preface this by saying I am NOT a production guru. I’ve been around the block a few times with iOS music production though, minus the intermittent now and again where I use a “big boy” DAW, I’ve been doing the majority of my production on iOS for about seven years now. I want to touch base on sampling in Auxy and how Ableton link can facilitate this. You do not need a computer to do this, just other Ableton Link enabled apps that can also “Copy to” Auxy.
+
+Firstly, make sure you have either blocs wave or Groovebox by Novation/ampify. If you don’t have these two apps get the fricc on it, you’re crazy. Once you have these both, open Auxy, set up a new project (or open existing, whatever), set your tempo and enable Ableton Link from the nut menu. It’ll turn on and be connected to 0 apps. Go out of Auxy and open up blocs wave, for example. Start a new project there and from the deck of cards menu go into settings and enable Ableton Link there. Now. If blocs wave (or Auxy) show 1 app connected, success! The apps are now sharing tempo information. You have to start play independently in each app but the playheads line up. If you don’t see how this is incredibly useful, allow me to demonstrate:
+
+You have a drum loop or synth playing in Auxy. You back out of that, plop down percussion in blocs wave and it tempo syncs perfectly. Maybe you nudge the tempo around a bit, and now you like what you hear. Making sure your blocs wave loop is under ten seconds, export your session to wave file and “Copy to” Auxy. Now, go back to Auxy, perhaps organize a bit using the Files app and you can load what you were playing live in blocs wave as a loop triggered in a drum channel. It will be perfectly tempo synced.
+
+Obviously, once you render your export from blocs wave (or wherever) and change tempo, you’d have to fix your sample source and re-export at your new tempo.
+
+Boy I wish I knew how to make a video and had the bleepin time to demonstrate to you folks, but anyway, this should big time help you in your quest for sample ease of use.
+
+I hope I get a gold medal because I typed all of this out on a friccin iPhone SE my thumbs are killing me. Anyway, ICS out. Happy looping!!
+
+EDIT:
+
+Poorly put together video here https://youtu.be/6tDKNR8xovA at least I hope. I think I did it right lol..</description>
+    
+    <lastBuildDate>Thu, 08 Feb 2018 12:22:02 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/11</link>
+        <pubDate>Wed, 09 Jan 2019 13:50:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-11</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/10</link>
+        <pubDate>Wed, 09 Jan 2019 13:50:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-10</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>OP is updated with the video, omg sorry sorry I do not have the YT/vid skills lol <img src="https://emoji.discourse-cdn.com/apple/clown_face.png?v=5" title=":clown_face:" class="emoji" alt=":clown_face:"></p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/9</link>
+        <pubDate>Thu, 08 Feb 2018 12:22:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-9</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Np! I keep seeing the same questions here so I figured I’d try to shed a little light. Also, and I know you know this already, but DAWs like Live and Reason also support Link. So as long as all devices are on the same network you can link up iPhones, iPads etc to a pc/Mac running Reason or Live, possibly others.</p>
+<p>Fun fact: Ableton Link seems to replace WIST. Anyone remember that? <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/8</link>
+        <pubDate>Thu, 08 Feb 2018 10:18:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-8</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Booo, I just tested and it won’t record output audio. Useless, no point in listening to me blibba blabber about it when it makes most sense to hear the result while seeing it.</p>
+<p>I’ll try to get some screenshots together instead</p>
+<p>EDIT: I did take a quick video, there’s no audio but I figured even a silent video would be better than a slew of… silent… screen shots lol. Will try to post somewhere soon and link back here.</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/7</link>
+        <pubDate>Thu, 08 Feb 2018 10:01:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-7</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="1" data-topic="7340">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>I hope I get a gold medal because I typed all of this out on a friccin iPhone SE my thumbs are killing me.</p>
+</blockquote>
+</aside>
+<p><img src="https://emoji.discourse-cdn.com/apple/1st_place_medal.png?v=10" title=":1st_place_medal:" class="emoji only-emoji" alt=":1st_place_medal:"> <img src="https://emoji.discourse-cdn.com/apple/arrow_left.png?v=10" title=":arrow_left:" class="emoji only-emoji" alt=":arrow_left:"></p>
+<p>There’s your gold medal</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/6</link>
+        <pubDate>Thu, 08 Feb 2018 06:33:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-6</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[Sunny]]></dc:creator>
+        <description><![CDATA[
+            <p>No rush. I’m just interested to see your process and to see how those apps are useful.</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/5</link>
+        <pubDate>Thu, 08 Feb 2018 05:44:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-5</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I dunno where I’d post it. I MIGHT have a YouTube account still, maybe. Haven’t posted a video in a million years lol. I’ll try to give it a whirl during lunch tomorrow</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/4</link>
+        <pubDate>Thu, 08 Feb 2018 02:24:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-4</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[Sunny]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d like a video tutorial as well. Do you have the current iOS with the screen recording? Or would you consider screen shots?</p>
+<p>I have iPhone SE and the screen recording doesn’t capture sound too well, but the screen records.</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/3</link>
+        <pubDate>Wed, 07 Feb 2018 22:44:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-3</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for sharing this!<br>
+I do this kind of stuff all the time, so it’s nice to see others doing it too!</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/2</link>
+        <pubDate>Wed, 07 Feb 2018 22:40:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-2</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+      <item>
+        <title>Advanced sampling with Auxy and Ableton link</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>H’ooookay so. I would like to preface this by saying I am NOT a production guru. I’ve been around the block a few times with iOS music production though, minus the intermittent now and again where I use a “big boy” DAW, I’ve been doing the majority of my production on iOS for about seven years now. I want to touch base on sampling in Auxy and how Ableton link can facilitate this. You do not need a computer to do this, just other Ableton Link enabled apps that can also “Copy to” Auxy.</p>
+<p>Firstly, make sure you have either blocs wave or Groovebox by Novation/ampify. If you don’t have these two apps get the fricc on it, you’re crazy. Once you have these both, open Auxy, set up a new project (or open existing, whatever), set your tempo and enable Ableton Link from the nut menu. It’ll turn on and be connected to 0 apps. Go out of Auxy and open up blocs wave, for example. Start a new project there and from the deck of cards menu go into settings and enable Ableton Link there. Now. If blocs wave (or Auxy) show 1 app connected, success! The apps are now sharing tempo information. You have to start play independently in each app but the playheads line up. If you don’t see how this is incredibly useful, allow me to demonstrate:</p>
+<p>You have a drum loop or synth playing in Auxy. You back out of that, plop down percussion in blocs wave and it tempo syncs perfectly. Maybe you nudge the tempo around a bit, and now you like what you hear. Making sure your blocs wave loop is under ten seconds, export your session to wave file and “Copy to” Auxy. Now, go back to Auxy, perhaps organize a bit using the Files app and you can load what you were playing live in blocs wave as a loop triggered in a drum channel. It will be perfectly tempo synced.</p>
+<p>Obviously, once you render your export from blocs wave (or wherever) and change tempo, you’d have to fix your sample source and re-export at your new tempo.</p>
+<p>Boy I wish I knew how to make a video and had the bleepin time to demonstrate to you folks, but anyway, this should big time help you in your quest for sample ease of use.</p>
+<p>I hope I get a gold medal because I typed all of this out on a friccin iPhone SE my thumbs are killing me. Anyway, ICS out. Happy looping!!</p>
+<p>EDIT:</p>
+<p>Poorly put together video here <a href="https://youtu.be/6tDKNR8xovA">https://youtu.be/6tDKNR8xovA</a> at least I hope. I think I did it right lol…</p>
+          <p><a href="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340/1</link>
+        <pubDate>Wed, 07 Feb 2018 22:30:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-7340-1</guid>
+        <source url="https://disco.auxy.co/t/advanced-sampling-with-auxy-and-ableton-link/7340.rss">Advanced sampling with Auxy and Ableton link</source>
+      </item>
+  </channel>
+</rss>

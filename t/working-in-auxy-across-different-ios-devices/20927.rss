@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Working in Auxy across different iOS devices</title>
+    <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927</link>
+    <description>Wondering if anyone has any workflows for working on a track in Auxy on different iOS devices. If I start one on my iPhone, can I transfer it to my iPad to work on it there as well? If so, is this done only through iCloud? Just wondering if anyone has a way to do this that&#39;s seamless and doesn&#39;t cause issues/errors.
+
+Thanks in advance for the help!
+Ryan</description>
+    
+    <lastBuildDate>Tue, 27 Apr 2021 21:57:55 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, this is also exactly how I handle samples and it works extremely well, if you have an iCloud account with enough storage. All of the samples will sync automatically, and the ones in a new project will also download automatically upon importing the project.</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/8</link>
+        <pubDate>Tue, 27 Apr 2021 21:57:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-8</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[str8zstar]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks everyone for the workflows &amp; suggestions!</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/7</link>
+        <pubDate>Tue, 27 Apr 2021 18:25:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-7</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Store your samples inside a folder called Samples inside the Auxy folder in iCloud.<br>
+You’ll still need to Import the project file onto the second device, but all the samples will hook up seamlessly.</p>
+<p>Of course, depending on the size of the sample library you want to access easily within multiple instances of Auxy, you might need to upgrade from the default storage amount on iCloud.</p>
+<p>I use it as my default custom samples directory.</p>
+<p>&nbsp;<br>
+FWIW, I did recently request that it be reinstated - or some way to improve the experience - in the <a href="https://disco.auxy.co/t/most-wanted-features/14165/685">Most Wanted Features thread</a>. (I’ve been pushing for it to be reinstated ever since they dropped it.</p>
+<p>I believe there are achievable options for improving the experience even without full auto-syncing.</p>
+<p><img src="https://emoji.discourse-cdn.com/apple/crossed_fingers.png?v=9" title=":crossed_fingers:" class="emoji only-emoji" alt=":crossed_fingers:"></p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/6</link>
+        <pubDate>Tue, 27 Apr 2021 15:31:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-6</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>For projects with samples though your idea about Export &gt; AirDrop is pretty brilliant!! That’s much easier than Export to iCloud Drive, pick up other device and import from drive! I always forget about AirDrop lol…</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/5</link>
+        <pubDate>Tue, 27 Apr 2021 13:43:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-5</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>iammane has it right in the previous post. Auxy almost always backs up each project into iCloud Drive/Auxy/Backups every time you close it and open a new one, or have that project open and close the app as far as I can tell. I do this rather frequently from my iPad to my phone to transfer the occasional project.</p>
+<p>To import the project on your second device, the way that I find is easiest is: 1) open the project on your first device, and close the app or open a different project so that it backs up. 2) On your second device, in the projects screen, hit “import” in the top right, and it should go to your backups folder automatically. If you’re not in the backups folder by default, you can navigate there. 3) Find the most recent backup of the project you’re looking to transfer. Each backup file will have a timestamp in its name as well as displaying a time stamp on the right side of the list. 4) Just click on the most recent backup file, and Auxy will import the project and ask you to either “replace” (overwrite) or “duplicate” (import this one as a new project) if a project with the same name exists. Otherwise it’ll simply import it if a project with that name doesn’t already exist.</p>
+<p>Alternatively, you can export the project link from the “export” tab, and then AirDrop the link to your other device. Doing so will open that project on the other device, in the same way that the app would open any other project link from another source. This works well and gets around the occasionally finicky backup system, but also can be slower in some cases like if you don’t have both devices on hand or you have to turn on AirDrop and all that.</p>
+<p>Both of these methods are seamless, and I’ve personally found using backups is easier than airdropping for my workflow. Just be careful to import the right project with backups (check the timestamps and be diligent about remembering when you backed up the project last on the other device). If you aren’t sure if you’re importing the right version you can always hit “duplicate” instead of “replace” (if those options come up) to check that it’s the right one.</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/4</link>
+        <pubDate>Tue, 27 Apr 2021 13:18:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-4</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/icelight">@icelight</a> is right - if you’re not using external samples, you can actually grab very recent projects from the “Auxy/Backups” folder in the iCloud root. Backups are still saved there. No guarantee it’s your latest, but more than likely it is.</p>
+<p>You could also export a project to the Files / iCloud app and then download it on another device and continue working, but not really very seamless.</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/3</link>
+        <pubDate>Tue, 27 Apr 2021 10:35:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-3</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>Currently you would have to export each Auxy project file into iCloud Files from one device, and then import the project file while in Auxy on another device</p>
+<p>It used to be that project files updated automatically when a new change was made on another iCloud device (this was more seamless) but they changed it</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/2</link>
+        <pubDate>Tue, 27 Apr 2021 06:24:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-2</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+      <item>
+        <title>Working in Auxy across different iOS devices</title>
+        <dc:creator><![CDATA[str8zstar]]></dc:creator>
+        <description><![CDATA[
+            <p>Wondering if anyone has any workflows for working on a track in Auxy on different iOS devices. If I start one on my iPhone, can I transfer it to my iPad to work on it there as well? If so, is this done only through iCloud? Just wondering if anyone has a way to do this that’s seamless and doesn’t cause issues/errors.</p>
+<p>Thanks in advance for the help!<br>
+Ryan</p>
+          <p><a href="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927/1</link>
+        <pubDate>Tue, 27 Apr 2021 03:47:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20927-1</guid>
+        <source url="https://disco.auxy.co/t/working-in-auxy-across-different-ios-devices/20927.rss">Working in Auxy across different iOS devices</source>
+      </item>
+  </channel>
+</rss>

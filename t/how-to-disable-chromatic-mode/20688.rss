@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to disable chromatic mode</title>
+    <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688</link>
+    <description>I was curious about using chromatic mode so I opened the nut menu in the top right corner then tapped &quot;minor&quot; and then &quot;make new loops chromatic.&quot; The option didn&#39;t change color or show any indication of whether it was active or not. I exited the menu to the main layout and opened a new loop for an instrument. I tried out chromatic mode long enough to realize I don&#39;t like it. So I repeated the nut menu steps to disable it, again seeing no indication of whether or not tapping it was doing anything at all, I and found that it didn&#39;t work. Now ANY new loops in ANY project is in this mode and I can only work in the standard mode by duplicating another loop and erasing the nodes. It effects all new projects as well as all old projects. How do I disable chromatic mode? It seems like this should be a fairly easy thing to undo. All the tutorials I&#39;m finding are outdated versions. I&#39;m stumped.</description>
+    
+    <lastBuildDate>Mon, 15 Feb 2021 00:38:30 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to disable chromatic mode</title>
+        <dc:creator><![CDATA[Chillkid]]></dc:creator>
+        <description><![CDATA[
+            <p>Once I finish with the project I’m working on I’ll see if I can reproduce the problem and then drop them a line. Great suggestion.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/5</link>
+        <pubDate>Mon, 15 Feb 2021 00:38:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20688-5</guid>
+        <source url="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss">How to disable chromatic mode</source>
+      </item>
+      <item>
+        <title>How to disable chromatic mode</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe best to contact <a href="mailto:feedback@auxy.co">feedback@auxy.co</a>?</p>
+          <p><a href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/4</link>
+        <pubDate>Mon, 15 Feb 2021 00:29:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20688-4</guid>
+        <source url="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss">How to disable chromatic mode</source>
+      </item>
+      <item>
+        <title>How to disable chromatic mode</title>
+        <dc:creator><![CDATA[Chillkid]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, that’s the problem. There is not visible toggle switch on my screen. Perhaps a scaling issue on my iPad mini. I found a complicated work around that appears to have solved my issue. However I didn’t post it because I haven’t been successful in reproducing the issue and the fix. For now, chromatic mode has been disabled.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/3</link>
+        <pubDate>Sun, 14 Feb 2021 23:16:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20688-3</guid>
+        <source url="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss">How to disable chromatic mode</source>
+      </item>
+      <item>
+        <title>How to disable chromatic mode</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>Hm that seems odd.</p>
+<p>Here’s what it looks like when the option is on (switch is to the right):<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836.jpeg" data-download-href="/uploads/short-url/ffGDBAu4DjTe4Qxz5UxAroL3t8W.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836_2_666x500.jpeg" alt="image" data-base62-sha1="ffGDBAu4DjTe4Qxz5UxAroL3t8W" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/6/a/6ae695dcd668fcb9641416f1ae8601eb00916836_2_10x10.png"></a></div><p></p>
+<p>And here’s what it looks like when the option is off (switch is to the left):<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a.jpeg" data-download-href="/uploads/short-url/sJ4zlO6SEtUSNdd3uuaLr877U82.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a_2_666x500.jpeg" alt="image" data-base62-sha1="sJ4zlO6SEtUSNdd3uuaLr877U82" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a_2_666x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a_2_999x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a_2_1332x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/c/9/c9553a2fc100b0f9816766d67f3bbbd6140d344a_2_10x10.png"></a></div><p></p>
+<p>If it’s still not updating the mode correctly according to how the switch is set, maybe it might be worth restarting the device <a href="https://support.apple.com/en-au/guide/iphone/iph8903c3ee6/ios" class="inline-onebox" rel="noopener nofollow ugc">Force restart iPhone - Apple Support</a></p>
+          <p><a href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/2</link>
+        <pubDate>Sun, 14 Feb 2021 23:03:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20688-2</guid>
+        <source url="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss">How to disable chromatic mode</source>
+      </item>
+      <item>
+        <title>How to disable chromatic mode</title>
+        <dc:creator><![CDATA[Chillkid]]></dc:creator>
+        <description><![CDATA[
+            <p>I was curious about using chromatic mode so I opened the nut menu in the top right corner then tapped “minor” and then “make new loops chromatic.” The option didn’t change color or show any indication of whether it was active or not. I exited the menu to the main layout and opened a new loop for an instrument. I tried out chromatic mode long enough to realize I don’t like it. So I repeated the nut menu steps to disable it, again seeing no indication of whether or not tapping it was doing anything at all, I and found that it didn’t work. Now ANY new loops in ANY project is in this mode and I can only work in the standard mode by duplicating another loop and erasing the nodes. It effects all new projects as well as all old projects. How do I disable chromatic mode? It seems like this should be a fairly easy thing to undo. All the tutorials I’m finding are outdated versions. I’m stumped.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688/1</link>
+        <pubDate>Sun, 14 Feb 2021 17:56:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20688-1</guid>
+        <source url="https://disco.auxy.co/t/how-to-disable-chromatic-mode/20688.rss">How to disable chromatic mode</source>
+      </item>
+  </channel>
+</rss>

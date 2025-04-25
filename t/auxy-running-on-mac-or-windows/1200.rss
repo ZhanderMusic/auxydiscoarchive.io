@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy running on Mac or Windows</title>
+    <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200</link>
+    <description>I&#39;ve been wondering if it&#39;s a good idea to have Auxy available for PC (Mac, Windows, and maybe Linux). And the best part it, it&#39;s free (Of course you still have the APs)! 
+___
+But the problem is, how do you restore the packs to PC? 
+Well, that leaves me to bring up a topic of creating Auxy Accounts (And using the accounts we have for Disco). There&#39;s a discussion of that here (thanks to @Michael_Raskin for the explanation of why we need something like this): https://disco.auxy.co/t/how-about-auxy-accounts/951 Basically, when you buy an AP pack, it&#39;s automatically linked to your Disco account, and you can restore it anywhere, for iOS to PC, Mac to Android (I heard there&#39;s gonna be an Android version soon :wink:), PC to Mac, and so on.
+___
+Now, a few cons. One, PCs don&#39;t have 3D touch (Why would they in the first place?! :joy:), but it&#39;s not exactly necessary. And, it might take Lenberg a bit of a while to do the ports, since him and the team might be working on other innovative ideas for Auxy. Other than that, I don&#39;t really see any other problems.
+____
+Here&#39;s one benefit in my opinion: At least I&#39;ll have a DAW I can easily work with on my PC, because I don&#39;t have any good ones on mine ._.
+Other than that, Auxy for PC sounds pretty cool</description>
+    
+    <lastBuildDate>Fri, 07 Jun 2019 19:12:35 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Most of the licensed sounds are just samples and not actual synthesis (notable exceptions are parts of Destiny), so they could just push out the synthesizer code that runs behind the scenes as a VST and call it a day, theoretically, and not have any problems. In all reality the actual engine is a blend of a simplified Serum and sample player together (confirmed by Lenberg before), which unfortunately wouldn’t be as successful outside of its enclosed environment.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/45</link>
+        <pubDate>Fri, 07 Jun 2019 19:12:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-45</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m proud to tell folks a great track I made was “just something I banged out on my phone, no big deal” <img src="https://emoji.discourse-cdn.com/apple/laughing.png?v=9" title=":laughing:" class="emoji" alt=":laughing:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/44</link>
+        <pubDate>Fri, 07 Jun 2019 17:06:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-44</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>But aren’t most of the sounds licensed from others, so they’d prob have to deal with that before hand, but I would def enjoy an Auxy related plugin.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/43</link>
+        <pubDate>Thu, 06 Jun 2019 22:41:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-43</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[HELIXX]]></dc:creator>
+        <description><![CDATA[
+            <p>Auxy should make a plug-in that used auxy sounds</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/42</link>
+        <pubDate>Thu, 06 Jun 2019 18:04:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-42</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>Cause then you can be a big boy with a desktop daw and not an amateur mobile music producer <img src="https://emoji.discourse-cdn.com/apple/sunglasses.png?v=9" title=":sunglasses:" class="emoji" alt=":sunglasses:"></p>
+<div class="spoiler"><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/41">spoiler</a></div>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/41</link>
+        <pubDate>Thu, 06 Jun 2019 11:41:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-41</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Just to play devil’s advocate.</p>
+<p>What would be the real gain here? What could be done on a desktop or laptop that the existing mobile app already can’t do? Or do in a way that’s not suited for a touch screen and would be better on a machine with a keyboard, mouse, monitor etc?</p>
+<p>There’s no live input. There’s no sampling/recording/resampling. There’s no plugin hosting. It cannot be hosted elsewhere.</p>
+<p>Just not seeing what the advantage would be of bringing it to a Mac, in the current form. Would rather see development time spent on making it more functional on the intended platform.</p>
+<p>Unless it’s literally the most trivial thing ever, like flicking a switch, then sure whatever lol…</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/40</link>
+        <pubDate>Thu, 06 Jun 2019 11:33:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-40</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[anon2811266]]></dc:creator>
+        <description><![CDATA[
+            <p>I am actually planning to do a Auxy VST or AAX thing on FL Studio or Ableton but it might take me a looooooooooong time…and imagine if you would make a PHAT BASS using Auxy sounds… You can always make these sounds yourself so yeah… I don’t know if making Auxy plugin is a good idea… maybe…</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/39</link>
+        <pubDate>Thu, 06 Jun 2019 07:30:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-39</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>yeah but isnt Sidecar just to make your ipad into an extra monitor.  It doesn’t seem to go the other way around.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/38</link>
+        <pubDate>Thu, 06 Jun 2019 05:18:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-38</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d like to revive this thread, mainly because of WWDC, and MacOS Catalina</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/37</link>
+        <pubDate>Thu, 06 Jun 2019 03:14:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-37</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="35" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/akabillposters/40/7756_1.png" class="avatar"> akabillposters:</div>
+<blockquote>
+<p>and possibly lose many of their <strong>pre-3D Touch</strong> device using customers</p>
+</blockquote>
+</aside>
+<p>Or iPad users.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/36</link>
+        <pubDate>Sat, 29 Sep 2018 16:28:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-36</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>Similarly, I hope they don’t ever make 3D Touch support a requirement for accessing any features/controls.</p>
+<p>…unless they’re happy to p**s-off and possibly lose many of their pre-3D Touch device using customers, which could be substantial given the young-leaning Auxy user demographic.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/35</link>
+        <pubDate>Sat, 29 Sep 2018 16:25:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-35</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="1" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/razerfireriot/40/8904_1.png" class="avatar"> RazerFireRiot:</div>
+<blockquote>
+<p>One, PCs don’t have 3D touch (Why would they in the first place?! <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=6" title=":joy:" class="emoji" alt=":joy:">),</p>
+</blockquote>
+</aside>
+<p>Ahem, keyboard shortcuts</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/34</link>
+        <pubDate>Sat, 29 Sep 2018 15:33:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-34</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>An Android version has been requested and rejected a few times on the grounds that they don’t consider the sound engine to be robust enough for the kind of processing Auxy does.</p>
+<p>Plus, the cost of maintaining two versions with such a small team wasn’t considered practical.</p>
+<p>That was a while ago, so perhaps things have changed, both with Android and the team’s views about how practical it would be. But, it’s unlikely the latter has changed.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/33</link>
+        <pubDate>Sat, 29 Sep 2018 14:03:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-33</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[primary868]]></dc:creator>
+        <description><![CDATA[
+            <p>How about an Android release? That way we can use an Android emulator on PC to run auxy. Judging by how terrible the iOS emulation market is, and how much more open ended Android is, I feel like Android emulation would be much farther along and better suited.</p>
+<p>It’s not a perfect solution but it would be better than nothing.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/32</link>
+        <pubDate>Sat, 29 Sep 2018 12:45:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-32</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="JKos" data-post="28" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/j/77aa72/40.png" class="avatar"> JKos:</div>
+<blockquote>
+<p>Name a desktop DAW that’s as intuitive and easy to use as Auxy?</p>
+</blockquote>
+</aside>
+<p>Korg Gadget (Mac and iOS) comes pretty close.</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.korg.com/us/products/software/korg_gadget/">
+  <header class="source">
+      <img src="https://www.korg.com/global/images/favicon.ico" class="site-icon" width="128" height="128">
+
+      <a href="https://www.korg.com/us/products/software/korg_gadget/" target="_blank" rel="noopener nofollow ugc">KORG Global</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/360;"><img src="https://cdn.korg.com/us/products/upload/ca5da67151867235e8a384ff5ec97877.jpg" class="thumbnail" width="690" height="360"></div>
+
+<h3><a href="https://www.korg.com/us/products/software/korg_gadget/" target="_blank" rel="noopener nofollow ugc">KORG Gadget 2 - MUSIC PRODUCTION SOFTWARE | KORG (USA)</a></h3>
+
+  <p>KORG Gadget 2 - Evolving to the next generation. Quickly and intuitively turn your ideas into music. The best music production software &amp; plugins.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/31</link>
+        <pubDate>Sat, 29 Sep 2018 05:07:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-31</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="29" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>FL studio</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-post="29" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>Serum</p>
+</blockquote>
+</aside>
+<p>Cubase is free and there’s also a lot of free plugins that you can get that are pretty good.  I think serum is def top of the line, but if you’re just starting out and not looking to blow $200, there’s free stuff you can get too.</p>
+<p>as for <a class="mention" href="https://disco.auxy.co/u/jkos">@JKos</a>, i’ve used garageband for a long time and i’ve definately gotten much better at it over time (a lot of it i feel l can thank auxy for).  I was able to pick stuff up very quickly with it and i’ve only gotten better.  It’s a pretty user friendly (there’s even a little button you can toggle and it’ll tell you what things do).  The presets are also good by themselves if you don’t want to get a bunch of vst’s and au’s though there are plenty of great ones up for grabs (both paid and free).  So that’d be my recommendation for an easier transition between Auxy and the world of desktop daws.</p>
+<p>Obviously, it’s not built like auxy, but i have heard of plugins that work like that, but i cant remember their names.  Like you just pick a key and from then on it will only allow you to place notes in that key which is pretty much auxy.</p>
+<p>Another note is that idk if you even have access to a mac (which is what u need for garageband), but again, i believe Cubase is free and is compatible with windows. It’s not as clean as garageband in terms of looks, but you can probably do a lot more (considering there are pro’s who use it)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/30</link>
+        <pubDate>Sat, 29 Sep 2018 03:24:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-30</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>As mentioned before, while some desktop daws may not be entirely as intuitive and easy to use, once mastered they can be very powerful. I’d highly recommend FL studio as it doesn’t have as steep of a learning curve, along with Serum as a softsynth.</p>
+<p>Or, you could be the father of the year and get him some retro analogue synths. Do it the old fashioned way! (Not joking here, I’d love if my parents would have been this supportive of me and music back when I was a kid. If only things like Auxy were around back then… I can only dream xD)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/29</link>
+        <pubDate>Sat, 29 Sep 2018 01:24:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-29</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[JKos]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="27" data-topic="1200" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/1219_1.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>wait but if you can play the piano/keyboard well, then would an actual desktop DAW not work better than auxy?</p>
+</blockquote>
+</aside>
+<p>Name a desktop DAW that’s as intuitive and easy to use as Auxy?</p>
+<aside class="quote no-group" data-post="27" data-topic="1200" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/el1011/40/1219_1.png" class="avatar"> El1011:</div>
+<blockquote>
+<p>For Auxy you can only lay down notes; you can’t midi-in to it.</p>
+</blockquote>
+</aside>
+<p>Exactly, unfortunately.</p>
+<ul>
+<li>John</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/28</link>
+        <pubDate>Sat, 29 Sep 2018 00:40:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-28</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>wait but if you can play the piano/keyboard well, then would an actual desktop DAW not work better than auxy?  For Auxy you can only lay down notes; you can’t midi-in to it.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/27</link>
+        <pubDate>Fri, 28 Sep 2018 23:50:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-27</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[JKos]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="24" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>Awesome! But why do you want to switch to a desktop app then?</p>
+</blockquote>
+</aside>
+<p>Because he would love to use a controller/keyboard.  He is a very good piano/keyboard player and could compose even faster on Auxy if he could use a controller.</p>
+<ul>
+<li>John</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/26</link>
+        <pubDate>Fri, 28 Sep 2018 23:29:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-26</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>I have Auxy on both my iPhone 6 Plus and my iPad Mini 2.<br>
+Which do you think I prefer to work on?</p>
+<p>Maybe there’s something in that.</p>
+<p>Additionally, the other UIs that come with desktop - i.e. Finder, rather than iOS Files - would benefit overall workflow.</p>
+<p>It’s also possible that a desktop version would be innately more accessible for young and sigh- impaired users due to everything being bigger.<br>
+(For the user, a desktop version might appeal more than buying an iPad Pro for the larger screen.)</p>
+<p>Just a few possible reasons.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/25</link>
+        <pubDate>Fri, 28 Sep 2018 08:01:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-25</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="JKos" data-post="20" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/j/77aa72/40.png" class="avatar"> JKos:</div>
+<blockquote>
+<p>And therein lies why Auxy for PC is very desirable! My son is creating music like crazy with Auxy. It makes sense to him.</p>
+</blockquote>
+</aside>
+<p>Awesome! But why do you want to switch to a desktop app then?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/24</link>
+        <pubDate>Fri, 28 Sep 2018 07:06:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-24</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>Funny tho, i personally found FL to be a pretty confusing to use the few time’s ive used it (someone installed the free one on a school laptop).  I found GB to be a lot easier to pick up, but that’s just me (and logic is pretty much built like gb)  It does sound like JKos uses pc tho, so probably no access to gb.</p>
+<p>But any desktop daw is def going to be much harder to pick up, but Auxy is a great stepping stone to help.  You could make all the melodies n stuff with auxy then just export to midi/ another Daw and further develop it more so than you could with just auxy.</p>
+<aside class="quote no-group" data-post="21" data-topic="1200">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_1.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>easy to pick up</p>
+</blockquote>
+</aside>
+<p>ehhhh i dont really think so lol. There’s def a steep learning curve to it.  But once you do get gud at it, you can make anything with it (Virtual Riot is an actual god with serum)</p>
+<p>anyway regardless, the dev’s are still focused on keeping Auxy a mobile app for a multitude of reasons.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/23</link>
+        <pubDate>Fri, 28 Sep 2018 06:19:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-23</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[BobTheGUYYYYY]]></dc:creator>
+        <description><![CDATA[
+            <p>Wow this topic is alive again</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/22</link>
+        <pubDate>Fri, 28 Sep 2018 06:10:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-22</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+      <item>
+        <title>Auxy running on Mac or Windows</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I would recommend either FL Studio or Ableton. As Logic Pro X is only Mac, and I have no experience with it, I cannot say. I personally would recommend FL Studio, as it’s what I use, but many prefer Ableton. Neither are designed like Auxy, but the workflow adjustment is easier on FL according to some people I’ve talked to about similar things. As I myself use FL alongside Auxy for things such as mastering, the adjustment wasn’t that difficult. It just takes a little getting used to.</p>
+<p>Especially for soft synths, I would <strong>highly</strong> encourage Serum, as it’s practically a beefed up version of the Auxy sound engine. This has been confirmed by the devs, who based its design off of how Serum handles its sounds. It’s quite a fantastic program and is easy to pick up but is so deep it’s worthwhile mastering it.</p>
+<p>Workflow is still rough, and I’d also highly encourage you to look into exporting stems from Auxy and importing them into a DAW such as FL or Ableton. This is how I produce my music, and it works wonders. I’m probably going to do some sort of tutorial in the future about how to interweave the two, because it’s not that difficult once you really start to see outside the box.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200/21</link>
+        <pubDate>Fri, 28 Sep 2018 05:29:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1200-21</guid>
+        <source url="https://disco.auxy.co/t/auxy-running-on-mac-or-windows/1200.rss">Auxy running on Mac or Windows</source>
+      </item>
+  </channel>
+</rss>

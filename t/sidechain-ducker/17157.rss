@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sidechain &amp; ducker</title>
+    <link>https://disco.auxy.co/t/sidechain-ducker/17157</link>
+    <description>Essentially, “ducker” in Auxy is practically the equivalent of side-chain within computerized DAW’s. Such as, FL studio or Logic pro. Correct?</description>
+    
+    <lastBuildDate>Thu, 17 Oct 2019 04:08:00 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/sidechain-ducker/17157.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sidechain &amp; ducker</title>
+        <dc:creator><![CDATA[INDIR3CT]]></dc:creator>
+        <description><![CDATA[
+            <p>The only real difference is that side-chain has more bling.</p>
+<p>See what I did there. Chain. Bli… oh nevermind</p>
+<div class="spoiler"><a href="https://disco.auxy.co/t/sidechain-ducker/17157/5">spoiler</a></div>
+          <p><a href="https://disco.auxy.co/t/sidechain-ducker/17157/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sidechain-ducker/17157/5</link>
+        <pubDate>Thu, 17 Oct 2019 04:08:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17157-5</guid>
+        <source url="https://disco.auxy.co/t/sidechain-ducker/17157.rss">Sidechain &amp; ducker</source>
+      </item>
+      <item>
+        <title>Sidechain &amp; ducker</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you for the responses, I wanted to clarify a curiosity.</p>
+          <p><a href="https://disco.auxy.co/t/sidechain-ducker/17157/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sidechain-ducker/17157/4</link>
+        <pubDate>Thu, 17 Oct 2019 00:52:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17157-4</guid>
+        <source url="https://disco.auxy.co/t/sidechain-ducker/17157.rss">Sidechain &amp; ducker</source>
+      </item>
+      <item>
+        <title>Sidechain &amp; ducker</title>
+        <dc:creator><![CDATA[Eswyn]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, it’s basically the same, however unlike true sidechaining, ducker does not use the actual audio sample to modulate the ‘ducking’ effect. ‘True’ sidechaining uses the sample as a modulator, meaning that short samples would cause a short and quick duck while longer samples would have a long and sustained duck. It’s bit more complex than that, but I think you get the idea. Ducker is just a very simplified effect that simulates a traditional sidechain effect.</p>
+          <p><a href="https://disco.auxy.co/t/sidechain-ducker/17157/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sidechain-ducker/17157/3</link>
+        <pubDate>Wed, 16 Oct 2019 16:44:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17157-3</guid>
+        <source url="https://disco.auxy.co/t/sidechain-ducker/17157.rss">Sidechain &amp; ducker</source>
+      </item>
+      <item>
+        <title>Sidechain &amp; ducker</title>
+        <dc:creator><![CDATA[Peregrihn]]></dc:creator>
+        <description><![CDATA[
+            <p>Indeed. It’s just localized so that drum kit samples are the initial instead of being able to assign to any channel like regular side-chain</p>
+          <p><a href="https://disco.auxy.co/t/sidechain-ducker/17157/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sidechain-ducker/17157/2</link>
+        <pubDate>Wed, 16 Oct 2019 16:08:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17157-2</guid>
+        <source url="https://disco.auxy.co/t/sidechain-ducker/17157.rss">Sidechain &amp; ducker</source>
+      </item>
+      <item>
+        <title>Sidechain &amp; ducker</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p>Essentially, “ducker” in Auxy is practically the equivalent of side-chain within computerized DAW’s. Such as, FL studio or Logic pro. Correct?</p>
+          <p><a href="https://disco.auxy.co/t/sidechain-ducker/17157/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/sidechain-ducker/17157/1</link>
+        <pubDate>Wed, 16 Oct 2019 15:59:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17157-1</guid>
+        <source url="https://disco.auxy.co/t/sidechain-ducker/17157.rss">Sidechain &amp; ducker</source>
+      </item>
+  </channel>
+</rss>

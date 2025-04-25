@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy Clicky Sound Glitch</title>
+    <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761</link>
+    <description>Is anybody else having this issue where, at some point in your project at the beginning of one of your “scenes” - either a synth sound w/ delay will make a lot of unnecessary delay noise, only for a second when the first note hits when it’s not supposed to. Or when you have a kick drum start playing in a scene, when the first kick hits it will kick a little bit too early which makes this annoying clicky noise. 
+
+Now with this track I’m currently making, this glitch happens at 4 different points in the song. Which is frustrating because what I now have to do is render the song out 4 separate times, export all of them to a third party app, and align them all up synchronously. Which, in a weird way, disrupts the flow of the track. 
+
+I’ve tried everything from changing the note length, using automation to lower the amount of delay and lowpass for the first note, as well as what I’ve just stated in the previous paragraph. 
+
+So my question is - does anybody have a simple solution to this problem? I will provide an audio excerpt from the song if requested by somebody, if it’s needed for simplicity sake.</description>
+    
+    <lastBuildDate>Fri, 07 Aug 2020 17:27:49 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <p>i know this is random but i wonder if someone  will ever use this in a song… <img src="https://emoji.discourse-cdn.com/apple/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/19</link>
+        <pubDate>Fri, 07 Aug 2020 17:27:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-19</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Coral" data-post="15" data-topic="19761">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/coral/40/15823_2.png" class="avatar"> Coral:</div>
+<blockquote>
+<p>Is the syncopation really that bad or was that just an exaggeration?</p>
+</blockquote>
+</aside>
+<p>Exaggeration, it was throwing me off but it worked. Just was so out there.</p>
+<aside class="quote no-group" data-username="Coral" data-post="15" data-topic="19761">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/coral/40/15823_2.png" class="avatar"> Coral:</div>
+<blockquote>
+<p>I have just about everything in the song set on full offset (-100ms)</p>
+</blockquote>
+</aside>
+<p>I’m pretty confident that this could be causing the issue you are encountering. If everything is set to the same, it’s the same as having no offset at all actually. Unless the offset plays differently with swing, I don’t have any frame of reference if it does.</p>
+<aside class="quote no-group" data-username="Coral" data-post="15" data-topic="19761">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/coral/40/15823_2.png" class="avatar"> Coral:</div>
+<blockquote>
+<p>(P.S sorry I called your music bad like a some odd 3 years ago or something. I’m a completely different person now than I was. So if you wanna get back at me and critique my own music then all power to you go right ahead <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:">)</p>
+</blockquote>
+</aside>
+<p>No worries my man. My stuff back then was pretty garbage. Still is heh.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/18</link>
+        <pubDate>Fri, 07 Aug 2020 12:47:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-18</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks! Alright I’ll shoot you a DM then</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/17</link>
+        <pubDate>Fri, 07 Aug 2020 11:18:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-17</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="TheRealJFalc" data-post="12" data-topic="19761">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_2.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>that syncopation is literally too much for me right now.</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="Coral" data-post="15" data-topic="19761">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/coral/40/15823_2.png" class="avatar"> Coral:</div>
+<blockquote>
+<p>Is the syncopation really that bad or was that just an exaggeration? (It’s important to know before I throw the song out there.)</p>
+</blockquote>
+</aside>
+<p>I was loving it. <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+Love me some of that soulful, jazzy swang</p>
+<p>Of course I wanted to have a play around with it.<br>
+Your synth chord parts always set me off.</p>
+<p>Looking forward to hearing the finished piece. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/16</link>
+        <pubDate>Fri, 07 Aug 2020 06:38:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-16</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p>Is the syncopation really that bad or was that just an exaggeration? (It’s important to know before I throw the song out there.) I have just about everything in the song set on full offset (-100ms) which makes it sound more funky in a weird way, but my brain has gotten so used to hearing it that I feel like other people might find it off beat, so it’s nice to have an outside perspective.</p>
+<p>(P.S sorry I called your music bad like a some odd 3 years ago or something. I’m a completely different person now than I was. So if you wanna get back at me and critique my own music then all power to you go right ahead <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:">)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/15</link>
+        <pubDate>Fri, 07 Aug 2020 03:47:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-15</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p>Okay, that has extra delay… auxy needs to update this</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/14</link>
+        <pubDate>Thu, 06 Aug 2020 09:12:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-14</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p>Now it does, thx!</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/13</link>
+        <pubDate>Thu, 06 Aug 2020 08:28:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-13</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>God… that syncopation is literally too much for me right now.</p>
+<p>I’m assuming you mean the little bit where the lead kicks in, yes? That sounds like it could be the predelay not playing nicely with pitch automation. Preparing the scene ahead of it could potentially help. Also, check if the instrument has any slide/glide/portamento attached to it. That can be a thing too. A way to handle that would be to prepare the note in the scene ahead without any volume (done this many times with Mascara)</p>
+<p>It actually sounds like a delay time shift that you’d do in other DAWs where you have actual control over it. And honestly it’s a pretty cool effect, unlike where you have sounds like Spray just sounding like garbage because the compression is too intense and the transient is a 0+dB spike of audio sadness that even a ducker can’t solve.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/12</link>
+        <pubDate>Thu, 06 Aug 2020 03:50:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-12</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, I know for a fact though that it’s the high heel lead and not the chords. You have a limited prospective of just one audio segment, which might be hard to decern. I built everything, it’s definitely the lead. But anyways, doesn’t really matter. I’m going to try out what <a class="mention" href="https://disco.auxy.co/u/therealjfalc">@TheRealJFalc</a> recommended for now. Appreciate the help.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/11</link>
+        <pubDate>Thu, 06 Aug 2020 00:57:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-11</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok, I just took a listen to it, and I think I hear what you’re talking about. To me, this sounds like it could be extra delay from the chord right before the scene transition playing through the transition instead of stopping. Other than that, I don’t really know what could cause it, as I’ve never had the same type of issue…</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/10</link>
+        <pubDate>Wed, 05 Aug 2020 23:57:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-10</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/therealjfalc">@TheRealJFalc</a> <a class="mention" href="https://disco.auxy.co/u/ama">@AMA</a> <a class="mention" href="https://disco.auxy.co/u/lemonboy">@lemonboy</a> <a class="mention" href="https://disco.auxy.co/u/sn.ow.y">@sn.ow.y</a></p>
+<aside class="onebox googledrive">
+  <header class="source">
+      <a href="https://drive.google.com/file/d/1veVqxyo6ZWpDB2D7HiW0s-3nXF0abKYn/view?usp=drivesdk" target="_blank" rel="nofollow noopener">drive.google.com</a>
+  </header>
+  <article class="onebox-body">
+      <a href="https://drive.google.com/file/d/1veVqxyo6ZWpDB2D7HiW0s-3nXF0abKYn/view?usp=drivesdk" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-drive-logo"></span></a>
+
+
+
+<h3><a href="https://drive.google.com/file/d/1veVqxyo6ZWpDB2D7HiW0s-3nXF0abKYn/view?usp=drivesdk" target="_blank" rel="nofollow noopener">Cloud IX (2).wav</a></h3>
+
+<p>Google Drive file.</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Hello, I did what Snowy said and turned on “link share.” Hopefully this works now.</p>
+<p>(Refer to my first reply for context to this audio except and the associated bug.)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/9</link>
+        <pubDate>Wed, 05 Aug 2020 23:25:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-9</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>This has to do with how Auxy renders scenes and some sounds having a pre-delay before some things, such as a ducker or automation, can have any impact on them. Some sounds are worse than others. It’s all about transients and how they get processed, and unfortunately there’s not really a good way to handle some of these things without planning around them.</p>
+<p>Just another great “feature” of Auxy, putting problematic experiences out of the user’s control. If you really want to handle them in a render out, a good way is to make sure the automation starts one scene early, and has the volume set to zero. That often helps with getting things to behave as they should. However, you can’t easily deal with sounds that have awful transient compression, such as Spray. In those instances, simply avoiding the sound is the best bet.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/8</link>
+        <pubDate>Wed, 05 Aug 2020 13:38:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-8</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Google drive works for sharing audio, but you need to turn on an option called “link sharing” for that file. Otherwise, people that you haven’t explicitly shared it with won’t have access. Also, reading your description of it, I haven’t experienced this glitch, but I’d be interested to listen to the audio.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/7</link>
+        <pubDate>Wed, 05 Aug 2020 13:01:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-7</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p>I need access. if you can just do something and then place the accessed link, it’ll work for me.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/6</link>
+        <pubDate>Wed, 05 Aug 2020 11:03:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-6</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[AMA]]></dc:creator>
+        <description><![CDATA[
+            <p>i have that issue too and it only happens in auxy not in my other DAWs</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/5</link>
+        <pubDate>Tue, 04 Aug 2020 22:40:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-5</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t know, what is the easiest way to send this through then?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/4</link>
+        <pubDate>Tue, 04 Aug 2020 16:26:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-4</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p><em>access denied</em></p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/3</link>
+        <pubDate>Tue, 04 Aug 2020 16:21:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-3</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://drive.google.com/file/d/1veVqxyo6ZWpDB2D7HiW0s-3nXF0abKYn/view?usp=drivesdk" rel="nofollow noopener">https://drive.google.com/file/d/1veVqxyo6ZWpDB2D7HiW0s-3nXF0abKYn/view?usp=drivesdk</a></p>
+<p>Nevermind the request I’ll go ahead and post the audio excerpt anyways. You’ll notice halfway through the audio clip when the reverse riser fades into the next scene, with the bass and lead fade in. The first note of the High Heels synth does this delay effect.</p>
+<p>This may seem like a minor inconvenience or not a huge deal or whatever, but as a music producer, it kind of does bother you. And like I said, it happens 3 other times throughout the song.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/2</link>
+        <pubDate>Tue, 04 Aug 2020 16:19:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-2</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+      <item>
+        <title>Auxy Clicky Sound Glitch</title>
+        <dc:creator><![CDATA[Coral]]></dc:creator>
+        <description><![CDATA[
+            <p>Is anybody else having this issue where, at some point in your project at the beginning of one of your “scenes” - either a synth sound w/ delay will make a lot of unnecessary delay noise, only for a second when the first note hits when it’s not supposed to. Or when you have a kick drum start playing in a scene, when the first kick hits it will kick a little bit too early which makes this annoying clicky noise.</p>
+<p>Now with this track I’m currently making, this glitch happens at 4 different points in the song. Which is frustrating because what I now have to do is render the song out 4 separate times, export all of them to a third party app, and align them all up synchronously. Which, in a weird way, disrupts the flow of the track.</p>
+<p>I’ve tried everything from changing the note length, using automation to lower the amount of delay and lowpass for the first note, as well as what I’ve just stated in the previous paragraph.</p>
+<p>So my question is - does anybody have a simple solution to this problem? I will provide an audio excerpt from the song if requested by somebody, if it’s needed for simplicity sake.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761/1</link>
+        <pubDate>Tue, 04 Aug 2020 16:04:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19761-1</guid>
+        <source url="https://disco.auxy.co/t/auxy-clicky-sound-glitch/19761.rss">Auxy Clicky Sound Glitch</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy 3rd party PLUGIN SUPPORT?</title>
+    <link>https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804</link>
+    <description>Now, ive been keeping my eye on something like this.... it would be cool if you can use 3rd party plugins for auxy (Kinda like garageband).... i mean that would be a game changer, anyone agree??</description>
+    
+    <lastBuildDate>Mon, 10 Aug 2020 16:53:01 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy 3rd party PLUGIN SUPPORT?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>It would be great but can’t imagine it would happen for a myriad of reasons. There’s lots of other awesome hosts out there though (some of my favorites include Nanostudio and Aum).</p>
+<p>Would rather see Auxy devs produce their own AUv3 in some capacity than have it become an AU host, just can’t imagine what a nightmare the UI would be and without any kind of proper midi routing I really don’t know how things like automation would map to CCs for different plugins…</p>
+          <p><a href="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/3</link>
+        <pubDate>Mon, 10 Aug 2020 16:53:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19804-3</guid>
+        <source url="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804.rss">Auxy 3rd party PLUGIN SUPPORT?</source>
+      </item>
+      <item>
+        <title>Auxy 3rd party PLUGIN SUPPORT?</title>
+        <dc:creator><![CDATA[lemonboy]]></dc:creator>
+        <description><![CDATA[
+            <p>Welcome to the community! Make yourself at home!</p>
+          <p><a href="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/2</link>
+        <pubDate>Mon, 10 Aug 2020 16:25:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19804-2</guid>
+        <source url="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804.rss">Auxy 3rd party PLUGIN SUPPORT?</source>
+      </item>
+      <item>
+        <title>Auxy 3rd party PLUGIN SUPPORT?</title>
+        <dc:creator><![CDATA[zhandermusic]]></dc:creator>
+        <description><![CDATA[
+            <p>Now, ive been keeping my eye on something like this… it would be cool if you can use 3rd party plugins for auxy (Kinda like garageband)… i mean that would be a game changer, anyone agree??</p>
+          <p><a href="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804/1</link>
+        <pubDate>Mon, 10 Aug 2020 14:09:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-19804-1</guid>
+        <source url="https://disco.auxy.co/t/auxy-3rd-party-plugin-support/19804.rss">Auxy 3rd party PLUGIN SUPPORT?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+    <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159</link>
+    <description># WIKI: Auxy v6&#39;s new sound shaping features
+
+---
+
+## MASTER :nut_and_bolt:
+
+- **Compress**: Compression is used to reduce dynamic range — the span between the softest and loudest parts of a sound. [1]
+- **Attack**: Attack is the time taken for initial run-up of level from nil to peak, beginning when the key is pressed. [2]
+- **Release**: Release is the time taken for the level to decay from the sustain level to zero after the key is released. [2]
+- **Offset**: Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper, singer and songwriter from Lawrenceville, Georgia. He is a member of the hip hop and trap music trio Migos, alongside cousins Takeoff and Quavo. [3]
+- **Glide**: Glide is a portamento effect, when increased the amount of time it takes the note to “glide” up to the next is increased
+- **Vibrato**: Vibrato is an effect that makes the sound “bounce”. It makes the sound kind of vibrate, and makes it wobble a bit.
+
+&lt;small&gt;NOTES:&lt;/small&gt;
+&lt;small&gt;[1] [Audio Compression Basics](https://www.uaudio.com/blog/audio-compression-basics/)&lt;/small&gt;
+&lt;small&gt;[1] [Audio Dynamics 101](https://www.izotope.com/en/blog/music-production/audio-dynamics-101-compressors-limiters-expanders-and-gates.html)
+&lt;/small&gt;
+&lt;small&gt;[2]&lt;small&gt;
+![svg|213x116](upload://d1V4MPrLH5djOPzxeem6lNbR4HA.png) 
+
+&lt;small&gt;[3]&lt;small&gt;
+![02%20am|122x130](upload://hcmQ2EaWbHrJh8hQQCBu67NdC2e.png) 
+
+---
+
+## DIST
+
+#### Clip
+
+&gt; Clip Distortion is a nonlinear distortion effect that produces unpredictable harmonic spectra. It can simulate warm, overdriven tube sounds and can also generate heavy distortions.
+
+- **Dist**: Master Wet/Dry amount.
+- **Drive**: Clip Wet/Dry amount.
+- **Knee**: Controls the clamp curve as the signal reaches the positive and negative thresholds. [1]
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+&lt;small&gt;NOTES:&lt;/small&gt;
+&lt;small&gt;[1] &#39;Hard&#39; knee&lt;/small&gt;
+![02%20pm|240x254](upload://uzpBxfRzzrBmoETrZchgulPfTcF.png)
+&lt;small&gt;[1] &#39;Soft&#39; knee&lt;/small&gt;
+![20%20pm|249x252](upload://aIQQlkWvg0G4voaExcWP9wbkfkZ.png) 
+
+#### Bitcrusher
+
+&gt; A Bitcrusher is a lo-fi (low fidelity) digital audio effect, which produces a distortion by the reduction of the resolution or bandwidth of digital audio data. The resulting quantization noise may produce a “warmer” sound impression, or a harsh one, depending on the amount of reduction.
+
+- **Dist**: Master Wet/Dry amount.
+- **Crush**: Bitcrusher Wet/Dry amount.
+- **Rate**: Downsamples (lowers sample rate) the original signal. [1]
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+&lt;small&gt;NOTES:&lt;/small&gt;
+&lt;small&gt;[1]&lt;/small&gt;
+![18%20am|665x414](upload://yoQOzsxdISOUA704YZ2VlQgDMbZ.png) 
+
+#### Sineshaper
+
+&gt; A waveshaper is an audio effect that changes an audio signal by mapping an input signal to the output signal by applying a fixed or variable mathematical function (in the case of sine shaping, a sine function), called the shaping function or transfer function, to the input signal. [1]
+
+- **Dist**: Master Wet/Dry amount.
+- **Amount**: Sineshaper Wet/Dry amount.
+- **Phase**: I&#39;m guessing that this adjusts the phase (position in cycle) of the sine function? `Edit me`
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+&lt;small&gt;NOTES:&lt;/small&gt;
+&lt;small&gt;[1] http://msp.ucsd.edu/techniques/latest/book-html/node78.html&lt;/small&gt;
+
+![18%20am|534x447](upload://3iT9ALTuCwydmIaVO695roj2hE5.png) 
+
+---
+
+## Delay
+
+&gt; Delay is an audio effect  which records an input signal, and then plays it back after a period of time. The delayed signal may either be played back multiple times, or played back into the recording again, to create the sound of a repeating, decaying echo.
+
+- **Delay**: Wet/Dry amount.
+- **Time**: This is the time between the source signal and its echo.
+- **Feedback**: Feedback, or regeneration, produces multiple decaying repeats. Increasing the feedback value increases the number of echoes, as well as the resonance that is created as one echo disappears into another.
+- **Ping Pong**: Ping-pong delay is a type of dual delay where the first echo appears in the &#39;ping&#39; channel (for this example: the left channel), delayed by the ping amount, and the second appears in the opposite &#39;pong&#39; channel (the right channel), delayed by the ping time plus the pong time.
+- **Self Duck**: Sidechain compression triggered by master BPM.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Reverb
+
+&gt; Reverberation, in psychoacoustics and acoustics, is a persistence of sound after the sound is produced. A reverberation, or reverb, is created when a sound or signal is reflected causing a large number of reflections to build up and then decay as the sound is absorbed by the surfaces of objects in the space – which could include furniture, people, and air.
+
+- **Reverb**: Wet/Dry amount.
+- **Size**: The simulated room size.
+- **Decay**: This determines how long it takes for the reflections in the room to run out of energy.
+- **Damping**:  The absorption of high frequencies in the reverberation. Low damping values yield less high-frequency absorption, whereas high damping values produce more absorption of high frequencies.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Chorus
+
+&gt; In music, a chorus effect occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one. While similar sounds coming from multiple sources can occur naturally, as in the case of a choir or string orchestra, it can also be simulated using an electronic effects unit or signal processing device.
+
+- **Chorus**: Wet/Dry amount.
+- **Depth**: Depth controls the amount of pitch modulation created by the effect.
+- **Rate**: The frequency, or speed, of the LFO.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Volume
+
+- **High Gain**: A shelving filter’s gain setting is used to control the amount of boost or attenuation that is applied to the filtered frequencies.
+- **High Shelf**: A high-shelf filter is used to boost or attenuate the frequency spectrum’s high end.
+- **Low Gain**: A shelving filter’s gain setting is used to control the amount of boost or attenuation that is applied to the filtered frequencies.
+- **Low Shelf**: A low-shelf filter is used to boost or attenuate the frequency spectrum’s low end.
+- **Gain**: Master volume.</description>
+    
+    <lastBuildDate>Sat, 09 Jul 2022 15:05:04 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>You press new topic, make a title, choose a category and create ur post</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/61</link>
+        <pubDate>Sat, 09 Jul 2022 15:05:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-61</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>How do I post? New here</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/60</link>
+        <pubDate>Sat, 09 Jul 2022 12:15:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-60</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Duk]]></dc:creator>
+        <description><![CDATA[
+            <p>That is funny!</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/59</link>
+        <pubDate>Thu, 02 Jan 2020 21:53:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-59</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s a pun on offset (the rhythmic function on Auxy) and Offset (the rapper).<br>
+</p><aside class="onebox wikipedia">
+  <header class="source">
+      <a href="https://en.wikipedia.org/wiki/Offset_(rapper)" target="_blank" rel="nofollow noopener">en.wikipedia.org</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:220/316;"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Offset_Veld_festival_2017.jpg/220px-Offset_Veld_festival_2017.jpg" class="thumbnail" width="220" height="316"></div>
+
+<h3><a href="https://en.wikipedia.org/wiki/Offset_(rapper)" target="_blank" rel="nofollow noopener">Offset (rapper)</a></h3>
+
+<p>
+ 
+ Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper and songwriter. He is a member of the hip hop and trap music trio Migos, alongside his cousin Quavo and his nephew Takeoff. He is also an investor in esports organization FaZe Clan.
+ The members of Migos were raised middle-class in suburban Gwinnett County, Georgia. In 2008, Offset formed Migos with Quavo and Takeoff. Offset is Quavo's cousin, and Quavo is Takeoff's uncle. The three grew up t...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<p></p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/58</link>
+        <pubDate>Thu, 02 Jan 2020 19:35:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-58</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Duk]]></dc:creator>
+        <description><![CDATA[
+            <p>Why is there a mugshot in the wiki?</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/57</link>
+        <pubDate>Mon, 30 Dec 2019 04:34:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-57</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Weak_Assurance]]></dc:creator>
+        <description><![CDATA[
+            <p>Great guide, thanks a lot!</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/56</link>
+        <pubDate>Sat, 02 Nov 2019 16:20:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-56</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Simon]]></dc:creator>
+        <description><![CDATA[
+            <p>Je😍</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/55</link>
+        <pubDate>Thu, 26 Sep 2019 10:01:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-55</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Kam]]></dc:creator>
+        <description><![CDATA[
+            <p>you can click on the reverb and tune it to your liking. not just the slider anymore</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/54</link>
+        <pubDate>Mon, 23 Sep 2019 04:59:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-54</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Welcome!</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/53</link>
+        <pubDate>Fri, 20 Sep 2019 21:47:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-53</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[YeahMarcYeah]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not sure if this is exactly the right place for this, but how does everyone feel about the new Reverb? I don’t like it at all!  It’s just wayyy too much.  Does anybody else feel this way?</p>
+<p>If you do like it, how do you manage it?</p>
+<p>Thanks</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/52</link>
+        <pubDate>Fri, 20 Sep 2019 18:20:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-52</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Audiocopy should work for your use case.</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/2dd23bca3cef2ae100a98bf2c0780811b4147730.png" alt="21%20pm" data-base62-sha1="6xlUo3rbTrx0Xr6feuHSF1wi1Yk" width="636" height="424"></p>
+<p><a href="https://retronyms.com/audiocopy/" class="onebox" target="_blank" rel="nofollow noopener">https://retronyms.com/audiocopy/</a></p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/51</link>
+        <pubDate>Thu, 12 Sep 2019 11:13:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-51</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>There’s nothing native to Auxy that’s gonna help there. I think Audiocopy by Retronyms has some basic editing functions, it’s free. A really great swiss army knife of audio editing is Audioshare, the dev is great, it’s 5 bucks but it’s paid for itself over and over for me over all these years.</p>
+<p>If you’re talking about trying to clean up content in the <em>middle</em> of the sample (ie not just trimming) that’s gonna be pretty difficult. Maybe with some creative filtering, but it will effect the character of the sound.</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/50</link>
+        <pubDate>Thu, 12 Sep 2019 11:05:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-50</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey guys I have a sample that I’m trying to edit. It’s in reverse but there are some clicking noises from the hi hat and snares that’s originally on the track that I wanted to try and edit out or fix up in a way where you just hear the beat without the clicks. Any tips or assistance would be greatly appreciated.</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/49</link>
+        <pubDate>Thu, 12 Sep 2019 10:58:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-49</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Well that sucks</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/48</link>
+        <pubDate>Wed, 28 Aug 2019 17:43:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-48</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>No midi in. The most connected you’ll get is Ableton Link (so other apps can share tempo data in a session) or straight export to Live option in the project menu.</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/47</link>
+        <pubDate>Mon, 26 Aug 2019 18:29:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-47</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes like the mpk mini</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/46</link>
+        <pubDate>Mon, 26 Aug 2019 17:59:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-46</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>No, Auxy doesn’t support MIDI in, I’m assuming Plugins are input devices.</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/45</link>
+        <pubDate>Mon, 26 Aug 2019 17:42:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-45</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Also is Auxy compatible to midi plugins such as the mpk mini?</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/44</link>
+        <pubDate>Mon, 26 Aug 2019 17:38:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-44</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks glad to be here and yes it does it fine for piano but I have a hard time with it using the wild sax. I like to create a hip hop vibe with my music and lately over been doing pretty good with it using Auxy I’ve had this app on my phone for about 2 years.</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/43</link>
+        <pubDate>Mon, 26 Aug 2019 17:37:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-43</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Jax]]></dc:creator>
+        <description><![CDATA[
+            <p>What do you mean by that? Do you mean can you use a piano roll? If so then yeah, just change it to chromatic mode when you are making a melody. If you meant can you use a piano in Auxy, then you can do that too. Also, Welcome to the community!</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/42</link>
+        <pubDate>Fri, 23 Aug 2019 16:17:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-42</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyone know if Auxy has some sort of feature for great piano rolls?</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/41</link>
+        <pubDate>Fri, 23 Aug 2019 14:12:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-41</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Welcome!</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/40</link>
+        <pubDate>Fri, 23 Aug 2019 13:34:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-40</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Antbrick]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m hoping they have plans on adding trap sound or 808 base. Auxy would really be next level with a hip hop sound pack</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/39</link>
+        <pubDate>Fri, 23 Aug 2019 03:09:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-39</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Holy hairballs when is the last time this was updated?</p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/38</link>
+        <pubDate>Sat, 20 Jul 2019 18:35:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-38</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+      <item>
+        <title>WIKI: Auxy v6&#39;s new sound shaping features</title>
+        <dc:creator><![CDATA[Intikus]]></dc:creator>
+        <description><![CDATA[
+            <p>Someone should put this up on the Auxy wiki</p>
+<p><a href="https://auxy.fandom.com/wiki/Auxy_Wiki" rel="nofollow noopener">https://auxy.fandom.com/wiki/Auxy_Wiki</a></p>
+          <p><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/37</link>
+        <pubDate>Sat, 20 Jul 2019 18:23:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16159-37</guid>
+        <source url="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159.rss">WIKI: Auxy v6&#39;s new sound shaping features</source>
+      </item>
+  </channel>
+</rss>

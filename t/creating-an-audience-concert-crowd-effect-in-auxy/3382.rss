@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Creating an audience/concert crowd effect in Auxy</title>
+    <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382</link>
+    <description>You’ve heard some of those songs, sounding like it’s being played live at a concert. And you may have wanted to add that effect in that Auxy track you’ve been working on for almost a month now.
+
+_Well..._
+It’s possible! Just follow these simple steps! The process may take some time, and this is pretty easy to do!
+______________
+Step one: You only need literally one instrument, or rather, effect: The Almighty Sweeper!
+![115F9425-AD32-4447-B016-E1F72053350B|281x499](upload://fzKaEijipiintOV0OnnLPedlUor.png)
+
+Just go to the editor and you don’t even need to do anything fancy! Just simply leave the editor as 1 bar, and place and extend any note (Recommend: The middle of the scale; Example: The middle G) to make it last for the whole bar.
+![DF884D49-419B-4821-86B4-D4C2600850CF|281x499](upload://hdrVAYEkdTeBRIlhniDsq4Y6L0m.png)
+__________
+Step two: Copy and pasting.
+In order to do this, you need to copy and paste to get multiple sweepers, have at least three, maximum five.
+![0C0689F6-3585-4A13-9780-8E57CBE13A89|281x499](upload://bjKppPAaRLtJpFFOD7iaA37EoB6.png)
+____________
+Step three: The most important tool: The Epic Automation.
+This is the most crucial part to know about making your riot loud crowd! You need these Automations: Lowpass, Highpass, Pitch, Reverb, Pan, and this is optional, Volume.
+
+![F69034EE-1D9E-4346-BD29-D6BA05F55C55|280x500](upload://3UAJdi8M7iiNuJI1nDCBbG2JG8J.jpeg)
+
+Lowpass and Highpass: Since this is how you usually make your fade ins and outs, when you kinda play around with it, it can make a lot of effects, but right now we’re focused on making your “big audience”.
+
+Pitch: Notice how in concerts you hear screaming and cheering. This is the big essential of making your effect in Automation.
+
+Reverb: It gives that little echo effect in your audience.
+
+Pan: The listener will feel as if they were immersed in your song with the crowd, especially with headphones on.
+___________
+_The next following steps can be done in any order!_
+_Repeat this process for each part of the sweepers, making sure that you vary your Pitch, Highpass, Lowpass and Pan nodes!_
+
+_Tip: You don’t necessarily need to use only one bar for making the effect for each Sweeper, that’s boring! Vary them from 1 bar to 4, 8 if you want to!_
+__________
+ Lowpass and Highpass:
+Lowpass: This is really important for how loud you want your audience effect, so it’s recommended to keep between this area (Imagine a two lines that’s surround the area in these two images):
+![5BDF1024-5D31-45A3-8A41-40703C325F36|281x499](upload://agOxTspYaVMPq0swTu02KyUsw7p.png)![28907DA3-467C-4B7D-960F-9218FE5E78EE|281x499](upload://iVhMM4C4mh4P6MqKlNXMBHDsbnX.png)
+
+Highpass: Since it kind of alters the pitch of your sweeper, be sure to slightly modify the Highpass from between 10% Highpass to about 60% Highpass:
+![491BE6F3-8A9A-4A63-B574-BEAC430C4E78|281x499](upload://nww9IWXZ2JRhFyirHEIwrpYdAt1.png)![F189FD4C-57F1-423F-B5D5-FE07B7B8A18F|281x499](upload://rZIM13sT3p0X5wXgGx81NGh7P0s.png)
+____________
+Pan: You can do whatever you want with Pan, just make sure you place the nodes a long way apart for each other for a smoother pan, in different lengths and positions to make the crowd seem realistic, while immersing your listener into thinking they’re part of a concert if they’re wearing headphones:
+![8A19B6C9-4717-45F5-8F41-F8F8FB52C2DB|281x499](upload://nn9hcBee5W60KlPXOjfNE79VABa.png)![8FCC0096-9B7E-4CBE-BEFB-68EBC042E756|281x499](upload://44uMV1s0UcfWh0Fp201UAr5WpJY.png)
+________
+Pitch: This is the most important and crucial part of making the effect, and this may be the most fun! And the funny thing is, there’s two ways to do this, the normal and formal way, or the random way.
+
+Random way (Faster, but may not give the full effect): Literally place nodes everywhere in random places :joy:
+ ![D593079D-0DFF-47C6-AA19-FDD5BFC3E642|281x499](upload://urbtwpLNAn7gdavyTXIL7LKzNzz.png)![B1A9200C-9D05-4A4C-A710-63B8A6A08E79|281x499](upload://nxAfEFw8qeYchtrD1x70sH3DXcO.png)![A795B6FF-64FA-4FC1-BCB8-DA404A3514E9|281x499](upload://ayHWtMpFPpoOYZaBLFHUV0Gb7ru.png)![10E1F022-CABA-4533-814C-CA5FD49D1B23|281x499](upload://hVGfA6FOCrVWpZoYOpju4RILGOM.png)
+
+Normal way (Slower, because you carefully place nodes): This way, you place nodes in a large variety of places, and you’ll have more control over the effect, and you’ll be able to do many different distances and placements of Automation nodes carefully, ensuring that the crowd sounds a little more realistic.
+![A28E3174-5BBE-43BE-BC4D-F034A894F4D0|281x499](upload://alFZ6sZ7ecoN9a4tT38tJul4VUY.png)![76E12C3B-1993-4C39-A035-B36A2B0F4D13|281x499](upload://cwRVu4RgIeXfHt56Gom7fHw7GRO.png)
+________
+Reverb: This is what makes it sound like your song is taking place in a big hollow-ish area, like a stadium.
+__________
+Repeat this process with the rest of the Sweepers, and hopefully this helped you make that crowd effect!
+And keep making those amazing tracks! :smile:</description>
+    
+    <lastBuildDate>Tue, 24 Oct 2017 21:42:31 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t want to step on <a class="mention" href="https://disco.auxy.co/u/razerfireriot">@RazerFireRiot</a>’s   toes, but he’s happy for me to post the project I created with the above instructions I can do that.</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/11</link>
+        <pubDate>Tue, 24 Oct 2017 21:42:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-11</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[moemx]]></dc:creator>
+        <description><![CDATA[
+            <p>can you or <a class="mention" href="https://disco.auxy.co/u/razerfireriot">@RazerFireRiot</a> please post a preview of this? thanks for the tip!! <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/10</link>
+        <pubDate>Tue, 24 Oct 2017 21:40:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-10</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve never really fully explored GarageBand, but you do have a good point there.</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/9</link>
+        <pubDate>Tue, 24 Oct 2017 16:49:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-9</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[Produk]]></dc:creator>
+        <description><![CDATA[
+            <p>Edit: you realize you could just place multiple notes on one sweeper instrument?</p>
+<p>Why would you waste this many instruments when you could just use a loop in GarageBand. I use all my instruments most of the time WITHOUT the sweeper.<br>
+Cool idea, but no thanks.</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/8</link>
+        <pubDate>Tue, 24 Oct 2017 16:22:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-8</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks! I’ve used this technique a few times in my songs, and it added a little spice to it too</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/7</link>
+        <pubDate>Tue, 24 Oct 2017 11:51:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-7</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Tried your technique and it works pretty well.  <img src="https://emoji.discourse-cdn.com/apple/smile.png?v=5" title=":smile:" class="emoji" alt=":smile:"></p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/6</link>
+        <pubDate>Tue, 24 Oct 2017 11:19:43 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-6</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>As it turns out, I basically rushed through making the project just for the screenshots, so right now, I’ll take some time to work on the video tutorial, and then publish the project link.</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/5</link>
+        <pubDate>Tue, 24 Oct 2017 02:10:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-5</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <p>Can we have the project file?</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/4</link>
+        <pubDate>Tue, 24 Oct 2017 01:50:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-4</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m looking for a song where I used this effect, and I’m planning out a video tutorial to show how it’s done!</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/3</link>
+        <pubDate>Tue, 24 Oct 2017 01:46:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-3</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[LimeZ]]></dc:creator>
+        <description><![CDATA[
+            <p>Can we see a preview?</p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/2</link>
+        <pubDate>Tue, 24 Oct 2017 01:44:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-2</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+      <item>
+        <title>Creating an audience/concert crowd effect in Auxy</title>
+        <dc:creator><![CDATA[RazerFireRiot]]></dc:creator>
+        <description><![CDATA[
+            <p>You’ve heard some of those songs, sounding like it’s being played live at a concert. And you may have wanted to add that effect in that Auxy track you’ve been working on for almost a month now.</p>
+<p><em>Well…</em><br>
+It’s possible! Just follow these simple steps! The process may take some time, and this is pretty easy to do!</p>
+<hr>
+<p>Step one: You only need literally one instrument, or rather, effect: The Almighty Sweeper!<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273.png" title="115F9425-AD32-4447-B016-E1F72053350B.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273_2_281x499.png" alt="115F9425-AD32-4447-B016-E1F72053350B" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/6/6d2b000cd07226759aad7fc0f6548472419e5273_2_10x10.png"></a></div><p></p>
+<p>Just go to the editor and you don’t even need to do anything fancy! Just simply leave the editor as 1 bar, and place and extend any note (Recommend: The middle of the scale; Example: The middle G) to make it last for the whole bar.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662.png" title="DF884D49-419B-4821-86B4-D4C2600850CF.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662_2_281x499.png" alt="DF884D49-419B-4821-86B4-D4C2600850CF" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/78aa30e4e9991bc39c8ac999dfe0356d4f9e4662_2_10x10.png"></a></div><p></p>
+<hr>
+<p>Step two: Copy and pasting.<br>
+In order to do this, you need to copy and paste to get multiple sweepers, have at least three, maximum five.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c.png" title="0C0689F6-3585-4A13-9780-8E57CBE13A89.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c_2_281x499.png" alt="0C0689F6-3585-4A13-9780-8E57CBE13A89" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4f53672120e7312593f19e10d650e5ca92a0102c_2_10x10.png"></a></div><p></p>
+<hr>
+<p>Step three: The most important tool: The Epic Automation.<br>
+This is the most crucial part to know about making your riot loud crowd! You need these Automations: Lowpass, Highpass, Pitch, Reverb, Pan, and this is optional, Volume.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d.jpeg" title="F69034EE-1D9E-4346-BD29-D6BA05F55C55.jpeg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d_2_280x500.jpeg" alt="F69034EE-1D9E-4346-BD29-D6BA05F55C55" width="280" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d_2_280x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d_2_420x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d_2_560x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1b6c359afee3df3efb7bd62b80362d8b70df6d7d_2_10x10.png"></a></div><p></p>
+<p>Lowpass and Highpass: Since this is how you usually make your fade ins and outs, when you kinda play around with it, it can make a lot of effects, but right now we’re focused on making your “big audience”.</p>
+<p>Pitch: Notice how in concerts you hear screaming and cheering. This is the big essential of making your effect in Automation.</p>
+<p>Reverb: It gives that little echo effect in your audience.</p>
+<p>Pan: The listener will feel as if they were immersed in your song with the crowd, especially with headphones on.</p>
+<hr>
+<p><em>The next following steps can be done in any order!</em><br>
+<em>Repeat this process for each part of the sweepers, making sure that you vary your Pitch, Highpass, Lowpass and Pan nodes!</em></p>
+<p><em>Tip: You don’t necessarily need to use only one bar for making the effect for each Sweeper, that’s boring! Vary them from 1 bar to 4, 8 if you want to!</em></p>
+<hr>
+<p>Lowpass and Highpass:<br>
+Lowpass: This is really important for how loud you want your audience effect, so it’s recommended to keep between this area (Imagine a two lines that’s surround the area in these two images):<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b.png" title="5BDF1024-5D31-45A3-8A41-40703C325F36.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b_2_281x499.png" alt="5BDF1024-5D31-45A3-8A41-40703C325F36" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/47fc58461fc8db478c8f5aa3b106dce14ffdc72b_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69.png" title="28907DA3-467C-4B7D-960F-9218FE5E78EE.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69_2_281x499.png" alt="28907DA3-467C-4B7D-960F-9218FE5E78EE" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/8/84a0ea74987a5c0123aa4fc8bb94d945c885bd69_2_10x10.png"></a></div><p></p>
+<p>Highpass: Since it kind of alters the pitch of your sweeper, be sure to slightly modify the Highpass from between 10% Highpass to about 60% Highpass:<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f.png" title="491BE6F3-8A9A-4A63-B574-BEAC430C4E78.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f_2_281x499.png" alt="491BE6F3-8A9A-4A63-B574-BEAC430C4E78" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4df092120ee82c57bf0e9ca095b99c6377db58f_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840.png" title="F189FD4C-57F1-423F-B5D5-FE07B7B8A18F.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840_2_281x499.png" alt="F189FD4C-57F1-423F-B5D5-FE07B7B8A18F" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/c434d4c792bc742a002ab786b1fa92b8fe909840_2_10x10.png"></a></div><p></p>
+<hr>
+<p>Pan: You can do whatever you want with Pan, just make sure you place the nodes a long way apart for each other for a smoother pan, in different lengths and positions to make the crowd seem realistic, while immersing your listener into thinking they’re part of a concert if they’re wearing headphones:<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8.png" title="8A19B6C9-4717-45F5-8F41-F8F8FB52C2DB.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8_2_281x499.png" alt="8A19B6C9-4717-45F5-8F41-F8F8FB52C2DB" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a3cfe98489d32ac889296ce389dbff38f44fbcf8_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6.png" title="8FCC0096-9B7E-4CBE-BEFB-68EBC042E756.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6_2_281x499.png" alt="8FCC0096-9B7E-4CBE-BEFB-68EBC042E756" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/1c8ad1d8770d1c591c82b92a95fb2b0aba049da6_2_10x10.png"></a></div><p></p>
+<hr>
+<p>Pitch: This is the most important and crucial part of making the effect, and this may be the most fun! And the funny thing is, there’s two ways to do this, the normal and formal way, or the random way.</p>
+<p>Random way (Faster, but may not give the full effect): Literally place nodes everywhere in random places <img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"><br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589.png" title="D593079D-0DFF-47C6-AA19-FDD5BFC3E642.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589_2_281x499.png" alt="D593079D-0DFF-47C6-AA19-FDD5BFC3E642" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/d/d553e8cba53f7b8b1a282a73e1806c00f96cc589_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e.png" title="B1A9200C-9D05-4A4C-A710-63B8A6A08E79.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e_2_281x499.png" alt="B1A9200C-9D05-4A4C-A710-63B8A6A08E79" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/a4fde2b5d76461d1a5fc531c035691763d3af39e_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c.png" title="A795B6FF-64FA-4FC1-BCB8-DA404A3514E9.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c_2_281x499.png" alt="A795B6FF-64FA-4FC1-BCB8-DA404A3514E9" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/4a0226e2b85d1e96f423cf989621356ca6b4924c_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c.png" title="10E1F022-CABA-4533-814C-CA5FD49D1B23.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c_2_281x499.png" alt="10E1F022-CABA-4533-814C-CA5FD49D1B23" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7daa2920b495eb5bb5e75248ef21cdfd2005a99c_2_10x10.png"></a></div><p></p>
+<p>Normal way (Slower, because you carefully place nodes): This way, you place nodes in a large variety of places, and you’ll have more control over the effect, and you’ll be able to do many different distances and placements of Automation nodes carefully, ensuring that the crowd sounds a little more realistic.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0.png" title="A28E3174-5BBE-43BE-BC4D-F034A894F4D0.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0_2_281x499.png" alt="A28E3174-5BBE-43BE-BC4D-F034A894F4D0" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/4/48890a56fd18433bbfede59c38ea5b1bf05dd1e0_2_10x10.png"></a></div><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58.png" title="76E12C3B-1993-4C39-A035-B36A2B0F4D13.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58_2_281x499.png" alt="76E12C3B-1993-4C39-A035-B36A2B0F4D13" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/57d14881b4c0e21f9785cd0c4fda2aee1eaddf58_2_10x10.png"></a></div><p></p>
+<hr>
+<p>Reverb: This is what makes it sound like your song is taking place in a big hollow-ish area, like a stadium.</p>
+<hr>
+<p>Repeat this process with the rest of the Sweepers, and hopefully this helped you make that crowd effect!<br>
+And keep making those amazing tracks! <img src="https://emoji.discourse-cdn.com/apple/smile.png?v=9" title=":smile:" class="emoji" alt=":smile:"></p>
+          <p><a href="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382/1</link>
+        <pubDate>Tue, 24 Oct 2017 01:43:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-3382-1</guid>
+        <source url="https://disco.auxy.co/t/creating-an-audience-concert-crowd-effect-in-auxy/3382.rss">Creating an audience/concert crowd effect in Auxy</source>
+      </item>
+  </channel>
+</rss>

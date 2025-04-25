@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bar Changes (Visually)</title>
+    <link>https://disco.auxy.co/t/bar-changes-visually/21171</link>
+    <description>So... I’m not sure if this is normal, but I opened auxy to see my bars look... a little different. See for yourself:
+
+![image|429x300](upload://g6lJWWpwDEa5DgyD17lg5aEauEI.jpeg)</description>
+    
+    <lastBuildDate>Wed, 16 Jun 2021 17:12:39 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/bar-changes-visually/21171.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bar Changes (Visually)</title>
+        <dc:creator><![CDATA[Riff]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh ok thanks for letting me know!</p>
+          <p><a href="https://disco.auxy.co/t/bar-changes-visually/21171/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bar-changes-visually/21171/3</link>
+        <pubDate>Wed, 16 Jun 2021 17:12:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21171-3</guid>
+        <source url="https://disco.auxy.co/t/bar-changes-visually/21171.rss">Bar Changes (Visually)</source>
+      </item>
+      <item>
+        <title>Bar Changes (Visually)</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah we improved the preview in a recent update, to make it easier to see how many loops you have in each.</p>
+          <p><a href="https://disco.auxy.co/t/bar-changes-visually/21171/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bar-changes-visually/21171/2</link>
+        <pubDate>Mon, 14 Jun 2021 16:36:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21171-2</guid>
+        <source url="https://disco.auxy.co/t/bar-changes-visually/21171.rss">Bar Changes (Visually)</source>
+      </item>
+      <item>
+        <title>Bar Changes (Visually)</title>
+        <dc:creator><![CDATA[Riff]]></dc:creator>
+        <description><![CDATA[
+            <p>So… I’m not sure if this is normal, but I opened auxy to see my bars look… a little different. See for yourself:</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/7/0/70da8f938111983b2fe3b11ea7e3f6668d9faf84.jpeg" alt="image" data-base62-sha1="g6lJWWpwDEa5DgyD17lg5aEauEI" width="429" height="300"></p>
+          <p><a href="https://disco.auxy.co/t/bar-changes-visually/21171/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/bar-changes-visually/21171/1</link>
+        <pubDate>Mon, 14 Jun 2021 07:09:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21171-1</guid>
+        <source url="https://disco.auxy.co/t/bar-changes-visually/21171.rss">Bar Changes (Visually)</source>
+      </item>
+  </channel>
+</rss>

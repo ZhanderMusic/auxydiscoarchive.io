@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Distortion overrides slow attack?</title>
+    <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529</link>
+    <description>Anyone noticed that various distortion settings, such as Knee on Clip distortion or Crush on Bitcrush distortion have the effect of overriding slow Attack settings — i.e. as Knee or Crush levels increase, a slow Attack setting is gradually reduced to short/0.
+
+Is there a reason for this that I’m missing — technical limitation, sound design decision, sound design oversight (e.g. effects chain order) or bug?</description>
+    
+    <lastBuildDate>Thu, 28 Oct 2021 06:13:04 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>The current arrangement does produce an outcome that’s intuitively sub-optimal in that it’s not possible to have a slow attack instrument with high levels of distortion — though the combination works as expected in other synth apps that I checked.</p>
+<p>Maybe the ability for users to customise the FX chain order (per instrument) — including Amp Envelope — would be a good candidate for a future upgrade/enhancement? It would help improve Auxy’s sound design capabilities. <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=10" title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/6</link>
+        <pubDate>Thu, 28 Oct 2021 06:13:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-6</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Not exactly sure what you mean, but we’re not moving the amp envelope to post distortion.</p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/5</link>
+        <pubDate>Wed, 27 Oct 2021 07:32:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-5</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Is that something that might be adjusted towards expected behaviour by order of the FX?</p>
+<p>Is the Attack wave envelope or amplitude envelope?</p>
+<p>If wave, then I guess nothing to be done, but if amplitude envelope… maybe?</p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/4</link>
+        <pubDate>Wed, 27 Oct 2021 07:25:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-4</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>It doesn’t override it but distortion is, by definition, distorting the input/output level ratio. In practice, this means it will amplify your weak signals and thus mess up the fade in.</p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/3</link>
+        <pubDate>Wed, 27 Oct 2021 07:19:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-3</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>I never really use the Attack feature (except to remove clicking), so idk</p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/2</link>
+        <pubDate>Sat, 23 Oct 2021 04:04:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-2</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+      <item>
+        <title>Distortion overrides slow attack?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyone noticed that various distortion settings, such as Knee on Clip distortion or Crush on Bitcrush distortion have the effect of overriding slow Attack settings — i.e. as Knee or Crush levels increase, a slow Attack setting is gradually reduced to short/0.</p>
+<p>Is there a reason for this that I’m missing — technical limitation, sound design decision, sound design oversight (e.g. effects chain order) or bug?</p>
+          <p><a href="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/distortion-overrides-slow-attack/21529/1</link>
+        <pubDate>Fri, 22 Oct 2021 15:05:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21529-1</guid>
+        <source url="https://disco.auxy.co/t/distortion-overrides-slow-attack/21529.rss">Distortion overrides slow attack?</source>
+      </item>
+  </channel>
+</rss>

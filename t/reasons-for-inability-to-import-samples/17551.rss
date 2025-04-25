@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Reasons for inability to import samples</title>
+    <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551</link>
+    <description>im trying to import a sample from icloud that is a 5 second .wav file. when i try to import, it just says “sample could not be imported” and when i went to FAQ all it said was max length 20 seconds and has to be wav/flac. any help? also sorry if there was already a thread for this and i just didnt bother to look.</description>
+    
+    <lastBuildDate>Sun, 01 Dec 2019 02:19:59 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Agree with MM post it here. If it’s not a 16bit wave file it will NOT import.</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/7</link>
+        <pubDate>Sun, 01 Dec 2019 02:19:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-7</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve sometimes had this error with importing wav files too. I wasn’t sure why either (they were under 20 seconds) I had to convert my samples to FLAC and it worked</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/6</link>
+        <pubDate>Sun, 01 Dec 2019 00:12:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-6</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>Put your wav online and post the link to it here, so someone else can test it.</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/5</link>
+        <pubDate>Sat, 30 Nov 2019 02:49:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-5</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[Osharu]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmmmmm…<br>
+Beat to email the devs from straight inside the app! Tell them what’s going on, and if you could include a screen recording of what’s happening, I’m sure they’ll appreciate it!!</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/4</link>
+        <pubDate>Sat, 30 Nov 2019 01:40:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-4</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[DKsounds]]></dc:creator>
+        <description><![CDATA[
+            <p>ive tried again and again it wont work</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/3</link>
+        <pubDate>Sat, 30 Nov 2019 01:21:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-3</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[Osharu]]></dc:creator>
+        <description><![CDATA[
+            <p>Have you tried importing it again?<br>
+This happens to me all the time. I try to import a short sample, and it won’t import, then I try again, and then it does work.</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/2</link>
+        <pubDate>Sat, 30 Nov 2019 00:25:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-2</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+      <item>
+        <title>Reasons for inability to import samples</title>
+        <dc:creator><![CDATA[DKsounds]]></dc:creator>
+        <description><![CDATA[
+            <p>im trying to import a sample from icloud that is a 5 second .wav file. when i try to import, it just says “sample could not be imported” and when i went to FAQ all it said was max length 20 seconds and has to be wav/flac. any help? also sorry if there was already a thread for this and i just didnt bother to look.</p>
+          <p><a href="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551/1</link>
+        <pubDate>Fri, 29 Nov 2019 19:24:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17551-1</guid>
+        <source url="https://disco.auxy.co/t/reasons-for-inability-to-import-samples/17551.rss">Reasons for inability to import samples</source>
+      </item>
+  </channel>
+</rss>

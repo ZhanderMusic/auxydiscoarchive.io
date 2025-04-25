@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Poll: How should adding new scenes work?</title>
+    <link>https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462</link>
+    <description>As you probably have noticed, we have changed the &quot;new scene&quot; behavior to create an empty scene by default. This allows you to start &quot;blank&quot; if you want to, while you can duplicate any existing scene in case you want to start with a certain set of active loops.
+
+However, we have been getting feedback from people who prefer the old behavior, where the currently playing loops would stay active whenever you create a new scene. Therefore, it would be great if you could share what your personal preference is.
+
+## What should happen when you add a scene?
+[poll type=regular results=always chartType=bar]
+* Create a blank scene with no loops active
+* Keep the currently playing loops active
+[/poll]</description>
+    
+    <lastBuildDate>Mon, 04 Oct 2021 18:28:42 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Poll: How should adding new scenes work?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Cheddr" data-post="4" data-topic="21462">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/cheddr/40/15988_2.png" class="avatar"> Cheddr:</div>
+<blockquote>
+<p>Shoot, I clicked the wrong one. I want to revert as well.</p>
+</blockquote>
+</aside>
+<ol>
+<li>Click <img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/e/6/e6097ff68bf040df2b60fba9eb1ac792677f6909.png" alt="image" data-base62-sha1="wP0aDrfPhSxbnMWa0HOfReRXQEh" width="115" height="36">
+</li>
+<li>Change vote <img src="https://emoji.discourse-cdn.com/apple/+1.png?v=10" title=":+1:" class="emoji" alt=":+1:">
+</li>
+</ol>
+          <p><a href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/5</link>
+        <pubDate>Mon, 04 Oct 2021 18:28:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21462-5</guid>
+        <source url="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462.rss">Poll: How should adding new scenes work?</source>
+      </item>
+      <item>
+        <title>Poll: How should adding new scenes work?</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Shoot, I clicked the wrong one. I want to revert as well.</p>
+<p>There is a flow that I would get into where I build my song parts and then make and arrangement by duplicating at the end. Maybe a way to accomplish this is with a long press option for “copy and paste at the end” in each scene while still keeping “start a new blank scene” with the plus button.</p>
+          <p><a href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/4</link>
+        <pubDate>Mon, 04 Oct 2021 11:51:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21462-4</guid>
+        <source url="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462.rss">Poll: How should adding new scenes work?</source>
+      </item>
+      <item>
+        <title>Poll: How should adding new scenes work?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the votes so far! Seems like we should revert this behavior to how it was in previous versions.</p>
+          <p><a href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/2</link>
+        <pubDate>Wed, 29 Sep 2021 10:49:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21462-2</guid>
+        <source url="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462.rss">Poll: How should adding new scenes work?</source>
+      </item>
+      <item>
+        <title>Poll: How should adding new scenes work?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>As you probably have noticed, we have changed the “new scene” behavior to create an empty scene by default. This allows you to start “blank” if you want to, while you can duplicate any existing scene in case you want to start with a certain set of active loops.</p>
+<p>However, we have been getting feedback from people who prefer the old behavior, where the currently playing loops would stay active whenever you create a new scene. Therefore, it would be great if you could share what your personal preference is.</p>
+<h2>
+<a name="what-should-happen-when-you-add-a-scene-1" class="anchor" href="https://disco.auxy.co#what-should-happen-when-you-add-a-scene-1"></a>What should happen when you add a scene?</h2>
+<p><a href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/1">Click to view the poll.</a></p>
+          <p><a href="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462/1</link>
+        <pubDate>Tue, 28 Sep 2021 10:00:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21462-1</guid>
+        <source url="https://disco.auxy.co/t/poll-how-should-adding-new-scenes-work/21462.rss">Poll: How should adding new scenes work?</source>
+      </item>
+  </channel>
+</rss>

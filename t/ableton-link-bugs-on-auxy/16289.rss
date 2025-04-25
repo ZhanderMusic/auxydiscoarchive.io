@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ableton link bugs on Auxy</title>
+    <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289</link>
+    <description>Hi! So I’ve been messing around with ableton link and I’m still curious how you play a melody in other mobile daw... well anyways I just found some bugs that I’ve found while enabling ableton link 
+
+![image|281x500](upload://2FY1Ir9SSaMe14zCLnga7XyhPPr.jpeg) ![image|281x500](upload://bqIvEo5oY8wgYko6q7XMJnUzDZg.jpeg) 
+
+Do you have same bugs like this? Lemme know</description>
+    
+    <lastBuildDate>Wed, 24 Jul 2019 21:41:31 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[Sodisant]]></dc:creator>
+        <description><![CDATA[
+            <p>I have done that it just won’t connect</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/7</link>
+        <pubDate>Wed, 24 Jul 2019 21:41:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-7</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Link for sure needs to be turned on in both applications and they MUST be on the same network (ie, wireless network, or even wired, but must be same network).</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/6</link>
+        <pubDate>Wed, 24 Jul 2019 12:55:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-6</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[Sodisant]]></dc:creator>
+        <description><![CDATA[
+            <p>my Ableton link can’t even find my Ableton</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/5</link>
+        <pubDate>Wed, 24 Jul 2019 10:34:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-5</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Haven’t noted issues with UI and using Link with other apps. There are definitely still problems with Link in Auxy, but devs are aware of them. The two biggest problems I’ve seen (heard) is that when you introduce another Link enabled app into your session, the audio in Auxy halts. The newly added app(s) also don’t honor the tempo set by Auxy (ie, my Auxy project is running at 80bpm, but in Blocs Wave the last used tempo was 120 - both apps will match 120bpm). Once you change tempo both will be in sync, but it’s really not supposed to work like this…</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/4</link>
+        <pubDate>Mon, 22 Jul 2019 13:22:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-4</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[anon2811266]]></dc:creator>
+        <description><![CDATA[
+            <p>Tbh the setting panel kinda looks good</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/3</link>
+        <pubDate>Mon, 22 Jul 2019 13:21:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-3</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve had the same visual bug with the instrument setting panel, but it’s not with ableton link. I can’t remember exactly how I did it, but I have managed to find this bug a few times.</p>
+<p>It was also in the beta, and I did manage to find one instance of this happening, but also not related to the ableton link.</p>
+<p>I haven’t ever seen what’s going on on the left side with the purple instrument though…</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/2</link>
+        <pubDate>Mon, 22 Jul 2019 13:14:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-2</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+      <item>
+        <title>Ableton link bugs on Auxy</title>
+        <dc:creator><![CDATA[anon2811266]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi! So I’ve been messing around with ableton link and I’m still curious how you play a melody in other mobile daw… well anyways I just found some bugs that I’ve found while enabling ableton link</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39.jpeg" data-download-href="/uploads/short-url/2FY1Ir9SSaMe14zCLnga7XyhPPr.jpeg?dl=1" title="4A92EDAE-3DCF-49BB-A6F7-C15CB3D94C4D.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39_2_281x500.jpeg" alt="image" data-base62-sha1="2FY1Ir9SSaMe14zCLnga7XyhPPr" width="281" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39_2_281x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39_2_421x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39_2_562x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/1/12c2d5e60319ca9542e99c14ecf9f1415fc98e39_2_10x10.png"></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/5/501d1596146b6957e71a7b3acda551fa121d553a.jpeg" data-download-href="/uploads/short-url/bqIvEo5oY8wgYko6q7XMJnUzDZg.jpeg?dl=1" title="630CC94E-C5DC-4230-A862-E0E448DDE825.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/501d1596146b6957e71a7b3acda551fa121d553a_2_281x500.jpeg" alt="image" data-base62-sha1="bqIvEo5oY8wgYko6q7XMJnUzDZg" width="281" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/501d1596146b6957e71a7b3acda551fa121d553a_2_281x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/501d1596146b6957e71a7b3acda551fa121d553a_2_421x750.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/501d1596146b6957e71a7b3acda551fa121d553a_2_562x1000.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/5/501d1596146b6957e71a7b3acda551fa121d553a_2_10x10.png"></a></div><p></p>
+<p>Do you have same bugs like this? Lemme know</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289/1</link>
+        <pubDate>Mon, 22 Jul 2019 13:03:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16289-1</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-bugs-on-auxy/16289.rss">Ableton link bugs on Auxy</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Samples getting lost</title>
+    <link>https://disco.auxy.co/t/samples-getting-lost/17362</link>
+    <description>Does anyone else have this problem?
+
+I import my samples into Auxy in a specific Auxy folder, and somehow, over time, that folder in Auxy gets randomly deleted due to maybe a lost connection, and I have to import all of my samples back in Auxy all over again for my projects.</description>
+    
+    <lastBuildDate>Tue, 12 Nov 2019 17:11:42 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/samples-getting-lost/17362.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Samples getting lost</title>
+        <dc:creator><![CDATA[Kam]]></dc:creator>
+        <description><![CDATA[
+            <p>Yup this happened to me 2 months ago I still don’t know why it happened.</p>
+          <p><a href="https://disco.auxy.co/t/samples-getting-lost/17362/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/samples-getting-lost/17362/4</link>
+        <pubDate>Tue, 12 Nov 2019 17:11:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17362-4</guid>
+        <source url="https://disco.auxy.co/t/samples-getting-lost/17362.rss">Samples getting lost</source>
+      </item>
+      <item>
+        <title>Samples getting lost</title>
+        <dc:creator><![CDATA[Geovannitheson]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting! I didn’t know Auxy could’ve picked up mp4 I guess I have to check it out</p>
+          <p><a href="https://disco.auxy.co/t/samples-getting-lost/17362/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/samples-getting-lost/17362/3</link>
+        <pubDate>Mon, 11 Nov 2019 06:38:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17362-3</guid>
+        <source url="https://disco.auxy.co/t/samples-getting-lost/17362.rss">Samples getting lost</source>
+      </item>
+      <item>
+        <title>Samples getting lost</title>
+        <dc:creator><![CDATA[Osharu]]></dc:creator>
+        <description><![CDATA[
+            <p>I can testify to this happening to me as well, and I don’t know why, but I think it has to do with the type of audio file the sample is? I seem to lose most of my .wav files, but for some reason, have kept all of my .mp4 files…</p>
+          <p><a href="https://disco.auxy.co/t/samples-getting-lost/17362/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/samples-getting-lost/17362/2</link>
+        <pubDate>Mon, 11 Nov 2019 04:14:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17362-2</guid>
+        <source url="https://disco.auxy.co/t/samples-getting-lost/17362.rss">Samples getting lost</source>
+      </item>
+      <item>
+        <title>Samples getting lost</title>
+        <dc:creator><![CDATA[Geovannitheson]]></dc:creator>
+        <description><![CDATA[
+            <p>Does anyone else have this problem?</p>
+<p>I import my samples into Auxy in a specific Auxy folder, and somehow, over time, that folder in Auxy gets randomly deleted due to maybe a lost connection, and I have to import all of my samples back in Auxy all over again for my projects.</p>
+          <p><a href="https://disco.auxy.co/t/samples-getting-lost/17362/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/samples-getting-lost/17362/1</link>
+        <pubDate>Mon, 11 Nov 2019 01:19:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17362-1</guid>
+        <source url="https://disco.auxy.co/t/samples-getting-lost/17362.rss">Samples getting lost</source>
+      </item>
+  </channel>
+</rss>

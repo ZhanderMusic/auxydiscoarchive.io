@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A help to import samples to Auxy</title>
+    <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980</link>
+    <description>I need help with importing a sample in Auxy.
+
+First, I went to YouTube to copy a video link on my mobile phone, then I went to the app called “Documents”, and there in that app I went to the browser and typed https://ytmp3.cc/ just to convert the video into audio. The audio was a .mp3, so I downloaded it inside the “Documents” app, it has a title that has a “.mp3” at the end, so I changed .mp3 to .WAV. And then I saved it to the Files app and saved it to an iCloud Drive in an iCloud/Auxy/Samples. Then I went to the Auxy app and to my project, then I went to the drum kit and I tapped an empty slot and tapped “Imported”, then I tapped “Import Samples” then I chosen my audio, then I tapped the “+” sign and created a new folder and named it “Vocals” then I tap “Import” and the message said, “Import failed: The Sample could not be imported.” It just won’t let me import the samples. How do I import the sample to Auxy the correct way?</description>
+    
+    <lastBuildDate>Wed, 02 Sep 2020 08:50:52 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="SeanZLC" data-post="21" data-topic="14980">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/s/d9b06d/40.png" class="avatar"> SeanZLC:</div>
+<blockquote>
+<p>…would you happen to know how to check for the last two criteria?</p>
+</blockquote>
+</aside>
+<p>If you can spare a few dollars, <a href="http://kymatica.com/apps/audioshare" rel="noopener nofollow ugc">AudioShare</a> is your one-stop shop for dealing with audio files on iOS.</p>
+<p>If you’re on desktop, a right-click on the file should do the trick.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/22</link>
+        <pubDate>Wed, 02 Sep 2020 08:50:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-22</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[SeanZLC]]></dc:creator>
+        <description><![CDATA[
+            <p>Sorry for being a bother, but would you happen to know how to check for the last two criteria?</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/21</link>
+        <pubDate>Wed, 02 Sep 2020 06:13:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-21</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="SeanZLC" data-post="19" data-topic="14980">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/s/d9b06d/40.png" class="avatar"> SeanZLC:</div>
+<blockquote>
+<p>I made sure that it was either a .WAV file or a .FLAC file, and it continued to tell me that I couldn’t import it.</p>
+</blockquote>
+</aside>
+<p>From my experience, your sample will need to be:</p>
+<p><img src="https://emoji.discourse-cdn.com/apple/black_medium_small_square.png?v=10" title=":black_medium_small_square:" class="emoji" alt=":black_medium_small_square:"> WAV or FLAC<br>
+<img src="https://emoji.discourse-cdn.com/apple/black_medium_small_square.png?v=10" title=":black_medium_small_square:" class="emoji" alt=":black_medium_small_square:"> Max 20 seconds<br>
+<img src="https://emoji.discourse-cdn.com/apple/black_medium_small_square.png?v=10" title=":black_medium_small_square:" class="emoji" alt=":black_medium_small_square:"> 44100 Hz<br>
+<img src="https://emoji.discourse-cdn.com/apple/black_medium_small_square.png?v=10" title=":black_medium_small_square:" class="emoji" alt=":black_medium_small_square:"> 16 Bit</p>
+<p><small>Failing that, double check that the sample can be imported in another app. It may be corrupt.</small></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/20</link>
+        <pubDate>Wed, 02 Sep 2020 06:00:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-20</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[SeanZLC]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve tried to import a sample into Auxy for a while now, I made sure that it was either a .WAV file or a .FLAC file, and it continued to tell me that I couldn’t import it. Could anyone help me?</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/19</link>
+        <pubDate>Wed, 02 Sep 2020 05:36:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-19</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[Vokon]]></dc:creator>
+        <description><![CDATA[
+            <p>For the import, sounds like the sample’s quality wasn’t good enough. This depends on if you lose quality in the process of converting. I’d say downloading from google drive seems to be a pretty good reliable source.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/18</link>
+        <pubDate>Fri, 17 Apr 2020 01:35:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-18</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>update: no issue on bluetooth headphones</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/17</link>
+        <pubDate>Fri, 17 Apr 2020 00:57:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-17</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>yeah i’m not listening to beats like this with cracks and pops throughout. I’ll wait for an update, but i’m worried about other users cuz this does not happen on my iPad Pro, but not everyone has another device laying around to use as a 2nd option.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/16</link>
+        <pubDate>Thu, 16 Apr 2020 23:30:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-16</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>seem like some bad optimization with the iphone11 lineup geez.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/15</link>
+        <pubDate>Thu, 16 Apr 2020 23:25:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-15</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>iPad Pro 2018 11" works perfectly without a single flaw. I’ve been using it for a month now. Last time I saw this issue it was when the beta for iPadOS came out &amp; on my iPad Mini. When they updated the iPadOS beta the issue went away. But now this is not a beta &amp; Auxy seems to be mildly incompatible. I say Auxy because the other apps are working well 100%. Here is an example video of what is occurring. Not pressing rewind by the way it’s just doing it. On iOS 13.3 or something like that this was happening. I updated the phone to the latest iOS 13.4 &amp; it’s still happening. Deleted the app for the 3rd time hoping it would miraculously work &amp; it resolved slightly. It’s playing with only 3 or 4 pops/quick pauses per song now. Which is better, but still not good. Look at this though.</p>
+<p><a href="https://www.youtube.com/embed/LLpFXDc84LY?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/LLpFXDc84LY</a></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/14</link>
+        <pubDate>Thu, 16 Apr 2020 23:25:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-14</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>no the app is not working fine. it’s not the phone because every other app is working. I uninstalled and reinstalled for the 3rd time hoping that’ll it’ll fix it because this is similar to issues I used to have when the iOS13 beta was 1st released and the way I fixed it that time was deleting the app &amp; reinstalling. Now thankfully it’s not pausing so much on a black screen or during midi playback. I can tap play and it seems to play normally, but stills stalls about 3 times per song. It’s abrupt &amp; annoying, but the song plays. A bit ago before I deleted the app again it was not playing more than one second before stalling completely with no playing continuously flowing.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/13</link>
+        <pubDate>Thu, 16 Apr 2020 23:14:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-13</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[brandnaqua]]></dc:creator>
+        <description><![CDATA[
+            <p>this is happening on my iPhone 11 Pro Max. We both love this app so hopefully they fix it! <img src="https://emoji.discourse-cdn.com/apple/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/12</link>
+        <pubDate>Thu, 16 Apr 2020 23:07:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-12</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, there is a 20 second sample length limit. It absolutely HAS TO be a 16bit wave. I have some apps that only export 32bit waves and they cannot be imported, need a second step to convert.</p>
+<p>I dunno, man… as far as speaker/headphone issue… I’d register on <a href="http://forum.audiob.us">http://forum.audiob.us</a> and ask there too… it’s a great resource this problem aside. There might just be something up with the phone, which sucks <img src="https://emoji.discourse-cdn.com/apple/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/11</link>
+        <pubDate>Sat, 11 Apr 2020 12:35:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-11</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[MrBass]]></dc:creator>
+        <description><![CDATA[
+            <p>Im getting popping noises from the phone speakers when using certain apps. so I assumed it was the phone. However all other apps work fine via the speakers. Including Auxy. Pop the headphones in and Auxy turns monster on me but my other music apps work fine? It’s definitely a strange. All apps are up to date. And yes I’m using the lightening to 3.5mm jack adapter for the headphones.</p>
+<p>I also tried that that sample import thing. Still didn’t work. That’s iCloud method that won’t work. And the import from the samples folder won’t work. I’m wondering is there a sample length limit that can be imported? The samples are in WAV format and following those steps it should be working but again all I get is “sample could not be imported”</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/10</link>
+        <pubDate>Sat, 11 Apr 2020 12:13:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-10</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Latest iOS, latest Auxy version? iPhone 6 would be the 3.5mm plug, are you using 3.5mm headphones with the lightning to 3.5mm dongle?? Wondering if it’s the combination of iPhone 11 / 3.5mm / Auxy and something that’s screwed up there (sample rate???)</p>
+<p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> <a class="mention" href="https://disco.auxy.co/u/fredrik">@Fredrik</a> have you guys tested on iPhone 11, iPad pro?? I know they’re sort of expensive (LOL) so that might be hard… can’t expect all devs to have all devices…</p>
+<p>Or, does anyone else here use an iPhone 11 and what’s their experience?</p>
+<p>It might be worth asking on the audiobus forum too <a class="mention" href="https://disco.auxy.co/u/mrbass">@MrBass</a>, there’s a lot of folks there with a lot of different hardware. Not a ton of Auxy users but perhaps someone with the hardware wouldn’t mind giving it a spin. That’s about all I got, sorry <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/9</link>
+        <pubDate>Wed, 08 Apr 2020 10:34:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-9</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[MrBass]]></dc:creator>
+        <description><![CDATA[
+            <p>All other apps work fine with the headphones yeah. According to the first dev I spoke to from Auxy he was adamant the app worked fine. Which is true on my older iPhone. However. I have since emailed them again for any suggestions and 5 weeks later I’m still waiting on a reply. Considering I pay a sub to this app I’m pretty disappointed with how my issue is being ignored…<br>
+I have even went as far as asking on Apple forums regarding the new phone and again Iv hit a brick wall. No one seems to know any solutions. As it stands now I don’t know if it’s the phones firmware or the app itself that’s not completely compatible with the new iPhone.<br>
+Sorry for my late reply too.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/8</link>
+        <pubDate>Wed, 08 Apr 2020 04:35:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-8</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>What about another music app on the 11 with the same headphones? All good? Maybe worth sending email to <a href="mailto:feedback@auxy.co">feedback@auxy.co</a> and see what the devs think.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/7</link>
+        <pubDate>Sat, 04 Apr 2020 00:37:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-7</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[MrBass]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for your quick reply. It doesn’t matter what headphones I use I get the same result. I thought it was the app so I tried it on another device (iPhone 6) and the headphones work fine with it. My current device is an iPhone 11. It’s a new device so I can’t see it being that? Of course I could be wrong. I’m stuck between two rocks atm is it the phone or the app. Either way I can’t tell. It’s a shame as it ruins the experience and this app is one I use daily.</p>
+<p>Thank you too for the guide i very much appreciate that. I have booked marked it so I shall give it a read over tomorrow.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/6</link>
+        <pubDate>Sat, 04 Apr 2020 00:22:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-6</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Sounds like something is up with your headphones. Can you try them with another app, or other piece of hardware? Or do you have other headphones you can test?</p>
+<p>Regarding samples, follow this to a T <a href="https://auxy.co/samples.html">https://auxy.co/samples.html</a> and it should work ok. Don’t put samples in iCloud Drive, they need to be imported.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/5</link>
+        <pubDate>Fri, 03 Apr 2020 23:56:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-5</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[MrBass]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi. I have two issues that I’m not sure how to work out. I’m new here but I’d like to give a big shout out to the Auxy guys I love this app.</p>
+<p>My first issue is importing. I know I have done everything right but for some reason it won’t let me use the sample.<br>
+I took a clip from a song. An acapella. I used AAC to edit and cut the sample. Then I converted it to WAV format. All good. I went to my iCloud Drive. Found Auxy. Opened the samples folder. Dragged the saved converted sample into that folder. Done. Loaded Auxy on my phone and the sample is there. It even plays. But if I tap “done” to use the sample. All I get is the “sample could not be loaded” message??</p>
+<p>My second issue is the sound skipping when using wired headphones. Its every 15 to 20 seconds it’s like listening to a scratched CD. However remove the headphones and it plays perfectly fine??</p>
+<p>I hope I have not posted this in the wrong place. Apologies if I have. As I said I’m new to the forum. Any help would be greatly appreciated.</p>
+<p>Many thanks.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/4</link>
+        <pubDate>Fri, 03 Apr 2020 22:25:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-4</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[SonicTH]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok, thanks for the help, I appreciate that.<img src="https://emoji.discourse-cdn.com/apple/slightly_smiling_face.png?v=9" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/3</link>
+        <pubDate>Sun, 07 Apr 2019 19:33:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-3</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="1" data-topic="14980">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sonicth/40/2185_2.png" class="avatar"> SonicTH:</div>
+<blockquote>
+<p>it has a title that has a “.mp3” at the end, so I changed .mp3 to .WAV.</p>
+</blockquote>
+</aside>
+<p>This is exactly the issue, you can’t just rename it. You’re gonna need something like AudioShare to convert first. The next version can import samples of multiple formats and converts to .flac in the app.</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/2</link>
+        <pubDate>Sun, 07 Apr 2019 19:20:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-2</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+      <item>
+        <title>A help to import samples to Auxy</title>
+        <dc:creator><![CDATA[SonicTH]]></dc:creator>
+        <description><![CDATA[
+            <p>I need help with importing a sample in Auxy.</p>
+<p>First, I went to YouTube to copy a video link on my mobile phone, then I went to the app called “Documents”, and there in that app I went to the browser and typed <a href="https://ytmp3.cc/" rel="nofollow noopener">https://ytmp3.cc/</a> just to convert the video into audio. The audio was a .mp3, so I downloaded it inside the “Documents” app, it has a title that has a “.mp3” at the end, so I changed .mp3 to .WAV. And then I saved it to the Files app and saved it to an iCloud Drive in an iCloud/Auxy/Samples. Then I went to the Auxy app and to my project, then I went to the drum kit and I tapped an empty slot and tapped “Imported”, then I tapped “Import Samples” then I chosen my audio, then I tapped the “+” sign and created a new folder and named it “Vocals” then I tap “Import” and the message said, “Import failed: The Sample could not be imported.” It just won’t let me import the samples. How do I import the sample to Auxy the correct way?</p>
+          <p><a href="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980/1</link>
+        <pubDate>Sun, 07 Apr 2019 19:19:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14980-1</guid>
+        <source url="https://disco.auxy.co/t/a-help-to-import-samples-to-auxy/14980.rss">A help to import samples to Auxy</source>
+      </item>
+  </channel>
+</rss>

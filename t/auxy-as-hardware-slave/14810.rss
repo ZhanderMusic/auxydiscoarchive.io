@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy as hardware slave</title>
+    <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810</link>
+    <description>The brain in my setup is the drum machine.
+
+I have sampler and synths syncing to it.
+
+I have been looking to add Auxy app to my live setup and I haven&#39;t been able to make Auxy follow the drum machine tempo and transport.
+
+I tried Modstep. It syncs via midi easily.
+
+Auxy only has ableton link, which I tried to sync using Modstep as intermediary to no avail.
+
+If anyone out there was been able to make it work. Please share.
+
+Thanks!</description>
+    
+    <lastBuildDate>Tue, 21 May 2019 22:53:17 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Ahhhh yes because, it sync with Ableton Link, right?? I was watching videos of people using it to sync a pocket operator and etc, nice way to bridge software and hardware</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/8</link>
+        <pubDate>Tue, 21 May 2019 22:53:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-8</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[Offcmd]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes! Finally the bridge between hardware and Auxy is here!<br>
+<a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a></p>
+<p>I want to update this thread for whoever is interested in using Auxy as a slave to hardware tempo for live performance:<br>
+Search for “MIDI Link Sync” app on the App Store and use a Korg plugKEY interface to control Auxy’s tempo and sync via Ableton Link.</p>
+<p>Voilá. I am definitely now adding Auxy to my live setup. I will soon share a video to demo.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45.png" title="11BF14EB-BEEA-4789-9D45-C0D1938B03EE.png" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45_2_281x500.png" alt="image" width="281" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45_2_281x500.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45_2_421x750.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45_2_562x1000.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/ccab832744f5d4ec08e60c2750a7cc86492e7c45_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/7</link>
+        <pubDate>Tue, 21 May 2019 21:41:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-7</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[Offcmd]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you.<br>
+Yes. I tried Modstep. It does work, however the really bad UI makes it hard to rely on.<br>
+Auxy got us spoiled with its clear and simple approach to interface. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/6</link>
+        <pubDate>Tue, 26 Mar 2019 14:37:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-6</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Given that Auxy doesn’t support Link start/stop/sync, isn’t MIDI learnable, and only has a single output, I’m not sure it’s that well suited to a live setup.</p>
+<p>Perhaps you could export as audio loops and load into another app with more control?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/5</link>
+        <pubDate>Tue, 26 Mar 2019 06:07:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-5</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Ahhh, and yeah I agree with you I’d always rather have physical controls. So yeah, you’re right, Auxy isn’t using the version of Link with sync stop/start (though to be fair, I don’t know of ANY apps that support that yet. I haven’t seen any).</p>
+<p>I don’t think there’s a way you can make the drum machine be the “master” so to speak, unless changing tempo / controls on the drum machine changes tempo in modstep to sync back to Auxy. <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a> I’m tagging you in here, this is up your alley as well. Any ideas? From the apps and hardware I know it doesn’t sound like this is possible :\</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/4</link>
+        <pubDate>Mon, 25 Mar 2019 19:34:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-4</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[Offcmd]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes. That is an option, however in my case I really wish I can make my drum machine the master tempo and transport.<br>
+The difference is that is physical and tangible and however silly that may sound, it has implications in the way you perform and control everything.</p>
+<p>Also as far as I know and was able to verify in practice, Auxy is not following the transport either when sync via link, only tempo. I do hope I am wrong on this one.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/3</link>
+        <pubDate>Mon, 25 Mar 2019 18:57:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-3</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Can modstep act as the main host? I think that’s the only way you’d get this to work… modstep and auxy are linked via Link, then modstep sends midi in time to drum machine. Is this what you described?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/2</link>
+        <pubDate>Mon, 25 Mar 2019 17:17:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-2</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+      <item>
+        <title>Auxy as hardware slave</title>
+        <dc:creator><![CDATA[Offcmd]]></dc:creator>
+        <description><![CDATA[
+            <p>The brain in my setup is the drum machine.</p>
+<p>I have sampler and synths syncing to it.</p>
+<p>I have been looking to add Auxy app to my live setup and I haven’t been able to make Auxy follow the drum machine tempo and transport.</p>
+<p>I tried Modstep. It syncs via midi easily.</p>
+<p>Auxy only has ableton link, which I tried to sync using Modstep as intermediary to no avail.</p>
+<p>If anyone out there was been able to make it work. Please share.</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/auxy-as-hardware-slave/14810/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-as-hardware-slave/14810/1</link>
+        <pubDate>Mon, 25 Mar 2019 15:44:45 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14810-1</guid>
+        <source url="https://disco.auxy.co/t/auxy-as-hardware-slave/14810.rss">Auxy as hardware slave</source>
+      </item>
+  </channel>
+</rss>

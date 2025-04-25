@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>New automation update?</title>
+    <link>https://disco.auxy.co/t/new-automation-update/20483</link>
+    <description>Hey everyone! I was playing around on Auxy today and just dropped the sickest beat but I won’t be able to use it in the track and post it. On the new sound “Lofi Piano” I played around with the “rate” panel in “Bitcrusher” distortion automation and what came out was a really cool dubstep sound, but I can’t use what I did because the “rate” panel can’t be automated in the rectangle below the sound loops I have. For example, the ability for changing automation in the rectangle automation loop is Tone, Dist, Lowpass/Highpass, Volume, etc. etc. But in dist it only changes the main up and down of the main dist and not rate or any of that other specific stuff. 
+
+
+So I was thinking: What if Auxy made an update where you can automate rate and crush and drive and knee and all those small automations for the three available dist types that we find in the main sound automation when you click on the sound name. 
+
+
+**Hope this all makes sense and have a great day!**
+
+Please let me know your thoughts!</description>
+    
+    <lastBuildDate>Wed, 23 Dec 2020 19:57:19 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/new-automation-update/20483.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh lol</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/9</link>
+        <pubDate>Wed, 23 Dec 2020 19:57:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-9</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>i was just playing around and i didn’t have it at a specific percentage the whole time, i was just moving rate around, which is what inspired this thread</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/8</link>
+        <pubDate>Wed, 23 Dec 2020 16:19:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-8</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[IAATOE]]></dc:creator>
+        <description><![CDATA[
+            <p>this is something i hope gets added</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/7</link>
+        <pubDate>Wed, 23 Dec 2020 11:51:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-7</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>I know what rate does, but what % was it at?</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/6</link>
+        <pubDate>Tue, 22 Dec 2020 04:55:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-6</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="blakkaz" data-post="1" data-topic="16159">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/blakkaz/40/8448_2.png" class="avatar"><a href="https://disco.auxy.co/t/wiki-auxy-v6s-new-sound-shaping-features/16159/1">WIKI: Auxy v6's new sound shaping features</a>
+</div>
+<blockquote>
+<p><strong>Rate</strong> : Downsamples (lowers sample rate) the original signal. [1]</p>
+</blockquote>
+</aside>
+<p>this is what blakkaz said rate did in bitcrusher</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/5</link>
+        <pubDate>Mon, 21 Dec 2020 01:21:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-5</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>so bassically i put bitcrusher dist automation on for lofi piano and made some really cool dubstep wubs with “rate”</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/4</link>
+        <pubDate>Mon, 21 Dec 2020 01:19:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-4</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>How exactly did you do it? I make dubstep so</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/3</link>
+        <pubDate>Sun, 20 Dec 2020 22:19:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-3</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[BenVacca]]></dc:creator>
+        <description><![CDATA[
+            <p>woah that sounds really cool. I love that idea and soooo hope that auxy could add that in</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/2</link>
+        <pubDate>Sat, 19 Dec 2020 21:42:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-2</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+      <item>
+        <title>New automation update?</title>
+        <dc:creator><![CDATA[obexg]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey everyone! I was playing around on Auxy today and just dropped the sickest beat but I won’t be able to use it in the track and post it. On the new sound “Lofi Piano” I played around with the “rate” panel in “Bitcrusher” distortion automation and what came out was a really cool dubstep sound, but I can’t use what I did because the “rate” panel can’t be automated in the rectangle below the sound loops I have. For example, the ability for changing automation in the rectangle automation loop is Tone, Dist, Lowpass/Highpass, Volume, etc. etc. But in dist it only changes the main up and down of the main dist and not rate or any of that other specific stuff.</p>
+<p>So I was thinking: What if Auxy made an update where you can automate rate and crush and drive and knee and all those small automations for the three available dist types that we find in the main sound automation when you click on the sound name.</p>
+<p><strong>Hope this all makes sense and have a great day!</strong></p>
+<p>Please let me know your thoughts!</p>
+          <p><a href="https://disco.auxy.co/t/new-automation-update/20483/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/new-automation-update/20483/1</link>
+        <pubDate>Sat, 19 Dec 2020 18:43:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20483-1</guid>
+        <source url="https://disco.auxy.co/t/new-automation-update/20483.rss">New automation update?</source>
+      </item>
+  </channel>
+</rss>

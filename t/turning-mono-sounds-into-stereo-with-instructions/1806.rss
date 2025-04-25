@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Turning Mono sounds into Stereo [With Instructions]</title>
+    <link>https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806</link>
+    <description>I&#39;ve noticed for some time that some sounds in Auxy are stuck in Mono. With modulation, we now have some sounds that sound better in stereo without using a lot of reverb to replecate a large room.
+
+_Example 1, Basic Melody [Igloo]_
+https://app.auxy.co/projects/5SOWai1nn5sH4l2pfAXa6w==
+
+_Example 2, Arpeggios [Tiger]_
+https://app.auxy.co/projects/IT_TQiTVHAKZ5CsTkyByeg==
+
+___
+
+_For those viewing this without an iOS device or want to know how to convert mono sounds into stereo_
+
+1] To create a stereo sound, find a sound that is normally in Mono, _ie, sounds from The Future, RAC Essentials_
+
+2] Create a loop and duplicate the sound so that there is 2 of the same sounds. _The sound you just duplicated would need to be **exactly** the same as your original in order to create the stereo effect._
+
+3] For both sounds, pan them so that one is all the way to the left and one all the way to the right.</description>
+    
+    <lastBuildDate>Wed, 30 Aug 2017 09:08:27 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Turning Mono sounds into Stereo [With Instructions]</title>
+        <dc:creator><![CDATA[Haxerist]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s pretty obvious that you’ll need to pan duplicates opposite to each other.</p>
+          <p><a href="https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806/2</link>
+        <pubDate>Wed, 30 Aug 2017 09:08:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1806-2</guid>
+        <source url="https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806.rss">Turning Mono sounds into Stereo [With Instructions]</source>
+      </item>
+      <item>
+        <title>Turning Mono sounds into Stereo [With Instructions]</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve noticed for some time that some sounds in Auxy are stuck in Mono. With modulation, we now have some sounds that sound better in stereo without using a lot of reverb to replecate a large room.</p>
+<p><em>Example 1, Basic Melody [Igloo]</em><br>
+<a href="https://app.auxy.co/projects/5SOWai1nn5sH4l2pfAXa6w==" class="onebox" target="_blank">https://app.auxy.co/projects/5SOWai1nn5sH4l2pfAXa6w==</a></p>
+<p><em>Example 2, Arpeggios [Tiger]</em><br>
+<a href="https://app.auxy.co/projects/IT_TQiTVHAKZ5CsTkyByeg==" class="onebox" target="_blank">https://app.auxy.co/projects/IT_TQiTVHAKZ5CsTkyByeg==</a></p>
+<hr>
+<p><em>For those viewing this without an iOS device or want to know how to convert mono sounds into stereo</em></p>
+<p>1] To create a stereo sound, find a sound that is normally in Mono, <em>ie, sounds from The Future, RAC Essentials</em></p>
+<p>2] Create a loop and duplicate the sound so that there is 2 of the same sounds. <em>The sound you just duplicated would need to be <strong>exactly</strong> the same as your original in order to create the stereo effect.</em></p>
+<p>3] For both sounds, pan them so that one is all the way to the left and one all the way to the right.</p>
+          <p><a href="https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806/1</link>
+        <pubDate>Wed, 30 Aug 2017 07:18:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-1806-1</guid>
+        <source url="https://disco.auxy.co/t/turning-mono-sounds-into-stereo-with-instructions/1806.rss">Turning Mono sounds into Stereo [With Instructions]</source>
+      </item>
+  </channel>
+</rss>

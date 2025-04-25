@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mix/Master in Auxy?</title>
+    <link>https://disco.auxy.co/t/mix-master-in-auxy/5839</link>
+    <description>How independent is Auxy when it comes to mixing &amp; mastering? From my understanding we don’t have mastering features in Auxy and all of the knobs are for attaing a proper mix right? Plus I read about carving when you mix tracks- sure that can be done in automations correct by selectively reducing volume or using lowpass in certain segements? Plus how much of that is even necessary- live bands don’t carve- or do they? Rock bands didn’t master live stuff and people love that, right? When I throw my one whole Auxy WAV track of a whole musical song into Garageband how much do I need to EQ it there? Does it need an overall, echo, reverb, compression? Or can the track made in Auxy sound good enough without external intervention? Plus any Auxy specific differences from these tracks vs tracks made in other DAWs that we need to know of? I read on one of these posts something about not needing to reduce volume on each track cuz it will not clip anyway? Correct me if i’m wrong. Please let me know any info you guys have on this, I will greatky appreciate it! I just want my EP to sound as good as possible, oh gosh can’t wait for the update!</description>
+    
+    <lastBuildDate>Wed, 26 Sep 2018 08:27:55 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not enough of an audiophile nor knowledgeable enough to really know lol <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"> everything I do I’m doing at 16 bit, even on desktops. I kind of remember reading I think from Blakkaz it had to do with increasing available headroom in a mix but it’s not going to change the “quality” of a track. A good mix is a good mix and a garbage mix is… well…</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/39</link>
+        <pubDate>Wed, 26 Sep 2018 08:26:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-39</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="37" data-topic="5839">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/tornait/40/11365_2.png" class="avatar"> tornait:</div>
+<blockquote>
+<p>I hope we can get to the point where we get that nice, DAW-level 24-bit.</p>
+</blockquote>
+</aside>
+<p>fwiw… <a href="https://www.image-line.com/support/flstudio_online_manual/html/app_audio.htm" rel="nofollow noopener">https://www.image-line.com/support/flstudio_online_manual/html/app_audio.htm</a></p>
+<blockquote>
+<ul>
+<li>
+<strong>Bits &amp; Hz</strong>  - Research has shown that for music distribution, 16 Bit @ 44.1 kHz (CD standard) is indistinguishable from 24 Bit @ 192 kHz in a sample of over 550 listeners1. In other words, more bits and higher bit-rates are not going to improve the ‘quality’ of your tracks.</li>
+</ul>
+</blockquote>
+<p>And the article cited…</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/e/eaa7f166b4c8bb07df7926972b18743fac5b10ec.png" class="site-icon" width="500" height="500">
+      <a href="https://www.mixonline.com/recording/emperors-new-sampling-rate-365968" target="_blank" rel="nofollow noopener">Mixonline</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/488;"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/8/869783136370c5607996b47de8885c6635c86c70.gif" class="thumbnail"></div>
+
+<h3><a href="https://www.mixonline.com/recording/emperors-new-sampling-rate-365968" target="_blank" rel="nofollow noopener">The Emperor's New Sampling Rate</a></h3>
+
+<p>ARE CDS ACTUALLY GOOD ENOUGH?</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’d say 16-bit is more than enough, as I have hard enough time distinguishing what sounds like what already, and this article really puts a reality check on the importance of such a difference. I’m sure <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a> and <a class="mention" href="https://disco.auxy.co/u/iammane">@iammane</a> have more experience and can better distinguish the 24-bit depth though and can share some opinions.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/38</link>
+        <pubDate>Wed, 26 Sep 2018 03:21:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-38</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[tornait]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, 16bit. I hope we can get to the point where we get that nice, DAW-level 24-bit.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/37</link>
+        <pubDate>Wed, 26 Sep 2018 02:40:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-37</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="22" data-topic="5839" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/blakkaz/40/8448_1.png" class="avatar"> blakkaz:</div>
+<blockquote>
+<p>16bit stereo 44.1kHz.</p>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/36</link>
+        <pubDate>Wed, 26 Sep 2018 02:27:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-36</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[tornait]]></dc:creator>
+        <description><![CDATA[
+            <p>At what rate does Auxy send the uncompressed wav?</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/35</link>
+        <pubDate>Tue, 25 Sep 2018 22:41:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-35</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh man awesome, good to know!! I haven’t mucked around in there too much, admittedly</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/34</link>
+        <pubDate>Fri, 05 Jan 2018 19:55:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-34</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>+ 2 releases/distributions.</p>
+<p>Fwiw, those MP3s will be “lo-res” (192kbps) versions, which is closer to mid-res, as far as MP3s go, imo.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/33</link>
+        <pubDate>Fri, 05 Jan 2018 19:54:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-33</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="29" data-topic="5839">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>Not sure if Files does zip files</p>
+</blockquote>
+</aside>
+<p>It does</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/32</link>
+        <pubDate>Fri, 05 Jan 2018 19:51:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-32</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[ST3R30]]></dc:creator>
+        <description><![CDATA[
+            <p>now they only let you do 2 mp3s a month for free, i think</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/31</link>
+        <pubDate>Fri, 05 Jan 2018 19:45:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-31</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[Alyen]]></dc:creator>
+        <description><![CDATA[
+            <p>They use to allow one wav a month for free. I guess they don’t do that anymore?</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/30</link>
+        <pubDate>Fri, 05 Jan 2018 19:38:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-30</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>You can, export &gt; more &gt; Export Individual Instruments.</p>
+<p>Dumps every instrument to a single wav in a zip file. Pow pow! Not sure if Files does zip files, but AudioShare handles zip files perfectly. If you don’t have AudioShare… wtfffffff? <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=5" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/29</link>
+        <pubDate>Fri, 05 Jan 2018 19:27:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-29</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>I just wish there was an easier way to export all the audio channels individually to fix them independently.<br>
+Like one audio file for each instrument Is what I’m saying.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/28</link>
+        <pubDate>Fri, 05 Jan 2018 19:25:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-28</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Db909" data-post="26" data-topic="5839" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/d/e9a140/40.png" class="avatar"> Db909:</div>
+<blockquote>
+<p>And when you start, you think you need tons of stuff.</p>
+</blockquote>
+</aside>
+<p>I think this is the crux of the issue. I know I cringe when people start bringing up mixing and mastering as a way to make a crappy song good. Crappy songs are crappy songs no matter how much you massage the levels.</p>
+<p>Not suggesting those asking are writing bad songs, but over all these years I feel like people think it’s like a magic pill or something. I agree with Nick and I agree with you. I think it really depends on what you’re doing, where you want the music to go (be played?) and a whole slew of other factors. Auxy definitely does not have any kind of “mastering” tools, and tbh, wouldn’t want it. Wouldn’t even want advanced EQ options. I work with a guy who has spent thousands recording in a studio and the album is taking forever and I’m thinking to myself “the things I do on a computer in one software package sound better”, and that’s terrifying.</p>
+<p>I’m ranting now lol. Bottom line, I think it really all depends. To my ears, what I hear coming out of Auxy rivals the stuff I hear on say Electronica radio on Pandora. It’s all perception too, everyone is going to hear things differently.</p>
+<p>Aight, I swear I’m done now. If you’ve stuck with me this far, thanks lol</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/27</link>
+        <pubDate>Fri, 05 Jan 2018 18:13:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-27</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>No you didn’t offend me at all.   To simplify I just think most people vastly over complicate mixing and overestimate the number and type of tools necessary to achieve desired results.  I’ve been making electronic music for about 7 years, not paid for it or anything but it’s been a constant process of whittling away everything not needed. And when you start, you think you need tons of stuff. And everyone has mountains of advice on all the many many things you absolutely have to have and have to do.  So I get a little frustrated when I see people recommending “more more more” as a solution to mix/audio/production issues.  But it’s all good.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/26</link>
+        <pubDate>Fri, 05 Jan 2018 18:02:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-26</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Mixing is not just volume. It’s WAY more complex than that. Auxy does not go complex at all. That’s the truth. I’m not saying what comes straight outta Auxy doesn’t sound good. The question was about mixing and mastering, which happens to be my job.</p>
+<p>And, as far as going super in-detail, I love doing it, and other engineers love it too, but that doesn’t mean we have brag about it to you. We aren’t bragging about it to you, we are bragging about it to each other.<br>
+You don’t have to listen to us when we talk about that if you don’t like it.<br>
+So I’m sorry If I offended you, <a class="mention" href="https://disco.auxy.co/u/db909">@Db909</a>.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/25</link>
+        <pubDate>Fri, 05 Jan 2018 17:53:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-25</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>How is it not possible to “actually mix” in Auxy? I don’t understand this idea of there being a threshold of features and parameter control required to “properly mix” or “properly master”.  You have controls over the sound you use in conjunction with one another to achieve pleasing audio.  Period. And these Auxy tracks sound amazing straight from the app.  Which is the entire point of Auxy.    At the end of the day is it about the sound or is it about being able to wow other producers with epic tales of complicated fx chains and bus routing or how you spent hours eqing that snare drum until it was PERFECT?   Not picking on you specifically don’t get me wrong, just this idea, which I’ve heard in various forms from various people all around.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/24</link>
+        <pubDate>Fri, 05 Jan 2018 16:42:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-24</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TXA]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks. Really appreciate it</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/23</link>
+        <pubDate>Fri, 05 Jan 2018 16:36:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-23</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>16bit stereo 44.1kHz.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/22</link>
+        <pubDate>Fri, 05 Jan 2018 16:29:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-22</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TXA]]></dc:creator>
+        <description><![CDATA[
+            <p>Darn…I need some info on this</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/21</link>
+        <pubDate>Fri, 05 Jan 2018 16:24:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-21</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh, no idea.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/20</link>
+        <pubDate>Fri, 05 Jan 2018 16:23:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-20</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TXA]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/19</link>
+        <pubDate>Fri, 05 Jan 2018 16:23:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-19</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>For Auxy exports?</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/18</link>
+        <pubDate>Fri, 05 Jan 2018 16:23:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-18</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TXA]]></dc:creator>
+        <description><![CDATA[
+            <p>Anyone know what audio sample rate is for exports?</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/17</link>
+        <pubDate>Fri, 05 Jan 2018 16:22:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-17</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Haha. So am I. Plus, I’m a DJ so I need a downloaded file to play it.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/16</link>
+        <pubDate>Fri, 05 Jan 2018 16:21:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-16</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+      <item>
+        <title>Mix/Master in Auxy?</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>That is true. Well, I still do but that’s beside the point. I’m old fashioned.</p>
+          <p><a href="https://disco.auxy.co/t/mix-master-in-auxy/5839/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/mix-master-in-auxy/5839/15</link>
+        <pubDate>Fri, 05 Jan 2018 16:20:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5839-15</guid>
+        <source url="https://disco.auxy.co/t/mix-master-in-auxy/5839.rss">Mix/Master in Auxy?</source>
+      </item>
+  </channel>
+</rss>

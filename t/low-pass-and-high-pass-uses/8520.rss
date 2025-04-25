@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Low pass and high pass uses</title>
+    <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520</link>
+    <description>@Reaper2.0 - I have no idea where the poll/topic went! My apologies!
+
+We were discussing high pass and low pass filtering and where to use.
+
+Frequently I’ll use low pass on drums or basses (if the bass has high frequency content I’ll sometimes want to cut it out). Low pass on drums is great for slower paced drums to get a good, dark feel. Auxy can’t do it currently, but low pass + turning up resonance is a REAL awesome combo on drums.
+
+I haven’t used a lot of high pass filtering myself but I know for drops and drums (percussion more so) I can see it being very useful. There could be a percussion loop with some low end you want to just omit and the high pass is going to accomplish this.</description>
+    
+    <lastBuildDate>Thu, 15 Mar 2018 02:35:37 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[viiitality]]></dc:creator>
+        <description><![CDATA[
+            <p>whenever I have a lot of sounds going on, I filter some highpass on some sounds to clean up the muddyness. usually, the arpeggios and grating pads are the ones I highpass.</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/8</link>
+        <pubDate>Thu, 15 Mar 2018 02:35:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-8</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[SpaghettiSauce]]></dc:creator>
+        <description><![CDATA[
+            <p>I usually use it as volume automation, because it makes it feels more full and smooth.</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/7</link>
+        <pubDate>Wed, 14 Mar 2018 23:34:41 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-7</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yup using both is helpful I’ll do it on leads sometimes to make more breathing room in the mix <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/6</link>
+        <pubDate>Wed, 14 Mar 2018 22:30:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-6</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p>I use highpass to get an old-timey sound on pianos (see: Cinq)</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/5</link>
+        <pubDate>Wed, 14 Mar 2018 22:23:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-5</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>I use them both but mostly low pass because a lot of high frequencies just sound grating on the ear. I’ll always try the high pass though and if I can get away with using some and not crap up the sound, then I will cause it’s cutting stuff I don’t need.   Filters really come alive though when you use them with envelopes, highpass too. But we don’t have envelopes in Auxy.   There’s also band pass filters (which I really like), peak filters (hard to hear sometimes), and notch filters which sound cool.  I’m sure there are others.    Using both filters though really lets you take only what you need from the sound and nothing more and kind of takes the place of bandpass since you can use both simultaneously</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/4</link>
+        <pubDate>Wed, 14 Mar 2018 22:22:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-4</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[Dj_Peloton]]></dc:creator>
+        <description><![CDATA[
+            <p><big> <strong><em>wubs</em></strong></big></p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/3</link>
+        <pubDate>Wed, 14 Mar 2018 22:02:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-3</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[Polar]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve used highpass in only one song of mine, and it could’ve probably worked better if it were lowpass lol. For lowpass, I like to use it as an alternative volume option, and for buildups. Or if I have a loop that has a volume automation already on it, but I want to build it up, I don’t have to do all this work and recreate the automation building up, I can just use lowpass to rise it. I feel like this whole paragraph was confusing lol.</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/2</link>
+        <pubDate>Wed, 14 Mar 2018 21:36:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-2</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+      <item>
+        <title>Low pass and high pass uses</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/reaper2.0">@Reaper2.0</a> - I have no idea where the poll/topic went! My apologies!</p>
+<p>We were discussing high pass and low pass filtering and where to use.</p>
+<p>Frequently I’ll use low pass on drums or basses (if the bass has high frequency content I’ll sometimes want to cut it out). Low pass on drums is great for slower paced drums to get a good, dark feel. Auxy can’t do it currently, but low pass + turning up resonance is a REAL awesome combo on drums.</p>
+<p>I haven’t used a lot of high pass filtering myself but I know for drops and drums (percussion more so) I can see it being very useful. There could be a percussion loop with some low end you want to just omit and the high pass is going to accomplish this.</p>
+          <p><a href="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520/1</link>
+        <pubDate>Wed, 14 Mar 2018 21:02:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-8520-1</guid>
+        <source url="https://disco.auxy.co/t/low-pass-and-high-pass-uses/8520.rss">Low pass and high pass uses</source>
+      </item>
+  </channel>
+</rss>

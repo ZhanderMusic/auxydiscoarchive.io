@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Show off your project list!</title>
+    <link>https://disco.auxy.co/t/show-off-your-project-list/21165</link>
+    <description>Send a video of you scrolling through your full projects list in this thread! You may have to do it fast because of the file limit, but this is just to see how much everyone has managed to make so far with this app ❤️</description>
+    
+    <lastBuildDate>Tue, 15 Jun 2021 05:55:25 +0000</lastBuildDate>
+    <category>Random</category>
+    <atom:link href="https://disco.auxy.co/t/show-off-your-project-list/21165.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Show off your project list!</title>
+        <dc:creator><![CDATA[Assasinerd]]></dc:creator>
+        <description><![CDATA[
+            <p>Too lazy but I have 236 projects</p>
+          <p><a href="https://disco.auxy.co/t/show-off-your-project-list/21165/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/show-off-your-project-list/21165/2</link>
+        <pubDate>Tue, 15 Jun 2021 05:55:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21165-2</guid>
+        <source url="https://disco.auxy.co/t/show-off-your-project-list/21165.rss">Show off your project list!</source>
+      </item>
+      <item>
+        <title>Show off your project list!</title>
+        <dc:creator><![CDATA[Vokon]]></dc:creator>
+        <description><![CDATA[
+            <p>Send a video of you scrolling through your full projects list in this thread! You may have to do it fast because of the file limit, but this is just to see how much everyone has managed to make so far with this app <img src="https://emoji.discourse-cdn.com/apple/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+          <p><a href="https://disco.auxy.co/t/show-off-your-project-list/21165/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/show-off-your-project-list/21165/1</link>
+        <pubDate>Sat, 12 Jun 2021 08:02:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21165-1</guid>
+        <source url="https://disco.auxy.co/t/show-off-your-project-list/21165.rss">Show off your project list!</source>
+      </item>
+  </channel>
+</rss>

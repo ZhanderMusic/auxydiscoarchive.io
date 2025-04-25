@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Most Wanted Features</title>
+    <link>https://disco.auxy.co/t/most-wanted-features/14165</link>
+    <description>To structure the discussion around new features and bring some more clarity to what we&#39;re working on, I will list the most common requests below (in no particular order) along with some comments. Feel free to ask about more stuff and I will update this initial post as we go along. 
+
+**I have browsed the old feature threads and listed things that I could think of, so please remind me about all the things that I have forgotten!**
+
+ ## Undo and Robustness
+A lot of people ask for an undo feature in the app. This is certainly a good feature, although it&#39;s a bit unclear what exactly you should be able to undo and how to design a consistent interface for it throughout the app. Before we eventually start working on undo, we want to learn more about why people need to undo in things and if there are better ways to prevent these mistakes. We think there are lots of easy wins in terms of making the app more robust. For instance, we&#39;re working on making it easier to scroll around without toggling loops in the current scene. So instead of adding a classic undo feature, we might end up adding ways to confirm changes and recall deleted loops. Just to give you an example. There will definitely be progress in this area, but we don&#39;t promise that the result is a classic undo feature that works across the app.
+
+## Different Time Signatures
+The app currently runs in 4/4 by default and there&#39;s no way to change to a different time signature. It&#39;s certainly a valid request to have more options, although we often make the case that the vast majority of what we consider to be &quot;great electronic tracks&quot; are made in 4/4. Regardless, the main problem is that the app isn&#39;t build to accommodate various time signatures, and changing this would require a significant development effort. Sure, this was a bad decision, but it is what it is and if we had a chance to do it again we would do differently. We definitely want to get to fix this eventually, but the reason it hasn&#39;t happened yet is that we think there are other things that require less effort and brings more value to work on in the short term.
+
+## Tempo Automation
+Some people want the option to change the tempo throughout a track. We think this is something you &quot;think you need but actually don&#39;t&quot;. At least we have a hard time finding many great tracks that utilizes this feature, except perhaps if you do film scoring and similar genres. So in essence, this is a pretty low priority since it would be a pretty big feature that would only be used in very few cases.
+
+## More Effects and Sound Controls
+We certainly agree that more quality effects would be awesome for the app in general and we&#39;re working on licensing new DSP for this purpose. We also want to add more controls so that you can tweak sounds to your liking, add custom effects and tweak these as well. This is pretty high on the priority list so expect to see some updates in the not too distant future. As a part of this redesign we will probably find a way to add some sort of envelope controls for setting e.g. the attack and decay times for sounds. Added controls might also include a fine tune option. 
+
+## Creative Master Effects
+A way to add effects to all the instruments at once. This is already happening since all instruments go through a mixing stage where the audio is summed into a stereo track that is routed through a series of master effects. We could definitely add a bunch of effects to this chain that you could control. I can see how it can be nice to filter, or even EQ, the whole mix. Although if we decide to work on this, we would probably go for a bit more creative approach than simply adding some standard effects. There are other products that do this well and this is fairly straightforward for us to experiment with so we&#39;ll see where we end up.
+
+## Layered Instruments
+Many producers layer different sounds and therefore it might be a good idea to let you play back a set of instruments using one loop instead of duplicating the whole instrument along with the loops. We&#39;re not exactly sure how this would work though but we might find a nice solution when working on workflow improvements in general.
+
+## Ghost Notes in Automation
+Showing what&#39;s being played while you work on automation would definitely be an improvement. Although there&#39;s a fundamental issues in that automation loops can have a different length than your melody and drum loops. This means we would have to dynamically flash the notes that are playing, and this gets pretty complicated when you start exploring the details. Another option would be to connect certain automation to the melody loops instead of having them separate, e.g. letting you edit pitch automation right within the note editor.
+
+## Audio Loops
+The current sample import feature is designed for &quot;one-shot&quot; samples and not great for loops. We think audio loops would be a killer way to broaden the possibilities for the app though, and it would work well with how the sound library lives in the cloud and gets expanded with third-party content every month. So this is something we&#39;re going to try to add sooner rather than later. The two main challenges are a) licensing and integrating good time stretching to be able to automatically fit any loop to the current tempo and key, and b) figuring out whether we should allow additional &quot;slicing&quot; and &quot;remixing&quot; loop features, or simply go for just playing back loops &quot;as is&quot;. We would obviously add various effects options in either way.
+
+## Melodic Sampler
+This refers to the option to import &quot;tuned&quot; samples and turn these into &quot;melodic instruments&quot; by re-pitching the sample(s) to fit the scale. Would further open up the sonic possibilities and will be pretty straightforward to add. Especially since we&#39;re reworking the sample import feature to be a lot easier to deal with. So it&#39;s likely that we&#39;ll add some sort of version of this feature, but a bit unclear exactly how it will fit together with audio loops and one shot samples.
+
+## 1/64 Note Length
+I&#39;ve probably said that I don&#39;t understand why you need anything shorter than a 1/32 note, but I have learned how 1/64 notes can be used and agree it&#39;s a valid use case. It&#39;s not as simple as adding the 1/64 to the grid options though, since the notes would be too small to be handled in the current layout. So this requires some tweaks to how edit works, potentially with a zoomed (in/out) view that would make editing with different grid snapping better in general. An alternative, but not as likely, would be to allow a 2x tempo setting for individual loops.
+
+## Custom Drum/sample Kits
+I think it would be pretty cool to allow quicker sharing and personal recall of custom sample kits. One benefit is that it would speed up the process of building a new project if you don&#39;t have to go into existing projects to copy your favorite kits. The other side of it is that it would be cool to have some sort of content pool that you can recall stuff from, and potentially share with other producers somehow. So this is something we want to explore further.
+
+## Effects for Individual Samples
+It would definitely be nice to allow more options for adding effects to individual samples. It&#39;s not as straightforward as you might think though because of the way audio is currently routed in the app. We currently have one reverb instance running for each drum instrument/track and in order to have an individual reverb amount setting for each sample, we route the samples in two separate paths, one passing through the reverb and one bypassing it. Then the amount setting determines how much of the signal is passed to each path. If we wanted to allow a separate reverb setting along with some more effects, we would have to create a separate effects path for each sample. In practice, this means that each kit would run 8 instances of every effects instead of 1, which would in turn generate a much higher CPU load. The solution is _probably_ to allow turning on only the effects you need though so that you can balance flexibility with performance. This is something we&#39;re going to look further into updating in either way.
+
+# Ducker for Samples
+This is certainly a valid request, especially since we&#39;re adding longer tonal samples to the library (e.g. vocal chops). Similar complexity as described above, but we could probably work that out. 
+
+# Plugin Support
+The number of AUv3 plugins for iOS have been growing lately and we might open up for loading these within the app in the future. One concern is that the plugins are often designed to be viewed horizontally, and having third party stuff running opens up for new issues that are often hard to test. This is something that we&#39;re going to look closer at in either way.
+
+# Android or Desktop Version
+We would love to bring Auxy to Android in the future. Right now, we&#39;re nowhere near being able to do so though. With our limited resources and small team, we&#39;d rather focus on developing Auxy for iOS further until we reach a more mature point where it makes sense, financially, to make the investment in additional platforms. A desktop version is not so interesting since we think there are other great apps that you can use to make music on your laptop. Although there are potentially ways that we could bring Auxy to desktop in the form of a plugin or similar.
+
+# App Themes and Daylight Mode
+We&#39;re not planning to add any options for changing the look of the app, nor will we make an optional bright mode. However, we&#39;re going to look at improving the design to work a bit better when used on sunny days.</description>
+    
+    <lastBuildDate>Tue, 27 Sep 2022 14:28:08 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/most-wanted-features/14165.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>gone</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/954">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/954</link>
+        <pubDate>Tue, 27 Sep 2022 14:28:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-954</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>where’s the casio-looking synthesizer pfp</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/953">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/953</link>
+        <pubDate>Tue, 27 Sep 2022 03:17:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-953</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>a what</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/952">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/952</link>
+        <pubDate>Tue, 27 Sep 2022 03:16:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-952</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>since melodic instrument preview sounds dont follow the set tweaks anymore, there should be extended previews of them like with the drum kits</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/951">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/951</link>
+        <pubDate>Tue, 27 Sep 2022 01:53:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-951</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Aadam]]></dc:creator>
+        <description><![CDATA[
+            <p>A dubstep growl pack.</p>
+<p>Oh wait It’s not 2012 okay then</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/950">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/950</link>
+        <pubDate>Tue, 27 Sep 2022 01:20:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-950</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Remember: Auxy doesn’t throw even a sliver of a fraction of a bone to demo users, so ye</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/949">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/949</link>
+        <pubDate>Fri, 16 Sep 2022 09:48:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-949</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>No. I’m saying that, as a ‘Pro’ version user, I’m happy if that feature only appears in the free version, so that it isn’t cluttering up the pro version of the app that I use. <img src="https://emoji.discourse-cdn.com/apple/stuck_out_tongue_winking_eye.png?v=12" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/948">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/948</link>
+        <pubDate>Fri, 16 Sep 2022 09:47:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-948</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Why so that you can have another reason to upgrade to pro</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/947">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/947</link>
+        <pubDate>Fri, 16 Sep 2022 09:44:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-947</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="MetricMusicDivision" data-post="944" data-topic="14165" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/metricmusicdivision/40/17233_2.png" class="avatar"> MetricMusicDivision:</div>
+<blockquote>
+<p>Random Mode, where the app analyzes your loops and plays them accordingly</p>
+<p>Also a Pro-only feature so there’s that</p>
+</blockquote>
+</aside>
+<p>I’m totally fine if that’s a ‘free version only’ feature. <img src="https://emoji.discourse-cdn.com/apple/wink.png?v=12" title=":wink:" class="emoji" alt=":wink:" loading="lazy" width="20" height="20"></p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/946">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/946</link>
+        <pubDate>Fri, 16 Sep 2022 09:33:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-946</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>after consideration I think COMBINE THE 2 AND JUST GO WITH IT</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/945">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/945</link>
+        <pubDate>Fri, 16 Sep 2022 04:26:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-945</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Random Mode, where the app analyzes your loops and plays them accordingly</p>
+<p>Also a Pro-only feature so there’s that</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/944">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/944</link>
+        <pubDate>Fri, 16 Sep 2022 04:24:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-944</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>To use 5 beats in a meter/bar (e.g. 5/4), or to throw in an extra beat as a feature between sections, or…</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/942">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/942</link>
+        <pubDate>Sat, 03 Sep 2022 08:20:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-942</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>what would you use a 1/4th bar loop for?</p>
+<p>gotcha</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/941">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/941</link>
+        <pubDate>Sat, 03 Sep 2022 06:21:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-941</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Automation of each effect’s low and highpass</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/940">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/940</link>
+        <pubDate>Sat, 03 Sep 2022 06:19:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-940</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Chimpan-T]]></dc:creator>
+        <description><![CDATA[
+            <p>I hope Auxy adds this</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/939">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/939</link>
+        <pubDate>Thu, 01 Sep 2022 08:31:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-939</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>yes but they should be main effects rather than only be unique to certain instruments</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/938">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/938</link>
+        <pubDate>Wed, 31 Aug 2022 17:34:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-938</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>7 out of 9 of the already exist</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/937">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/937</link>
+        <pubDate>Wed, 31 Aug 2022 17:19:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-937</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>or maybe another page of tweaks with 9 automatable effects:</p>
+<p>-attack<br>
+-release<br>
+-decay<br>
+-glide<br>
+-tremolo<br>
+-vibrato<br>
+-phaser<br>
+-other tone<br>
+-other shape</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/936">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/936</link>
+        <pubDate>Wed, 31 Aug 2022 17:07:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-936</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Chimpan-T]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh that would be cool</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/935">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/935</link>
+        <pubDate>Tue, 30 Aug 2022 06:43:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-935</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>swing automation</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/934">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/934</link>
+        <pubDate>Tue, 30 Aug 2022 04:15:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-934</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>-premium drum kits and sound pack drum kits should be in separate categories</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/933">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/933</link>
+        <pubDate>Mon, 29 Aug 2022 15:05:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-933</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>btw do you like my mock-ups?</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/932">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/932</link>
+        <pubDate>Mon, 29 Aug 2022 12:31:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-932</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Because the framework is already in place and literally would only require the devs to enable looping, where your suggestion (admittedly much more elegant) would require quite a bit more development time, UI work, etc. Given the attention/care and feeding of the app I can’t imagine it being anything that would be given serious consideration</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/931">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/931</link>
+        <pubDate>Mon, 29 Aug 2022 12:31:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-931</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>why do all of this:</p>
+<ol>
+<li>download an audio file</li>
+<li>slap it into the melodic sampler</li>
+<li>realize it sounds weird</li>
+<li>repeat the whole thing and realize there’s no way of doing it</li>
+<li>give up and use the closest alternatives</li>
+<li>be in <em><strong>mental</strong></em> pain</li>
+</ol>
+<p>when you can just do this?</p>
+<ol>
+<li>use the waveform instrument</li>
+<li>select presets or make your own like you’re automating a wub wub</li>
+<li>be happy and have a video game sounding track</li>
+</ol>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/930">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/930</link>
+        <pubDate>Mon, 29 Aug 2022 12:25:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-930</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+      <item>
+        <title>Most Wanted Features</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>This would have been VERY easily accomplished with the existing melodic sampler. If there was an option for looping the sample and you imported a single cycle waveform you’d open up the sampler to an incredible array of new tones. This is the first thing I tried/looked for when the feature popped up, but alas, no looping option = no real option for using it as a “synth”</p>
+          <p><a href="https://disco.auxy.co/t/most-wanted-features/14165/929">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/most-wanted-features/14165/929</link>
+        <pubDate>Mon, 29 Aug 2022 12:05:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14165-929</guid>
+        <source url="https://disco.auxy.co/t/most-wanted-features/14165.rss">Most Wanted Features</source>
+      </item>
+  </channel>
+</rss>

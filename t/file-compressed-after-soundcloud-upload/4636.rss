@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>File compressed after Soundcloud upload?</title>
+    <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636</link>
+    <description>So I made a song pretty recently, and for some reason when I uploaded it to SoundCloud it went from sounding like one of my best tracks so far to sounding like an old grandpa’s fart ¯\_(ツ)_/¯
+(The track is called Fall btw)
+
+So here’s the original:
+https://1drv.ms/u/s!AgE8leg-SEl8iV1hd_KSJoX3J-jU
+
+And then here’s what it sounded like when I uploaded it to SoundCloud:
+https://soundcloud.com/prysmedm/fall
+
+So yeah, that happened, anybody else experienced this? Any ideas on why it compressed when I uploaded it?</description>
+    
+    <lastBuildDate>Thu, 30 Nov 2017 12:59:54 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[Alyen]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s sound like your bass instrument is distorting. It’s true that SC converts(transcode) tracks to mp3 for streaming, but it shouldn’t be distorting. Have you’ve tried re-uploading the track(privately, just to check if the same issue occurs)?</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/9</link>
+        <pubDate>Thu, 30 Nov 2017 12:59:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-9</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[PlutoPower]]></dc:creator>
+        <description><![CDATA[
+            <p>Just sounds slightly lower to me.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/8</link>
+        <pubDate>Thu, 30 Nov 2017 12:27:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-8</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>If I remember correctly, SoundCloud does a level adjustment before the encoding to prevent errors caused by 0 dB peaks.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/7</link>
+        <pubDate>Thu, 30 Nov 2017 11:59:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-7</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="blakkaz" data-post="4" data-topic="4636">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/blakkaz/40/8448_2.png" class="avatar"> blakkaz:</div>
+<blockquote>
+<p>Auxy puts a limiter on your final mix to try and match a mastered track’s volume.</p>
+<p>It works pretty well when exporting lossless WAVs, but can often sound pretty poor when converted to mp3.</p>
+</blockquote>
+</aside>
+<p>You want to elaborate on this?</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/6</link>
+        <pubDate>Thu, 30 Nov 2017 11:54:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-6</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[Prysm]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, thanks for the info. That track was my first ever attempt at manual mastering my track so I didn’t know about that.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/5</link>
+        <pubDate>Thu, 30 Nov 2017 06:40:36 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-5</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>There are some good tips <a href="https://www.justmastering.com/article-mixingformp3.php">here</a> on improving sound quality of lossy conversions.</p>
+<p>As a starting point, I’d pull back the levels on your mix.</p>
+<p>Auxy puts a limiter on your final mix to try and match a mastered track’s volume.<br>
+It works pretty well when exporting lossless WAVs, but can often sound pretty poor when converted to mp3.</p>
+<p>Perhaps consider doing two mixes. One for sale, promo, DJing etc… and one for uploading to social media channels.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/4</link>
+        <pubDate>Thu, 30 Nov 2017 05:35:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-4</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[lowey]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah, it’s got to get the file small enough to stream, there have to be compromises to make that happen. In this case you have a very wide frequency range which highlights the limitations of the format.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/3</link>
+        <pubDate>Thu, 30 Nov 2017 05:29:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-3</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Soundcloud converts your file to 128kbps mp3.</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/2</link>
+        <pubDate>Thu, 30 Nov 2017 05:26:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-2</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+      <item>
+        <title>File compressed after Soundcloud upload?</title>
+        <dc:creator><![CDATA[Prysm]]></dc:creator>
+        <description><![CDATA[
+            <p>So I made a song pretty recently, and for some reason when I uploaded it to SoundCloud it went from sounding like one of my best tracks so far to sounding like an old grandpa’s fart ¯_(ツ)_/¯<br>
+(The track is called Fall btw)</p>
+<p>So here’s the original:<br>
+<a href="https://1drv.ms/u/s!AgE8leg-SEl8iV1hd_KSJoX3J-jU" class="onebox" target="_blank" rel="nofollow noopener">https://1drv.ms/u/s!AgE8leg-SEl8iV1hd_KSJoX3J-jU</a></p>
+<p>And then here’s what it sounded like when I uploaded it to SoundCloud:<br>
+<a href="https://soundcloud.com/prysmedm/fall" class="onebox" target="_blank" rel="nofollow noopener">https://soundcloud.com/prysmedm/fall</a></p>
+<p>So yeah, that happened, anybody else experienced this? Any ideas on why it compressed when I uploaded it?</p>
+          <p><a href="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636/1</link>
+        <pubDate>Thu, 30 Nov 2017 05:18:35 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-4636-1</guid>
+        <source url="https://disco.auxy.co/t/file-compressed-after-soundcloud-upload/4636.rss">File compressed after Soundcloud upload?</source>
+      </item>
+  </channel>
+</rss>

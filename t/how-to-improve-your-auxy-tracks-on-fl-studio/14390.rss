@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to improve your auxy tracks on FL studio</title>
+    <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390</link>
+    <description>Today I discovered that you can send your projects to FL Studio (via wav file) into Edison. 
+Step 1) Render your audio in wav format
+
+Step 2) Send it to a device with FL studio
+
+Step 3) Once in your files open Edison in FL Studio 
+(Found in top right corner with scissors chopping audio)
+![fl%20help|191x116](upload://vlz3L7mxJdf68pnJ8pWqWQxVT58.png) 
+
+continued in part 2.</description>
+    
+    <lastBuildDate>Fri, 01 Mar 2019 03:38:24 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>You can also… just drag and drop the audio file into the playlist without opening it up in Edison.</p>
+<p>Also, thanks <a class="mention" href="https://disco.auxy.co/u/hydrans">@HYDRANS</a> for bringing up exporting individual instruments. A visualizer doesn’t necessarily <em>add</em> to the track, but EQ and plugins <em>do</em>.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/6</link>
+        <pubDate>Fri, 01 Mar 2019 03:38:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-6</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>yeah that’s probably better, but honestly I just put the entire thing in for Audio Visualizer.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/5</link>
+        <pubDate>Fri, 01 Mar 2019 02:00:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-5</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[HYDRANS]]></dc:creator>
+        <description><![CDATA[
+            <p>If you export individual instruments from Auxy, you can import the individual .wavs into FL as samples and work with them further there</p>
+<p>(I find this method easier)</p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/4</link>
+        <pubDate>Fri, 01 Mar 2019 01:31:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-4</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>Step 6) Press the circled button in the picture.<br>
+<img src="//cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/standard10/uploads/auxy/original/2X/e/e0f5ad568c1411e07cad20e53c1357158749f624.png" alt="Fl%20help%204" width="690" height="399"><br>
+Sample should appear in the playlist</p>
+<p>Step 7) Finally set your tempo/BPS to what it is in Auxy so you can add stuff to your tracks.</p>
+<p>In my next post I will explain how to use Fl Studio Audio Visualizer to make videos like Trap Nation or Proximity Radio for your Auxy songs.<img src="/images/emoji/apple/sunglasses.png?v=6" title=":sunglasses:" class="emoji" alt=":sunglasses:"></p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/3</link>
+        <pubDate>Fri, 01 Mar 2019 01:05:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-3</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>Step 4) Click on the text button that says “Click to load sample”</p>
+<p><img src="//cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/standard10/uploads/auxy/original/2X/4/4eaa711081cbbc33bb1949d0e7792ac3b2bcf12b.png" alt="Fl%20help%202" width="690" height="467"></p>
+<p>Step 5) Find your file and make sure the area circled is set to this.<br>
+<img src="//cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/standard10/uploads/auxy/original/2X/5/525b316d6ddff5760035b86e89a88067bade80c4.png" alt="Fl%20help%203" width="690" height="409"></p>
+<p>Continued in pt 3</p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/2</link>
+        <pubDate>Fri, 01 Mar 2019 01:04:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-2</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+      <item>
+        <title>How to improve your auxy tracks on FL studio</title>
+        <dc:creator><![CDATA[1544cimn]]></dc:creator>
+        <description><![CDATA[
+            <p>Today I discovered that you can send your projects to FL Studio (via wav file) into Edison.<br>
+Step 1) Render your audio in wav format</p>
+<p>Step 2) Send it to a device with FL studio</p>
+<p>Step 3) Once in your files open Edison in FL Studio<br>
+(Found in top right corner with scissors chopping audio)<br>
+<img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/d/dbb37628b7fe0d3a08c9307e64e77a5d2f53d962.png" alt="fl%20help" width="191" height="116"></p>
+<p>continued in part 2.</p>
+          <p><a href="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390/1</link>
+        <pubDate>Fri, 01 Mar 2019 01:04:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14390-1</guid>
+        <source url="https://disco.auxy.co/t/how-to-improve-your-auxy-tracks-on-fl-studio/14390.rss">How to improve your auxy tracks on FL studio</source>
+      </item>
+  </channel>
+</rss>

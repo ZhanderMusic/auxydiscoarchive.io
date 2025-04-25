@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s the source of &quot;Posture&quot; synth?</title>
+    <link>https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153</link>
+    <description>This synth is part of the original sounds of Auxy.
+I am trying to emulate it in hardware synth using oscillators and all the arsenal of knobs but would need some clues about its design or what&#39;s the source of it if sampled.
+
+Any theories?</description>
+    
+    <lastBuildDate>Thu, 10 Jun 2021 12:19:47 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s the source of &quot;Posture&quot; synth?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Start with a synth brass tutorial online…</p>
+<p>Beyond that, it’s seemingly multi-voiced with a fair amount of detune spread across the voices</p>
+<p><a href="https://www.youtube.com/embed/edkTRDz4sEs?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/edkTRDz4sEs</a></p>
+
+<p>Another point of reference might be the opening synth sound from <a href="https://youtu.be/mMiLZm4q--g?t=5">Yazoo’s Don’t Go</a> ('80s synth-pop track)</p>
+<p><a href="https://www.youtube.com/embed/LJBY9v1c8PA?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/LJBY9v1c8PA</a></p>
+
+          <p><a href="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/3</link>
+        <pubDate>Thu, 10 Jun 2021 08:34:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21153-3</guid>
+        <source url="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153.rss">What&#39;s the source of &quot;Posture&quot; synth?</source>
+      </item>
+      <item>
+        <title>What&#39;s the source of &quot;Posture&quot; synth?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>A sawtooth, some noise, and a LPF will get you pretty close.</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/2</link>
+        <pubDate>Thu, 10 Jun 2021 08:17:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21153-2</guid>
+        <source url="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153.rss">What&#39;s the source of &quot;Posture&quot; synth?</source>
+      </item>
+      <item>
+        <title>What&#39;s the source of &quot;Posture&quot; synth?</title>
+        <dc:creator><![CDATA[Offcmd]]></dc:creator>
+        <description><![CDATA[
+            <p>This synth is part of the original sounds of Auxy.<br>
+I am trying to emulate it in hardware synth using oscillators and all the arsenal of knobs but would need some clues about its design or what’s the source of it if sampled.</p>
+<p>Any theories?</p>
+          <p><a href="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153/1</link>
+        <pubDate>Thu, 10 Jun 2021 03:39:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21153-1</guid>
+        <source url="https://disco.auxy.co/t/whats-the-source-of-posture-synth/21153.rss">What&#39;s the source of &quot;Posture&quot; synth?</source>
+      </item>
+  </channel>
+</rss>

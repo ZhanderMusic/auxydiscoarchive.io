@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Question About Automation</title>
+    <link>https://disco.auxy.co/t/question-about-automation/2408</link>
+    <description>hello everyone, new to this forum and not yet an expert in auxy...
+
+question: is there a way to delete an automation? let say i made an automation for pitch, for volume, for lowpass, etc. and then later on decided to remove just one of those automation. how do you do that - to remove one automation but keep the other automations as is?</description>
+    
+    <lastBuildDate>Thu, 14 Sep 2017 22:36:55 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/question-about-automation/2408.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Question About Automation</title>
+        <dc:creator><![CDATA[NotMiles]]></dc:creator>
+        <description><![CDATA[
+            <p>If your automation has a ton of nodes and is in 1, 2, 4, or 8 bar mode, change it to scene mode and Auxy will ask you to clear the automation. That’s how I do it, anyways</p>
+          <p><a href="https://disco.auxy.co/t/question-about-automation/2408/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-automation/2408/4</link>
+        <pubDate>Thu, 14 Sep 2017 22:36:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2408-4</guid>
+        <source url="https://disco.auxy.co/t/question-about-automation/2408.rss">Question About Automation</source>
+      </item>
+      <item>
+        <title>Question About Automation</title>
+        <dc:creator><![CDATA[NEWNAMES]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="161" data-topic="795" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<a href="https://disco.auxy.co/t/ideas-for-improving-auxy/795/161">Ideas for improving Auxy</a>
+</div>
+<blockquote>
+<p>You can delete the individual nodes like induvidual notes. Just select the ones you want to delete, and then just tap on one node to delete all of the selected nodes. Hope that helps!</p>
+</blockquote>
+</aside>
+<p>…</p>
+          <p><a href="https://disco.auxy.co/t/question-about-automation/2408/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-automation/2408/3</link>
+        <pubDate>Thu, 14 Sep 2017 21:51:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2408-3</guid>
+        <source url="https://disco.auxy.co/t/question-about-automation/2408.rss">Question About Automation</source>
+      </item>
+      <item>
+        <title>Question About Automation</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>You need to tap on the dots/points you’ve created to remove each one, until none are left.<br>
+This effectively resets the automation to 0/none, in which case, what level you’ve set in the main Instrument controls panel will be used.</p>
+<p>Hope that helps. <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/question-about-automation/2408/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-automation/2408/2</link>
+        <pubDate>Thu, 14 Sep 2017 21:51:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2408-2</guid>
+        <source url="https://disco.auxy.co/t/question-about-automation/2408.rss">Question About Automation</source>
+      </item>
+      <item>
+        <title>Question About Automation</title>
+        <dc:creator><![CDATA[Suboidua]]></dc:creator>
+        <description><![CDATA[
+            <p>hello everyone, new to this forum and not yet an expert in auxy…</p>
+<p>question: is there a way to delete an automation? let say i made an automation for pitch, for volume, for lowpass, etc. and then later on decided to remove just one of those automation. how do you do that - to remove one automation but keep the other automations as is?</p>
+          <p><a href="https://disco.auxy.co/t/question-about-automation/2408/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/question-about-automation/2408/1</link>
+        <pubDate>Thu, 14 Sep 2017 21:49:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2408-1</guid>
+        <source url="https://disco.auxy.co/t/question-about-automation/2408.rss">Question About Automation</source>
+      </item>
+  </channel>
+</rss>

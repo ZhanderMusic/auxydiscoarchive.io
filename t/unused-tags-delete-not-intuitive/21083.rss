@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Unused tags? Delete not intuitive</title>
+    <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083</link>
+    <description>Is there a way to delete unused tags? 
+If there is I haven’t been able to figure it out.</description>
+    
+    <lastBuildDate>Sun, 30 May 2021 16:17:16 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Unused tags? Delete not intuitive</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>Honestly I don’t know if that’s a bug or not. The way I get rid of stragglers like that is changing the sorting to “Recent” and then changing the sorting back to the “By Tag” option, and by doing that, my empty tags are deleted. From what I’ve noticed, the empty tags don’t get deleted unless you do this, as I’m guessing that “refreshes” the list. Maybe I’m missing something though…</p>
+          <p><a href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/5</link>
+        <pubDate>Sun, 30 May 2021 16:17:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21083-5</guid>
+        <source url="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss">Unused tags? Delete not intuitive</source>
+      </item>
+      <item>
+        <title>Unused tags? Delete not intuitive</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="sn.ow.y" data-post="2" data-topic="21083">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/sn.ow.y/40/15283_2.png" class="avatar"> sn.ow.y:</div>
+<blockquote>
+<p>you have to remove that tag from all of the projects that have it, and then it will get deleted.</p>
+</blockquote>
+</aside>
+<p>I’ve never used the tags, but tbh, I would have expected them to be better implemented than that.</p>
+<p>Surprised they’d let UX that half-baked go through.</p>
+          <p><a href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/4</link>
+        <pubDate>Sat, 29 May 2021 17:03:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21083-4</guid>
+        <source url="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss">Unused tags? Delete not intuitive</source>
+      </item>
+      <item>
+        <title>Unused tags? Delete not intuitive</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889.png" data-download-href="/uploads/short-url/8D7TJHOXZNRgcP2AaA9d23ryGj7.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889_2_281x499.png" alt="image" data-base62-sha1="8D7TJHOXZNRgcP2AaA9d23ryGj7" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889_2_281x499.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889_2_421x748.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889_2_562x998.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/3/c/3c7dac004d14549bbf8b159ddd49c65e6418d889_2_10x10.png"></a></div><p></p>
+<p><a class="mention" href="https://disco.auxy.co/u/sn.ow.y">@sn.ow.y</a><br>
+I don’t think that works. I have tag categories with nothing in it that still show up in sort by tag. I created it a LONG time ago. Is it a bug?</p>
+          <p><a href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/3</link>
+        <pubDate>Sat, 29 May 2021 14:39:03 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21083-3</guid>
+        <source url="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss">Unused tags? Delete not intuitive</source>
+      </item>
+      <item>
+        <title>Unused tags? Delete not intuitive</title>
+        <dc:creator><![CDATA[sn.ow.y]]></dc:creator>
+        <description><![CDATA[
+            <p>There’s no explicit “delete” option. If you want to get rid of a tag, you have to remove that tag from all of the projects that have it, and then it will get deleted.</p>
+<p>You can do this easily by sorting “By Tag”, then going to the one you want to delete, and for each project with that tag in the list, un-check the tag from the tags menu when you slide left on the project itself. Once all projects are removed from that list, sort by some other criteria, and then sort by tags again, and you’ll see that the tag has been deleted.</p>
+          <p><a href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/2</link>
+        <pubDate>Sat, 29 May 2021 14:36:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21083-2</guid>
+        <source url="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss">Unused tags? Delete not intuitive</source>
+      </item>
+      <item>
+        <title>Unused tags? Delete not intuitive</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Is there a way to delete unused tags?<br>
+If there is I haven’t been able to figure it out.</p>
+          <p><a href="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083/1</link>
+        <pubDate>Sat, 29 May 2021 14:12:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21083-1</guid>
+        <source url="https://disco.auxy.co/t/unused-tags-delete-not-intuitive/21083.rss">Unused tags? Delete not intuitive</source>
+      </item>
+  </channel>
+</rss>

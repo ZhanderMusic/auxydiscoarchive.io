@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The June 2021 ACCAs</title>
+    <link>https://disco.auxy.co/t/the-june-2021-accas/21158</link>
+    <description>Tune in on June 12th at 4pm EST in the [Auxy Collective Discord](https://auxycollective.me/discord) for our 3rd biannual AC Community Awards ceremony, you don’t want to miss it!</description>
+    
+    <lastBuildDate>Sat, 12 Jun 2021 08:04:07 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/the-june-2021-accas/21158.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The June 2021 ACCAs</title>
+        <dc:creator><![CDATA[Vokon]]></dc:creator>
+        <description><![CDATA[
+            <p>Disclaimer: I didn’t win an ACCA</p>
+          <p><a href="https://disco.auxy.co/t/the-june-2021-accas/21158/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-june-2021-accas/21158/2</link>
+        <pubDate>Sat, 12 Jun 2021 08:04:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21158-2</guid>
+        <source url="https://disco.auxy.co/t/the-june-2021-accas/21158.rss">The June 2021 ACCAs</source>
+      </item>
+      <item>
+        <title>The June 2021 ACCAs</title>
+        <dc:creator><![CDATA[ian]]></dc:creator>
+        <description><![CDATA[
+            <p>Tune in on June 12th at 4pm EST in the <a href="https://auxycollective.me/discord" rel="noopener nofollow ugc">Auxy Collective Discord</a> for our 3rd biannual AC Community Awards ceremony, you don’t want to miss it!</p>
+          <p><a href="https://disco.auxy.co/t/the-june-2021-accas/21158/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/the-june-2021-accas/21158/1</link>
+        <pubDate>Fri, 11 Jun 2021 04:30:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21158-1</guid>
+        <source url="https://disco.auxy.co/t/the-june-2021-accas/21158.rss">The June 2021 ACCAs</source>
+      </item>
+  </channel>
+</rss>

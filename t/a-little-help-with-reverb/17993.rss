@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A little help with Reverb!</title>
+    <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993</link>
+    <description>I think the &quot;new&quot; reverb is often *way* too much.
+
+I have a hard time getting the results I use to be able to get before the update that allowed us to manipulate the Size, Decay, Damping, etc...  Before, I could just turn up the verb, and it was g2g. 
+
+Now, I usually end up having to turn the verb knob down to 1 or 2, or just not use it at all. I&#39;ve been experimenting with it for a while - thinking I&#39;d eventually get the hang of it, but I&#39;m still having issues.
+
+I&#39;ve tried turning the size/decay down and the damping up, but alas, I still can&#39;t get the sound I want.
+
+I just want a good/simple verb for my leads, snares/hats. 
+
+Maybe I&#39;m doing something wrong? 
+
+Auxy community - where do YOU normally set your verb for leads? Snares? 
+Where do you set the lowpass? highpass? 
+
+Thanks!</description>
+    
+    <lastBuildDate>Sun, 09 Feb 2020 08:03:07 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah I can confirm:</p>
+<p>So I opened an old project link of mine from last year and it had a drum kit. When I tapped ‘Update’ for the samples, the reverb for the snare was way higher (without adjusting any dials)</p>
+<p><a href="https://app.auxy.co/projects/67KU0fsML6IA3MNWJf0hfQ==" class="onebox" target="_blank" rel="nofollow noopener">https://app.auxy.co/projects/67KU0fsML6IA3MNWJf0hfQ==</a></p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/8</link>
+        <pubDate>Sun, 09 Feb 2020 08:03:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-8</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[dysk0]]></dc:creator>
+        <description><![CDATA[
+            <p>Volume higher than default, then fine tune pass dials at low levels, then adjust pass in advanced reverb.</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/7</link>
+        <pubDate>Sat, 01 Feb 2020 02:07:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-7</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>When we updated all the sounds we noticed that we had forgotten to compensate for a gain change that we do before the effect section. So the reverb level is relatively higher than before. It might be that the curvature for the reverb knob is a bit different for drums than for other instruments though. Will investigate to see if it needs tweaking. In any case, this just means that the dial is a bit different, but you should still be able to get the same settings.</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/6</link>
+        <pubDate>Thu, 23 Jan 2020 10:00:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-6</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[YeahMarcYeah]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah! Thanks!</p>
+<p>This helps a bunch.</p>
+<p>Honestly, I’m a bit surprised you sometimes set your instrument verb size to 100.<br>
+Just seems like a lot to me at times, but I’ll definitely give these a try!</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/5</link>
+        <pubDate>Tue, 21 Jan 2020 17:26:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-5</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[Matik]]></dc:creator>
+        <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980.jpeg" data-download-href="/uploads/short-url/AlVtDzp5UaZKa2gM3uEJhaeWrHq.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980_2_634x500.jpeg" alt="image" data-base62-sha1="AlVtDzp5UaZKa2gM3uEJhaeWrHq" width="634" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980_2_634x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/f/fec8cb6dd50a8bbee37820c193e60a60b9d58980_2_10x10.png"></a></div><p></p>
+<p>this is what I usually set my reverb to for instruments! not a lot but not too much. It’s what I used for my second round auxy tournament submission for the piano!</p>
+<p>and this:</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e.jpeg" data-download-href="/uploads/short-url/pFwpFOXYj187qOF9wxRQcatM5xs.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e_2_555x500.jpeg" alt="image" data-base62-sha1="pFwpFOXYj187qOF9wxRQcatM5xs" width="555" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e_2_555x500.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/b/b3e7f2c264d4b00e9618de46c167eedb6872663e_2_10x10.png"></a></div><p></p>
+<p>is what I’d set it to for my drums! Most specifically the snare and rides. I like to add reverb to my rides to create a slight tail to connect each ride so they don’t sound ‘stocky’, as well as to create a coherent movement on each placement. As for the snares, I tend to overly use reverb on my snares to give it that extra power but if you’re looking for a more general and pre auxy 5 type of reverb, I think the setting I’ve listed above is similar.</p>
+<p>I had to tweak with the settings a lot because the Decay and Size on the reverb settings creates a lot of dimension; as if you’re playing an instrument in a giant empty parking lot, whereas Damping and Size just almost creates a delay, similar to the 1/64 delay but more blended. Decay is the key to creating that pre auxy 5 reverb and I’ve found out using the high pass and low pass filters on those settings actually levels out how powerful that decay is in general, so a combination of all those worked well with that.</p>
+<p>Hope that helps!</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/4</link>
+        <pubDate>Tue, 21 Jan 2020 11:28:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-4</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[YeahMarcYeah]]></dc:creator>
+        <description><![CDATA[
+            <p>YES. That’s exactly how I feel!</p>
+<p>I posted something about this a while back  and an Auxy moderator said, “But it’s the same reverb…”</p>
+<p>A few people thought it was funny…</p>
+<p>At least now I know I’m not crazy, lol</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/3</link>
+        <pubDate>Tue, 21 Jan 2020 03:54:05 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-3</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>Its like very weird for a drum sample when you turn the reverb up even just a little bit it almost sounds like its on full</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/2</link>
+        <pubDate>Mon, 20 Jan 2020 20:48:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-2</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+      <item>
+        <title>A little help with Reverb!</title>
+        <dc:creator><![CDATA[YeahMarcYeah]]></dc:creator>
+        <description><![CDATA[
+            <p>I think the “new” reverb is often <em>way</em> too much.</p>
+<p>I have a hard time getting the results I use to be able to get before the update that allowed us to manipulate the Size, Decay, Damping, etc…  Before, I could just turn up the verb, and it was g2g.</p>
+<p>Now, I usually end up having to turn the verb knob down to 1 or 2, or just not use it at all. I’ve been experimenting with it for a while - thinking I’d eventually get the hang of it, but I’m still having issues.</p>
+<p>I’ve tried turning the size/decay down and the damping up, but alas, I still can’t get the sound I want.</p>
+<p>I just want a good/simple verb for my leads, snares/hats.</p>
+<p>Maybe I’m doing something wrong?</p>
+<p>Auxy community - where do YOU normally set your verb for leads? Snares?<br>
+Where do you set the lowpass? highpass?</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/a-little-help-with-reverb/17993/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/a-little-help-with-reverb/17993/1</link>
+        <pubDate>Mon, 20 Jan 2020 18:24:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17993-1</guid>
+        <source url="https://disco.auxy.co/t/a-little-help-with-reverb/17993.rss">A little help with Reverb!</source>
+      </item>
+  </channel>
+</rss>

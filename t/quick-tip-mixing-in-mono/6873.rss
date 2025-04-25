@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Quick Tip - Mixing in Mono</title>
+    <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873</link>
+    <description>Now that we have the ability to import our own samples, I thought I&#39;d share a quick way I&#39;ve found to test your mix for [mono compatibility](https://www.adsrsounds.com/mixing-tutorials/10-tips-for-mono-compatibility/).
+
+---
+
+**Step One**
+
+Enable Ableton Link from the settings menu.
+
+![C1C8F73E-03CC-420B-8F24-2B22DBC658AB|666x500](upload://7b1lEc6nl5ZsoBAAZOoATf5TIfy.jpg)
+
+![4C404F0B-0843-4E32-9A3C-ABD55E6A870B|666x500](upload://tbYQAJ4EqEeKoOSbVlLry2p9oBx.jpg)
+
+---
+
+**Step Two**
+
+Go to the Settings app and enable &#39;Mono Audio&#39;. (don&#39;t forget to disable when you&#39;re done)
+
+General &gt; Accessibility &gt; Mono Audio
+
+![AE6F41AA-26DE-4645-AAD2-12C06E947640|666x500](upload://5hFwJzS8KVHDi7Bs5q2RITam1t6.jpg)
+
+---
+
+**Step Three**
+
+Listen to your mix.
+
+As a general rule, the only difference you should hear is a &#39;narrowing&#39; of the mix.
+If sounds decrease in volume, or disappear all together, you have an issue.
+
+---
+
+:hotdog:</description>
+    
+    <lastBuildDate>Wed, 07 Feb 2018 22:07:34 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[nep]]></dc:creator>
+        <description><![CDATA[
+            <p>Actually it’s just phase change</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/16</link>
+        <pubDate>Wed, 07 Feb 2018 22:07:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-16</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>I tried on two tracks I haven’t archived and neither were terrible. Bass was too loud in both, but it wasn’t like some of the horribleness I’ve seen while using Reason (not Reason’s fault, just my god awful mixing lol).</p>
+<p>I’m just surprised how easy it is and it definitely behaves EXACTLY how I’d expect which is perfect</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/15</link>
+        <pubDate>Wed, 07 Feb 2018 18:01:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-15</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>I really should start doing this. Pretty sure my mixing is muddy AF.</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/14</link>
+        <pubDate>Wed, 07 Feb 2018 17:56:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-14</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>BTW, just finally got around to testing this out after I noticed the bass was drowning the absolute sh!t out of my mix on my latest song in my car, and not only can I confirm I wish I did this earlier while using Auxy, but it’s also SIMPLE to switch back and forth while the track is playing.</p>
+<p>Thankfully, I think my car speakers are just total garbage because in mono, the bass is too loud for sure, but I can still hear all elements.</p>
+<p>Anyway, man I wish I could give you a frickin gold star for this tip. Just want to re-iterate how important it is. Also, this would/should work for any other app</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/13</link>
+        <pubDate>Wed, 07 Feb 2018 17:44:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-13</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Didn’t know this was possible on iOS, thanks man! Toward the end of my stint with Reason (I’ll get back to it one day) I started mixing in mono and it makes a ginormous difference. Also, when you’re doing the whole track in mono and you finally flip it back to stereo, it’s nothing short of magical how AWESOME it sounds.</p>
+<p>It does make a huge difference though and anyone who is remotely serious about what they’re putting out there, heed this advice from <a class="mention" href="https://disco.auxy.co/u/blakkaz">@blakkaz</a>!!!</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/12</link>
+        <pubDate>Sun, 28 Jan 2018 02:25:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-12</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[bri77]]></dc:creator>
+        <description><![CDATA[
+            <p>Fantastic tip nrgb!!!</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/11</link>
+        <pubDate>Sun, 28 Jan 2018 01:21:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-11</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Ah, okay.</p>
+<p>Nice! I am also an engineer, but I mainly do lighting (light shows).</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/10</link>
+        <pubDate>Sat, 27 Jan 2018 18:14:57 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-10</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NickElle" data-post="8" data-topic="6873">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/nickelle/40/10854_2.png" class="avatar"> NickElle:</div>
+<blockquote>
+<p>I wouldn’t recommend audio engineering in mono though.</p>
+<p>A good mix should be “wide,” and if you’re mixing in mono, you won’t be able to tell depth.</p>
+</blockquote>
+</aside>
+<p>To be clear, I periodically switch to stereo during and of course, completely, once I’m nearing the end of a mix.<br>
+It’s a fairly common practice which I find gets me, personally, a better mix.</p>
+<p>(I’m an engineer by trade)</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/9</link>
+        <pubDate>Sat, 27 Jan 2018 18:12:31 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-9</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[NickElle]]></dc:creator>
+        <description><![CDATA[
+            <p>Nice tip, man!</p>
+<p>I wouldn’t recommend audio engineering in mono though.<br>
+A good mix should be “wide,” and if you’re mixing in mono, you won’t be able to tell depth.</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/8</link>
+        <pubDate>Sat, 27 Jan 2018 18:05:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-8</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>What’s really fun, and you can’t really do this in Auxy that much,  is to do everything in mono but slather everything in phasers and flangers.  If you haven’t tried that, it’s a lot of fun.</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/7</link>
+        <pubDate>Sat, 27 Jan 2018 17:22:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-7</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m guilty of, with herbal assistance,  doing lots of work in mono and then switching back to stereo just to surprise myself</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/6</link>
+        <pubDate>Sat, 27 Jan 2018 17:20:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-6</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>I actually work in mono the majority of the time…</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/5</link>
+        <pubDate>Sat, 27 Jan 2018 17:15:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-5</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh yeah good point.  What’s good about the mono audio thing, is it’s still stereo if you’re listening on headphones, etc.  some people say it has to be done on actual mono speaker, 1 channel etc,  but the extremely narrow stereo image lets you still hear any pan moves you make, though you will have to listen closely. Pan things around with mono audio on, and you will sometimes hear sounds suddenly “pop out” and get slightly louder, meaning you have successfully moved something into its own space.  Very useful for making sure stuff is nice and wide and of course you want to switch back and forth just to check on how things are going, but i do think this is kind of a foolproof way to pan things.  It will always sound good when switching back, just sometimes it might be TOO wide or slightly lopsided.</p>
+<p>Which if any one has tips for balancing the image when doing lots of panning, I’m all ears.  I’ve never really liked simply doubling things with a different sound</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/4</link>
+        <pubDate>Sat, 27 Jan 2018 17:14:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-4</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d imagine the v4 soundpacks were mixed with this in mind.</p>
+<p>It’s a whole different ball game now that we can import our own samples.</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/3</link>
+        <pubDate>Sat, 27 Jan 2018 16:55:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-3</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>Good tip and I’ve actually been doing this a lot lately, however I noticed that Auxy seems to never have issues with things disappearing in mono, maybe sounding just barely different, but not bad.  Wouldn’t surprise me at all if they’ve got some crazy stuff going on under the hood that prevents this from being an issue</p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/2</link>
+        <pubDate>Sat, 27 Jan 2018 16:53:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-2</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+      <item>
+        <title>Quick Tip - Mixing in Mono</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>Now that we have the ability to import our own samples, I thought I’d share a quick way I’ve found to test your mix for <a href="https://www.adsrsounds.com/mixing-tutorials/10-tips-for-mono-compatibility/" rel="nofollow noopener">mono compatibility</a>.</p>
+<hr>
+<p><strong>Step One</strong></p>
+<p>Enable Ableton Link from the settings menu.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec.jpg" title="C1C8F73E-03CC-420B-8F24-2B22DBC658AB.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec_2_666x500.jpg" alt="C1C8F73E-03CC-420B-8F24-2B22DBC658AB" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec_2_666x500.jpg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec_2_999x750.jpg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec_2_1332x1000.jpg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/3/324e2b2f341cd807179d57a8bda6386ee56a31ec_2_10x10.png"></a></div><p></p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f.jpg" title="4C404F0B-0843-4E32-9A3C-ABD55E6A870B.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f_2_666x500.jpg" alt="4C404F0B-0843-4E32-9A3C-ABD55E6A870B" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f_2_666x500.jpg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f_2_999x750.jpg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f_2_1332x1000.jpg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/c/cc99c45a8cdb106c2fa30dbf237641379659697f_2_10x10.png"></a></div><p></p>
+<hr>
+<p><strong>Step Two</strong></p>
+<p>Go to the Settings app and enable ‘Mono Audio’. (don’t forget to disable when you’re done)</p>
+<p>General &gt; Accessibility &gt; Mono Audio</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0.jpg" title="AE6F41AA-26DE-4645-AAD2-12C06E947640.jpg" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0_2_666x500.jpg" alt="AE6F41AA-26DE-4645-AAD2-12C06E947640" width="666" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0_2_666x500.jpg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0_2_999x750.jpg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0_2_1332x1000.jpg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/2/250a342d6c9778eb0d8bf7ebe94764b0566adfa0_2_10x10.png"></a></div><p></p>
+<hr>
+<p><strong>Step Three</strong></p>
+<p>Listen to your mix.</p>
+<p>As a general rule, the only difference you should hear is a ‘narrowing’ of the mix.<br>
+If sounds decrease in volume, or disappear all together, you have an issue.</p>
+<hr>
+<p><img src="https://emoji.discourse-cdn.com/apple/hotdog.png?v=9" title=":hotdog:" class="emoji" alt=":hotdog:"></p>
+          <p><a href="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873/1</link>
+        <pubDate>Sat, 27 Jan 2018 16:44:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-6873-1</guid>
+        <source url="https://disco.auxy.co/t/quick-tip-mixing-in-mono/6873.rss">Quick Tip - Mixing in Mono</source>
+      </item>
+  </channel>
+</rss>

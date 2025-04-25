@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>My Auxy dilemma</title>
+    <link>https://disco.auxy.co/t/my-auxy-dilemma/16488</link>
+    <description>Hey, all. What I&#39;ve seen on this forum has made me hesitant to update to Auxy 6. Technically, I could just *not update.* However, I won&#39;t be able to open project links if it was made in Auxy 6. Is there any way around this?</description>
+    
+    <lastBuildDate>Mon, 12 Aug 2019 18:29:18 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Pretty sure you nailed it. I don’t have any older projects handy, but it works like this from what I understand:</p>
+<p>Open older project. Sounds are as they always were. When you open a sound to edit parameters you have the option to update the sound. If you choose update, the sound is replaced by a new one with the new parameters (it will be the same sound, but your settings, automations for sure etc will not carry over).</p>
+<p>The thinking here was if you have a sound in an existing project you like, then <em>-DON’T-</em> update it. Just leave it be. If you aren’t happy with it then yes, update.</p>
+<p>I suppose you could copy the instrument channel and test it first. I haven’t tried this myself. For sure Auxy 6 projects will not open in Auxy 5 (like how 5 don’t open in 4 etc etc). This is pretty normal for every DAW / DAW style app I’ve ever seen (typically you can open older projects in newer programs but not the other way around).</p>
+<p>Bottom line - if you have older projects with sounds you like, don’t update them. If you are working with all new projects you are using the new sounds.</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/7</link>
+        <pubDate>Mon, 12 Aug 2019 18:29:18 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-7</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[Trojanian]]></dc:creator>
+        <description><![CDATA[
+            <p>And that someone will hopefully see this thread</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/6</link>
+        <pubDate>Mon, 12 Aug 2019 18:20:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-6</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>from what I believe, you should be able to keep your old projects, but you have the option to update all the parameters of the instruments to the new ones (this will also probably wipe any automation you currently have) or just keep the legacy instrument parameters.<br>
+However any new projects you make will use the updates Auxy 6 instruments/effects.</p>
+<p>but it might be better to get someone who’s actually used v.6 to tell u the differences</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/5</link>
+        <pubDate>Mon, 12 Aug 2019 18:03:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-5</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[Trojanian]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh well. So in what way will be projects be screwed when I update? <em>Will</em> they be screwed?</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/4</link>
+        <pubDate>Mon, 12 Aug 2019 17:40:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-4</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>Been on that boat for a while too. There is no way to open up Auxy 6 files with an older version.</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/3</link>
+        <pubDate>Mon, 12 Aug 2019 17:09:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-3</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>No, there’s no way around this</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/2</link>
+        <pubDate>Mon, 12 Aug 2019 16:58:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-2</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+      <item>
+        <title>My Auxy dilemma</title>
+        <dc:creator><![CDATA[Trojanian]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey, all. What I’ve seen on this forum has made me hesitant to update to Auxy 6. Technically, I could just <em>not update.</em> However, I won’t be able to open project links if it was made in Auxy 6. Is there any way around this?</p>
+          <p><a href="https://disco.auxy.co/t/my-auxy-dilemma/16488/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/my-auxy-dilemma/16488/1</link>
+        <pubDate>Mon, 12 Aug 2019 16:20:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-16488-1</guid>
+        <source url="https://disco.auxy.co/t/my-auxy-dilemma/16488.rss">My Auxy dilemma</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Auxy Disco Search</ShortName>
+  <Description>Search for posts on Auxy Disco</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://disco.auxy.co/opensearch.xml"/>
+  <Url type="text/html" template="https://disco.auxy.co/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

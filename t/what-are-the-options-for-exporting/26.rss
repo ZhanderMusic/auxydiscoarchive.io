@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What are the options for exporting?</title>
+    <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26</link>
+    <description>- SoundCloud: uploads the selected render to SoundClud
+- Video: creates a video file with the selected render
+- Audio: creates an AAC compressed audio file of the selected render
+- Share Project: uploads the project file to a server and returns a link to it
+- Uncompressed WAV: exports the selected render without compressing it
+- Export Project as MIDI: creates a [MIDI](https://en.wikipedia.org/wiki/MIDI) file based on the current project
+- Export Individual Instruments: renders an individual audio file for each instrument and packs them into a zip file
+- Export Project Archive: exports the actual project file as an encrypted archive</description>
+    
+    <lastBuildDate>Wed, 16 Dec 2020 08:30:53 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>What you’re trying to do is not possible. It’s not possible to export the internal instruments as playable instruments into Ableton.</p>
+<p>Auxy sound packs aren’t VSTs, so aren’t available for use as playable instruments outside of Auxy.</p>
+<p>The best it can do is export them as stems. It also exports the midi to go along with each instrument. This allows you to replace (or layer or, …) the Auxy stem with a VST (or equivalent) inside Ableton.</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/11</link>
+        <pubDate>Wed, 16 Dec 2020 08:30:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-11</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[Will]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey when you export a project how can you export the instrument data so you can use in a DAW currently using ableton and cannot use midi with the samples as the are Wav not individual instruments <img src="https://emoji.discourse-cdn.com/apple/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/10</link>
+        <pubDate>Tue, 15 Dec 2020 20:13:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-10</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <p>Auxy Studio has no midi in/import.</p>
+<p>You’ll have to rebuild it.</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/9</link>
+        <pubDate>Wed, 07 Feb 2018 22:07:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-9</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[IAATOE]]></dc:creator>
+        <description><![CDATA[
+            <p>I really hope this is a joke</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/8</link>
+        <pubDate>Wed, 07 Feb 2018 21:56:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-8</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[nxthxn]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m trying to move my tracks from the original auxy app (green logo) into the new app.<br>
+iTunes no longer allows me grab the midi file through the apps tab (I’m running OSX11.13 and iTunes 12)<br>
+Is there a way to retain the midi with the samples?<br>
+Just trying to pick up from where i left off.</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/7</link>
+        <pubDate>Wed, 07 Feb 2018 19:20:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-7</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[AasHesh]]></dc:creator>
+        <description><![CDATA[
+            <p>How can we select in SoundCloud repost from Auxy</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/6</link>
+        <pubDate>Sat, 08 Jul 2017 13:45:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-6</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We can add this to our list of feature requests.</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/4</link>
+        <pubDate>Fri, 07 Jul 2017 13:04:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-4</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[Kerfuffle]]></dc:creator>
+        <description><![CDATA[
+            <p>This!</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/3</link>
+        <pubDate>Fri, 07 Jul 2017 03:12:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-3</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>Is there a way of exporting an audio file without the tail?I just want a perfect loop I can use right away instead of having to export two scenes, split it and having to fade away the edges to remove the artifacts.</p>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/2</link>
+        <pubDate>Fri, 07 Jul 2017 02:57:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-2</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+      <item>
+        <title>What are the options for exporting?</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <ul>
+<li>SoundCloud: uploads the selected render to SoundClud</li>
+<li>Video: creates a video file with the selected render</li>
+<li>Audio: creates an AAC compressed audio file of the selected render</li>
+<li>Share Project: uploads the project file to a server and returns a link to it</li>
+<li>Uncompressed WAV: exports the selected render without compressing it</li>
+<li>Export Project as MIDI: creates a <a href="https://en.wikipedia.org/wiki/MIDI">MIDI</a> file based on the current project</li>
+<li>Export Individual Instruments: renders an individual audio file for each instrument and packs them into a zip file</li>
+<li>Export Project Archive: exports the actual project file as an encrypted archive</li>
+</ul>
+          <p><a href="https://disco.auxy.co/t/what-are-the-options-for-exporting/26/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/what-are-the-options-for-exporting/26/1</link>
+        <pubDate>Thu, 15 Jun 2017 15:08:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-26-1</guid>
+        <source url="https://disco.auxy.co/t/what-are-the-options-for-exporting/26.rss">What are the options for exporting?</source>
+      </item>
+  </channel>
+</rss>

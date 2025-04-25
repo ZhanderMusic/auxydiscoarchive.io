@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Exporting individual instruments questions</title>
+    <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491</link>
+    <description>Hi Everybody,
+
+The conventional wisdom a year or two ago is that the exported files can not clip because of a built in master limiter. I have found that some of the newer instruments with lots of reverb can certainly clip (or distort I guess) when exported as individual tracks.
+
+This made me wondering about the differences between rendering individual instrument tracks and rendering a full track.
+
+1) Are there master bus effects or signal processing that occur with a complete track that are either not applied on individual track? Or applied differently for whatever reason. Specifically for effects like limiters, compression, normalization.
+
+2) Maybe this is a dumb question, but does compression then limiting an individual instrument sound different than what that instrument would sound like with compression and limiting on the complete track?
+
+3) If I were to plug all the individual tracks into a DAW with no other effects and equal levels on each track, would the recombined track sound exactly like what comes out of auxy? I&#39;m not sure it does, but I could be doing something in my DAW that I don&#39;t realize.
+
+4) I almost wonder if the individual exported tracks are not limited.
+a) Is the max dB output of the individual tracks the same as the max dB output of a complete track?
+b) what is that max dB output? I guess the questions is what kind of headroom is left?
+
+
+5) Is there any reason the music could sound better played through the Auxy app then it does when exported? Louder, clearer, crisper, etc.
+
+
+Thanks!
+
+@NickElle @Auxy</description>
+    
+    <lastBuildDate>Fri, 08 Mar 2019 16:26:30 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="iammane" data-post="5" data-topic="14491">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://avatars.discourse-cdn.com/v4/letter/i/4491bb/40.png" class="avatar"> iammane:</div>
+<blockquote>
+<p>What</p>
+</blockquote>
+</aside>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab.jpeg" data-download-href="/uploads/short-url/oTfLfB2DhNnJadTM042LzBXbrWX.jpeg?dl=1" title="image"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab_2_690x460.jpeg" alt="image" data-base62-sha1="oTfLfB2DhNnJadTM042LzBXbrWX" width="690" height="460" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab_2_690x460.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/a/ae73235b3529f1dd62c6417eb0a68dee409f6aab_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/6</link>
+        <pubDate>Fri, 08 Mar 2019 16:26:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-6</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="3" data-topic="14491">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/therealjfalc/40/4612_2.png" class="avatar"> TheRealJFalc:</div>
+<blockquote>
+<p>stopped importing samples for the most part</p>
+</blockquote>
+</aside>
+<p>What language is this? Me no understand</p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/5</link>
+        <pubDate>Fri, 08 Mar 2019 16:18:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-5</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="1" data-topic="14491">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/cheddr/40/8165_2.png" class="avatar"> Cheddr:</div>
+<blockquote>
+<p>I almost wonder if the individual exported tracks are not limited.</p>
+</blockquote>
+</aside>
+<p>They are 100% not. Some instruments <strong>will</strong> clip if not properly set in volume. This is most noticeable on instruments like Canoe and most of the Game Waves pack, which tend to be noticeably very loud compared to other instruments. Not to mention there’s a huge compression artifact on some instruments, for example it is <strong><em>extremely noticeable</em></strong> on Spray, which will cause headaches.</p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/4</link>
+        <pubDate>Fri, 08 Mar 2019 15:42:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-4</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m pretty sure it’s always being run while playing in app. The effects of this are very noticeable when using imported samples that are too loud, you can sometimes here a noticeable limiting effect on some instruments because the priority goes to imported samples. This used to be more noticeable in 5.0 but I haven’t experienced it recently, maybe because I stopped importing samples for the most part xD</p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/3</link>
+        <pubDate>Fri, 08 Mar 2019 15:41:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-3</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Again having a very hard time finding the thread where Lenberg went over this… recently this got kicked around too <a href="https://disco.auxy.co/t/about-auxy-and-if-it-auto-applies-a-limiter-on-a-track/13575" class="inline-onebox">About Auxy and if it auto applies a limiter on a track</a></p>
+<p>Short answer is, if you do a full song export, it puts all instruments and everything through the magical black box “mastering” suite. And it sounds pretty decent, to me.</p>
+<p>If you export individual instruments, that whole process is bypassed.</p>
+<p>During playback, I’m unsure if the unicorn black box secret sauce compression/limiting happens. Can’t remember!</p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/2</link>
+        <pubDate>Fri, 08 Mar 2019 15:27:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-2</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+      <item>
+        <title>Exporting individual instruments questions</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Everybody,</p>
+<p>The conventional wisdom a year or two ago is that the exported files can not clip because of a built in master limiter. I have found that some of the newer instruments with lots of reverb can certainly clip (or distort I guess) when exported as individual tracks.</p>
+<p>This made me wondering about the differences between rendering individual instrument tracks and rendering a full track.</p>
+<ol>
+<li>
+<p>Are there master bus effects or signal processing that occur with a complete track that are either not applied on individual track? Or applied differently for whatever reason. Specifically for effects like limiters, compression, normalization.</p>
+</li>
+<li>
+<p>Maybe this is a dumb question, but does compression then limiting an individual instrument sound different than what that instrument would sound like with compression and limiting on the complete track?</p>
+</li>
+<li>
+<p>If I were to plug all the individual tracks into a DAW with no other effects and equal levels on each track, would the recombined track sound exactly like what comes out of auxy? I’m not sure it does, but I could be doing something in my DAW that I don’t realize.</p>
+</li>
+<li>
+<p>I almost wonder if the individual exported tracks are not limited.<br>
+a) Is the max dB output of the individual tracks the same as the max dB output of a complete track?<br>
+b) what is that max dB output? I guess the questions is what kind of headroom is left?</p>
+</li>
+<li>
+<p>Is there any reason the music could sound better played through the Auxy app then it does when exported? Louder, clearer, crisper, etc.</p>
+</li>
+</ol>
+<p>Thanks!</p>
+<p><a class="mention" href="https://disco.auxy.co/u/nickelle">@NickElle</a> <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a></p>
+          <p><a href="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/exporting-individual-instruments-questions/14491/1</link>
+        <pubDate>Fri, 08 Mar 2019 15:22:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-14491-1</guid>
+        <source url="https://disco.auxy.co/t/exporting-individual-instruments-questions/14491.rss">Exporting individual instruments questions</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Auxy Sound Wiki</title>
+    <link>https://disco.auxy.co/t/auxy-sound-wiki/10012</link>
+    <description>Hello and welcome to the Auxy sound wiki, a quick easy-to-use reference guide for the sounds, their controls, and prominent tracks that utilize the sounds. This will (in theory) be open to anyone to edit (if this wiki thing works). Thanks to MisterMaster for giving me permission to create this for the improvement of the community. Please feel free to edit any details, especially adding in styles that the sounds best fit into, as well as tracks that make excellent use of a given sound.
+
+----
+
+This wiki will be divided into three sections, each with a collapsible interface that allows for easy reference of sounds. Unfortunately there is no easy/feasible way to indent through Discourse, so please bear the formatting quirks. It&#39;s also going to be a bit of jargon too, so bear with any unfamiliar terminology or confusing descriptions.
+
+Any unique behavior of macros such as delay and reverb will be noted, otherwise most instruments act very similar with these macros and functionality is (mostly) the same.
+
+A NOTE ON ADDING TRACKS IN - Please do not add any tracks in that only have a tiny bit of the sound in question, or are just your own songs and you&#39;re trying to promote yourself. The purpose of this is to show outstanding usage of a given instrument. An example of this would be the use of Beam found in Crimson by Blackocean, or the use of  Bow found in Coup by Phluze. Priority should be also given to any track featured in the feed, to give more examples as to how the sounds were used. This is not for promotion. Be on an honor system when it comes to these things. If there&#39;s any issue, it will be taken up with the moderators. 
+
+**IN ORDER TO MAKE SURE THIS ISN&#39;T JUST BEING USED FOR PROMOTION, DO NOT ADD YOUR OWN SONGS IN AS EXAMPLES. SOMEONE ELSE MUST RECOMMEND/EDIT THEM IN**
+---
+Thank you for following the above rule.
+
+**IF ANYONE CHANGES ANYTHING ABOVE THE DOUBLE LINE OTHER THAN MODERATORS OR ME (TheRealJFalc) IT WILL BE REMOVED. [spoiler]I LIKE MY WORDING AS IT IS THANK YOU VERY MUCH[/spoiler]**
+
+----
+----
+
+# Bass Sounds
+
+[details=Barber]
+| Label | Description |
+|---|---|
+| Pack | AP-004 RAC Essentials |
+| Waveform | Saw x Sine with attack, fades into a sine wave. | 
+| Details | One of the free bases, this is one of the more prominently used basses from AP-004. It has a distinctive analog sound, and the attack on the front of each note is useful for styles of music | 
+| Macro: Tone | Applies a clip distortion to the waveform. The distortion is stronger when layered with other notes |
+| Macro: Shape | Adjusts the release (R\) of the waveform |
+| Styles useful | All-around sound |
+| Featured Tracks | [Aqua - Curve](https://soundcloud.com/aquax/curve) | 
+[/details]
+
+[details=Beam]
+| Label | Description |
+|---|---|
+| Pack | (AP-009) Destiny |
+| Waveform | Cross between a rounded triangle mixed with a cross-breed distorted sine and square wave. It also features a slight pitch bend on the attack of the note, making a sharp hit. | 
+| Details | A very heavy bass from 7 Skies, this one can be awkward to use, but is great for very heavy sounding beats and drops. | 
+| Macro: Tone | Adds clipping distortion to the waveform |
+| Macro: Shape | Increases the attack (A) of the waveform by a small factor. This seems to play a use in softening the attack of the note achieved by the pitch bend. |
+| Styles useful | Heavy baselines, such as trap and dubstep. |
+| Featured Tracks | [Blackocean - Crimson](https://soundcloud.com/blckocean/crimson-1)| 
+[/details]
+
+[details=Bee]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Saw with attack, high resonance and clipping distortion. | 
+| Details | One of the original sounds, bee is a solid saw-based bass that has some interesting features attached to shape and tone, specifically with how the resonance functions. | 
+| Macro: Tone | Increases the resonance of the waveform, creating a vox-like effect |
+| Macro: Shape | Adjusts the Sustain (S) of the attack. No shape removes most of the attack-like effect from the instrument, while full gives the full impact of the attack and sustains it out.
+| Macro: Lowpass | Controls the amount of resonance as well as the lowpass filter on the waveform. Having it at the lowest values removes most of the resonance from the instrument | 
+| Styles useful | House, Trance |
+| Featured Tracks | [ADD] | 
+[/details]
+
+[details=Bite]
+| Label | Description |
+|---|---|
+| Pack | (AP-008) Boom Bass |
+| Waveform | Sub bass with attack | 
+| Details | One of the boom basses, this instrument is a sub bass. Aside from the use as a sub bass, it&#39;s not overly special, but it is useful for sub frequencies | 
+| Macro: Tone | Adds clipping distortion to the waveform |
+| Macro: Shape | Shape: Adjusts the release (R\) of the waveform |
+| Styles useful | Anything that utilizes sub-basses |
+| Featured Tracks | [ADD] | 
+[/details]
+
+[details=Blob]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Sine and a distorted sine wave that functions on an ADSR envelope that controls a bitcrush distortion on the waveform. Has a slight chorus effect as well. | 
+| Details | One of the weirdest sounds of the OG pack, Blob is hard to use at times, but when used effectively can create a very heavy sound. It&#39;s unwieldy but can be used very effectively in certain circumstances. | 
+| Macro: Tone | Enables the ADSR envelope that controls the distorted sine waveform. This modulates the shape of the wave. No tone does not modulate the distorted sine waveform, full tone cycles through the entirety of the waveform |
+| Macro: Shape | Adjusts the attack (A) of the ADSR envelope controlling the distorted sine waveform. This means that the cycle is slower rising up at full volume, creating a different effect |
+| Styles useful | Heavy sounds, dubstep |
+| Featured Tracks | [SUFOS - Cloud](https://soundcloud.com/sofus-agervig-351033928/poll3x-cloud) | 
+[/details]
+
+[details=Bomb]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub bass with slight attack |
+| Details | Bomb is one of the numerous sub basses from the boom bass attack. It has a softer attack as compared to the other sub basses |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Heavy trap, anything with a sub bass |
+| Featured Tracks | ADD  |
+[/details]
+
+[details=Bubble]
+| Label | Description |
+|---|---|
+| Pack | Standard Deviation |
+| Waveform | Sine-like sub bass with strong FM modulation | 
+| Details | One of the basses introduced in the Standard Deviation pack, this bass has a much stronger FM modulation on its waveform than the others, creating a sort of buzz effect on it | 
+| Macro: Tone | Adds a strong chorus with high feedback onto the waveform | 
+| Macro: Shape | Adds ADSR Attack to the waveform |
+| Styles useful | Words go here |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Dirt]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub Bass with stronger attack |
+| Details | Dirt is one of the numerous sub basses from the boom bass attack. It has a stronger attack compared to the other sub basses |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Heavy trap, anything with a sub bass |
+| Featured Tracks | [The Beta Crew - Drop the Project](https://soundcloud.com/auxy/drop-the-project) |
+[/details]
+
+[details=Grit]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub bass with strong distortion|
+| Details | Grit is one of the numerous sub basses from the boom bass attack. It has a stronger attack compared to the other sub basses, and has a slightly different waveform than a traditional sub bass. |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Heavy trap, anything with sub bass |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Hug]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub Bass |
+| Details | Hug is one of the numerous sub basses from the boom bass attack. It has a very weak attack as compared to the other sub basses, making it better for less heavy styles that still require a solid sub bass. |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Anything with a sub bass |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Poke]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub Bass with strong attack |
+| Details | Poke is one of the numerous sub basses from the boom bass attack. It has a stronger attack compared to the other sub basses |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Heavy trap, anything with a sub bass |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Punch]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Sub Bass with a softer attack | 
+| Details | Punch is one of the OG sounds, and for the longest time it was the only &quot;Sub Bass&quot; bass until the introduction of the Boom Bass collection. Traditionally, it is used as a sub bass because it is an &quot;Sub Bass&quot;.  | 
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (R\) of the waveform. |
+| Styles useful | Any genre that utilizes sub basses, especially Trap/Future Bass. |
+| Featured Tracks | [Produk - Singularity](https://soundcloud.com/produkmusic/singularity), [aUstin Haga - Float](https://soundcloud.com/austin_haga/float) | 
+[/details]
+
+[details=Push]
+| Label | Description |
+|---|---|
+| Pack | Boom Basses |
+| Waveform | Sub Bass with slight attack |
+| Details | Push is one of the numerous sub basses from the boom bass attack. It has a slight attack on the waveform, which is slightly different than the other sub basses |
+| Macro: Tone | Applies clipping distortion to the waveform |
+| Macro: Shape | Adjusts the release (\R) of the waveform |
+| Styles useful | Anything with a sub bass |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Slope]
+| Label | Description |
+|---|---|
+| Pack | (AP-003) 7 Skies Selection |
+| Waveform | Synthesized bass guitar sound.| 
+| Details | One of the first guitar-like sounds added to Auxy, Slope can be used as a pluck instrument (with low shape) or a slight wobble bass (with high shape). This is because the filter is attached to an ADSR envelope controlled by the shape macro. Due to this versatility, it is a very ergonomic sound and fits well in many different genres. |
+| Macro: Tone | Adds a sine distortion to the waveform, giving it a wet sort of feel. |
+| Macro: Shape | Increases the decay and sustain (D&amp;S) of the waveform as well as the filter&#39;s decay and sustain. | 
+| Styles useful | Heavy basslines, such as trap, or dubstep (with shape) |
+| Featured Tracks | [aUstin Haga - Float](https://soundcloud.com/austin_haga/float), [Mr. Serpent - Hypnotic Paralysis](https://soundcloud.com/misterserpent/hypnotic-paralysis) |
+[/details] 
+
+[details=Velvet]
+| Label | Description |
+|---|---|
+| Pack | Standard Deviation |
+| Waveform | Sine-based sub bass with slight FM and slight ADSR attack | 
+| Details | One of the basses introduced with the Standard Deviation pack, Velvet is a sine-bassed sub bass that appears to be slightly modulated by another sine waveform, giving it a very subtle wave effect with its amplitude.  | 
+| Macro: Tone | Adds a sine-based distortion to the waveform | 
+| Macro: Shape | Adds additional ADSR Attack to the waveform |
+| Styles useful | Any style, this bass has extremely low frequencies much like Lake and Crater, making it heavily useful for laying foundations in that region |
+| Featured Tracks | Words go here | 
+[/details]
+
+----
+
+# Lead Sounds
+
+[details=Autumn]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Triangle with chorus and slight bitcrush distortion. |
+| Details | One of the OG sounds, Autumn is a solid triangle wave pluck that has a filter attached to an ADSR envelope that helps to create a slight plucking sound from the instrument. |
+| Macro: Tone | Adds a second triangle wave to the waveform at a perfect fifth above the note. |
+| Macro: Shape | Increases the decay (D) of the ADSR envelope controlling part of the filter |
+| Styles useful | All-around instrument |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Bow]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Saw wave with resonance and pitch bend controlled by a LFO |
+| Details | One of the OG sounds, Bow is a very useful sound when used in the right way. Without any shape, it can function as a pluck, and with full shape it becomes a strong string-like synth with a slight pitch vibrato. Some people struggle to use it, but when used effectively it creates a very solid sound that grabs the attention of the listener. |
+| Macro: Tone | Adds a phaser to the instrument |
+| Macro: Shape | Adjusts the Attack, decay and sustain of the waveform (ADS). No shape creates a pluck effect, while full shape adds full sustain to the instrument and creates a very strong lead sound. |
+| Styles useful | All-around sound when used properly |
+| Featured Tracks | [Coup by Phluze](https://soundcloud.com/phluze/coup), [Kleuren by Conux](https://soundcloud.com/conux_official/kleuren) |
+[/details]
+
+[details=Bitty]
+| Label | Description |
+|---|---|
+| Pack | Game Waves |
+| Waveform | Altered unison saw wave with short release and bitcrush distortion | 
+| Details | As one of the Game Waves sounds, Bitty is a strong saw wave that serves as one of the strongest saw-based leads. Its simple waveform allows it to be layered well with other sounds. |
+| Macro: Tone | Adds an LFO to the waveform that controls the pitch, creating a very strong vibrato-like effect | 
+| Macro: Shape | Adds attack to the ADSR envelope controlling the waveform and lowers the power of the bitcrush distortion on the waveform. |
+| Styles useful | General usage, retro |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Bumble] 
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Sine x Pulse waveform with low sustain, an envelope controlling the filter as well as an LFO controlling the rate of the pulse wave. | 
+| Details | Bumble is a weird lead that lends itself best to heavier types of sound. At its core, it is a sine wave and pulse wave driven sound, but its main functionality works with how it is ranged in the lower octaves, which sets it apart from the other leads. The filter is overdriven, creating a strong sound that resonates through the lower octaves, making it a great choice for heavy-styled songs. | 
+| Macro: Tone | Adds a strong clip-based distortion to the waveform | 
+| Macro: Shape | Adds release to the ADSR envelope controlling the waveform. |
+| Styles useful | Heavy stuff |
+| Featured Tracks | [IVO - Civil Disobedience](https://soundcloud.com/official_ivo/civil-disobedience) | 
+[/details]
+
+[details=Canoe]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Sine wave with massive FM and detune, sounds similar to an electric organ | 
+| Details | One of the original sounds, Canoe is an electric-organ like sound that functions off detuning sine waves. Caution should be used, however, as Canoe is known to strongly clip. | 
+| Macro: Tone | Boosts the drive of the filter, creating a distortion to the waveform. This can cause the sound to clip. | 
+| Macro: Shape | Detunes the oscilators and increases the ADSR release of the waveform |
+| Styles useful | General purpose |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Castle]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Square waveform that switches to a strong detuned saw when the tone macro is applied, along with an ADSR envelope attached to the filter. | 
+| Details | As one of the original sounds, Castle is very strange in its uses. Without tone, it acts like a slightly filtered square wave with a slight envelope controlling the filter. With tone, Castle is turned into a very strong detuned saw wave, creating a very distinct sound that works well as a riser. | 
+| Macro: Tone | Fades the square wave into a heavily detuned saw wave | 
+| Macro: Shape | Increases the decay on the envelope controlling the filter |
+| Styles useful | General purpose, risers |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Cinema]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Strange sine-like waveform with chorus that adjusts with Tone | 
+| Details | As one of the original sounds, Cinema is quite a strange sound. With tone adjusting the position of the sound on a wavetable, it&#39;s really hard to nail exactly what it is supposed to sound like. It is a strong sound, however, with a deep chorus effect. | 
+| Macro: Tone | Changes the position of the wavetable | 
+| Macro: Shape | Adds release to the ADSR envelope controlling the waveform |
+| Styles useful | Synthwave(?) |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Clever] 
+| Label | Description |
+|---|---|
+| Pack | Standard Deviation |
+| Waveform | Heavily distorted sine and triangle-like waveform that resonates almost like a gong being hit, very difficult to describe. | 
+| Details | One of the leads introduced in the Standard Deviation pack, Clever is one of the weirdest sounds to date. It works similarly to Coin from The Sound Of Vivrant, in that it almost sounds and functions like a percussion instrument. | 
+| Macro: Tone | Adds a strong chorus effect to the waveform | 
+| Macro: Shape | Adds ADSR Release to the waveform |
+| Styles useful | Ambient textures |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Circle]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Slightly detuned triangle wave with slight distortion and noise | 
+| Details | A personal favorite of the OG Sounds, Circle is a very distinct triangle waveform that functions simply and effectvively.  | 
+| Macro: Tone | Adds noise to the waveform | 
+| Macro: Shape | Adds release to the ADSR envelope controlling the waveform |
+| Styles useful | General purpose, simplistic |
+| Featured Tracks | [James Lucien - Re/Fragmented](https://soundcloud.com/james-lucien-official/refragmented) | 
+[/details]
+
+[details=Cone]
+| Label | Description |
+|---|---|
+| Pack | Disturbing Leads |
+| Waveform | Distorted Triangle-like waveform that becomes more distorted the longer the wave is sustained, the length of the time to distort can be changed through the Shape macro knob | 
+| Details | One of the disturbing leads from the most recent pack, Cone is a strong triangle-esque sound with distortion that really gives a strong attack-like sound when used. Perfect for stab-like melodies. | 
+| Macro: Tone | Detunes the waveform. No tone has the sound playing in unison, full tone has it detuned amongst three voices | 
+| Macro: Shape | Adjusts the decay (D) of the ADSR-envelope controlling the waveform. More shape causes the distortion of the waveform to take longer. |
+| Styles useful | Heavy and dark styles such as Trap |
+| Featured Tracks | [ADD] | 
+[/details]
+
+[details=Corn]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Pulse x Saw with low sustain and decay on the waveform as well as the filter. It also has a LFO modulating the pulse tuning as well as a phaser | 
+| Details | One of the OG Sounds, Corn is traditionally used as a pluck sound for its short sustain and decay. | 
+| Macro: Tone | Increases the decay, sustain and release of the ADSR envelope controlling the waveform. | 
+| Macro: Shape | Increases the attack of the envelope controlling the filter |
+| Styles useful | Plucks, house |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Crook]
+| Label | Description |
+|---|---|
+| Pack | Disturbing Leads |
+| Waveform | Saw and Sine waveform that is modulated by a strange saw-like form through an ADSR envelope and has resonance and clipping distortion  |
+| Details | One of the disturbing leads, this instrument has a low sustain (S) value, meaning that longer notes get softer, making it much more of a pluck than other instruments. Adjusting the shape changes the way the ADSR envelope controls, and in practice that sustains the note out longer |
+| Macro: Tone | Reduces the resonance of the filter, removing some of the effects on the instrument. |
+| Macro: Shape | Increases the Decay (D) ofthe ADSR envelope controlling the strange saw-like waveform layering on top of the instrument. Full shape creates a strong effect on the instrument |
+| Styles useful | Heavy and dark styles such as Trap |
+| Featured Tracks | [ADD] |
+[/details]
+
+[details=Doodle]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Detuned saw wave with low sustain and decay with a very slight pitch bend at the front of the note and an envelope-controlled filter. | 
+| Details | One of the OG Sounds, Doodle is a simple but effective detuned saw wave returning from the days of the original Auxy Creator Studio app. As such, it&#39;s very simplistic but effective in its uses. It can be fashioned into a pluck or a simple saw lead depending on the macros applied to it. | 
+| Macro: Tone | Lowers te attenuation of the detuned portion of the waveform | 
+| Macro: Shape | Increases the decay of the ADSR envelope as well as the envelope controlling the filter. |
+| Styles useful | Plucks, general usage |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Egg]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Strong detuned square wave with a long and low sustain and distortion | 
+| Details | One of the OG Sounds, Egg is a simple but effective detuned square wave returning from the days of the original Auxy Creator Studio app. As such, it&#39;s very simplistic but effective in its uses.  | 
+| Macro: Tone | Increases the detune of the waveform | 
+| Macro: Shape | Adds release to the ADSR envelope controlling the waveform. |
+| Styles useful | General usage |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Fantasy]
+| Label | Description |
+|---|---|
+| Pack | Game Waves |
+| Waveform | Detuned pulse wave with short decay and low sustain and bitcrush distortion | 
+| Details | As one of the Game Waves sounds, Fantasy is a (pulse wave)[https://en.wikipedia.org/wiki/Pulse_wave] that functions strongly as a pluck due to its low sustain and short decay values. |
+| Macro: Tone | Adds an LFO to the waveform that controls the pitch, creating a very strong vibrato-like effect | 
+| Macro: Shape | Adds attack to the ADSR envelope controlling the waveform. |
+| Styles useful | General usage, retro |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Fields]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Tripple-layered supersaw with an envelope controlling the filter | 
+| Details | One of the OG Sounds, Fields is a strong supersaw sound that ties a lot of functionality to the lowpass filter. At lower levels, the release and decay of the ADSR envelope are shortened to turn it into more of a pluck sound, while higher values have the sound sustaining out longer. | 
+| Macro: Tone | Increases the detune of the waveform | 
+| Macro: Shape | Adds decay release to the ADSR envelope controlling the waveform. |
+| Styles useful | General usage |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Floppy]
+| Label | Description |
+|---|---|
+| Pack | Game Waves |
+| Waveform | Square x Detuned Saw wave with low sustain | 
+| Details | As one of the Game Waves sounds, Floppy is a retro-inspired sound that exhibits very low sustain, making it a great pluck instrument. Its basic and strong sound also works well for layering, making it very useful. |
+| Macro: Tone | Adds an LFO to the waveform that controls the pitch, creating a very strong vibrato-like effect | 
+| Macro: Shape | Adds release to the ADSR envelope controlling the waveform. |
+| Styles useful | General usage, retro |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Flower]
+| Label | Description |
+|---|---|
+| Pack | OG Sounds |
+| Waveform | Slightly detuned saw with noise and an LFO controlling a slight pitchbend | 
+| Details | One of the OG Sounds, Flower is a strong saw-based lead with noise and slight detune. In addition to this, there is a waver on the note pitch through an LFO that gives it a sort of vibrato-like effect. At low shape values, it functions as a pluck, and at high shape values it is turned into a solid lead. | 
+| Macro: Tone | Increases the detune of the waveform and adds a chorus effect to the waveform. | 
+| Macro: Shape | Adds decay, sustain and release to the ADSR envelope controlling the waveform. |
+| Styles useful | General usage |
+| Featured Tracks | (BSJ - Poseidon)[https://soundcloud.com/brad-saint/poseidon] | 
+[/details]
+
+[details=Fuze]
+| Label | Description |
+|---|---|
+| Pack | Disturbing Leads |
+| Waveform | Detuned Square x Detuned Saw with an envelope that controls an LFO that modulates the pitch slightly. | 
+| Details | One of the standout sounds from the Disturbing Leads pack, Fuze is a strong lead that stands out for its unique sound and functionality. At the start of the sound, an envelope brings out an LFO that modulates the pitch, giving the start of the sound a strong vibrato-esque attack. |
+| Macro: Tone | Adds a strong bitcrush distortion to the waveform. | 
+| Macro: Shape | Increases the rate at which the LFO modulates the pitch at the start of the note |
+| Styles useful | General usage |
+| Featured Tracks | Words go here | 
+[/details]
+
+[details=Stress]
+| Label | Description |
+|---|---|
+| Pack | (AP-003) 7 Skies Selection |
+| Waveform | Sine waveform with a bit of distortion on the front of the waveform. | 
+| Details | Stress is a simple yet powerful sine wave based lead sound. It is often mistaken for sounding like a square wave. | 
+| Macro: Tone | Adds a powerful bitcrush distortion to the waveform. When layered with other notes, an overdrive effect can be achieved. Singular notes do not have this effect. |
+| Macro: Shape | Adds release (R\) to the note. When combined with tone, can produce the same overdrive effect without layering notes.
+| Styles useful | Chiptune, Dance, etc. |
+| Featured Tracks | [aUstin Haga - Clouds](https://soundcloud.com/austin_haga/clouds), [Notmiles - Pastel City](https://soundcloud.com/not_miles/pastel-city-1) |
+[/details]
+
+----
+# Drum Kits
+
+[details=Ledge]
+| Label | Description |
+| --- | --- |
+| Pack | Auxy Premium |
+| Sound Samples | Kick 01 (Dusty Trip Hop), Snare 04 (Dusty Trip Hop), 808 Snare 29 (Transcendent Trap), Hihat 03 (Dusty Trip Hop), Hihat 02 (Dusty Trip Hop), Organic Percussion 09 (Leviathan 2), Organic Percussion 49 (Leviathan 2), Percussion 30 (Beats from the Bass Ship 2) |
+| Styles Useful | Hip-hop, Lo-fi, etc. |
+| Featured Tracks | [aUstin Haga - Broken Glass](https://soundcloud.com/austin_haga/broken-glass) |
+[/details]
+
+[details=Twitch]
+| Label | Description |
+| --- | --- |
+| Pack | Auxy Demo Sounds |
+| Sound Samples | Kick 38 (Organic Elements), Clap 67 (Leviathan 2), Click 42 (Leviathan 2), Click 29 (Leviathan 2), Percussion 80 (Transcendent Trap 2), Snare 23 (Organic Elements), Clap 64 (Leviathan 2), Snare 46 (Beats from the Bass Ship 2) |
+| Styles Useful | Trap, Future Bass |
+| Featured Tracks | [Produk - Memories](https://soundcloud.com/produkmusic/memories)  (Some Sound Tweaks) |
+[/details]
+
+
+----
+[spoiler]wikiwikiwikiwikiwikiwikiwikiwiki[/spoiler]
+
+----
+
+This is a work in progress, and it&#39;s going to take some time to add in more details. If you wish to add in sounds, please use this format to add in the wiki post.
+
+    [details=] (Name of instrument after the =&#39;s)
+    | Label | Description |
+    |---|---|
+    | Pack | Words go here |
+    | Waveform | Words go here | 
+    | Details | Words go here | 
+    | Macro: Tone | Words go here | 
+    | Macro: Shape | Words go here |
+    | Styles useful | Words go here |
+    | Featured Tracks | Words go here | 
+    [/details]
+
+I do hope this will help creators, especially new ones, to be able to easily understand sounds and maybe even for veterans to find use for sounds that they didn&#39;t understand before.</description>
+    
+    <lastBuildDate>Sat, 10 Sep 2022 23:22:38 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Spray is actually a sine wave, you can prove this by raising the pitch of an offscreen note</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/125">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/125</link>
+        <pubDate>Sat, 10 Sep 2022 23:22:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-125</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            
+Mascara <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/124">(click for more details)</a>
+
+Spray <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/124">(click for more details)</a>
+
+Racer <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/124">(click for more details)</a>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/124">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/124</link>
+        <pubDate>Sat, 10 Sep 2022 15:46:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-124</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>Add sum spray</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/123">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/123</link>
+        <pubDate>Sat, 10 Sep 2022 08:59:23 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-123</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            
+Crystal <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/122">(click for more details)</a>
+
+Hour <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/122">(click for more details)</a>
+
+Tick-Tock <a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/122">(click for more details)</a>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/122">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/122</link>
+        <pubDate>Sat, 10 Sep 2022 03:47:17 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-122</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Maybe try getting into contact with the devs for some inside info on how some stuff works for properly reporting on it. Although they don’t tend to be very open about these sorts of things…</p>
+<p><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/0/0544ec3f779f29959345d1d87672411a192d00b2.jpeg" alt="image" width="605" height="446"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/121">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/121</link>
+        <pubDate>Wed, 27 Mar 2019 02:31:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-121</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Jax]]></dc:creator>
+        <description><![CDATA[
+            <p>I would have already had it done if I was actually smart <img src="https://emoji.discourse-cdn.com/apple/sweat_smile.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/120">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/120</link>
+        <pubDate>Wed, 27 Mar 2019 00:29:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-120</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[HXGN]]></dc:creator>
+        <description><![CDATA[
+            <p>now im low key considering doing it myself <img src="https://emoji.discourse-cdn.com/apple/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/119">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/119</link>
+        <pubDate>Tue, 26 Mar 2019 22:55:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-119</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve considered it, but I don’t have much time nor incentive to do so. Not to mention that I don’t have any official contact with the devs or endorsement of such a thing, so at best it will be only maintained semi-regularly or hardly at all. Maybe in the future I will, but right now I have other things on my plate that don’t concern with Auxy as much.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/118">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/118</link>
+        <pubDate>Tue, 26 Mar 2019 22:32:04 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-118</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[HXGN]]></dc:creator>
+        <description><![CDATA[
+            <p>actually i think a more general auxy wiki would be a really cool idea (it could include other things besides sounds)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/117">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/117</link>
+        <pubDate>Tue, 26 Mar 2019 22:01:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-117</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[HXGN]]></dc:creator>
+        <description><![CDATA[
+            <p>why don’t you try making an actual wiki, like on wikia or something</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/116">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/116</link>
+        <pubDate>Tue, 26 Mar 2019 22:00:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-116</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Unfortunately the original post ran out of character room, so adding in more entries isn’t exactly possible anymore. Thanks though, it’s a good contribution</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/115">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/115</link>
+        <pubDate>Tue, 26 Mar 2019 21:57:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-115</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Mr_Mooo]]></dc:creator>
+        <description><![CDATA[
+            <p>i would add 32 bit funk by foxlike and bobtheguyyyyy for the drum kit itch but it’s kinda hard for me as i’m on mobile</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/114">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/114</link>
+        <pubDate>Tue, 26 Mar 2019 17:51:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-114</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <p>Gotcha. Thanks for the info</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/113">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/113</link>
+        <pubDate>Tue, 05 Mar 2019 17:45:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-113</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>If you record the instrument yeah you can use Audacity or something. I usually just go by trying to match character and stuff as that’s a bit easier to do.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/112">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/112</link>
+        <pubDate>Tue, 05 Mar 2019 17:39:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-112</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <p>Interesting. I will to check Standalonemusic out when I get the chance. Also, I’m assuming you can put the instruments through any waveform analyzer such Audacity too? Or does serum have different capabilities?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/111">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/111</link>
+        <pubDate>Tue, 05 Mar 2019 17:17:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-111</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Auxy licenses them from various artists and locations, usually in the form of artist packs. Some of the other ones are developed in house by Auxy, or at least appear to be so.</p>
+<p>As for analyzing waveform, I took basic guesses at it using Serum and ear, which probably accounts for many inaccuracies in reporting it. A lot of the artist packs are samples, so recreating them using Serum is nigh impossible. However, one thing to note is that 7 Skies does sell both The Future and Destiny through Standalonemusic, which I’ve linked numerous times. RAC’s pack was stated to be recorded off of vintage Roland equipment in both his interview video and the previous version’s description of his pack, so that’s a starting point for some of these. And Jeremy Orlander, the author of The Sound of Vivrant, is known to use Logic so it’s most likely he developed his presets using that. As for the recent artist packs, little is known of their compositional style or sources.</p>
+<p>This is unfortunately the only extent I can detail my work here, as it’s a lot of guesswork and estimation.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/110">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/110</link>
+        <pubDate>Tue, 05 Mar 2019 15:12:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-110</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Unfortunately, Disco has a hard limit on how long a post can be, and I ran out of room on this. Not to mention I finally have a job that isn’t fast food now, so my time to work on this isn’t as much as it used to be. That among other things really pulled the rug out from under me when it comes to this. I may invest some time in the future, but as for the current point in time I don’t have many plans aside from possibly giving some one-off descriptions of instruments.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/109">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/109</link>
+        <pubDate>Tue, 05 Mar 2019 15:08:30 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-109</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[VJM]]></dc:creator>
+        <description><![CDATA[
+            <p>I would think so…<br>
+Also, I don’t have a clue where Auxy gets their instrument patches, can someone tell me where I could find that information? And possibly how to analyze their waveforms?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/108">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/108</link>
+        <pubDate>Tue, 05 Mar 2019 04:31:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-108</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[traverse]]></dc:creator>
+        <description><![CDATA[
+            <p>Um…<br>
+Is this still going?</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/107">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/107</link>
+        <pubDate>Tue, 05 Mar 2019 04:08:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-107</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <p>Don’t have discord available at the moment, DM me on the disco</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/106">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/106</link>
+        <pubDate>Thu, 29 Nov 2018 19:00:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-106</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Arimyth]]></dc:creator>
+        <description><![CDATA[
+            <p>featured_tracks: ‘<em>any trap song</em>’,</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/105">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/105</link>
+        <pubDate>Thu, 29 Nov 2018 19:00:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-105</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Check your discord mustache man xD</p>
+<p>Looking good so far though.</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/104">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/104</link>
+        <pubDate>Thu, 29 Nov 2018 18:58:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-104</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <p>Sneak peek:</p>
+<pre><code class="lang-auto">{ name: 'Bite',
+  label: 'Description',
+  pack: '(AP-008) Boom Bass',
+  waveform: 'Sub bass with attack ',
+  details: 'One of the boom basses, this instrument is a sub bass. Aside from the use as a sub bass, it\'s not overly special, but it is useful for sub frequencies ',
+  macro_tone: 'Adds clipping distortion to the waveform',
+  macro_shape: 'Shape: Adjusts the release (R\\) of the waveform',
+  styles_useful: 'Anything that utilizes sub-basses',
+  featured_tracks: '[ADD] ',
+  detail: undefined }
+</code></pre>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/103">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/103</link>
+        <pubDate>Thu, 29 Nov 2018 18:43:27 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-103</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[Hum4n01d]]></dc:creator>
+        <description><![CDATA[
+            <p>I have some plans to build a website for the auxy sound wiki, I’ll talk to <a class="mention" href="https://disco.auxy.co/u/arimyth">@Arimyth</a> about it</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/102">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/102</link>
+        <pubDate>Thu, 29 Nov 2018 18:25:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-102</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+      <item>
+        <title>Auxy Sound Wiki</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>Alright everyone. Already talked to Arimyth and figuring out what data he exactly needs to set up a github page and stuff. Should be happening in the next couple of days or so.</p>
+<p>In the interim, I can do sound requests on an individual basis in replies as I feel that would help more pressing sounds be more easily identifiable (I have a preference of what sounds I’d rather cover first, so some sounds that others want will take longer, etc.)</p>
+          <p><a href="https://disco.auxy.co/t/auxy-sound-wiki/10012/101">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/auxy-sound-wiki/10012/101</link>
+        <pubDate>Thu, 29 Nov 2018 18:04:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-10012-101</guid>
+        <source url="https://disco.auxy.co/t/auxy-sound-wiki/10012.rss">Auxy Sound Wiki</source>
+      </item>
+  </channel>
+</rss>

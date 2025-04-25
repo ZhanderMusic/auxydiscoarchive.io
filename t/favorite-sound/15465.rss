@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Favorite sound?</title>
+    <link>https://disco.auxy.co/t/favorite-sound/15465</link>
+    <description>What’s your favorite sound and why?</description>
+    
+    <lastBuildDate>Mon, 13 May 2019 08:04:10 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/favorite-sound/15465.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Favorite sound?</title>
+        <dc:creator><![CDATA[MisterMaster]]></dc:creator>
+        <description><![CDATA[
+            <p>There’s been a few topics about this, so moved the posts into one of the existing topics.</p>
+          <p><a href="https://disco.auxy.co/t/favorite-sound/15465/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-sound/15465/5</link>
+        <pubDate>Mon, 13 May 2019 08:04:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15465-5</guid>
+        <source url="https://disco.auxy.co/t/favorite-sound/15465.rss">Favorite sound?</source>
+      </item>
+      <item>
+        <title>Favorite sound?</title>
+        <dc:creator><![CDATA[Vepium]]></dc:creator>
+        <description><![CDATA[
+            <p>What’s your favorite sound and why?</p>
+          <p><a href="https://disco.auxy.co/t/favorite-sound/15465/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/favorite-sound/15465/1</link>
+        <pubDate>Mon, 13 May 2019 00:14:00 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-15465-1</guid>
+        <source url="https://disco.auxy.co/t/favorite-sound/15465.rss">Favorite sound?</source>
+      </item>
+  </channel>
+</rss>

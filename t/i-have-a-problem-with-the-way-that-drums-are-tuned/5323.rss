@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>I have a problem with the way that drums are tuned</title>
+    <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323</link>
+    <description>I have a chromatic project that is in the key of D# minor while the settings key is set to G Minor. A note which is not in my key. Hence, my drums sound a bit off (they are tuned to the root) and I dont know how to tune them to the key of the song without painfully going through each of my 80+ scenes and manually transposing all of them up one note so that G is in the key. Any suggestions on how to fix this? @Auxy are all drums tuned to the key or is it just some tonal percussion?</description>
+    
+    <lastBuildDate>Fri, 22 Dec 2017 09:27:52 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[IAATOE]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>writes in calendar</strong></p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/6</link>
+        <pubDate>Fri, 22 Dec 2017 09:27:52 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-6</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>The app currently tunes the kick only to the selected key. It’s not possible to work around this with your current setup, but the next update might bring some relief to the situation if you can wait for January.</p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/5</link>
+        <pubDate>Fri, 22 Dec 2017 09:26:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-5</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[akabillposters]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="1" data-topic="5323">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/zeph/40/2917_1.png" class="avatar"> Zeph:</div>
+<blockquote>
+<p>are all drums tuned to the key or is it just some tonal percussion?</p>
+</blockquote>
+</aside>
+<p>Afaik, the Key setting tunes the tonal portion of the kick. Not sure about the others, but I suspect not, as Lenberg only mentioned the Kick when <a href="https://disco.auxy.co/search?expanded=true&amp;q=Tune%20key%20%40lenberg">talking about the subject previously</a>.</p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/4</link>
+        <pubDate>Fri, 22 Dec 2017 08:12:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-4</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[Aqzi]]></dc:creator>
+        <description><![CDATA[
+            <p>Snare pitch automation boi</p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/3</link>
+        <pubDate>Fri, 22 Dec 2017 07:21:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-3</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>I am currently considering exporting the song without drums and transposing it in my daw, and then exporting the drums and joining the two afterwards.</p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/2</link>
+        <pubDate>Thu, 21 Dec 2017 22:49:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-2</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+      <item>
+        <title>I have a problem with the way that drums are tuned</title>
+        <dc:creator><![CDATA[Zeph]]></dc:creator>
+        <description><![CDATA[
+            <p>I have a chromatic project that is in the key of D# minor while the settings key is set to G Minor. A note which is not in my key. Hence, my drums sound a bit off (they are tuned to the root) and I dont know how to tune them to the key of the song without painfully going through each of my 80+ scenes and manually transposing all of them up one note so that G is in the key. Any suggestions on how to fix this? <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> are all drums tuned to the key or is it just some tonal percussion?</p>
+          <p><a href="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323/1</link>
+        <pubDate>Thu, 21 Dec 2017 22:46:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-5323-1</guid>
+        <source url="https://disco.auxy.co/t/i-have-a-problem-with-the-way-that-drums-are-tuned/5323.rss">I have a problem with the way that drums are tuned</source>
+      </item>
+  </channel>
+</rss>

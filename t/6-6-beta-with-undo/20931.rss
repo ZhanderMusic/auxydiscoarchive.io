@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>6.6 Beta with Undo</title>
+    <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931</link>
+    <description>Just sent out a new beta to everyone who helped testing the previous version. The big news is that now you can (finally) undo any changes in the loop editor! 🥳
+
+Also in this version:
+- Old renders are automatically grouped and can be quickly deleted if you need to free up space on your device
+- New scenes are made empty by default (use duplicate if you want to copy an existing scene)
+- The last scene now stays selected when you play the track to the end
+- A few tweaks for improved graphics (can you spot the differences?)
+
+If you want to test it and didn&#39;t get an invite:
+https://testflight.apple.com/join/sn4U8nQQ</description>
+    
+    <lastBuildDate>Sun, 30 May 2021 17:43:26 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[SmackdownBeta]]></dc:creator>
+        <description><![CDATA[
+            <p>Or 6.6.1, whatever you’d like to call it <a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a></p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/75</link>
+        <pubDate>Sun, 30 May 2021 17:43:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-75</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[SmackdownBeta]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Auxy" data-post="30" data-topic="20931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<p>touch and hold the + to add a new scene and keep the loops playing.</p>
+</blockquote>
+</aside>
+<p>Pls do this in 6.7</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/74</link>
+        <pubDate>Fri, 28 May 2021 02:55:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-74</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>We have now fixed the reported issues and submitted the build for official release, so it should hopefully come out tomorrow.</p>
+<p>Thanks for helping out and make sure you update to the App Store version as soon as it’s available!</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/73</link>
+        <pubDate>Tue, 25 May 2021 18:33:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-73</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[SmackdownBeta]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/auxy">@Auxy</a> check reviews left with TestFlight if you can</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/72</link>
+        <pubDate>Tue, 25 May 2021 01:43:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-72</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Aklibs]]></dc:creator>
+        <description><![CDATA[
+            <p>Just got the notification… will check it out.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/71</link>
+        <pubDate>Wed, 19 May 2021 04:26:21 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-71</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Just posted build 864, which we’re going to release publicly unless something new comes up.</p>
+<p>Here’s what’s new:</p>
+<ul>
+<li>Ducker is now enabled when master effects are switched off</li>
+<li>Automatically increase gain when master effects are switched off</li>
+<li>Fixed a bug that would sometimes cause drums not to make any sound for a few seconds when launching the app</li>
+<li>Polished how individual samples are exported when that option is selected</li>
+</ul>
+<p>Let us know if you find anything suspicious!</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/70</link>
+        <pubDate>Tue, 18 May 2021 19:11:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-70</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>It works just like installing a regular update, so the projects will still be there. It’s always a good idea to keep projects backed up regardless.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/69</link>
+        <pubDate>Tue, 18 May 2021 19:02:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-69</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>For me, it did not, but you may want to just be cautious and back them up, or at least important ones.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/68</link>
+        <pubDate>Mon, 17 May 2021 22:35:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-68</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Saintly_0ne]]></dc:creator>
+        <description><![CDATA[
+            <p>This is my first time using TestFlight; does it delete all your old projects when you download the beta? (B/c it says you may lose all your app data)</p>
+<p>Thanks!</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/67</link>
+        <pubDate>Mon, 17 May 2021 22:32:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-67</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Nindota]]></dc:creator>
+        <description><![CDATA[
+            <p>Yoooooooooooo<br>
+I remember asking for this a year or two (maybe more) ago<br>
+Very happy to see it being a thing</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/66</link>
+        <pubDate>Sun, 16 May 2021 12:54:40 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-66</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>The ducker should certainly be kept on so we need to fix that. We will do some sort of gain compensation as well.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/65</link>
+        <pubDate>Fri, 14 May 2021 08:46:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-65</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Aklibs]]></dc:creator>
+        <description><![CDATA[
+            <p>Toggle Master Effects On/Off is great addon, but disabling Master effects also disable Ducker which it should not cuz my almost every project uses it and it’s not great idea to disable everything at once.<br>
+Why don’t we get  option to choose which master effect we want to disable.<br>
+Like  Toggle<br>
+Ducker   On/Off<br>
+Gain.      On/Off<br>
+Compressor        On/Off<br>
+Limiter.                On/Off</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/64</link>
+        <pubDate>Fri, 14 May 2021 04:37:08 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-64</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[TC64]]></dc:creator>
+        <description><![CDATA[
+            <p>The previews in the browser should be made quieter when master effects are off, currently a max volume sound in the piano roll with master effects off is much quieter than the preview, which makes the preview sound way too loud</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/63</link>
+        <pubDate>Wed, 12 May 2021 17:12:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-63</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[crystldawnmusic]]></dc:creator>
+        <description><![CDATA[
+            <p>This is super exciting to see! I’ll be testing it for sure</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/62</link>
+        <pubDate>Wed, 12 May 2021 12:40:44 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-62</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>New beta build (863) just posted with the following updates:</p>
+<ul>
+<li>Added option to disable master effects. Note that the limiter is still on but it will not engage unless you push the gain up a lot. In normal circumstances, we estimate that you will have ca 12 dB headroom before hitting the limiter.</li>
+<li>Added option to render samples as individual stems. Just tap the “Export Stems” button and you will be asked whether you want to render the samples individually. This will need some additional polish and we can probably improve performance a bit.</li>
+<li>Fixed scene preview graphic glitch so that the last loop doesn’t look cut-off.</li>
+<li>Tapping the master gain slider now moves the handle correctly.</li>
+</ul>
+<p>Let us know what you think about these changes and whether you find any issues! The plan is to release this version publicly next week.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/61</link>
+        <pubDate>Wed, 12 May 2021 09:02:12 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-61</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>What I’m guessing is that the prerecorded demo of the loop populates up on the drum kit as a pattern. Which, to be completely fair, I think would be a great idea. Even if tempo syncing wouldn’t exactly be much of a thing, and it might require redoing some of the demos, to have that pattern pre-populate up when the drum kit is loaded would be a great way to build off of a loop, almost like dragging and dropping a drum loop audio file into the workflow and building from there. Added points for it being modifiable.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/60</link>
+        <pubDate>Tue, 11 May 2021 14:18:13 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-60</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="AzureOnyx" data-post="57" data-topic="20931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/azureonyx/40/14456_2.png" class="avatar"> AzureOnyx:</div>
+<blockquote>
+<p>A very simple idea for this is to have the first loop or selected loop be the demo loop for the preset.</p>
+</blockquote>
+</aside>
+<p>Could you elaborate on this so I understand? Do you want the browser to play specific demo loops for each sound?</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/59</link>
+        <pubDate>Tue, 11 May 2021 12:44:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-59</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="AzureOnyx" data-post="57" data-topic="20931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/azureonyx/40/14456_2.png" class="avatar"> AzureOnyx:</div>
+<blockquote>
+<p>Another thing is there’s currently a minor annoyance is when selecting an instrument that’s already favorited in the main list, going back to the instrument from the home view automatically shows the favorited list instead of going into the previous list.</p>
+</blockquote>
+</aside>
+<p>This <img src="https://emoji.discourse-cdn.com/apple/point_up.png?v=9" title=":point_up:" class="emoji" alt=":point_up:"></p>
+<p>As said, a minor annoyance, but a recurring one that’s been tripping up workflows for a long time.</p>
+<p>Ideally it would somehow remember which route you took to locate the instrument (i.e. favourite or regular storage) and follow that route back.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/58</link>
+        <pubDate>Sun, 09 May 2021 09:10:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-58</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>I do kinda wish there was a “sort by” option when navigating through the instruments list. I’m currently very lost on where instruments are because they’re not in the order they used to be at anymore.</p>
+<p>Another thing is there’s currently a minor annoyance is when selecting an instrument that’s already favorited in the main list, going back to the instrument from the home view automatically shows the favorited list instead of going into the previous list.</p>
+<p>I should’ve mentioned this before the release of 6.5, but I was busy with irl stuffs, and couldn’t find the time to share</p>
+<hr>
+<p>Another thing I would like to be added is for the user to create their own demo loop, likewise what we did when expanding the list of drum kits.<br>
+A very simple idea for this is to have the first loop or selected loop be the demo loop for the preset.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/57</link>
+        <pubDate>Sun, 09 May 2021 07:36:09 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-57</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[icelight]]></dc:creator>
+        <description><![CDATA[
+            <p>Haha it was changed in this update</p>
+<aside class="quote no-group" data-username="Auxy" data-post="1" data-topic="20931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar"> Auxy:</div>
+<blockquote>
+<ul>
+<li>New scenes are made empty by default (use duplicate if you want to copy an existing scene)</li>
+</ul>
+</blockquote>
+</aside>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/56</link>
+        <pubDate>Sat, 01 May 2021 23:45:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-56</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[CREATOR]]></dc:creator>
+        <description><![CDATA[
+            <p>Did the plus button always make an empty scene or did it use to make a duplicate of the current scene you were on? Maybe it’s just me but I keep pressing the plus button expecting a duplicate at the end (kinda like a reflex) only to find that it’s empty and was just making sure I wasn’t going crazy!! Haha!!</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/55</link>
+        <pubDate>Sat, 01 May 2021 23:11:49 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-55</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah but the issue was that the browser stuff looks terrible with a dark page, so we think it’s nicer that all web pages look like web pages instead of some semi-similar to the app.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/54</link>
+        <pubDate>Sat, 01 May 2021 19:22:58 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-54</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Added a link to the full list now.</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/53</link>
+        <pubDate>Sat, 01 May 2021 19:21:53 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-53</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[ulfdahlstrand]]></dc:creator>
+        <description><![CDATA[
+            <p>Agreed, i like the duplicate behaviour aswell. maybe an long klick on the plus option presents a menu with option to duplicate or create blank scene or the otherway around. Dunno but i like to have both features <img src="https://emoji.discourse-cdn.com/apple/grimacing.png?v=9" title=":grimacing:" class="emoji" alt=":grimacing:"></p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/52</link>
+        <pubDate>Sat, 01 May 2021 15:43:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-52</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+      <item>
+        <title>6.6 Beta with Undo</title>
+        <dc:creator><![CDATA[LindellP]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you <img src="https://emoji.discourse-cdn.com/apple/pray.png?v=9" title=":pray:" class="emoji" alt=":pray:"> Undo is a most wanted feature for me</p>
+          <p><a href="https://disco.auxy.co/t/6-6-beta-with-undo/20931/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/6-6-beta-with-undo/20931/51</link>
+        <pubDate>Sat, 01 May 2021 06:45:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20931-51</guid>
+        <source url="https://disco.auxy.co/t/6-6-beta-with-undo/20931.rss">6.6 Beta with Undo</source>
+      </item>
+  </channel>
+</rss>

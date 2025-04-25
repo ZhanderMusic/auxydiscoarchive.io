@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Production Problem</title>
+    <link>https://disco.auxy.co/t/production-problem/22073</link>
+    <description>What if I don&#39;t have Ableton to [spoiler]smash a hammer at my music to make it sound better[/spoiler] master my tracks?</description>
+    
+    <lastBuildDate>Mon, 25 Jul 2022 12:29:22 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/production-problem/22073.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Production Problem</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>I don’t got ableton either, it’s not necessary</p>
+          <p><a href="https://disco.auxy.co/t/production-problem/22073/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/production-problem/22073/2</link>
+        <pubDate>Mon, 25 Jul 2022 12:29:22 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22073-2</guid>
+        <source url="https://disco.auxy.co/t/production-problem/22073.rss">Production Problem</source>
+      </item>
+      <item>
+        <title>Production Problem</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>What if I don’t have Ableton to <span class="spoiler"><a href="https://disco.auxy.co/t/production-problem/22073/1">spoiler</a></span> master my tracks?</p>
+          <p><a href="https://disco.auxy.co/t/production-problem/22073/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/production-problem/22073/1</link>
+        <pubDate>Mon, 25 Jul 2022 08:32:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-22073-1</guid>
+        <source url="https://disco.auxy.co/t/production-problem/22073.rss">Production Problem</source>
+      </item>
+  </channel>
+</rss>

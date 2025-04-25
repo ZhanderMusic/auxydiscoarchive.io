@@ -1,0 +1,525 @@
+blakkaz | 2020-01-17 13:37:32 UTC | #1
+
+# WIKI: Auxy v6's new sound shaping features
+
+---
+
+## MASTER :nut_and_bolt:
+
+- **Compress**: Compression is used to reduce dynamic range — the span between the softest and loudest parts of a sound. [1]
+- **Attack**: Attack is the time taken for initial run-up of level from nil to peak, beginning when the key is pressed. [2]
+- **Release**: Release is the time taken for the level to decay from the sustain level to zero after the key is released. [2]
+- **Offset**: Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper, singer and songwriter from Lawrenceville, Georgia. He is a member of the hip hop and trap music trio Migos, alongside cousins Takeoff and Quavo. [3]
+- **Glide**: Glide is a portamento effect, when increased the amount of time it takes the note to “glide” up to the next is increased
+- **Vibrato**: Vibrato is an effect that makes the sound “bounce”. It makes the sound kind of vibrate, and makes it wobble a bit.
+
+<small>NOTES:</small>
+<small>[1] [Audio Compression Basics](https://www.uaudio.com/blog/audio-compression-basics/)</small>
+<small>[1] [Audio Dynamics 101](https://www.izotope.com/en/blog/music-production/audio-dynamics-101-compressors-limiters-expanders-and-gates.html)
+</small>
+<small>[2]<small>
+![svg|213x116](upload://d1V4MPrLH5djOPzxeem6lNbR4HA.png) 
+
+<small>[3]<small>
+![02%20am|122x130](upload://hcmQ2EaWbHrJh8hQQCBu67NdC2e.png) 
+
+---
+
+## DIST
+
+#### Clip
+
+> Clip Distortion is a nonlinear distortion effect that produces unpredictable harmonic spectra. It can simulate warm, overdriven tube sounds and can also generate heavy distortions.
+
+- **Dist**: Master Wet/Dry amount.
+- **Drive**: Clip Wet/Dry amount.
+- **Knee**: Controls the clamp curve as the signal reaches the positive and negative thresholds. [1]
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+<small>NOTES:</small>
+<small>[1] 'Hard' knee</small>
+![02%20pm|240x254](upload://uzpBxfRzzrBmoETrZchgulPfTcF.png)
+<small>[1] 'Soft' knee</small>
+![20%20pm|249x252](upload://aIQQlkWvg0G4voaExcWP9wbkfkZ.png) 
+
+#### Bitcrusher
+
+> A Bitcrusher is a lo-fi (low fidelity) digital audio effect, which produces a distortion by the reduction of the resolution or bandwidth of digital audio data. The resulting quantization noise may produce a “warmer” sound impression, or a harsh one, depending on the amount of reduction.
+
+- **Dist**: Master Wet/Dry amount.
+- **Crush**: Bitcrusher Wet/Dry amount.
+- **Rate**: Downsamples (lowers sample rate) the original signal. [1]
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+<small>NOTES:</small>
+<small>[1]</small>
+![18%20am|665x414](upload://yoQOzsxdISOUA704YZ2VlQgDMbZ.png) 
+
+#### Sineshaper
+
+> A waveshaper is an audio effect that changes an audio signal by mapping an input signal to the output signal by applying a fixed or variable mathematical function (in the case of sine shaping, a sine function), called the shaping function or transfer function, to the input signal. [1]
+
+- **Dist**: Master Wet/Dry amount.
+- **Amount**: Sineshaper Wet/Dry amount.
+- **Phase**: I'm guessing that this adjusts the phase (position in cycle) of the sine function? `Edit me`
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+<small>NOTES:</small>
+<small>[1] http://msp.ucsd.edu/techniques/latest/book-html/node78.html</small>
+
+![18%20am|534x447](upload://3iT9ALTuCwydmIaVO695roj2hE5.png) 
+
+---
+
+## Delay
+
+> Delay is an audio effect  which records an input signal, and then plays it back after a period of time. The delayed signal may either be played back multiple times, or played back into the recording again, to create the sound of a repeating, decaying echo.
+
+- **Delay**: Wet/Dry amount.
+- **Time**: This is the time between the source signal and its echo.
+- **Feedback**: Feedback, or regeneration, produces multiple decaying repeats. Increasing the feedback value increases the number of echoes, as well as the resonance that is created as one echo disappears into another.
+- **Ping Pong**: Ping-pong delay is a type of dual delay where the first echo appears in the 'ping' channel (for this example: the left channel), delayed by the ping amount, and the second appears in the opposite 'pong' channel (the right channel), delayed by the ping time plus the pong time.
+- **Self Duck**: Sidechain compression triggered by master BPM.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Reverb
+
+> Reverberation, in psychoacoustics and acoustics, is a persistence of sound after the sound is produced. A reverberation, or reverb, is created when a sound or signal is reflected causing a large number of reflections to build up and then decay as the sound is absorbed by the surfaces of objects in the space – which could include furniture, people, and air.
+
+- **Reverb**: Wet/Dry amount.
+- **Size**: The simulated room size.
+- **Decay**: This determines how long it takes for the reflections in the room to run out of energy.
+- **Damping**:  The absorption of high frequencies in the reverberation. Low damping values yield less high-frequency absorption, whereas high damping values produce more absorption of high frequencies.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Chorus
+
+> In music, a chorus effect occurs when individual sounds with approximately the same time, and very similar pitches converge and are perceived as one. While similar sounds coming from multiple sources can occur naturally, as in the case of a choir or string orchestra, it can also be simulated using an electronic effects unit or signal processing device.
+
+- **Chorus**: Wet/Dry amount.
+- **Depth**: Depth controls the amount of pitch modulation created by the effect.
+- **Rate**: The frequency, or speed, of the LFO.
+- **Lowpass**: Removes high frequencies from FX signal.
+- **Highpass**: Removes low frequencies from FX signal.
+
+---
+
+## Volume
+
+- **High Gain**: A shelving filter’s gain setting is used to control the amount of boost or attenuation that is applied to the filtered frequencies.
+- **High Shelf**: A high-shelf filter is used to boost or attenuate the frequency spectrum’s high end.
+- **Low Gain**: A shelving filter’s gain setting is used to control the amount of boost or attenuation that is applied to the filtered frequencies.
+- **Low Shelf**: A low-shelf filter is used to boost or attenuate the frequency spectrum’s low end.
+- **Gain**: Master volume.
+
+-------------------------
+
+blakkaz | 2019-07-11 13:52:33 UTC | #3
+
+I wanted to get this up as quickly as possible, so there is definitely room for improvement...
+Feel free to make amendments as you see fit. :sunglasses:
+
+I plan on adding more information as I spend some more time with the app.
+Happy to answer any questions, if I can... (some of my descriptions are a touch dry...)
+
+Also, hoping the devs will chime in on a few things I wasn't sure about.
+
+-------------------------
+
+HYDRANS | 2019-07-11 14:29:53 UTC | #6
+
+Nice work!
+
+This will definitely help new users learn more about the features added in version 6
+
+-------------------------
+
+AnirudhKhanna | 2019-07-11 14:32:20 UTC | #7
+
+wow this is actually really awesome. I’ve always wanted this 🙃
+
+-------------------------
+
+PISTOL | 2019-07-11 14:56:16 UTC | #8
+
+New features are incredible, this is what keeps me paying the subscription. Also thanks @iammane for the explanations man huge help to everyone.
+
+-------------------------
+
+iammane | 2019-07-11 15:19:06 UTC | #9
+
+Ah don't thank me, @blakkaz put it together I just set up the thread. Please feel free to add on to it in places you guys want to, I set it as a wiki post.
+
+-------------------------
+
+PISTOL | 2019-07-11 15:35:36 UTC | #10
+
+My bad, thank you @blakkaz you legend!!!
+
+-------------------------
+
+Hum4n01d | 2019-07-12 01:52:34 UTC | #11
+
+[quote="icsleepers, post:1, topic:16159"]
+**Offset** : Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper, singer and songwriter from Lawrenceville, Georgia. He is a member of the hip hop and trap music trio Migos, alongside cousins Takeoff and Quavo. [3]
+[/quote]
+
+I love you
+
+Also, <ins>Icsleepers </ins><ins>breath </ins><ins>smells </ins><ins>like </ins><ins>cat </ins><ins>food</ins>
+
+-------------------------
+
+Kerfuffle | 2019-07-12 02:01:29 UTC | #12
+
+Man it's been awhile since I've been here in the disco. Saw the updates today and had to pop in to check the features thread.  But this? This is juicy. Big props to blakkaz for putting this together and a thank you to icy for reppin' .
+
+New update brings a lot of possibilities
+
+-------------------------
+
+iammane | 2019-07-12 02:11:47 UTC | #13
+
+Well when one consumes quite a bit of cat food ;)
+
+-------------------------
+
+Graye | 2019-07-12 02:52:35 UTC | #14
+
+Your a good man
+
+-------------------------
+
+GioMakyo | 2019-07-12 07:08:28 UTC | #15
+
+To offer one bit of advice, look at the reverb controls. The damping and the LPF are basically two different ways of doing the same thing, taking some of the high end off the echo. Sometimes it’s nice to do this because when the reverb is too bright it can be too prominent, and muting it can make it sit in the mix better. But how much you choose to do so is mostly down to individual taste. 
+
+The HPF on the other hand is really your friend. When you get a lot of low-end going into the reverb, it is a major way to make your mix muddy really quickly. So using the HPF to cut the reverb below 100 or 200 (or even sometimes 400) can help keep the low-end very punchy and distinct.
+
+-------------------------
+
+GioMakyo | 2019-07-12 07:59:07 UTC | #16
+
+Dub Delay: Set up a separate drum/sampler instrument, and go into the delay controls and put delay at or near 100%, and put feedback above 90%, maybe higher. Use the LPF to cut down to about 5K & the HPF to cut up to about 300, or you can go up to 1K even if you want a thin sound. 1/8. Is the most commonly used time, but not always. 
+
+Now what you do is : for any sample in another drum instrument which you want to put a long delay on, you load the same sample into here, and just program a single hit/note for whereever it is you want the dub delay to kick in. So your normal drums carry-on as always, but that one snare hit or whatever will keep echoing out for a bar or two or longer. Have fun.
+...
+
+-------------------------
+
+obexg | 2019-07-12 12:21:37 UTC | #17
+
+Wow. This is amazing.
+
+-------------------------
+
+MrSerpent | 2019-07-12 21:50:41 UTC | #18
+
+This is gonna be the most useful thread on the disco for the next decade or so
+
+-------------------------
+
+Mr_Mooo | 2019-07-12 22:25:48 UTC | #19
+
+oh my goodness than you so much for making this this is just what i needed
+
+-------------------------
+
+GioMakyo | 2019-07-13 09:48:11 UTC | #20
+
+Re. Vol., Hi- Shelf EQ:
+
+I’d be very careful with using this, because my experience with Auxy, and actually a lot of digital synthesis, is that you can find a lot going on way up in the highs above 10 K,. Since a high-shelf boosts _everything_ above the point where it begins, if you set it to 2K or 3K to add a little treble to your snares or hats or whatever, realize that there may be side effects higher up the EQ spectrum. 
+
+The number one thing I find myself doing in mastering most with mixes from Auxy is cutting a bit in the extreme high end of the EQ.
+
+-------------------------
+
+RazerFireRiot | 2019-07-13 14:07:22 UTC | #21
+
+So how do I adjust what was the “Tone” and “Shape” dials?
+
+-------------------------
+
+obexg | 2019-07-13 14:56:35 UTC | #22
+
+Hey! One question, why can’t we use tone anymore?
+
+-------------------------
+
+iammane | 2019-07-13 14:58:30 UTC | #23
+
+You don’t - I should say you don’t automate them any more unless they are available controls. Every sound has different controls. Flamingo for example has these:
+
+![image|549x500](upload://4U752bwKmiMiLSsC0YEciI9M2xA.jpeg) ![image|690x486](upload://38OI4iwgQzKxCMA1AnKwdT6SYiC.jpeg) 
+
+So because the instrument has shape and tone, you can automate shape, tone and pitch. For an instrument that no longer has shape or tone, like Boulevard under vintage keys, you only automate pitch.
+
+-------------------------
+
+obexg | 2019-07-13 15:02:25 UTC | #24
+
+But why can’t you use tone for other instruments too?
+
+-------------------------
+
+iammane | 2019-07-13 16:07:55 UTC | #25
+
+Because it depends on the instrument. All instruments used “shape” and “tone” which really were just labels for whatever macro was actually controlled (chorus, attack, glide etc). It varied by sound.
+
+I have no idea what “tone” and “shape” mean in their existing context... still pretty ambiguous.
+
+-------------------------
+
+eohr | 2019-07-15 01:47:14 UTC | #26
+
+how do we get full tone stress tho?
+
+-------------------------
+
+iammane | 2019-07-15 02:10:05 UTC | #27
+
+This is why everything labeled as “tone” and “shape” sucked.
+
+Some sort of distortion / chorus combo, I’d guess...
+
+-------------------------
+
+sn.ow.y | 2019-07-15 02:28:07 UTC | #28
+
+Wouldn’t it be something like half chorus with full depth/half rate, and like full dist, set to clip with full drive and like 50% knee? Just a guess, and I haven’t tested it yet.
+
+-------------------------
+
+bedlegs | 2019-07-15 02:32:40 UTC | #29
+
+https://learningsynths.ableton.com/
+
+This is also worth checking out. It goes over some of this stuff in similar ways but it is interactive and works in your browser. Pretty sure it all works on mobile too.
+
+-------------------------
+
+Aqzi | 2019-07-15 13:04:14 UTC | #30
+
+[quote="blakkaz, post:1, topic:16159"]
+**Offset** : Kiari Kendrell Cephus (born December 14, 1991), known professionally as Offset, is an American rapper, singer and songwriter from Lawrenceville, Georgia. He is a member of the hip hop and trap music trio Migos, alongside cousins Takeoff and Quavo. [3]
+[/quote]
+
+whut in tarnation @blakkaz fix this..?
+
+-------------------------
+
+blakkaz | 2019-07-15 13:09:40 UTC | #31
+
+[quote="Aqzi, post:30, topic:16159"]
+whut in tarnation @blakkaz fix this…?
+[/quote]
+
+I double checked.
+It seems accurate.
+
+-------------------------
+
+Aqzi | 2019-07-16 03:32:02 UTC | #32
+
+I mean from a fully literal point of view...
+I guess it does.
+
+-------------------------
+
+DJ_La_Rocca | 2019-07-17 06:04:55 UTC | #33
+
+It was distortion
+
+-------------------------
+
+Sylent | 2019-07-17 10:22:11 UTC | #34
+
+@blakkaz totally amazing work with explaining all those terms man. And this update looks amazing! Still didnt had the chance to try it. Ill tr it asap.
+
+-------------------------
+
+Vepium | 2019-07-18 01:58:29 UTC | #35
+
+Glide is bae
+
+-------------------------
+
+eohr | 2019-07-18 21:02:01 UTC | #36
+
+that seems complex for now ill just full dist
+
+-------------------------
+
+Intikus | 2019-07-20 18:23:43 UTC | #37
+
+Someone should put this up on the Auxy wiki 
+
+[https://auxy.fandom.com/wiki/Auxy_Wiki](https://auxy.fandom.com/wiki/Auxy_Wiki)
+
+-------------------------
+
+iammane | 2019-07-20 18:35:09 UTC | #38
+
+Holy hairballs when is the last time this was updated?
+
+-------------------------
+
+Antbrick | 2019-08-23 03:10:37 UTC | #39
+
+I’m hoping they have plans on adding trap sound or 808 base. Auxy would really be next level with a hip hop sound pack
+
+-------------------------
+
+obexg | 2019-08-23 13:34:43 UTC | #40
+
+Welcome!
+
+-------------------------
+
+Antbrick | 2019-08-23 14:12:41 UTC | #41
+
+Anyone know if Auxy has some sort of feature for great piano rolls?
+
+-------------------------
+
+Jax | 2019-08-23 16:17:55 UTC | #42
+
+What do you mean by that? Do you mean can you use a piano roll? If so then yeah, just change it to chromatic mode when you are making a melody. If you meant can you use a piano in Auxy, then you can do that too. Also, Welcome to the community!
+
+-------------------------
+
+Antbrick | 2019-08-26 17:37:41 UTC | #43
+
+Thanks glad to be here and yes it does it fine for piano but I have a hard time with it using the wild sax. I like to create a hip hop vibe with my music and lately over been doing pretty good with it using Auxy I’ve had this app on my phone for about 2 years.
+
+-------------------------
+
+Antbrick | 2019-08-26 17:38:19 UTC | #44
+
+Also is Auxy compatible to midi plugins such as the mpk mini?
+
+-------------------------
+
+AzureOnyx | 2019-08-26 17:45:16 UTC | #45
+
+No, Auxy doesn't support MIDI in, I'm assuming Plugins are input devices.
+
+-------------------------
+
+Antbrick | 2019-08-26 17:59:18 UTC | #46
+
+Yes like the mpk mini
+
+-------------------------
+
+iammane | 2019-08-26 18:29:20 UTC | #47
+
+No midi in. The most connected you'll get is Ableton Link (so other apps can share tempo data in a session) or straight export to Live option in the project menu.
+
+-------------------------
+
+Antbrick | 2019-08-28 17:43:12 UTC | #48
+
+Well that sucks
+
+-------------------------
+
+Antbrick | 2019-09-12 10:59:33 UTC | #49
+
+Hey guys I have a sample that I’m trying to edit. It’s in reverse but there are some clicking noises from the hi hat and snares that’s originally on the track that I wanted to try and edit out or fix up in a way where you just hear the beat without the clicks. Any tips or assistance would be greatly appreciated.
+
+-------------------------
+
+iammane | 2019-09-12 11:05:58 UTC | #50
+
+There's nothing native to Auxy that's gonna help there. I think Audiocopy by Retronyms has some basic editing functions, it's free. A really great swiss army knife of audio editing is Audioshare, the dev is great, it's 5 bucks but it's paid for itself over and over for me over all these years. 
+
+If you're talking about trying to clean up content in the *middle* of the sample (ie not just trimming) that's gonna be pretty difficult. Maybe with some creative filtering, but it will effect the character of the sound.
+
+-------------------------
+
+blakkaz | 2019-09-12 11:13:41 UTC | #51
+
+Audiocopy should work for your use case.
+
+![21%20pm|636x424](upload://6xlUo3rbTrx0Xr6feuHSF1wi1Yk.png) 
+
+https://retronyms.com/audiocopy/
+
+-------------------------
+
+YeahMarcYeah | 2019-09-20 18:20:53 UTC | #52
+
+I'm not sure if this is exactly the right place for this, but how does everyone feel about the new Reverb? I don't like it at all!  It's just wayyy too much.  Does anybody else feel this way? 
+
+If you do like it, how do you manage it? 
+
+Thanks
+
+-------------------------
+
+obexg | 2019-09-20 21:47:48 UTC | #53
+
+Welcome!
+
+-------------------------
+
+Kam | 2019-09-23 04:59:23 UTC | #54
+
+you can click on the reverb and tune it to your liking. not just the slider anymore
+
+-------------------------
+
+Simon | 2019-09-26 10:01:41 UTC | #55
+
+Je😍
+
+-------------------------
+
+Weak_Assurance | 2019-11-02 16:20:12 UTC | #56
+
+Great guide, thanks a lot!
+
+-------------------------
+
+Duk | 2019-12-30 04:34:58 UTC | #57
+
+Why is there a mugshot in the wiki?
+
+-------------------------
+
+VJM | 2020-01-02 19:36:36 UTC | #58
+
+It’s a pun on offset (the rhythmic function on Auxy) and Offset (the rapper).
+https://en.wikipedia.org/wiki/Offset_(rapper)
+
+-------------------------
+
+Duk | 2020-01-02 21:53:05 UTC | #59
+
+That is funny!
+
+-------------------------
+
+MetricMusicDivision | 2022-07-09 12:15:14 UTC | #60
+
+How do I post? New here
+
+-------------------------
+
+Kensei | 2022-07-09 15:05:04 UTC | #61
+
+You press new topic, make a title, choose a category and create ur post
+
+-------------------------
+

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Evolution of Auxy</title>
+    <link>https://disco.auxy.co/t/evolution-of-auxy/17926</link>
+    <description>As you all know that Auxy has stepped up 5th year on 9/12/2019 meaning it’s been 4 years of Auxy since it was launced on 9 Dec 2015. And Since then we saw many new features arrived and many UI designs changed.
+So I also guess to celebrate 4th Anniversary of App, Developers @Auxy, @Fredrik relaunched the Classic iPad App as Auxy Jam 
+Many new users don’t know where Auxy was and is now.
+So I’ll be posting screenshots that will include the changes made in every major version of Auxy.
+You can also tell what you liked the most in particular version of App
+
+**All Auxy Versions Specific Details**
+
+[details=&quot;v1.0 on 09/12/2015&quot;]
+- ***Pink AppIcon*** 
+- *Initial* Release 
+[/details]
+
+[details=&quot;v1.0.1 on 19/12/2014&quot;]
+- Fixed issues running iOS 8
+- Exporting MIDI now results in proper regions
+- Now you can re-upload recordings after changing the project name
+[/details]
+
+[details=&quot;v1.0.2 on 29/12/2015&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v1.1.0 on 04/02/2016&quot;]
+- *Ableton Link* support
+[/details]
+
+[details=&quot;v2.0 on 08/06/2016&quot;]
+- ***Blue AppIcon***
+- Added *12 instruments*
+- Added *24 Loops* (Notes Patterns)
+- *Scene* to arrange loops into complete music
+- *Transitions* (like Automation)
+[/details]
+
+[details=&quot;v2.0.1 on 18/07/2016&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v2.1 on 28/07/2016&quot;]
+- Upload directly to SoundCloud
+- Save your track as a video
+- *Render individual instruments*
+[/details]
+
+[details=&quot;v2.1.1 on 29/07/2016&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v2.2 on 15/09/2016&quot;]
+- *Landscape Support* on iPhone iPad
+- Added *Triplets* and *32nd Notes* on piano roll grid
+- Select and edit multiple notes by long-pressing the piano roll grid
+- Quickly delete or duplicate loops by long-pressing
+- Jump straight into loop edit with 3D Touch
+- The arrangement can now be opened while tweaking sounds
+[/details]
+
+[details=&quot;v2.2.1 on 19/09/2016&quot;]
+- Bug fixes and Optimization 
+- Exported videos are now square to fit nicely on Instagram
+[/details]
+
+[details=&quot;v3.0 on 03/11/2016&quot;]
+- *Added soft notes* in Piano roll grid
+- Loops can be *transposed* one octave up or down
+- Creating a new scene keeps active loops playing
+- Possible to get more delay when turning it to max
+- “Featured Tracks” lets you explore tracks made in Auxy
+- *SoundPack*  AP001 - Signature Pianos
+[/details]
+
+[details=&quot;v3.1 on 07/12/2016&quot;]
+- *Backup projects* and share by swiping left in the project list
+- *Copy instrument and loops* by long pressing the instrument name
+- Download demo projects via Feed
+- Added *Ducker on every half bar*
+[/details]
+
+[details=&quot;v3.1.1 on 10/12/2016&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v3.1.2 on 14/12/2016&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v3.1.3 on 21/12/2016&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v3.2 on 11/02/2017&quot;]
+- Added *8 Bars loops length*
+- Added *16 Instruments*
+- Added *Sounds preview* while browsing
+- Added Redesigned bar indicator lets you quickly navigate in loop edit
+- *Set custom label and color for every instrument*
+- Added *Make new loops chromatic*
+[/details]
+
+[details=&quot;v3.3 on 05/03/2017&quot;]
+- *Black AppIcon* now onward
+- Added *Solo the current instrument* when editing loops
+- Added *precision triplets* on piano roll grid
+- Custom label every scene
+- *Set a start offset* for each scene
+- Easily move loops and scenes
+- Add custom artwork for SoundCloud and video export
+- Get nice file names when exporting MIDI and stems
+[/details]
+
+[details=&quot;v3.4 on 18/04/2017&quot;]
+- *Download All sounds* in a project before you buy
+- *Copy and paste notes*
+- Drag sideways to move loops and scenes
+- Play Auxy in the background when using Ableton Link
+- New Feed navigation tab
+[/details]
+
+[details=&quot;v3.4.1 on 20/04/2017&quot;]
+- *Sweeper effect added in Original Pack*
+[/details]
+
+[details=&quot;v3.5 on 18/05/2017&quot;]
+- Exporting a project now creates a link that you can easily share with others
+- Project export has been moved to the track export menu
+- Improved performance when browsing projects
+- *Sorting projects* by creation date
+- Select and edit any note without changing the grid setting
+- New How To section with updated tutorials
+[/details]
+
+[details=&quot;v3.5.1 on 26/05/2017&quot;]
+- Project export is back now in the track export menu
+which was removed previously 
+- Long notes can now only be dragged by holding the start of the note
+- Fixed - An issue where project links would be broken
+- Fixed - An issue where the project list would not be sorted properly
+[/details]
+
+[details=&quot;v.4.0.1 on 28/07/2017&quot;]
+- *Loop based Automation*
+- *Backup and sync projects with iCloud*
+- Edit melodies *across 5 octaves*
+- *New note labels in scale and chromatic mode*
+- Fixed buzzing sound in rendered tracks
+[/details]
+
+[details=&quot;v4.1.1 on 20/09/2017&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v4.1.2 on 25/09/2017&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v4.1.3 on 05/10/2017&quot;]
+- Bug Fixes
+[/details]
+
+[details=&quot;v5.0 on 05/01/2018&quot;]
+- Subscription based 
+- Added 20 instruments
+- *Redesigned drum instrument*
+- *Build custom drum kits with your favorite samples*
+- *Import your own samples or browse thousands of samples *
+- *Adjust pitch, reverb, pan and other settings for each sample*
+- *Add sounds and samples to your favorites for quick access*
+- *All sounds now have all tweak options*
+[/details]
+
+[details=&quot;v5.0.1 on 15/02/2018&quot;]
+- Restored purchases will stay unlocked even if you login with a different Apple ID
+- Retain offset when duplicating scenes
+- Indicate the current value in empty automation loops
+- Added haptic feedback on supported devices
+- New drum kits now have follow pitch automation set to off for all samples by default
+- Show Favorites pack when opening a favorited sample
+- Bug fixes
+[/details]</description>
+    
+    <lastBuildDate>Sun, 12 Jan 2020 18:20:37 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/evolution-of-auxy/17926.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Evolution of Auxy</title>
+        <dc:creator><![CDATA[Aklibs]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-post="3" data-topic="17926">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/azureonyx/40/14456_2.png" class="avatar"> AzureOnyx:</div>
+<blockquote>
+<p>The ability to loop a specific section was useful at the time, I don’t recall having to hear the whole loop before the section was played.</p>
+</blockquote>
+</aside>
+<p>Me too</p>
+          <p><a href="https://disco.auxy.co/t/evolution-of-auxy/17926/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/evolution-of-auxy/17926/4</link>
+        <pubDate>Sun, 12 Jan 2020 18:20:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17926-4</guid>
+        <source url="https://disco.auxy.co/t/evolution-of-auxy/17926.rss">Evolution of Auxy</source>
+      </item>
+      <item>
+        <title>Evolution of Auxy</title>
+        <dc:creator><![CDATA[AzureOnyx]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh yeah, this is the Auxy I remember</p>
+<p>What I liked about this version was that it shared the same functionality of the previous Auxy for iPad. It was easy to use at the time and was basic to understand for new users.</p>
+<p>The ability to loop a specific section was useful at the time, I don’t recall having to hear the whole loop before the section was played.</p>
+          <p><a href="https://disco.auxy.co/t/evolution-of-auxy/17926/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/evolution-of-auxy/17926/3</link>
+        <pubDate>Sun, 12 Jan 2020 17:09:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17926-3</guid>
+        <source url="https://disco.auxy.co/t/evolution-of-auxy/17926.rss">Evolution of Auxy</source>
+      </item>
+      <item>
+        <title>Evolution of Auxy</title>
+        <dc:creator><![CDATA[Aklibs]]></dc:creator>
+        <description><![CDATA[
+            <p>On 09 December 2015, Auxy for iphone was first released.</p>
+<p>The Following Images shows the rest<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9.png" data-download-href="/uploads/short-url/xYjCPTMWE1AZNky38HUxf1zjnfP.png?dl=1" title="image" rel="nofollow noopener"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9_2_281x500.png" alt="image" data-base62-sha1="xYjCPTMWE1AZNky38HUxf1zjnfP" width="281" height="500" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9_2_281x500.png, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9_2_421x750.png 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9_2_562x1000.png 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/e/ee1932ec71c1ba446e16d33fd9f308d9173890e9_2_10x10.png"></a></div><p></p>
+<p>This Version had<br>
+:- Pink AppIcon<br>
+:- 4 Instruments (1 Drum, 3 Bass or Lead)<br>
+:- 3 Tweak Dial Knobs ( Volume, Filter, Shape or Tone or Delay) for live jam.<br>
+:- This also had Loop the current Bar feature<br>
+:- Music can be recorded whole live playing it just like Auxy Jam iPad app now<br>
+:- <strong>Export</strong> - Midi</p>
+<p>If you had this version of app what you liked most about it…</p>
+          <p><a href="https://disco.auxy.co/t/evolution-of-auxy/17926/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/evolution-of-auxy/17926/2</link>
+        <pubDate>Sun, 12 Jan 2020 10:40:54 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17926-2</guid>
+        <source url="https://disco.auxy.co/t/evolution-of-auxy/17926.rss">Evolution of Auxy</source>
+      </item>
+      <item>
+        <title>Evolution of Auxy</title>
+        <dc:creator><![CDATA[Aklibs]]></dc:creator>
+        <description><![CDATA[
+            <p>As you all know that Auxy has stepped up 5th year on 9/12/2019 meaning it’s been 4 years of Auxy since it was launced on 9 Dec 2015. And Since then we saw many new features arrived and many UI designs changed.<br>
+So I also guess to celebrate 4th Anniversary of App, Developers <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a>, <a class="mention" href="https://disco.auxy.co/u/fredrik">@Fredrik</a> relaunched the Classic iPad App as Auxy Jam<br>
+Many new users don’t know where Auxy was and is now.<br>
+So I’ll be posting screenshots that will include the changes made in every major version of Auxy.<br>
+You can also tell what you liked the most in particular version of App</p>
+<p><strong>All Auxy Versions Specific Details</strong></p>
+
+v1.0 on 09/12/2015 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v1.0.1 on 19/12/2014 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v1.0.2 on 29/12/2015 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v1.1.0 on 04/02/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.0 on 08/06/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.0.1 on 18/07/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.1 on 28/07/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.1.1 on 29/07/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.2 on 15/09/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v2.2.1 on 19/09/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.0 on 03/11/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.1 on 07/12/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.1.1 on 10/12/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.1.2 on 14/12/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.1.3 on 21/12/2016 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.2 on 11/02/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.3 on 05/03/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.4 on 18/04/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.4.1 on 20/04/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.5 on 18/05/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v3.5.1 on 26/05/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v.4.0.1 on 28/07/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v4.1.1 on 20/09/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v4.1.2 on 25/09/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v4.1.3 on 05/10/2017 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v5.0 on 05/01/2018 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+
+v5.0.1 on 15/02/2018 <a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">(click for more details)</a>
+          <p><a href="https://disco.auxy.co/t/evolution-of-auxy/17926/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/evolution-of-auxy/17926/1</link>
+        <pubDate>Sun, 12 Jan 2020 10:33:07 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-17926-1</guid>
+        <source url="https://disco.auxy.co/t/evolution-of-auxy/17926.rss">Evolution of Auxy</source>
+      </item>
+  </channel>
+</rss>

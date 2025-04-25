@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dry Mix Export Option Needed</title>
+    <link>https://disco.auxy.co/t/dry-mix-export-option-needed/12818</link>
+    <description>I’ve used Auxy for years and I’ve developed 8+ tracks that I want to put into production. However, to do this, and to include some instrumentation from Auxy without setting up external MIDI or other third party soft synth instruments, I need a dry mix. The present exported mix blends FX into each stem which prevents this.
+
+I imagine but do not know that this would be quite a straightforward feature to introduce but obviously that depends on the internal hard (or soft?) wired mix parameters within the app. 
+
+Could you please add the option to export dry stem exports or separate out a standalone wetmix as an independent stem?
+
+Many thanks, ISO.</description>
+    
+    <lastBuildDate>Sat, 10 Nov 2018 22:59:06 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/dry-mix-export-option-needed/12818.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dry Mix Export Option Needed</title>
+        <dc:creator><![CDATA[TheRealJFalc]]></dc:creator>
+        <description><![CDATA[
+            <p>This is correct, Lenberg has stated this before and I can attest that this is in fact the case.</p>
+<p>Do you mean options to remove things such as the reverb and delay from the export? I’ve suggested such features in the past but they don’t seem to be on the list, so you’d need to do that manually before export.</p>
+          <p><a href="https://disco.auxy.co/t/dry-mix-export-option-needed/12818/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/dry-mix-export-option-needed/12818/3</link>
+        <pubDate>Sat, 10 Nov 2018 22:59:06 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12818-3</guid>
+        <source url="https://disco.auxy.co/t/dry-mix-export-option-needed/12818.rss">Dry Mix Export Option Needed</source>
+      </item>
+      <item>
+        <title>Dry Mix Export Option Needed</title>
+        <dc:creator><![CDATA[El1011]]></dc:creator>
+        <description><![CDATA[
+            <p>when u export each track individually, there shouldn’t be any additional mixing or anything happening</p>
+          <p><a href="https://disco.auxy.co/t/dry-mix-export-option-needed/12818/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/dry-mix-export-option-needed/12818/2</link>
+        <pubDate>Sat, 10 Nov 2018 21:12:10 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12818-2</guid>
+        <source url="https://disco.auxy.co/t/dry-mix-export-option-needed/12818.rss">Dry Mix Export Option Needed</source>
+      </item>
+      <item>
+        <title>Dry Mix Export Option Needed</title>
+        <dc:creator><![CDATA[Iso]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve used Auxy for years and I’ve developed 8+ tracks that I want to put into production. However, to do this, and to include some instrumentation from Auxy without setting up external MIDI or other third party soft synth instruments, I need a dry mix. The present exported mix blends FX into each stem which prevents this.</p>
+<p>I imagine but do not know that this would be quite a straightforward feature to introduce but obviously that depends on the internal hard (or soft?) wired mix parameters within the app.</p>
+<p>Could you please add the option to export dry stem exports or separate out a standalone wetmix as an independent stem?</p>
+<p>Many thanks, ISO.</p>
+          <p><a href="https://disco.auxy.co/t/dry-mix-export-option-needed/12818/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/dry-mix-export-option-needed/12818/1</link>
+        <pubDate>Sat, 10 Nov 2018 14:17:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-12818-1</guid>
+        <source url="https://disco.auxy.co/t/dry-mix-export-option-needed/12818.rss">Dry Mix Export Option Needed</source>
+      </item>
+  </channel>
+</rss>

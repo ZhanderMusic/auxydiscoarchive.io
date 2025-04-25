@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Instrument space</title>
+    <link>https://disco.auxy.co/t/instrument-space/20741</link>
+    <description>One of the main issues that I came across when creating a song in Auxy was running out of instrument space. That being said, do any of you have any suggestions as to what I could potentially do when coming across that issue? Additionally, do the developers plan on adding more instrument space? 
+
+I absolutely love the application, but whenever I come across such a stopping point it really takes away from any inspiration or motivation that I had. I hope to see that addressed soon!
+
+@Auxy please make my day and add more instrument space!</description>
+    
+    <lastBuildDate>Sun, 28 Feb 2021 14:39:15 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/instrument-space/20741.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Tru dat.<br>
+I put it forward as a possible solution to the current max 20 instrument slots.</p>
+<p>If it’s a question of device capabilities, then it should be relatively simple to offer higher max instrument slots for devices that can support more. So, removing the cap likely represents the easiest way forward.</p>
+<p>That said, if it’s due to limitations of the sound engine itself, then 20 may be a hard limit for the foreseeable future, as there’s seemingly little/no appetite for renovating or replacing the sound engine.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/12</link>
+        <pubDate>Sun, 28 Feb 2021 14:39:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-12</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>The only thing I could see being a problem here is that a frozen track is rendered to wave, and Auxy doesn’t have audio tracks. Nanostudio 2 is in the same boat - you can’t freeze anything because there is no linear audio timeline / audio track (the workaround there would be to drop a full length export into a Slate channel, infinity release, sustain etc) but no such animal in Auxy (not to mention each audio chunk can’t exceed 20s).</p>
+<p>ON THE FLIP side though, Gadget does this and also doesn’t have full track length audio tracks, sooooo <img src="https://emoji.discourse-cdn.com/apple/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"> anything is possible I guess lol.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/11</link>
+        <pubDate>Sun, 28 Feb 2021 13:37:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-11</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Not a solution now, but maybe one that <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> might consider.</p>
+<p>It’s possible/likely that the 20 instrument/track limit is set to ensure the iOS device processor isn’t overwhelmed, compromising the creation/playback experience…</p>
+<p>If that’s the case, I’ve wondered if a ‘freeze’ channel/instrument feature might be a route to freeing up processor power, by reducing the amount of live audio processing that needs to be done, which can then be used to allow more instrument slots.</p>
+<p>Effectively, what Ableton does, for the same reasons (see vid below)…</p>
+<p>&nbsp;<br>
+I suspect that more recent iOS devices can support far more than 20, but with Auxy being kinda oriented towards younger and entry-level music makers, the Auxy user-base likely has a relatively high level of older and lower model iOS devices in use.</p>
+<p><em>If</em> that’s the case, imo, it would be great if the app could flex according to the capabilities of the device, offering more channels to those using devices that can handle them.</p>
+<p>As long as users understood the max number of slots was kinda set by the device they’re using, I don’t think there’d be any brand push-back on Auxy. And I say that as someone who does all my Auxy-ing on an old iPad Mini 2, rather than on my iPhone 12 Pro.</p>
+<p>&nbsp;</p><p><a href="https://www.youtube.com/embed/fTGEpnF96eo?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/fTGEpnF96eo</a></p>
+
+<p>&nbsp;<br>
+There is the question of what happens if flipping between more capable/less capable devices, but there must surely be a more optimal solution than capping the experience of every user based on the least capable device sufficiently present in the user base.</p>
+<p>Maybe it’s another of those features that points to value in a ‘Pro+’ subscription tier.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/10</link>
+        <pubDate>Sun, 28 Feb 2021 10:00:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-10</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://emoji.discourse-cdn.com/apple/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"> haha</p>
+<p>Spoiler Alert: the EP will consist of nothing but drops that I didn’t have enough instrument space to make introductions and buildups for.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/9</link>
+        <pubDate>Sun, 28 Feb 2021 04:51:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-9</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Gox’s next EP - “Dope Drops”</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/8</link>
+        <pubDate>Sun, 28 Feb 2021 02:30:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-8</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve got so many projects where the drop is perfect, but have no space for the intro and buildup. So it’s just a dope drop with nothing else lol.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/7</link>
+        <pubDate>Sun, 28 Feb 2021 01:08:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-7</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>Yeah it’s a lot less than ideal.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/6</link>
+        <pubDate>Sat, 27 Feb 2021 23:33:59 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-6</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[BenVacca]]></dc:creator>
+        <description><![CDATA[
+            <p>oops iammane already said this <img src="https://emoji.discourse-cdn.com/apple/grimacing.png?v=9" title=":grimacing:" class="emoji" alt=":grimacing:"> my bad</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/5</link>
+        <pubDate>Sat, 27 Feb 2021 22:18:20 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-5</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[BenVacca]]></dc:creator>
+        <description><![CDATA[
+            <p>you could sample what you’ve made in auxy (like the melody and drums, etc.), make it an audio file, then import it into a drum kit in auxy.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/4</link>
+        <pubDate>Sat, 27 Feb 2021 22:14:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-4</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s exactly what I thought too. It’s such a hassle though. If I have to edit an automation or something I’d have to redo the whole process of adding into a drum channel, etc. Why haven’t they increased the instrument space? I’m sure iPhones can take it.</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/3</link>
+        <pubDate>Sat, 27 Feb 2021 22:03:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-3</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[iammane]]></dc:creator>
+        <description><![CDATA[
+            <p>It’s not ideal, but you could chunk up your loops into less than 20s loops and import into a drum channel. Otherwise unless the instrument limit is increased I don’t know there another option <img src="https://emoji.discourse-cdn.com/apple/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/2</link>
+        <pubDate>Sat, 27 Feb 2021 20:58:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-2</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+      <item>
+        <title>Instrument space</title>
+        <dc:creator><![CDATA[Goxenar]]></dc:creator>
+        <description><![CDATA[
+            <p>One of the main issues that I came across when creating a song in Auxy was running out of instrument space. That being said, do any of you have any suggestions as to what I could potentially do when coming across that issue? Additionally, do the developers plan on adding more instrument space?</p>
+<p>I absolutely love the application, but whenever I come across such a stopping point it really takes away from any inspiration or motivation that I had. I hope to see that addressed soon!</p>
+<p><a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> please make my day and add more instrument space!</p>
+          <p><a href="https://disco.auxy.co/t/instrument-space/20741/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/instrument-space/20741/1</link>
+        <pubDate>Sat, 27 Feb 2021 19:38:25 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-20741-1</guid>
+        <source url="https://disco.auxy.co/t/instrument-space/20741.rss">Instrument space</source>
+      </item>
+  </channel>
+</rss>

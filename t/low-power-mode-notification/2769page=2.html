@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Low Power Mode Notification - Auxy Feedback - Auxy Disco</title>
+<meta content="V4.1 - It’s a sad, sad day." name="description"/>
+<meta content="Discourse 2.9.0.beta9 - https://github.com/discourse/discourse version 998bd191a52e86db8ad0cc9c108535c144b6cc74" name="generator"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/7575d03609f7c0e7646a379a1c55aa1b0710550b_2_32x32.png" rel="icon" type="image/png"/>
+<link href="../../../global.discourse-cdn.com/standard10/uploads/auxy/optimized/1X/c7e8f2c0c2afefdcb3008c1072564586800e9741_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="2769page=2.html" rel="canonical"/>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"index.html","potentialAction":{"@type":"SearchAction","target":"index.htmlsearch?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link href="../../opensearch.xml" rel="search" title="Auxy Disco Search" type="application/opensearchdescription+xml"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/color_definitions_base__2_9d78fb0b24d61ef0ea2e06dc0ad41c566ac9924a.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-adplugin_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-akismet_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-cakeday_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-checklist_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-details_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-footnote_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet">
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-local-dates_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-narrative-bot_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-presence_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/discourse-spoiler-alert_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/hosted-site_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/lazy-yt_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/poll_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_0dc14361b94ae167e5b2237942ceded149bd9cb4.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" href="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/stylesheets/desktop_theme_2_1bde5b705b0f15dda8473165c894f2bfdf7b9729.css" media="all" rel="stylesheet"/>
+<link href="2769.rss" rel="alternate nofollow" title="RSS feed of 'Low Power Mode Notification'" type="application/rss+xml"/>
+<meta content="Auxy Disco" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7d78140d32d7f62a00c3d1df36f8dde6e42cdada_2_575x1024.png" name="twitter:image"/>
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/2X/7/7d78140d32d7f62a00c3d1df36f8dde6e42cdada_2_575x1024.png" property="og:image"/>
+<meta content="index.htmlt/low-power-mode-notification/2769?page=2" property="og:url"/>
+<meta content="index.htmlt/low-power-mode-notification/2769?page=2" name="twitter:url"/>
+<meta content="Low Power Mode Notification" property="og:title"/>
+<meta content="Low Power Mode Notification" name="twitter:title"/>
+<meta content="This shouldn’t be a matter of freedom, it’s a matter of being able to run the app, which is definitely a priority for the revs and it should be more important. 😉" property="og:description"/>
+<meta content="This shouldn’t be a matter of freedom, it’s a matter of being able to run the app, which is definitely a priority for the revs and it should be more important. 😉" name="twitter:description"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="5 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="70 ❤"/>
+<meta content="2017-09-26T16:46:36+00:00" property="article:published_time">
+<meta content="true" property="og:ignore_canonical">
+<link href="2769.html" rel="prev"/>
+<link href="2769page=3.html" rel="next"/>
+</meta></meta></link></link></link></head>
+<body class="crawler">
+<header>
+<a href="index.html">
+    Auxy Disco
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="2769.html">Low Power Mode Notification</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="../../c/feedback.html" itemprop="item">
+<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Auxy Feedback</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_21" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T16:46:36Z" itemprop="datePublished">
+                September 26, 2017,  4:46pm
+              </time>
+<meta content="2017-09-26T16:46:36Z" itemprop="dateModified"/>
+<span itemprop="position">#21</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>This shouldn’t be a matter of freedom, it’s a matter of being able to run the app, which is definitely a priority for the revs and it should be more important. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_22" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Db909.html" itemprop="url"><span itemprop="name">Db909</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T16:48:35Z" itemprop="datePublished">
+                September 26, 2017,  4:48pm
+              </time>
+<meta content="2017-09-26T16:48:35Z" itemprop="dateModified"/>
+<span itemprop="position">#22</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Forgive me, but I thought you had to manually enable low power mode?</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_23" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T16:57:33Z" itemprop="datePublished">
+                September 26, 2017,  4:57pm
+              </time>
+<meta content="2017-09-26T17:07:18Z" itemprop="dateModified"/>
+<span itemprop="position">#23</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-full="true" data-post="21" data-topic="2769">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/austin_haga/40/3741_1.png" width="20"/> aUstin_Haga:</div>
+<blockquote>
+<p>This shouldn’t be a matter of freedom…</p>
+</blockquote>
+</aside>
+<p>And yet, it is, when app developers tell me how I can and <em>cannot</em> use my battery.</p>
+<p> </p>
+<blockquote>
+<p>it’s a matter of being able to run the app</p>
+</blockquote>
+<p>which, as we’ve established, <em>is</em> technically possible, even in LPM, albeit sub-optimally.</p>
+<p> </p>
+<blockquote>
+<p>which is definitely a priority for the revs and it should be more important.</p>
+</blockquote>
+<p>More important than my ability to use my phone/battery how I choose? <em>Really?</em></p>
+<p>Would you be equally OK if car manufacturers only allowed you to drive your own car if your gas tank had more than 10% in it?<br/>
+Each to their own, I guess.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_24" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T17:06:40Z" itemprop="datePublished">
+                September 26, 2017,  5:06pm
+              </time>
+<meta content="2017-09-26T17:20:45Z" itemprop="dateModified"/>
+<span itemprop="position">#24</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote no-group" data-post="22" data-topic="2769" data-username="Db909">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/avatars.discourse-cdn.com/v4/letter/d/e9a140/40.png" width="20"/> Db909:</div>
+<blockquote>
+<p>I thought you had to manually enable low power mode</p>
+</blockquote>
+</aside>
+<p>That’s correct. It’s offered when your battery hits a certain low – at 20% and again at 10%.<br/>
+Of course, you can enable (and disable) it at any point, regardless of remaining battery life.</p>
+<aside class="quote no-group">
+<blockquote>
+<p><a href="https://support.apple.com/en-gb/HT205234" rel="noopener nofollow ugc">Apple.com: Use Low Power Mode to extend battery life on your iPhone<br/>
+</a></p>
+<p>Low Power Mode reduces or affects these features:</p>
+<p>Email fetch<br/>
+“Hey Siri”<br/>
+Background app refresh<br/>
+Automatic downloads<br/>
+Some visual effects<br/>
+Auto-Lock (defaults to 30 seconds)</p>
+<p>When Low Power Mode is on, the battery in the status bar will be yellow. You’ll see <img alt="image" data-base62-sha1="b3T26STI7NQH4ThGftTXXgwwTjd" height="16" src="file:///C:/Users/Bodie/Downloads/auxyDisco/disco.auxy.co/global.discourse-cdn.com/standard10/uploads/auxy/original/2X/4/4d886a5d1a7aef4f87fe564d2ab005647ae167c3.png" width="30"/> and the battery percentage. After you charge your iPhone to 80% or higher, Low Power Mode automatically turns off.</p>
+</blockquote>
+</aside>
+<p>Afaik, Auxy has no background features, including playing sound.<br/>
+This is the first 3rd-party app (with no background processes) that I’ve not encountered that goes beyond what Apple is aiming to do with LPM – i.e. Apple isn’t interfering with you actively using apps, only those processes you aren’t actively using.</p>
+<p>Also, does the 80% recharge line quoted above also mean that, if Auxy has effectively shut down while in LPM, it won’t become fully usable again until there’s 80% charge in the phone – or I manually disable LPM?</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_25" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T17:20:35Z" itemprop="datePublished">
+                September 26, 2017,  5:20pm
+              </time>
+<meta content="2017-09-26T17:20:35Z" itemprop="dateModified"/>
+<span itemprop="position">#25</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Look, you don’t HAVE to use this app. Using your car analogy, would you like to only be able to go 10 mph but save a lot of gas, as opposed to waiting a bit to go to full capability of speed? This was a cause of many problems, and they rightfully did what they could to fix it, and I back them fully.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_26" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T17:40:02Z" itemprop="datePublished">
+                September 26, 2017,  5:40pm
+              </time>
+<meta content="2017-09-26T17:40:02Z" itemprop="dateModified"/>
+<span itemprop="position">#26</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="25" data-topic="2769">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/austin_haga/40/3741_1.png" width="20"/> aUstin_Haga:</div>
+<blockquote>
+<p>Look, you don’t HAVE to use this app.</p>
+</blockquote>
+</aside>
+<p>…and luckily we have Auxy telling us when we can’t. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p> </p>
+<blockquote>
+<p>Using your car analogy, would you like to only be able to go 10 mph but save a lot of gas, as opposed to waiting a bit to go to full capability of speed?</p>
+</blockquote>
+<p>If I know (or even think) I can get where I want to go with the gas I have left, I’d like to drive at whatever speed I like.</p>
+<p> </p>
+<blockquote>
+<p>I back them fully.</p>
+</blockquote>
+<p>Yeah, I kinda got that. (Makes no difference to me, of course.) <img alt=":slight_smile:" class="emoji" src="../../emoji.discourse-cdn.com/apple/slight_smile.png" title=":slight_smile:"/></p>
+<p>Few people question the lack of choices when they agree with the status quo.<br/>
+I’d still prefer to have choices – and, even if I agreed with the status quo, I’d still prefer people to have choices. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_27" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Coral.html" itemprop="url"><span itemprop="name">Coral</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T17:48:17Z" itemprop="datePublished">
+                September 26, 2017,  5:48pm
+              </time>
+<meta content="2017-09-26T17:48:17Z" itemprop="dateModified"/>
+<span itemprop="position">#27</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>The app doesn’t support low power mode. So just plug your phone in or do something else when it’s about to die; not worth bugging the devs about it <img alt=":slightly_smiling_face:" class="emoji" src="../../emoji.discourse-cdn.com/apple/slightly_smiling_face.png" title=":slightly_smiling_face:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_28" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T17:51:32Z" itemprop="datePublished">
+                September 26, 2017,  5:51pm
+              </time>
+<meta content="2017-09-26T17:51:32Z" itemprop="dateModified"/>
+<span itemprop="position">#28</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="27" data-topic="2769">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/coral/40/3674_1.png" width="20"/> Coral:</div>
+<blockquote>
+<p>The app doesn’t support low power mode.</p>
+</blockquote>
+</aside>
+<p>Name another app that doesn’t.<br/>
+ </p>
+<blockquote>
+<p>not worth bugging the devs about it</p>
+</blockquote>
+<p>It’s called user feedback.<br/>
+Are you going to decide for us which stuff is important enough to ‘bug the devs about’?</p>
+<p>Cool. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_29" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T18:15:21Z" itemprop="datePublished">
+                September 26, 2017,  6:15pm
+              </time>
+<meta content="2017-09-26T18:15:21Z" itemprop="dateModified"/>
+<span itemprop="position">#29</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yes, if the devs already explained why it is and that they’re keeping it, then it’s not worth bugging them about. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+<span class="post-likes">1 Like</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_31" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T18:43:33Z" itemprop="datePublished">
+                September 26, 2017,  6:43pm
+              </time>
+<meta content="2017-09-26T18:43:33Z" itemprop="dateModified"/>
+<span itemprop="position">#31</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Let’s let them look over and decide themselves, They have plenty of feedback on this topic now. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="4" itemprop="userInteractionCount"/>
+<span class="post-likes">4 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_32" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T19:57:06Z" itemprop="datePublished">
+                September 26, 2017,  7:57pm
+              </time>
+<meta content="2017-09-26T19:57:06Z" itemprop="dateModified"/>
+<span itemprop="position">#32</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Indeed. Think it’s all been covered now. <img alt=":slight_smile:" class="emoji" src="../../emoji.discourse-cdn.com/apple/slight_smile.png" title=":slight_smile:"/></p>
+<p>Just to be clear, everything I say here and all my points are meant without any pissiness.</p>
+<p>It’s good that the app attracts passionate people. And to reiterate, it’s an occupational hazard that I focus on things like this. (It’s evidently not a choice I would have made, or recommended.) <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p>Still, everything I’ve said should be taken as simply wanting the very best options for users. <img alt=":+1:" class="emoji" src="../../emoji.discourse-cdn.com/apple/+1.png" title=":+1:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_33" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Produk.html" itemprop="url"><span itemprop="name">Produk</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T21:52:17Z" itemprop="datePublished">
+                September 26, 2017,  9:52pm
+              </time>
+<meta content="2017-09-26T21:52:17Z" itemprop="dateModified"/>
+<span itemprop="position">#33</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I don’t know why this is such a big deal. My iPad can run auxy for quite a long time. Why use low power mode?<br/>
+If your using low power mode during the day, charge your phone the night before so it won’t have to be in low power all day.<br/>
+Also, I find that turning off background app refresh for most apps saves a lot of battery.</p>
+<p>If you want to have auxy run on low power mode, think of it like this:<br/>
+Would you rather drive a car at 10mph for 5 hours, or 100mph for 2 hours?<br/>
+Your amount of gas doesn’t change, it just runs out slower(however, you don’t make it as far as fast.)</p>
+<p>Give users a choice if they want to us low power mode, but give em a warning about the consequences.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+<span class="post-likes">2 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_34" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T21:56:15Z" itemprop="datePublished">
+                September 26, 2017,  9:56pm
+              </time>
+<meta content="2017-09-26T22:39:01Z" itemprop="dateModified"/>
+<span itemprop="position">#34</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Fredrik said already that low power mode can’t handle live rendering already; it caused too much problems so they agreed to “prohibit” that (for usage within the app) to prevent further problems.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="2" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_35" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T22:05:27Z" itemprop="datePublished">
+                September 26, 2017, 10:05pm
+              </time>
+<meta content="2017-09-26T22:05:27Z" itemprop="dateModified"/>
+<span itemprop="position">#35</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="34" data-topic="2769">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/austin_haga/40/3741_1.png" width="20"/> aUstin_Haga:</div>
+<blockquote>
+<p>…they agreed to prohibit that</p>
+</blockquote>
+</aside>
+<p>Nono, I distinctly remember Fredrik saying…</p>
+<blockquote>
+<p>Nothing is being prohibited;</p>
+</blockquote>
+<p><img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p>Just teasing now. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p> <br/>
+Although… *cough* <a href="https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/PrioritizeWorkWithQoS.html#//apple_ref/doc/uid/TP40015243-CH39-SW1">QoS?</a> *cough*</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_36" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/FortyMiles.html" itemprop="url"><span itemprop="name">FortyMiles</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T22:17:45Z" itemprop="datePublished">
+                September 26, 2017, 10:17pm
+              </time>
+<meta content="2017-09-26T22:17:45Z" itemprop="dateModified"/>
+<span itemprop="position">#36</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Yeah that makes me sad <img alt=":frowning:" class="emoji" src="../../emoji.discourse-cdn.com/apple/frowning.png" title=":frowning:"/> I literally always use the lower power mode on my phone</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_37" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T22:38:21Z" itemprop="datePublished">
+                September 26, 2017, 10:38pm
+              </time>
+<meta content="2017-09-26T22:38:21Z" itemprop="dateModified"/>
+<span itemprop="position">#37</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Lol but look right under that. <img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/><img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/><img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/> he says you simply have to disable LPM for the duration of your session which Is exactly what I meant.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_38" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T22:40:49Z" itemprop="datePublished">
+                September 26, 2017, 10:40pm
+              </time>
+<meta content="2017-09-26T22:40:49Z" itemprop="dateModified"/>
+<span itemprop="position">#38</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Sorry I guess I worded that wrong…</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_39" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/aUstin_Haga.html" itemprop="url"><span itemprop="name">aUstin_Haga</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T22:44:17Z" itemprop="datePublished">
+                September 26, 2017, 10:44pm
+              </time>
+<meta content="2017-09-26T22:44:17Z" itemprop="dateModified"/>
+<span itemprop="position">#39</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>I don’t want to keep this going on, so can we all please agree to just wait for the devs to look this over and make the decision about their own app based on the feedback that they already have? I think 37 ideas are quite enough from the same two people so I’m going to stop.</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_43" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/Coral.html" itemprop="url"><span itemprop="name">Coral</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T23:06:51Z" itemprop="datePublished">
+                September 26, 2017, 11:06pm
+              </time>
+<meta content="2017-09-26T23:06:51Z" itemprop="dateModified"/>
+<span itemprop="position">#43</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<p>Just kidding. But agreed this was Stupid</p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_44" itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<div class="crawler-post-meta">
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Auxy AB" itemprop="name"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://global.discourse-cdn.com/standard10/uploads/auxy/original/2X/9/91cc56b2cbc885b5d2160d0cab953b94974a6f74.png" itemprop="url"/>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="../../u/akabillposters.html" itemprop="url"><span itemprop="name">akabillposters</span></a>
+</span>
+<link href="2769.html" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2017-09-26T23:15:36Z" itemprop="datePublished">
+                September 26, 2017, 11:15pm
+              </time>
+<meta content="2017-09-26T23:15:36Z" itemprop="dateModified"/>
+<span itemprop="position">#44</span>
+</span>
+</div>
+<div class="post" itemprop="articleBody">
+<aside class="quote" data-post="37" data-topic="2769">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="20" src="../../../"sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/austin_haga/40/3741_1.png" width="20"/> aUstin_Haga:</div>
+<blockquote>
+<p>Lol but look right under that. <img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/><img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/><img alt=":joy:" class="emoji" src="../../emoji.discourse-cdn.com/apple/joy.png" title=":joy:"/> he says you simply have to…</p>
+</blockquote>
+</aside>
+<p>And I suggest you look at my initial response to that. <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+<p>It would seem that some here (and presumably beyond) are genuinely being forced to change the way they use their phone, despite everything apparently working well before. I hope that the team will revisit this issue, with those users – and those who share their opinions – in mind, and look again at possible ways to reduce the impact to those users.</p>
+<p>In terms of many ideas they’ll have listed, they’ll prioritise based on their own criteria. As always, these things are a balancing act between addressing ‘squeaky wheels’ brought up by users (particularly major negative ones) and still pushing forward with the planned changes.</p>
+<p> <br/>
+Anyhoo, I thing this horse has been well and truly flogged, so I too will leave it (for now). <img alt=":wink:" class="emoji" src="../../emoji.discourse-cdn.com/apple/wink.png" title=":wink:"/></p>
+</div>
+<meta content="Low Power Mode Notification" itemprop="headline"/>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType"/>
+<meta content="3" itemprop="userInteractionCount"/>
+<span class="post-likes">3 Likes</span>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="1" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><a href="2769.html" itemprop="url" rel="prev">← previous page</a></span>
+<span itemprop="name"><b><a href="2769page=3.html" itemprop="url" rel="next">next page →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="index.html" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="categories.html" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="guidelines.html" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="tos.html" itemprop="url">Terms of Service </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="privacy.html" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+</body>
+</html>

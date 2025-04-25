@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Time signatures?</title>
+    <link>https://disco.auxy.co/t/time-signatures/21641</link>
+    <description>Is anyone working on the new Auxy feature such as time signatures? I’m just wondering.</description>
+    
+    <lastBuildDate>Sun, 19 Dec 2021 02:32:39 +0000</lastBuildDate>
+    <category>Auxy Feedback</category>
+    <atom:link href="https://disco.auxy.co/t/time-signatures/21641.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Time signatures?</title>
+        <dc:creator><![CDATA[SonicTH]]></dc:creator>
+        <description><![CDATA[
+            <p>Is anyone working on the new Auxy feature such as time signatures? I’m just wondering.</p>
+          <p><a href="https://disco.auxy.co/t/time-signatures/21641/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/time-signatures/21641/1</link>
+        <pubDate>Sun, 19 Dec 2021 02:32:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21641-1</guid>
+        <source url="https://disco.auxy.co/t/time-signatures/21641.rss">Time signatures?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ableton Link / Auxy as Midi-Controller?</title>
+    <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341</link>
+    <description>Hi guys, so, I&#39;m just doing this producer thing for about 2-3 months now and do not possess any technical know-how about daw&#39;s whatsoever. 
+
+Just starting on Ableton so slowly, could anyone tell me how a) Ableton link works exactly and most importantly b) if there&#39;s a possibility to set up auxy as a midi input to Ableton? 
+
+merci all the way</description>
+    
+    <lastBuildDate>Fri, 15 Sep 2017 15:47:11 +0000</lastBuildDate>
+    <category>Production Talk</category>
+    <atom:link href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ableton Link / Auxy as Midi-Controller?</title>
+        <dc:creator><![CDATA[moemx]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks man! I appreciate that <img src="https://emoji.discourse-cdn.com/apple/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Sad that midi doesn’t work with auxy since that was my go-to-making-music-option so far. <img src="https://emoji.discourse-cdn.com/apple/roll_eyes.png?v=5" title=":roll_eyes:" class="emoji" alt=":roll_eyes:"><br>
+will check the iPad software out soon. merci!</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/5</link>
+        <pubDate>Fri, 15 Sep 2017 15:47:11 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2341-5</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss">Ableton Link / Auxy as Midi-Controller?</source>
+      </item>
+      <item>
+        <title>Ableton Link / Auxy as Midi-Controller?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://disco.auxy.co/u/moemx">@moemx</a> - forgot to add that there are heaps of great Ableton controllers on iOS.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.conductr.net/www/wp-content/uploads/2015/04/favicon.ico" class="site-icon" width="64" height="64">
+      <a href="https://www.conductr.net/" target="_blank" rel="nofollow noopener">Conductr</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://www.conductr.net/www/wp-content/uploads/2013/07/Conductr2-Ableton-Traktor-Facebook.jpg" class="thumbnail"></div>
+
+<h3><a href="https://www.conductr.net/" target="_blank" rel="nofollow noopener">Conductr | Ableton Live &amp; Traktor controller for iPad</a></h3>
+
+<p>Conductr is an Ableton Live and Traktor controller app for iPad. Are you a musician or a DJ? Download the trial version for free!</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="http://www.touch-able.com/" class="onebox" target="_blank">http://www.touch-able.com/</a></p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/4</link>
+        <pubDate>Fri, 15 Sep 2017 09:05:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2341-4</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss">Ableton Link / Auxy as Midi-Controller?</source>
+      </item>
+      <item>
+        <title>Ableton Link / Auxy as Midi-Controller?</title>
+        <dc:creator><![CDATA[Db909]]></dc:creator>
+        <description><![CDATA[
+            <p>I think they’ve said repeatedly that midi out is not coming anytime soon if ever because the belief is that making music with multiple apps, etc is messy and Auxy ain’t about messy.  But I could be wrong</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/3</link>
+        <pubDate>Tue, 12 Sep 2017 20:40:48 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2341-3</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss">Ableton Link / Auxy as Midi-Controller?</source>
+      </item>
+      <item>
+        <title>Ableton Link / Auxy as Midi-Controller?</title>
+        <dc:creator><![CDATA[blakkaz]]></dc:creator>
+        <description><![CDATA[
+            <p>A) Ableton Link allows multiple devices to stay in sync over a local network. As an example, this allows a track you’ve made on your laptop to play in time with one you have on your phone.</p>
+<p>B) Starting with iOS 11 you’ll be able to connect your iPhone/iPad to your computer via the lightning-to-usb cable and send 16 channels of midi in either direction. I’m unsure if this is something Auxy will support… Perhaps <a class="mention" href="https://disco.auxy.co/u/Auxy">@Auxy</a> could chime in?</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/2</link>
+        <pubDate>Tue, 12 Sep 2017 19:02:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2341-2</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss">Ableton Link / Auxy as Midi-Controller?</source>
+      </item>
+      <item>
+        <title>Ableton Link / Auxy as Midi-Controller?</title>
+        <dc:creator><![CDATA[moemx]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi guys, so, I’m just doing this producer thing for about 2-3 months now and do not possess any technical know-how about daw’s whatsoever.</p>
+<p>Just starting on Ableton so slowly, could anyone tell me how a) Ableton link works exactly and most importantly b) if there’s a possibility to set up auxy as a midi input to Ableton?</p>
+<p>merci all the way</p>
+          <p><a href="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341/1</link>
+        <pubDate>Tue, 12 Sep 2017 18:42:24 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-2341-1</guid>
+        <source url="https://disco.auxy.co/t/ableton-link-auxy-as-midi-controller/2341.rss">Ableton Link / Auxy as Midi-Controller?</source>
+      </item>
+  </channel>
+</rss>

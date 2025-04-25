@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What&#39;s New in Auxy 6.6</title>
+    <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054</link>
+    <description>🥳
+
+We are happy to announce that Auxy just got even smoother with the following updates:
+- Now you can undo and redo changes in the loop editor
+- Master effects can be disabled in settings
+- Samples can be rendered as individual files when you export stems
+- Old renders are now grouped and can be easily deleted if you need to free up space
+- New scenes are now empty by default, but you can still duplicate an existing scene if you don&#39;t want to start blank
+- The last scene now stays selected when a track ends
+- On iPhone, you can swipe from the left edge of the screen to close projects
+- A number of small bug fixes and graphical improvements
+
+If you like the app, it is always helpful if you leave a fresh review in the [App Store](https://itunes.apple.com/app/id1034348186). Looking forward to hear your thoughts and answer any questions below! 🤗</description>
+    
+    <lastBuildDate>Mon, 29 Aug 2022 08:24:55 +0000</lastBuildDate>
+    <category>Official Announcements</category>
+    <atom:link href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Probably (nominally) better to post new feature requests in the Most Wanted Features thread, rather than the thread announcing past new features.</p>
+<p>Both are likely being equally ignored by the Auxy team, but at least it keeps things a bit more structured.<br>
+(It’s likely this entire forum is being ignored/abandoned by the Auxy team.)</p>
+<aside class="quote quote-modified" data-post="1" data-topic="14165">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://sjc6.discourse-cdn.com/standard10/user_avatar/disco.auxy.co/auxy/40/14154_2.png" class="avatar">
+    <a href="https://disco.auxy.co/t/most-wanted-features/14165">Most Wanted Features</a> <a class="badge-wrapper  bullet" href="https://disco.auxy.co/c/feedback/8"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Share your thoughts on the current and future versions of Auxy.">Auxy Feedback</span></a>
+  </div>
+  <blockquote>
+    To structure the discussion around new features and bring some more clarity to what we’re working on, I will list the most common requests below (in no particular order) along with some comments. Feel free to ask about more stuff and I will update this initial post as we go along. 
+I have browsed the old feature threads and listed things that I could think of, so please remind me about all the things that I have forgotten! 
+
+<a name="undo-and-robustness-1" class="anchor" href="https://disco.auxy.co#undo-and-robustness-1"></a>Undo and Robustness
+A lot of people ask for an undo feature in the app.…
+  </blockquote>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/69</link>
+        <pubDate>Mon, 29 Aug 2022 08:24:55 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-69</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>What about: Waveform Instrument Creator</p>
+<p>So what if you want a square wave and JUST A SQUARE WAVE<small>TM</small>, you go to Drums and Samples, then select Waveform Instrument. Then, edit the waveform in this cool menu similar to the Pan automation display. After that, you can make that an instrument and stuff.</p>
+<p>The customization options for the waveform instrument are really large. For starters, you can select from preset waves, or make your own and save it as a preset! After that, you can do some really epic stuff with it. Check Beepbox’s custom instrument options. That’s the options you’ll get in the waveform!</p>
+<p>The waveform instrument could revolutionize videogame-style track making as we know it. There’s also no reason people like me (aka. demo users) should have this, so it’s another thing to pile onto the things you’ll get by getting the subscription.</p>
+<p>Unfortunately, I can’t make good mock-ups, so that will come later on.</p>
+<p>The waveform instrument, a must-have/QoL feature for video game track makers.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/68</link>
+        <pubDate>Mon, 29 Aug 2022 08:08:50 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-68</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>oh.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/67</link>
+        <pubDate>Mon, 29 Aug 2022 07:17:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-67</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>e.g. …</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.olympianoiseco.com/apps/patterning/">
+  <header class="source">
+
+      <a href="https://www.olympianoiseco.com/apps/patterning/" target="_blank" rel="noopener nofollow ugc">olympianoiseco.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="http://www.olympianoiseco.com/site/assets/files/1072/icon_rounded_512.600x0.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://www.olympianoiseco.com/apps/patterning/" target="_blank" rel="noopener nofollow ugc">Patterning : Drum Machine | Olympia Noise Co.</a></h3>
+
+  <p>App Store Best of 2015 : Runner Up, App of the Year As beautiful as it is powerful, Patterning is a deep and flexible drum machine unlike any you’ve encountered before. &nbsp;With its elegant circular interface, Patterning transforms the iPad into a...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/66</link>
+        <pubDate>Mon, 29 Aug 2022 06:39:47 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-66</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Never gonna happen bc Auxy’s design ethos is to simplify, not abstract the music production process.</p>
+<p>Another reason it won’t happen is bc there almost certainly won’t be any further feature/functionality updates to Auxy, just sound packs every now and again — though those are becoming less and less likely too.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/65</link>
+        <pubDate>Mon, 29 Aug 2022 06:35:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-65</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>mock-up so that I can kill my head?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/64</link>
+        <pubDate>Sun, 28 Aug 2022 23:23:37 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-64</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Chimpan-T]]></dc:creator>
+        <description><![CDATA[
+            <p>I hope they add circular loops in 6.7… I can just see the loops pinning now</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/63</link>
+        <pubDate>Sun, 28 Aug 2022 20:42:14 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-63</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>lol</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/62</link>
+        <pubDate>Sun, 31 Jul 2022 01:27:29 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-62</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>you’re really talkative btw, maybe a little too much?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/61</link>
+        <pubDate>Sat, 30 Jul 2022 16:28:02 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-61</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>I know and it’s so annoying so plz stop</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/60</link>
+        <pubDate>Sat, 30 Jul 2022 03:36:38 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-60</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>have you met me i’m like this all the time</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/59</link>
+        <pubDate>Sat, 30 Jul 2022 02:53:56 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-59</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Kensei]]></dc:creator>
+        <description><![CDATA[
+            <p>Dude just stop complaining it’s aggravating</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/58</link>
+        <pubDate>Fri, 29 Jul 2022 18:16:26 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-58</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>or like putting good music skills into my brain</p>
+<p>I stop being me</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/57</link>
+        <pubDate>Fri, 29 Jul 2022 10:37:33 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-57</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[ThoughtfulNoise]]></dc:creator>
+        <description><![CDATA[
+            <p>Trust me, no-one’s getting that feature in Auxy. Ever. Even if the tech was ‘good enough’ to sound like more than a cheap and nasty novelty.</p>
+<p>(By time the tech is good enough to sound convincing, Auxy will likely already be dead and forgotten.)</p>
+
+Auxy would never build something like that themselves… <a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/56">(click for more details)</a>
+<p>It’s all likely a moot point anyway. I honestly believe that there will be no further feature updates to Auxy (at least, while Lenberg still owns it) — which is why I’d like another company (e.g. Splice) to buy Auxy.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/56</link>
+        <pubDate>Fri, 29 Jul 2022 08:48:42 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-56</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>also when Auxy sees this they will immediately put it in for subscribers so too bad for me I guess</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/55</link>
+        <pubDate>Fri, 29 Jul 2022 05:59:15 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-55</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[MetricMusicDivision]]></dc:creator>
+        <description><![CDATA[
+            <p>uh there’s ableton if you have money but if you don’t eh</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/54</link>
+        <pubDate>Fri, 29 Jul 2022 05:57:32 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-54</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Asis_4591]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank You Auxy &lt;3</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/53</link>
+        <pubDate>Thu, 31 Mar 2022 14:59:34 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-53</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[ControlKey]]></dc:creator>
+        <description><![CDATA[
+            <p>I think an interesting idea for 6.7 would be custom UI themes (Such as light mode, a dark blue theme, custom colors maybe?)</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/52</link>
+        <pubDate>Sat, 31 Jul 2021 18:42:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-52</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Lucif]]></dc:creator>
+        <description><![CDATA[
+            <p>Sounds like a terrible idea</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/51</link>
+        <pubDate>Fri, 23 Jul 2021 19:36:28 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-51</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Davis9754]]></dc:creator>
+        <description><![CDATA[
+            <p>so june is a demo sound now?<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard10/uploads/auxy/original/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff.jpeg" data-download-href="/uploads/short-url/mlrZYCGQHycqnmeGMO7SXuEbjmT.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff_2_281x499.jpeg" alt="image" data-base62-sha1="mlrZYCGQHycqnmeGMO7SXuEbjmT" width="281" height="499" srcset="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff_2_281x499.jpeg, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff_2_421x748.jpeg 1.5x, https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff_2_562x998.jpeg 2x" data-small-upload="https://global.discourse-cdn.com/standard10/uploads/auxy/optimized/3X/9/c/9c9c99a2c1e973e93e5b71612942101d92af30ff_2_10x10.png"></a></div><p></p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/50</link>
+        <pubDate>Sat, 03 Jul 2021 21:40:19 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-50</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Master effects on stems make little sense since they sound a certain way when applied to all the instruments playing together, but very different applied to one stem at a time.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/49</link>
+        <pubDate>Thu, 24 Jun 2021 08:11:39 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-49</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>It would save me a ton of time if I could keep the master effects on for stem exports as well. Like a TON of time.</p>
+<p>Being able to automate the master channel would be really cool.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/48</link>
+        <pubDate>Sun, 20 Jun 2021 01:16:01 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-48</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Cheddr]]></dc:creator>
+        <description><![CDATA[
+            <p>Aifs would be nice. They are getting popular because the sound quality is the same as wavs but metadata travels with them like mp3s.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/47</link>
+        <pubDate>Sun, 20 Jun 2021 01:13:51 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-47</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Uncompressed wav always has master effects on. Unless you disable then specifically.</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/45</link>
+        <pubDate>Wed, 16 Jun 2021 09:52:16 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-45</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+      <item>
+        <title>What&#39;s New in Auxy 6.6</title>
+        <dc:creator><![CDATA[Auxy]]></dc:creator>
+        <description><![CDATA[
+            <p>Why would you need more formats? How would you use it specifically?</p>
+          <p><a href="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054/44</link>
+        <pubDate>Wed, 16 Jun 2021 09:51:46 +0000</pubDate>
+        <guid isPermaLink="false">disco.auxy.co-post-21054-44</guid>
+        <source url="https://disco.auxy.co/t/whats-new-in-auxy-6-6/21054.rss">What&#39;s New in Auxy 6.6</source>
+      </item>
+  </channel>
+</rss>
